@@ -324,3 +324,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 82
 
 82. [A supplier failed. Must the relationship end?](credible-improvement.html)
+
+## Case 83
+
+83. [A cheaper delivery. Cheaper for whom?](cheaper-for-whom.html)
