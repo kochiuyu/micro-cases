@@ -8,6 +8,10 @@ Case [number] · [Location] · [10–15 minutes] · [One or two business topics]
 
 Lead with a choice students can argue about in the first minute. Give each side a defensible reason. Reveal one credible fact that could make someone switch sides, and ask a student who kept their vote to defend it. Try the opening aloud before drafting slides. If it takes a lecture to make the choice interesting, keep looking for a better story.
 
+## Illustration
+
+Follow the [collection art guide](../docs/art-direction.md). Visually inspect existing artwork before generating a new scene. Use matching watercolor-and-ink narrative art with people and an appropriate setting, not a flat icon. Update the page, presentation, collection thumbnail and editable source together.
+
 ## In the news
 
 Anchor the case in a specific reported event. Prioritise Hong Kong, then the rest of the Greater Bay Area, then elsewhere in Asia. A strong story from another region is welcome. Record the place, date, participants, what happened, and the relevant facts in your own words. Put the direct link only in the final sources section. Explain how the reported decision or dispute leads to the students’ choice. Use this opening on the case page, presentation and handout. Identify classroom assumptions separately, especially any invented prices, motives or counterfactual rules. Include the news report among the five or more sources. Do not place external links or “read the report” instructions in the main case, presentation slides or student questions. Students must be able to decide using the information on the page alone.

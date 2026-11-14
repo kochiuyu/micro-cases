@@ -1,6 +1,6 @@
 # Micro Cases in Business
 
-Seventeen classroom cases with an opening decision, a second-round prompt, a debrief, presentation slides, and a printable student handout. Open index.html to browse the collection. Editable case materials and the authoring template are in authoring/.
+Eighteen classroom cases with an opening decision, a second-round prompt, a debrief, presentation slides, and a printable student handout. Open index.html to browse the collection. Editable case materials and the authoring template are in authoring/.
 
 The [roadmap to 120 and 144 cases](planning/collection-roadmap.md) outlines coverage across business disciplines and the criteria for selecting news stories.
 
@@ -28,14 +28,22 @@ Cases 1–8, listed below, are based on teaching materials developed by Chiu Yu 
 15. [Pay per parcel?](parcel.html)
 16. [One stall, one bid](stall.html)
 
+## Case 18
+
+18. [The biggest order, the smallest cash balance](cash-flow.html)
+
 ## Case 23
 
 23. [Would you sell the family name?](family-name.html)
 
-Cases 17–22 remain in development; case IDs follow the planning ledger.
+Cases 17 and 19–22 remain in development; case IDs follow the planning ledger.
 
 ## Self-contained classroom reading
 
 Keep external links in the optional sources section only. The opening, exhibits, questions, presentation slides and handout must provide the facts students need without asking them to open a report. Preserve source attribution and distinguish reported facts from classroom assumptions.
 
 Run `python tests/check_case_links.py` to check this convention across all published cases and editable case materials.
+
+## Illustration style
+
+Follow the [art direction and production guide](docs/art-direction.md) for every new or revised case illustration. Preserve the established watercolor-and-ink narrative style.

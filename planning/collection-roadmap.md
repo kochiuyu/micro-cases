@@ -4,14 +4,14 @@ The first balanced collection will have **120 cases, ten per teaching area**. Th
 
 ## Coverage ledger
 
-Seventeen cases are published, including [Case 23](../family-name.html). Six have [approved scouting directions](cases-17-22.md). This leaves 103 cases to publish for the first target, including the six planned cases, and 97 further leads to select. The 2024 award acknowledgement covers Cases 1–8.
+Eighteen cases are published, including [Case 18](../cash-flow.html) and [Case 23](../family-name.html). Five have [approved scouting directions](cases-17-22.md). This leaves 102 cases to publish for the first target, including the five planned cases, and 97 further leads to select. The 2024 award acknowledgement covers Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
 | Primary teaching area | Published case numbers | Planned case numbers | Further leads to reach ten | Example decision to scout |
 |---|---|---|---:|---|
 | Accounting, audit and management control | 9 | — | 9 | A division misses its target after a shared cost is reassigned. Cut its budget or change the measure? |
-| Finance, banking and insurance | 2, 7 | 18 | 7 | A major customer asks for longer payment terms. What would you ask for in return? |
+| Finance, banking and insurance | 2, 7, 18 | — | 7 | A major customer asks for longer payment terms. What would you ask for in return? |
 | Marketing, retail and consumer behaviour | 11 | 19 | 8 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
 | Operations, supply chains and logistics | — | 17 | 9 | Ship the whole order late or pay to send half by air? |
 | People, leadership and organisational behaviour | 8, 15 | 20 | 7 | A high-performing team refuses a promotion for its best member. Who should lead? |
@@ -22,7 +22,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Sustainability, social enterprise and public management | 5, 6, 10, 14 | — | 6 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16 | — | 8 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1 | — | 9 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **17 published** | **6 planned** | **97** | |
+| **Total** | **18 published** | **5 planned** | **97** | |
 
 ## How a lead earns a place
 
