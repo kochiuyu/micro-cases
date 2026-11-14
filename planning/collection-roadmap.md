@@ -4,7 +4,7 @@ The first balanced collection will have **120 cases, ten per teaching area**. Th
 
 ## Coverage ledger
 
-Twenty-two cases are published, including [Cases 17–21](cases-17-22.md) and [Case 23](../family-name.html). One has an [approved scouting direction](cases-17-22.md). This leaves 98 cases to publish for the first target, including the one planned case, and 97 further leads to select. The 2024 award acknowledgement covers Cases 1–8.
+Twenty-three cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 97 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -18,11 +18,11 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Strategy and international business | 13, 21 | — | 8 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
 | Entrepreneurship, innovation and family business | 23 | — | 9 | A buyer wants the family brand and its name. Which terms would the founders accept? |
 | Information systems, AI and business analytics | 3 | — | 9 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
-| Governance, law, ethics and risk | 12 | 22 | 8 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
+| Governance, law, ethics and risk | 12, 22 | — | 8 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14 | — | 6 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16 | — | 8 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1 | — | 9 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **22 published** | **1 planned** | **97** | |
+| **Total** | **23 published** | **0 planned** | **97** | |
 
 ## How a lead earns a place
 

@@ -1,6 +1,6 @@
 # Micro Cases in Business
 
-Twenty-two classroom cases with an opening decision, a second-round prompt, a debrief, presentation slides, and a printable student handout. Open index.html to browse the collection. Editable case materials and the authoring template are in authoring/.
+Twenty-three classroom cases with an opening decision, a second-round prompt, a debrief, presentation slides, and a printable student handout. Open index.html to browse the collection. Editable case materials and the authoring template are in authoring/.
 
 The [roadmap to 120 and 144 cases](planning/collection-roadmap.md) outlines coverage across business disciplines and the criteria for selecting news stories.
 
@@ -48,11 +48,15 @@ Cases 1–8, listed below, are based on teaching materials developed by Chiu Yu 
 
 21. [A bigger market. Whose customers?](distributor.html)
 
+## Case 22
+
+22. [The warning changed. Did customers notice?](customer-notice.html)
+
 ## Case 23
 
 23. [Would you sell the family name?](family-name.html)
 
-Case 22 remains in development; case IDs follow the planning ledger.
+Cases 1–23 are published; subsequent case IDs will follow the planning ledger.
 
 ## Self-contained classroom reading
 
