@@ -235,3 +235,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 63
 
 63. [More contacts. More customers?](qualified-contacts.html)
+
+## Case 64
+
+64. [Keep running, or stop on purpose?](planned-stop.html)

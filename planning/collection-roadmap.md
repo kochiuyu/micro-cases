@@ -4,7 +4,7 @@ The first balanced collection will have **120 cases, ten per teaching area**. Th
 
 ## Coverage ledger
 
-Sixty-three cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 57 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
+Sixty-four cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 56 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -13,7 +13,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Accounting, audit and management control | 9, 24, 30, 40, 52, 61 | — | 4 | A division misses its target after a shared cost is reassigned. Cut its budget or change the measure? |
 | Finance, banking and insurance | 2, 7, 18, 38, 50, 62 | — | 4 | A major customer asks for longer payment terms. What would you ask for in return? |
 | Marketing, retail and consumer behaviour | 11, 19, 31, 41, 57, 63 | — | 4 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
-| Operations, supply chains and logistics | 17, 27, 34, 42, 55 | — | 5 | Ship the whole order late or pay to send half by air? |
+| Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64 | — | 4 | Ship the whole order late or pay to send half by air? |
 | People, leadership and organisational behaviour | 8, 15, 20, 39, 51 | — | 5 | A high-performing team refuses a promotion for its best member. Who should lead? |
 | Strategy and international business | 13, 21, 33, 43, 60 | — | 5 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
 | Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58 | — | 5 | A buyer wants the family brand and its name. Which terms would the founders accept? |
@@ -22,7 +22,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49 | — | 5 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59 | — | 5 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54 | — | 5 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **63 published** | **0 planned** | **57** | |
+| **Total** | **64 published** | **0 planned** | **56** | |
 
 ## How a lead earns a place
 
@@ -134,3 +134,5 @@ Case 61 adds advance payments and earned revenue: a prepaid workshop launch can 
 Case 62 adds repayment timing versus total financing cost: a smaller instalment can protect early cash flow while requiring more payments and a larger total. Compare complete schedules and a cash forecast, without confusing nominal totals with APR or present value.
 
 Case 63 adds B2B lead qualification: prioritise suitable prospects across contact sources rather than list volume alone. Qualification is not an order, and self-selected activity results do not establish campaign causality or return.
+
+Case 64 adds planned maintenance and reliable capacity: compare a scheduled interruption with residual unplanned-disruption risk. Expected costs are conditional, not guaranteed savings, and safety or mandatory maintenance cannot be traded against the classroom threshold.
