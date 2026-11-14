@@ -320,3 +320,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 81
 
 81. [A quiet pilot. Enough to learn?](first-rollout.html)
+
+## Case 82
+
+82. [A supplier failed. Must the relationship end?](credible-improvement.html)

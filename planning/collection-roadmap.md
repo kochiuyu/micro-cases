@@ -4,7 +4,7 @@ The first balanced collection will have **120 cases, ten per teaching area**. Th
 
 ## Coverage ledger
 
-Eighty-one cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 39 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
+Eighty-two cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 38 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -18,11 +18,11 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Strategy and international business | 13, 21, 33, 43, 60, 66, 78 | — | 3 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
 | Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79 | — | 3 | A buyer wants the family brand and its name. Which terms would the founders accept? |
 | Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71, 81 | — | 3 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
-| Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72 | — | 4 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
+| Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82 | — | 3 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80 | — | 3 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69 | — | 4 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70 | — | 4 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **81 published** | **0 planned** | **39** | |
+| **Total** | **82 published** | **0 planned** | **38** | |
 
 ## How a lead earns a place
 
@@ -176,3 +176,5 @@ Case 79 adds crowdfunding scope management. A separately funded digital solo mod
 Case 80 adds social-service breadth versus depth. Equal session capacity can provide first contact for 80 people or repeat support for 40; a small observational pilot informs, but does not determine, the allocation. Distinguishes attendance, unique reach, observed outcomes and causal impact without postponing service until perfect evidence exists.
 
 Case 81 adds staged information-system rollout design. Quiet-site exposure limits are weighed against learning about customer-mobile and evening use; account-level selection enables a bounded mixed cohort. Expansion requires meaningful use and stopping criteria, not merely elapsed days or zero complaints.
+
+Case 82 adds supplier corrective-action governance. A bounded independent review and worker perspectives can support conditional renewal, while responsible exit remains possible. Buyer planning, continuing checks and escalation ownership matter alongside supplier accountability.
