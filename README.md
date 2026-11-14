@@ -231,3 +231,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 62
 
 62. [Smaller payments. Cheaper loan?](smaller-payments.html)
+
+## Case 63
+
+63. [More contacts. More customers?](qualified-contacts.html)
