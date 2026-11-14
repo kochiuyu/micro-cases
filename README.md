@@ -310,3 +310,8 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 79
 
 79. [Funded. What should we promise next?](next-promise.html)
+
+
+## Case 80
+
+80. [More people reached. More people helped?](reached-and-helped.html)
