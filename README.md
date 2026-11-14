@@ -111,3 +111,7 @@ Every opening and round-two decision must use the highlighted **Your decision** 
 ## Case 33
 
 33. [The cheaper batch and the prototype bench](prototype-bench.html)
+
+## Case 34
+
+34. [A faster machine. More finished boxes?](packing-line.html)
