@@ -159,3 +159,7 @@ Every opening and round-two decision must use the highlighted **Your decision** 
 ## Case 45
 
 45. [Twenty per cent less. Less of what?](less-of-what.html)
+
+## Case 46
+
+46. [They did not come. Did they try to cancel?](unread-cancellation.html)

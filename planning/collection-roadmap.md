@@ -4,7 +4,7 @@ The first balanced collection will have **120 cases, ten per teaching area**. Th
 
 ## Coverage ledger
 
-Forty-five cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 75 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
+Forty-six cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 74 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -21,8 +21,8 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Governance, law, ethics and risk | 12, 22, 32, 45 | — | 6 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14 | — | 6 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29 | — | 7 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
-| Hospitality, tourism, property and service management | 1, 25, 37 | — | 7 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **45 published** | **0 planned** | **75** | |
+| Hospitality, tourism, property and service management | 1, 25, 37, 46 | — | 6 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
+| **Total** | **46 published** | **0 planned** | **74** | |
 
 ## How a lead earns a place
 
@@ -92,3 +92,5 @@ Case 43 adds international product adaptation: preserve a core customer promise 
 Case 44 adds independent authentication: two reviewers relying on one incoming message do not independently verify a changed payment destination. A genuine purchase remains distinct from an authorised payment instruction.
 
 Case 45 adds environmental claim sign-off: a genuine reduction per occupied room-night can coexist with higher total consumption. Make denominators, periods and measurement boundaries visible rather than overstate or suppress the improvement.
+
+Case 46 adds reservation-process design: deposits do not read cancellation messages or release tables. Distinguish timely notice, staff handling and actual refilling before judging a no-show policy.
