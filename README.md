@@ -215,3 +215,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 58
 
 58. [Equal partners. Earned when?](founder-timing.html)
+
+## Case 59
+
+59. [One hundred couriers. One hundred matches?](local-matches.html)

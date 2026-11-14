@@ -4,7 +4,7 @@ The first balanced collection will have **120 cases, ten per teaching area**. Th
 
 ## Coverage ledger
 
-Fifty-eight cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 62 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
+Fifty-nine cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 61 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -20,9 +20,9 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Information systems, AI and business analytics | 3, 26, 35, 44, 53 | — | 5 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
 | Governance, law, ethics and risk | 12, 22, 32, 45, 56 | — | 5 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49 | — | 5 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
-| Economics, competition and pricing | 4, 16, 29, 47 | — | 6 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
+| Economics, competition and pricing | 4, 16, 29, 47, 59 | — | 5 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54 | — | 5 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **58 published** | **0 planned** | **62** | |
+| **Total** | **59 published** | **0 planned** | **61** | |
 
 ## How a lead earns a place
 
@@ -122,3 +122,5 @@ Case 56 adds purpose-based data minimisation: an existing-account birthday offer
 Case 57 adds assortment and basket effects: compare product substitution and whole-shopping-trip consequences rather than ranking standalone sales alone. Co-purchase flags a hypothesis, not a guaranteed loss of linked baskets.
 
 Case 58 adds founder equity timing: distinguish equal potential allocations from recognition of past work and conditions for future involvement. The discussion precedes signing and prescribes neither a universal vesting schedule nor a legal implementation.
+
+Case 59 adds local two-sided matching: equal aggregate requests and couriers do not establish feasible pairs when place and time constrain access. The missing side determines the marginal usefulness of recruitment; a fixed-window capacity ceiling is not a profit forecast or an empirical estimate of network effects.
