@@ -175,3 +175,7 @@ Every opening and round-two decision must use the highlighted **Your decision** 
 ## Teaching-area browsing
 
 Use Teaching area, Business topic and Class time available together, or Reset filters to show all cases. Primary areas follow the coverage ledger; secondary concepts remain in the topic menu. When adding a case, update its `data-discipline` and visible `.discipline` label to match the ledger, then run `python tests/check_disciplines.py` alongside the other checks.
+
+## Case 49
+
+49. [Reusable fifty times. Used how many?](actually-reused.html)
