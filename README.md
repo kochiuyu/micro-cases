@@ -300,3 +300,8 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 77
 
 77. [A realistic test. The right skill?](right-skill.html)
+
+
+## Case 78
+
+78. [Four signs. One business system?](repeatable-format.html)

@@ -4,7 +4,7 @@ The first balanced collection will have **120 cases, ten per teaching area**. Th
 
 ## Coverage ledger
 
-Seventy-seven cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 43 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
+Seventy-eight cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 42 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -15,14 +15,14 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Marketing, retail and consumer behaviour | 11, 19, 31, 41, 57, 63, 75 | — | 3 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
 | Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76 | — | 3 | Ship the whole order late or pay to send half by air? |
 | People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77 | — | 3 | A high-performing team refuses a promotion for its best member. Who should lead? |
-| Strategy and international business | 13, 21, 33, 43, 60, 66 | — | 4 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
+| Strategy and international business | 13, 21, 33, 43, 60, 66, 78 | — | 3 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
 | Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68 | — | 4 | A buyer wants the family brand and its name. Which terms would the founders accept? |
 | Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71 | — | 4 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
 | Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72 | — | 4 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67 | — | 4 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69 | — | 4 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70 | — | 4 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **77 published** | **0 planned** | **43** | |
+| **Total** | **78 published** | **0 planned** | **42** | |
 
 ## How a lead earns a place
 
@@ -168,3 +168,5 @@ Case 75 adds positioning and buyer–user roles: age-led and benefit-led message
 Case 76 adds queue pooling versus a strictly dedicated express counter. A deterministic arrival trace separates overall mean waiting from quick-customer waiting; a later arrival reveals the service option preserved by reserved capacity. Neither policy is a universal winner, and an overflow rule requires a new trace.
 
 Case 77 adds recruitment assessment design: distinguish entry competencies from proprietary navigation the employer will teach. Structured interviews and redesigned simulations remain credible alternatives; an apparently realistic task is not enough if its scoring rewards the wrong skill. No applicant is ranked or selected.
+
+Case 78 adds business-format franchising versus owned expansion. A bounded positive trial separates a repeatable standard workshop from founder-dependent custom work, allowing a narrower network strategy rather than a blanket rejection of franchising. Partner capital does not eliminate support costs or establish comparative profitability.
