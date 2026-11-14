@@ -4,7 +4,7 @@ The first balanced collection will have **120 cases, ten per teaching area**. Th
 
 ## Coverage ledger
 
-Sixteen cases are published. Six have [approved scouting directions](cases-17-22.md). This leaves 104 cases to publish for the first target, including the six planned cases, and 98 further leads to select. The 2024 award acknowledgement covers Cases 1–8.
+Sixteen cases are published. Six have [approved scouting directions](cases-17-22.md), and [Case 23 has a sourced family-business brief](case-23-family-name.md). This leaves 104 cases to publish for the first target, including the seven planned cases, and 97 further leads to select. The 2024 award acknowledgement covers Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -16,13 +16,13 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Operations, supply chains and logistics | — | 17 | 9 | Ship the whole order late or pay to send half by air? |
 | People, leadership and organisational behaviour | 8, 15 | 20 | 7 | A high-performing team refuses a promotion for its best member. Who should lead? |
 | Strategy and international business | 13 | 21 | 8 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
-| Entrepreneurship, innovation and family business | — | — | 10 | A buyer wants the family brand and its name. Which terms would the founders accept? |
+| Entrepreneurship, innovation and family business | — | 23 | 9 | A buyer wants the family brand and its name. Which terms would the founders accept? |
 | Information systems, AI and business analytics | 3 | — | 9 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
 | Governance, law, ethics and risk | 12 | 22 | 8 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14 | — | 6 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16 | — | 8 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1 | — | 9 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **16 published** | **6 planned** | **98** | |
+| **Total** | **16 published** | **7 planned** | **97** | |
 
 ## How a lead earns a place
 
