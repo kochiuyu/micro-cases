@@ -4,7 +4,7 @@ The first balanced collection will have **120 cases, ten per teaching area**. Th
 
 ## Coverage ledger
 
-Twenty-four cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 96 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
+Twenty-five cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 95 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -21,8 +21,8 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Governance, law, ethics and risk | 12, 22 | — | 8 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14 | — | 6 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16 | — | 8 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
-| Hospitality, tourism, property and service management | 1 | — | 9 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **24 published** | **0 planned** | **96** | |
+| Hospitality, tourism, property and service management | 1, 25 | — | 8 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
+| **Total** | **25 published** | **0 planned** | **95** | |
 
 ## How a lead earns a place
 
@@ -42,3 +42,5 @@ Count each case once by its primary classroom decision. The assignments below ar
 ## 24-case coverage checkpoint · 14 November 2026
 
 All twelve teaching areas now have at least one published case. There are no uncovered areas. The least represented are operations (17), entrepreneurship/family business (23), information systems/business analytics (3), and hospitality/service management (1), with one each. Prioritize strong, non-duplicative leads in these areas next. Case24 adds management-control coverage by separating allocated branch profit from avoidable group costs; it is distinct from Case9’s single-order sunk-cost decision. The target remains ten per area, not equal numbers in every interim batch.
+
+Case25 follows the checkpoint by adding hospitality/service-recovery coverage: the usefulness of a replacement to the guest, not simply matching room price or maximizing a compensation headline.
