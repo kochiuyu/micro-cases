@@ -392,3 +392,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 99
 
 99. [A smaller audience. More new people?](more-new-people.html)
+
+## Case 100
+
+100. [Print now. Or keep the design open?](keep-the-design-open.html)

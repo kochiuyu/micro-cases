@@ -4,7 +4,7 @@ The first balanced collection will have **120 cases, ten per teaching area**. Th
 
 ## Coverage ledger
 
-Ninety-nine cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 21 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
+One hundred cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 20 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -13,7 +13,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Accounting, audit and management control | 9, 24, 30, 40, 52, 61, 73, 85, 97 | — | 1 | A division misses its target after a shared cost is reassigned. Cut its budget or change the measure? |
 | Finance, banking and insurance | 2, 7, 18, 38, 50, 62, 74, 86, 98 | — | 1 | A major customer asks for longer payment terms. What would you ask for in return? |
 | Marketing, retail and consumer behaviour | 11, 19, 31, 41, 57, 63, 75, 87, 99 | — | 1 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
-| Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88 | — | 2 | Ship the whole order late or pay to send half by air? |
+| Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88, 100 | — | 1 | Ship the whole order late or pay to send half by air? |
 | People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77, 89 | — | 2 | A high-performing team refuses a promotion for its best member. Who should lead? |
 | Strategy and international business | 13, 21, 33, 43, 60, 66, 78, 90 | — | 2 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
 | Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79, 91 | — | 2 | A buyer wants the family brand and its name. Which terms would the founders accept? |
@@ -22,7 +22,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94 | — | 2 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95 | — | 2 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96 | — | 2 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **99 published** | **0 planned** | **21** | |
+| **Total** | **100 published** | **0 planned** | **20** | |
 
 ## How a lead earns a place
 
@@ -224,3 +224,5 @@ Case 97 adds bank reconciliation: missing ledger entries and already-recorded ou
 Case 98 adds corporate cash concentration: protection ceilings, payment access and the cost of spreading a reserve are distinct. A scoped interruption shows why an independently usable second balance matters without implying bank failure, instant compensation, automatic loss above a ceiling or a universally optimal treasury policy.
 
 Case 99 adds audience overlap: a smaller standalone placement can add more distinct target people beyond a campaign already booked. Common-window counts and subtraction of overlap support a reach decision, not sales attribution, customer acquisition or a claim that repeated exposure is waste.
+
+Case 100 adds delayed differentiation: the same common inventory can remain available for different final designs. A fully costed late-finishing slot buys mix flexibility, not extra units; historical demand motivates another scenario rather than supplying a certain forecast or automatic winner.
