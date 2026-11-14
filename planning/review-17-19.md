@@ -26,4 +26,4 @@ The scouting plan calls for review with instructors before Cases 20–22. Before
 4. Does the case fit 10–15 minutes without relying on the optional calculation?
 5. Are the exhibit and slides readable in the actual teaching room?
 
-No instructor feedback has yet been recorded here. Keep Cases 20–22 planned until that review or an explicit decision to proceed.
+No instructor feedback has yet been recorded here. The owner explicitly approved proceeding on 14 November 2026 after being told of this pending feedback. This approval permits continuing Cases 20–22; it does not imply classroom testing occurred.

@@ -1,6 +1,6 @@
 # Micro Cases in Business
 
-Twenty classroom cases with an opening decision, a second-round prompt, a debrief, presentation slides, and a printable student handout. Open index.html to browse the collection. Editable case materials and the authoring template are in authoring/.
+Twenty-one classroom cases with an opening decision, a second-round prompt, a debrief, presentation slides, and a printable student handout. Open index.html to browse the collection. Editable case materials and the authoring template are in authoring/.
 
 The [roadmap to 120 and 144 cases](planning/collection-roadmap.md) outlines coverage across business disciplines and the criteria for selecting news stories.
 
@@ -40,11 +40,15 @@ Cases 1–8, listed below, are based on teaching materials developed by Chiu Yu 
 
 19. [A thousand coupons. A better business?](coupon.html)
 
+## Case 20
+
+20. [The best seller. The best supervisor?](supervisor.html)
+
 ## Case 23
 
 23. [Would you sell the family name?](family-name.html)
 
-Cases 20–22 remain in development; case IDs follow the planning ledger.
+Cases 21–22 remain in development; case IDs follow the planning ledger.
 
 ## Self-contained classroom reading
 
