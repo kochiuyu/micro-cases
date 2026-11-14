@@ -255,3 +255,8 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 68
 
 68. [Keep it secret. For how long?](visible-secret.html)
+
+
+## Case 69
+
+69. [Faster at both. Do both?](faster-at-both.html)

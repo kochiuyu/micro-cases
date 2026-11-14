@@ -4,7 +4,7 @@ The first balanced collection will have **120 cases, ten per teaching area**. Th
 
 ## Coverage ledger
 
-Sixty-eight cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 52 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
+Sixty-nine cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 51 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -20,9 +20,9 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Information systems, AI and business analytics | 3, 26, 35, 44, 53 | — | 5 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
 | Governance, law, ethics and risk | 12, 22, 32, 45, 56 | — | 5 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67 | — | 4 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
-| Economics, competition and pricing | 4, 16, 29, 47, 59 | — | 5 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
+| Economics, competition and pricing | 4, 16, 29, 47, 59, 69 | — | 4 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54 | — | 5 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **68 published** | **0 planned** | **52** | |
+| **Total** | **69 published** | **0 planned** | **51** | |
 
 ## How a lead earns a place
 
@@ -144,3 +144,5 @@ Case 66 adds coopetition: sharing a facility can reduce costs while separate fir
 Case 67 adds food-waste intervention fit: a separated composition audit distinguishes potential edible surplus from plate returns and inedible scraps. Donation remains valuable, but candidate weight is not guaranteed accepted donation; investigate prevention while protecting adequate meals and existing safe arrangements.
 
 Case 68 adds innovation-protection fit: confidential drawings do not make a mechanism undiscoverable in a sold product. A confidential internal test prompts pre-launch professional assessment without assuming patentability, guaranteed exclusivity or inevitable failure; hidden know-how and execution remain separate considerations.
+
+Case 69 adds comparative versus absolute advantage: the faster person at both tasks need not do both when each task displaces a different alternative output. Check both deadlines and quantities, not a combined productivity score; task allocation is not a judgment of personal worth.
