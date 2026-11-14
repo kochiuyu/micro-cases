@@ -396,3 +396,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 100
 
 100. [Print now. Or keep the design open?](keep-the-design-open.html)
+
+## Case 101
+
+101. [Separate the colleagues. Or repair the handoff?](repair-the-handoff.html)

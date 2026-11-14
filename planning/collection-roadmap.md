@@ -4,7 +4,7 @@ The first balanced collection will have **120 cases, ten per teaching area**. Th
 
 ## Coverage ledger
 
-One hundred cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 20 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
+One hundred and one cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 19 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -14,7 +14,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Finance, banking and insurance | 2, 7, 18, 38, 50, 62, 74, 86, 98 | — | 1 | A major customer asks for longer payment terms. What would you ask for in return? |
 | Marketing, retail and consumer behaviour | 11, 19, 31, 41, 57, 63, 75, 87, 99 | — | 1 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
 | Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88, 100 | — | 1 | Ship the whole order late or pay to send half by air? |
-| People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77, 89 | — | 2 | A high-performing team refuses a promotion for its best member. Who should lead? |
+| People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77, 89, 101 | — | 1 | A high-performing team refuses a promotion for its best member. Who should lead? |
 | Strategy and international business | 13, 21, 33, 43, 60, 66, 78, 90 | — | 2 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
 | Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79, 91 | — | 2 | A buyer wants the family brand and its name. Which terms would the founders accept? |
 | Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71, 81, 92 | — | 2 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
@@ -22,7 +22,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94 | — | 2 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95 | — | 2 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96 | — | 2 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **100 published** | **0 planned** | **20** | |
+| **Total** | **101 published** | **0 planned** | **19** | |
 
 ## How a lead earns a place
 
@@ -226,3 +226,5 @@ Case 98 adds corporate cash concentration: protection ceilings, payment access a
 Case 99 adds audience overlap: a smaller standalone placement can add more distinct target people beyond a campaign already booked. Common-window counts and subtraction of overlap support a reach decision, not sales attribution, customer acquisition or a claim that repeated exposure is waste.
 
 Case 100 adds delayed differentiation: the same common inventory can remain available for different final designs. A fully costed late-finishing slot buys mix flexibility, not extra units; historical demand motivates another scenario rather than supplying a certain forecast or automatic winner.
+
+Case 101 adds voluntary workplace mediation: a communication dispute can be managed through an owner relay or addressed through impartial facilitation. Revealed interests support proposed working terms, not an imposed settlement; cash, paid participant time, owner capacity, consent and fallback duties remain distinct.
