@@ -4,7 +4,7 @@ The first balanced collection will have **120 cases, ten per teaching area**. Th
 
 ## Coverage ledger
 
-Twenty-eight cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 92 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
+Twenty-nine cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 91 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -20,9 +20,9 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Information systems, AI and business analytics | 3, 26 | — | 8 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
 | Governance, law, ethics and risk | 12, 22 | — | 8 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14 | — | 6 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
-| Economics, competition and pricing | 4, 16 | — | 8 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
+| Economics, competition and pricing | 4, 16, 29 | — | 7 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25 | — | 8 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **28 published** | **0 planned** | **92** | |
+| **Total** | **29 published** | **0 planned** | **91** | |
 
 ## How a lead earns a place
 
@@ -52,3 +52,5 @@ Case 27 adds targeted expediting: ship the missing component that creates usable
 ## 28-case balance checkpoint · 14 November 2026
 
 Cases 25–28 add service recovery, AI oversight, targeted expediting and staged customer discovery. Every teaching area now has at least two cases. Finance and people have three each; sustainability has four. Continue selecting strong, distinct decisions in the nine areas still at two before expanding already broader areas. The next formal milestone remains 48, with at least three per area; the owner has authorized continuing toward 120.
+
+Case 29 adds fee incidence: removing a buyer-facing fee does not guarantee a lower total price when independent sellers can reprice. A global platform announcement grounds a fictional Hong Kong workshop-marketplace decision.
