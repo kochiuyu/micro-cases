@@ -356,3 +356,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 90
 
 90. [One forecast. Three strategies?](more-than-one-future.html)
+
+## Case 91
+
+91. [Sell the product. Or license the invention?](route-to-market.html)
