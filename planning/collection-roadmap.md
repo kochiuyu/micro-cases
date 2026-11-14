@@ -4,14 +4,14 @@ The first balanced collection will have **120 cases, ten per teaching area**. Th
 
 ## Coverage ledger
 
-Thirty-seven cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 83 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
+Thirty-eight cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 82 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
 | Primary teaching area | Published case numbers | Planned case numbers | Further leads to reach ten | Example decision to scout |
 |---|---|---|---:|---|
 | Accounting, audit and management control | 9, 24, 30 | — | 7 | A division misses its target after a shared cost is reassigned. Cut its budget or change the measure? |
-| Finance, banking and insurance | 2, 7, 18 | — | 7 | A major customer asks for longer payment terms. What would you ask for in return? |
+| Finance, banking and insurance | 2, 7, 18, 38 | — | 6 | A major customer asks for longer payment terms. What would you ask for in return? |
 | Marketing, retail and consumer behaviour | 11, 19, 31 | — | 7 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
 | Operations, supply chains and logistics | 17, 27, 34 | — | 7 | Ship the whole order late or pay to send half by air? |
 | People, leadership and organisational behaviour | 8, 15, 20 | — | 7 | A high-performing team refuses a promotion for its best member. Who should lead? |
@@ -22,7 +22,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Sustainability, social enterprise and public management | 5, 6, 10, 14 | — | 6 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29 | — | 7 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37 | — | 7 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **37 published** | **0 planned** | **83** | |
+| **Total** | **38 published** | **0 planned** | **82** | |
 
 ## How a lead earns a place
 
@@ -74,3 +74,5 @@ Case 37 adds hotel length-of-stay displacement: accepting a one-night group can 
 ## 37-case coverage checkpoint · 14 November 2026
 
 Every teaching area now has at least three published cases. Sustainability has four; the other eleven have three each. The minimum-three coverage goal has been reached ahead of the 48-case milestone. Continue toward ten per area by choosing distinct decisions, not near-duplicate examples. Topic filtering is already available; review broader discipline browsing at 48.
+
+Case 38 adds foreign-currency cash matching: distinguish a supplier invoice from the remaining funding requirement after usable same-currency receipts, without confusing cash funding with total FX profit or assuming receipts are risk-free.

@@ -1,6 +1,6 @@
 # Micro Cases in Business
 
-Thirty-two classroom cases with an opening decision, a second-round prompt, a debrief, presentation slides, and a printable student handout. Open index.html to browse the collection. Editable case materials and the authoring template are in authoring/.
+Short classroom cases with an opening decision, a second-round prompt, a debrief, presentation slides, and a printable student handout. Open index.html to browse the collection. Editable case materials and the authoring template are in authoring/.
 
 The [roadmap to 120 and 144 cases](planning/collection-roadmap.md) outlines coverage across business disciplines and the criteria for selecting news stories.
 
@@ -64,13 +64,13 @@ Cases 1–8, listed below, are based on teaching materials developed by Chiu Yu 
 
 25. [A room is ready. Is the guest’s trip restored?](replacement-room.html)
 
-Cases 1–25 are published; subsequent case IDs will follow the planning ledger.
+Published cases are listed here; the planning ledger records current totals and teaching-area coverage.
 
 ## Self-contained classroom reading
 
 Keep external links in the optional sources section only. The opening, exhibits, questions, presentation slides and handout must provide the facts students need without asking them to open a report. Preserve source attribution and distinguish reported facts from classroom assumptions.
 
-Run `python tests/check_case_links.py` to check this convention across all published cases and editable case materials.
+Run `python tests/check_case_links.py` to check this convention across all published cases and editable case materials. Run `python tests/check_collection.py` to verify collection links, artwork, editable files and coverage totals.
 
 ## Illustration style
 
@@ -127,3 +127,7 @@ Every opening and round-two decision must use the highlighted **Your decision** 
 ## Case 37
 
 37. [One busy night. Two nights of business.](two-night-stays.html)
+
+## Case 38
+
+38. [The invoice is not the exposure](invoice-exposure.html)
