@@ -183,3 +183,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 50
 
 50. [A larger limit. The same gap?](same-gap.html)
+
+## Case 51
+
+51. [Four times the reports. Four times the mistakes?](more-reports.html)
