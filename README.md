@@ -372,3 +372,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 94
 
 94. [The landlord pays. Who saves?](landlord-pays-who-saves.html)
+
+## Case 95
+
+95. [A package deal. Must everyone buy both?](both-or-one.html)
