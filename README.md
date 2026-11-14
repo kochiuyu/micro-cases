@@ -364,3 +364,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 92
 
 92. [A better system. A harder exit?](better-system-harder-exit.html)
+
+## Case 93
+
+93. [No name. No conversation?](no-name-still-a-conversation.html)
