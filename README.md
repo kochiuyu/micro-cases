@@ -428,3 +428,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 108
 
 108. [A busy reception. Useful conversations?](useful-conversations.html)
+
+## Case 109
+
+109. [Through our till. All our revenue?](through-our-till.html)

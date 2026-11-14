@@ -4,13 +4,13 @@ The first balanced collection will have **120 cases, ten per teaching area**. Th
 
 ## Coverage ledger
 
-One hundred and eight cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 12 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
+One hundred and nine cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 11 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
 | Primary teaching area | Published case numbers | Planned case numbers | Further leads to reach ten | Example decision to scout |
 |---|---|---|---:|---|
-| Accounting, audit and management control | 9, 24, 30, 40, 52, 61, 73, 85, 97 | — | 1 | A division misses its target after a shared cost is reassigned. Cut its budget or change the measure? |
+| Accounting, audit and management control | 9, 24, 30, 40, 52, 61, 73, 85, 97, 109 | — | 0 | A division misses its target after a shared cost is reassigned. Cut its budget or change the measure? |
 | Finance, banking and insurance | 2, 7, 18, 38, 50, 62, 74, 86, 98 | — | 1 | A major customer asks for longer payment terms. What would you ask for in return? |
 | Marketing, retail and consumer behaviour | 11, 19, 31, 41, 57, 63, 75, 87, 99 | — | 1 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
 | Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88, 100 | — | 1 | Ship the whole order late or pay to send half by air? |
@@ -22,7 +22,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106 | — | 1 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107 | — | 1 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108 | — | 1 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **108 published** | **0 planned** | **12** | |
+| **Total** | **109 published** | **0 planned** | **11** | |
 
 ## How a lead earns a place
 
@@ -244,3 +244,5 @@ Case 107 adds nominal allocation versus purchasing power: compare the same-quali
 Case 108 adds event facilitation: distinguish attendee purposes from format votes, choose between supported introductions and guest-controlled conversational depth, and assess usefulness rather than counting contacts. Both formats preserve meaningful voluntary participation.
 
 Internal balance checkpoint at 108: nine cases in each of the twelve disciplines; twelve remain to reach the first 120-case target. This is an editorial coverage check, not a claim of instructor feedback. The next round should add one distinct case per discipline while preserving source, visual, decision-prompt and live-testing standards.
+
+Case 109 adds principal-versus-agent revenue amount: identify the promised product and control before transfer, then distinguish customer receipts, earned fees and supplier payables. Equal profit does not make gross and net presentations interchangeable. Contract evidence determines classification; dashboard emphasis remains discretionary only with accurate labels and reconciliation. Accounting now has ten cases.
