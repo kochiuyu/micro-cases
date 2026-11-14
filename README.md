@@ -1,6 +1,6 @@
 # Micro Cases in Business
 
-Twenty-three classroom cases with an opening decision, a second-round prompt, a debrief, presentation slides, and a printable student handout. Open index.html to browse the collection. Editable case materials and the authoring template are in authoring/.
+Twenty-four classroom cases with an opening decision, a second-round prompt, a debrief, presentation slides, and a printable student handout. Open index.html to browse the collection. Editable case materials and the authoring template are in authoring/.
 
 The [roadmap to 120 and 144 cases](planning/collection-roadmap.md) outlines coverage across business disciplines and the criteria for selecting news stories.
 
@@ -56,7 +56,11 @@ Cases 1–8, listed below, are based on teaching materials developed by Chiu Yu 
 
 23. [Would you sell the family name?](family-name.html)
 
-Cases 1–23 are published; subsequent case IDs will follow the planning ledger.
+## Case 24
+
+24. [Close the loss-making branch?](branch-loss.html)
+
+Cases 1–24 are published; subsequent case IDs will follow the planning ledger.
 
 ## Self-contained classroom reading
 
