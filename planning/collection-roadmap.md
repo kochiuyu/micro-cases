@@ -4,7 +4,7 @@ The first balanced collection will have **120 cases, ten per teaching area**. Th
 
 ## Coverage ledger
 
-Fifty-nine cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 61 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
+Sixty cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 60 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -15,14 +15,14 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Marketing, retail and consumer behaviour | 11, 19, 31, 41, 57 | — | 5 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
 | Operations, supply chains and logistics | 17, 27, 34, 42, 55 | — | 5 | Ship the whole order late or pay to send half by air? |
 | People, leadership and organisational behaviour | 8, 15, 20, 39, 51 | — | 5 | A high-performing team refuses a promotion for its best member. Who should lead? |
-| Strategy and international business | 13, 21, 33, 43 | — | 6 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
+| Strategy and international business | 13, 21, 33, 43, 60 | — | 5 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
 | Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58 | — | 5 | A buyer wants the family brand and its name. Which terms would the founders accept? |
 | Information systems, AI and business analytics | 3, 26, 35, 44, 53 | — | 5 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
 | Governance, law, ethics and risk | 12, 22, 32, 45, 56 | — | 5 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49 | — | 5 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59 | — | 5 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54 | — | 5 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **59 published** | **0 planned** | **61** | |
+| **Total** | **60 published** | **0 planned** | **60** | |
 
 ## How a lead earns a place
 
@@ -124,3 +124,7 @@ Case 57 adds assortment and basket effects: compare product substitution and who
 Case 58 adds founder equity timing: distinguish equal potential allocations from recognition of past work and conditions for future involvement. The discussion precedes signing and prescribes neither a universal vesting schedule nor a legal implementation.
 
 Case 59 adds local two-sided matching: equal aggregate requests and couriers do not establish feasible pairs when place and time constrain access. The missing side determines the marginal usefulness of recruitment; a fixed-window capacity ceiling is not a profit forecast or an empirical estimate of network effects.
+
+## 60-case balance checkpoint · 14 November 2026
+
+All twelve teaching areas now have five cases. Case 60 adds acquisition rationale: customer overlap changes claimed reach without erasing the target’s existing business. Additional value, ownership benefits, price and integration matter beyond a count of clients. The next formal instructor-feedback checkpoint remains 72. Continue with distinct objectives rather than repeating the same calculation in new settings.

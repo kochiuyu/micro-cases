@@ -219,3 +219,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 59
 
 59. [One hundred couriers. One hundred matches?](local-matches.html)
+
+## Case 60
+
+60. [Two hundred clients. Two hundred new clients?](combined-clients.html)
