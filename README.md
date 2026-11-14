@@ -295,3 +295,8 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 76
 
 76. [An empty counter. A waiting customer.](empty-counter.html)
+
+
+## Case 77
+
+77. [A realistic test. The right skill?](right-skill.html)
