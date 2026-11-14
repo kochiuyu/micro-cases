@@ -388,3 +388,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 98
 
 98. [One bank. Two kinds of safety.](protected-and-available.html)
+
+## Case 99
+
+99. [A smaller audience. More new people?](more-new-people.html)
