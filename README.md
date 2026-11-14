@@ -227,3 +227,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 61
 
 61. [Paid today. Earned today?](paid-earned.html)
+
+## Case 62
+
+62. [Smaller payments. Cheaper loan?](smaller-payments.html)
