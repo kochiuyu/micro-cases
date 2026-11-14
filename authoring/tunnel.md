@@ -35,6 +35,9 @@ One driver who leaves the peak can save time for others in the queue. That benef
 
 ## Sources and case assumptions
 
+All information needed for the classroom decisions is provided in the case. The sources below are optional background, not assigned reading.
+
+
 1. [Transport Department, Toll Plans for Road Harbour Crossings](https://www.td.gov.hk/en/transport_in_hong_kong/tunnels_and_bridges_n/tvt/index.html). Gives the operating schedule and confirms the 17 December 2023 start.
 2. [Government toll announcement, 11 October 2023](https://www.info.gov.hk/gia/general/202310/11/P2023101100477.htm). Gives the HK$20–40 private-car range used in the exhibit.
 3. [Transport Department, first working day, 18 December 2023](https://www.info.gov.hk/gia/general/202312/18/P2023121800569.htm). Reports about 64,000 crossings from 7 to 11 am across all three tunnels. This is a vehicle count, not a journey-time measure.

@@ -35,6 +35,9 @@ A checkout count can tell the manager how many carriers left the shop. To estima
 
 ## Sources and case assumptions
 
+All information needed for the classroom decisions is provided in the case. The sources below are optional background, not assigned reading.
+
+
 - [Environmental Protection Department · enhanced scheme](https://www.epd.gov.hk/epd/english/environmentinhk/waste/pro_responsibility/psb_index.html). Documents the rise in the minimum charge from HK$0.50 to HK$1 on 31 December 2022.
 - [Environmental Protection Department · supermarket examples](https://www.epd.gov.hk/epd/english/environmentinhk/waste/pro_responsibility/psb_retailers_foodstuff_non_foodstuff.html). Illustrates which supermarket transactions qualify for exemptions.
 - [Environmental Protection Department · 2023–24 estimates replies](https://www.epd.gov.hk/epd/sites/default/files/epd/english/news_events/legco/files/EPD-1-e2.pdf). Describes the landfill disposal survey used to evaluate the earlier scheme.

@@ -8,8 +8,6 @@ Case 10 · Hong Kong · 10–15 minutes · Scarcity · Allocation rules
 
 Hong Kong announced a 15-minute booking head start for certain SmartPLAY users authenticating with iAM Smart, as part of its response to touting. Who gains access when the rule changes who can book first?
 
-[Hong Kong Leisure and Cultural Services Department, 11 June 2026](https://www.info.gov.hk/gia/general/202606/11/P2026061100243.htm)
-
 ## Opening decision
 
 You allocate the last 7 p.m. court at a university. Two clubs request the full hour. Splitting it would leave neither club enough time for its match. Announce a rule before you learn who can attend booking.
@@ -40,6 +38,9 @@ Minutes 0–3: vote and compare reasons in pairs. Minutes 3–7: reveal the chan
 
 ## Sources and case assumptions
 
+All information needed for the classroom decisions is provided in the case. The sources below are optional background, not assigned reading.
+
+
 The setting, participants, numerical exhibit and changed rule are fictional classroom assumptions. The readings below provide context and economic reasoning.
 
 1. [Guide To The Booking Procedure For Use Of Fee Charging Recreation And Sports Facilities](https://www.lcsd.gov.hk/en/facilities/facilitiesbooking/procedure/feeindividual.html) — Explains the ordinary booking procedure.
@@ -47,3 +48,5 @@ The setting, participants, numerical exhibit and changed rule are fictional clas
 3. [Conditions of Use of SmartPLAY System | SmartPLAY of Leisure and Cultural Services Department (LCSD)](https://www.smartplay.lcsd.gov.hk/website/en/about/conditions-of-use-of-smartplay.html) — Gives participation conditions for the booking system.
 4. [LEGISLATIVE COUNCIL — 18 June 2025](https://www.legco.gov.hk/yr2025/english/counmtg/hansard/cm20250618-translate-e.pdf) — Provides the public policy discussion around facility access.
 5. [Facility Booking | Features | SmartPLAY of Leisure and Cultural Services Department (LCSD)](https://www.smartplay.lcsd.gov.hk/website/en/features/facility-booking.html) — Shows how a booking system implements allocation rules.
+
+- [Hong Kong Leisure and Cultural Services Department, 11 June 2026](https://www.info.gov.hk/gia/general/202606/11/P2026061100243.htm). Background for the opening news context.

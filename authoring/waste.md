@@ -34,6 +34,9 @@ Charging per bag makes avoiding an extra bag valuable. Residents might buy less 
 
 ## Sources and case assumptions
 
+All information needed for the classroom decisions is provided in the case. The sources below are optional background, not assigned reading.
+
+
 - [Hong Kong Legislative Council, March 2024 planning discussion](https://www.legco.gov.hk/yr2024/english/panels/ea/minutes/ea20240325.pdf). Records the planned scope of the 14-premises demonstration.
 - [Report on the Municipal Solid Waste Charging Demonstration Scheme, May 2024](https://dailyhongkong.com/wp-content/uploads/2024/05/Report-on-the-Municipal-Solid-Waste-Charging-Demonstration-Scheme.pdf). Describes collection arrangements and recycling facilities at participating premises.
 - [Legislative Council joint panel minutes, 27 May 2024](https://www.legco.gov.hk/yr2024/english/panels/ea/minutes/eafseh20240527.pdf). Documents discussion of bag use and waste disposal as separate indicators.

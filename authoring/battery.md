@@ -8,8 +8,6 @@ Case 12 · Hong Kong · 10–15 minutes · Asymmetric information · Verificatio
 
 A pavilion for second-hand smartphones debuted at a Hong Kong trade show, bringing together refurbishers and recycling platforms. If two used handsets look alike, what evidence makes one worth more?
 
-[South China Morning Post, 18 October 2026](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371309/second-hand-smartphone-traders-eye-hong-kong-springboard-global-exports?pgtype=live)
-
 ## Opening decision
 
 You are choosing between otherwise identical used phones. One seller asks HK$300 extra, saying the battery was replaced. A genuinely fresh battery is worth HK$500 extra to you. An old one adds nothing. You put the chance the claim is true at 40%.
@@ -40,6 +38,9 @@ Minutes 0–3: vote and compare reasons in pairs. Minutes 3–7: reveal the chan
 
 ## Sources and case assumptions
 
+All information needed for the classroom decisions is provided in the case. The sources below are optional background, not assigned reading.
+
+
 The setting, participants, numerical exhibit and changed rule are fictional classroom assumptions. The readings below provide context and economic reasoning.
 
 1. [Product Quality and Information in the Used Car Market](https://www.ftc.gov/sites/default/files/documents/reports/product-quality-information-used-car-market/231975.pdf) — Studies hidden quality in a second-hand market.
@@ -47,3 +48,5 @@ The setting, participants, numerical exhibit and changed rule are fictional clas
 3. [Apple Support, iPhone Parts and Service History](https://support.apple.com/en-gb/102658) — Shows which parts-history information a buyer can inspect.
 4. [Asymmetric Information and Used Cars - MRU](https://academy.mru.org/courses/asymmetric-information-how-hidden-facts-shape-markets/lessons/asymmetric-information/topics/asymmetric-information-and-used-cars/) — Illustrates adverse selection in resale markets.
 5. [What Lemons Teach Us About Privacy and Competition](https://www.americanbar.org/groups/antitrust_law/resources/magazine/2020-fall/what-lemons-teach-us/) — Discusses how quality information changes a buyer’s inference.
+
+- [South China Morning Post, 18 October 2026](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371309/second-hand-smartphone-traders-eye-hong-kong-springboard-global-exports?pgtype=live). Background for the opening news context.

@@ -27,3 +27,9 @@ Cases 1–8, listed below, are based on teaching materials developed by Chiu Yu 
 14. [Who funds the covered walkway?](walkway.html)
 15. [Pay per parcel?](parcel.html)
 16. [One stall, one bid](stall.html)
+
+## Self-contained classroom reading
+
+Keep external links in the optional sources section only. The opening, exhibits, questions, presentation slides and handout must provide the facts students need without asking them to open a report. Preserve source attribution and distinguish reported facts from classroom assumptions.
+
+Run `python tests/check_case_links.py` to check this convention across all published cases and editable case materials.

@@ -41,6 +41,9 @@ Weak business prospects could lead firms to postpone listings and households to 
 
 ## Sources and case assumptions
 
+All information needed for the classroom decisions is provided in the case. The sources below are optional background, not assigned reading.
+
+
 - [SZSE Market Overview, December 2021](https://docs.static.szse.cn/www/market/periodical/month/W020220110583931660153.html). Annual new listings and year-end listed firms.
 - [SZSE Market Overview, December 2022](https://docs.static.szse.cn/www/market/periodical/month/W020230103526615954513.html). Same measures one year later.
 - [National Bureau of Statistics, December 2022 housing prices](https://www.stats.gov.cn/english/PressRelease/202301/t20230116_1891673.html). Tables 1 and 2, Shenzhen row, same month last year = 100. Subtract 100 to obtain the percentage change.

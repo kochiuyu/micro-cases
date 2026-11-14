@@ -8,8 +8,6 @@ Case 15 · Hong Kong · 10–15 minutes · Incentive pay · Multitasking
 
 Hong Kong Foodpanda couriers went on strike over grievances including pay changes and time spent waiting at restaurants. A payment per completed order rewards some parts of the job while leaving others unpaid. How would you design the contract?
 
-[South China Morning Post, November 2021](https://www.scmp.com/news/hong-kong/transport/article/3156153/what-caused-hong-kongs-foodpanda-riders-go-strike-long)
-
 ## Opening decision
 
 You manage a depot. Choose a payment rule for a one-hour shift. Couriers can make 8 careful deliveries or 10 hurried ones, at the same personal effort. They keep their pay for each recorded delivery.
@@ -40,6 +38,9 @@ Minutes 0–3: vote and compare reasons in pairs. Minutes 3–7: reveal the chan
 
 ## Sources and case assumptions
 
+All information needed for the classroom decisions is provided in the case. The sources below are optional background, not assigned reading.
+
+
 The setting, participants, numerical exhibit and changed rule are fictional classroom assumptions. The readings below provide context and economic reasoning.
 
 1. [Performance Pay and Productivity](https://ideas.repec.org/p/nbr/nberwo/5672.html) — Examines a switch to performance pay in autoglass installation.
@@ -47,3 +48,5 @@ The setting, participants, numerical exhibit and changed rule are fictional clas
 3. [Analyzing Compensation Methods in Manufacturing: Piece Rates, Time Rates, or Gain-Sharing?](https://ideas.repec.org/p/nbr/nberwo/16540.html) — Studies the choice among compensation systems in manufacturing.
 4. [Changes to a team-based incentive plan](https://ideas.repec.org/a/eee/aosoci/v34y2009i5p589-618.html) — Tracks product quality alongside productivity.
 5. [Piece Rates, Fixed Wages, and Incentive Effects: Statistical Evidence from Payroll Records](https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-2354.00055) — Uses payroll records to study incentive effects.
+
+- [South China Morning Post, November 2021](https://www.scmp.com/news/hong-kong/transport/article/3156153/what-caused-hong-kongs-foodpanda-riders-go-strike-long). Background for the opening news context.

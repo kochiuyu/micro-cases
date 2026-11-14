@@ -32,6 +32,9 @@ Minutes 0–3. Vote on the immediate offer. Minutes 3–6. Find the break-even p
 
 ## Sources and case assumptions
 
+All information needed for the classroom decisions is provided in the case. The sources below are optional background, not assigned reading.
+
+
 - [National civil service intake for 2024](https://english.www.gov.cn/news/202310/14/content_WS652a42dec6d0868f4e8e0347.html). Reports vacancies reserved for upcoming graduates.
 - [Qualification screening for the 2025 intake](https://english.www.gov.cn/english.www.gov.cn/news/202410/27/content_WS671d770bc6d0868f4e8ec589.html). Distinguishes eligibility screening from later selection.
 - [University job fairs for graduates](https://english.www.gov.cn/news/202405/27/content_WS66543b4ec6d0868f4e8e7850.html). Documents campus recruitment by employers.

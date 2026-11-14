@@ -32,6 +32,9 @@ Minutes 0–3: take a vote and ask for a maximum bid. Minutes 3–7: reveal when
 
 ## Sources and case assumptions
 
+All information needed for the classroom decisions is provided in the case. The sources below are optional background, not assigned reading.
+
+
 - [Transport Department, Minibuses](https://www.td.gov.hk/en/transport_in_hong_kong/public_transport/minibuses/index.html). Explains the operating flexibility of red minibuses.
 - [LegCo Research Office, Public light buses in Hong Kong](https://www.legco.gov.hk/research-publications/english/1920issh22-public-light-buses-in-hong-kong-20200401-e.pdf). Describes the feeder role and market served by minibuses.
 - [LegCo Panel on Transport, Policy on Public Light Buses](https://www.legco.gov.hk/yr00-01/english/panels/tp/papers/a307e03.pdf). Gives the historical licensing background.

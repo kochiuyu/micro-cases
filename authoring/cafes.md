@@ -8,8 +8,6 @@ Case 13 · Hong Kong · 10–15 minutes · Strategic pricing · Nash equilibrium
 
 After opening 12 Hong Kong outlets in half a year, Luckin Coffee was offering a HK$15.90 first-order deal through its app. A rival café must decide whether matching a discount will attract customers or simply reduce its margin.
 
-[The Standard, 3 June 2025](https://www.thestandard.com.hk/finance/article/303885/Luckin-Coffee-opening-new-stores-in-Central-other-key-business-districts)
-
 ## Opening decision
 
 You run East Café. West Café has announced its regular lunch price. Your analyst expects East to earn HK$100 this lunch if you hold price and HK$130 if you offer a HK$5 discount. Choose before the lunch bell.
@@ -44,6 +42,9 @@ Minutes 0–3: vote and compare reasons in pairs. Minutes 3–7: reveal the chan
 
 ## Sources and case assumptions
 
+All information needed for the classroom decisions is provided in the case. The sources below are optional background, not assigned reading.
+
+
 The setting, participants, numerical exhibit and changed rule are fictional classroom assumptions. The readings below provide context and economic reasoning.
 
 1. [10.2 Oligopoly - Principles of Microeconomics 3e | OpenStax](https://openstax.org/books/principles-microeconomics-3e/pages/10-2-oligopoly) — Explains oligopoly and the prisoner’s dilemma.
@@ -51,3 +52,5 @@ The setting, participants, numerical exhibit and changed rule are fictional clas
 3. [Dixit, Oligopoly: Price-setting Duopoly](https://swh.princeton.edu/~dixitak/Teaching/MicroLowCalculus/Slides/Lec17.pdf) — Works through a two-price duopoly.
 4. [The World of Imperfect Competition](https://my.uopeople.edu/pluginfile.php/57436/mod_book/chapter/37625/Principles%20Of%20Economics%20Chapter%2011.pdf) — Connects strategic decisions to imperfect competition.
 5. [The Work of John Nash in Game Theory](https://www.nobelprize.org/uploads/2017/05/nash-lecture.pdf) — Provides background on noncooperative equilibrium.
+
+- [The Standard, 3 June 2025](https://www.thestandard.com.hk/finance/article/303885/Luckin-Coffee-opening-new-stores-in-Central-other-key-business-districts). Background for the opening news context.

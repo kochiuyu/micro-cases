@@ -8,8 +8,6 @@ Case 9 · Hong Kong · 10–15 minutes · Sunk cost · Opportunity cost
 
 Wan Chai volunteers collected unsold bread from bakeries at closing time for redistribution. For a baker facing an offer at the door, what other use does the last tray have tonight?
 
-[CUHK Varsity, June 2024](https://varsity.com.cuhk.edu.hk/index.php/2024/06/rescuing-leftover-bread-for-the-needy/)
-
 ## Opening decision
 
 You run a Hong Kong bakery. Twelve egg tarts sit on the counter as you turn the sign to Closed. The café next door offers to take the whole tray. You have no other buyer or use for it tonight.
@@ -40,6 +38,9 @@ Minutes 0–3: vote and compare reasons in pairs. Minutes 3–7: reveal the chan
 
 ## Sources and case assumptions
 
+All information needed for the classroom decisions is provided in the case. The sources below are optional background, not assigned reading.
+
+
 The setting, participants, numerical exhibit and changed rule are fictional classroom assumptions. The readings below provide context and economic reasoning.
 
 1. [Food Waste Challenge | Environmental Protection Department](https://www.epd.gov.hk/epd/english/environmentinhk/waste/prob_solutions/food_waste_challenge.html) — Describes the Hong Kong food-waste setting.
@@ -47,3 +48,5 @@ The setting, participants, numerical exhibit and changed rule are fictional clas
 3. [Prevent Wasted Food Through Source Reduction](https://www.epa.gov/sustainable-management-food/prevent-wasted-food-through-source-reduction) — Describes preventing surplus through planning.
 4. [Wasted Food Scale](https://www.epa.gov/sustainable-management-food/wasted-food-scale?trk=article-ssr-frontend-pulse_little-text-block) — Distinguishes uses for surplus food.
 5. [Hong Kong Government, Food Wise Hong Kong Campaign launch](https://www.info.gov.hk/gia/general/201305/18/P201305180667.htm) — Describes the local food-waste reduction campaign.
+
+- [CUHK Varsity, June 2024](https://varsity.com.cuhk.edu.hk/index.php/2024/06/rescuing-leftover-bread-for-the-needy/). Background for the opening news context.

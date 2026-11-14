@@ -8,8 +8,6 @@ Case 11 · Hong Kong · 10–15 minutes · Price discrimination · Self-selectio
 
 During the outlying-island ferry fare review, the Transport Department said multi-ride tickets and monthly passes would see smaller increases than single fares. Why offer frequent travellers a different price per trip?
 
-[RTHK, 11 March 2026](https://news.rthk.hk/rthk/en/component/k2/1846884-20260311.htm)
-
 ## Opening decision
 
 You set fares for a fictional harbour crossing. A single costs HK$12. Consider a ten-trip pass valid for one week, initially restricted to one passenger. Travellers take their stated trips either way and can buy singles.
@@ -40,6 +38,9 @@ Minutes 0–3: vote and compare reasons in pairs. Minutes 3–7: reveal the chan
 
 ## Sources and case assumptions
 
+All information needed for the classroom decisions is provided in the case. The sources below are optional background, not assigned reading.
+
+
 The setting, participants, numerical exhibit and changed rule are fictional classroom assumptions. The readings below provide context and economic reasoning.
 
 1. [Multi-ride Ticket | Route & Fare | Sun Ferry Services Company Limited](https://www.sunferry.com.hk/en/route-and-fare/multiride-ticket) — Documents an actual multi-ride product.
@@ -47,3 +48,5 @@ The setting, participants, numerical exhibit and changed rule are fictional clas
 3. [D. Profiteering on travel tickets | Community Legal Information Centre (CLIC)](https://clic.org.hk/en/topics/Street-and-Public-Place-Offences/street-trading-hawking-and-commercial-activity/profiteering-on-travel-tickets) — Distinguishes commercial ticket resale from this fictional pooling exercise.
 4. [Transport Department - Franchised and Licensed Ferry Service Details](https://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/service_details/index_t.html) — Identifies actual Hong Kong ferry services.
 5. [Edwards, Price and Prejudice](https://law.lclark.edu/live/files/9600-lcb103edwardspdf) — Discusses the economics and reception of differential pricing.
+
+- [RTHK, 11 March 2026](https://news.rthk.hk/rthk/en/component/k2/1846884-20260311.htm). Background for the opening news context.
