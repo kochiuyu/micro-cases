@@ -404,3 +404,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 102
 
 102. [A premium offer. The same business?](same-business.html)
+
+## Case 103
+
+103. [A new leader. Who still decides?](who-still-decides.html)

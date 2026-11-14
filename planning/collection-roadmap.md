@@ -4,7 +4,7 @@ The first balanced collection will have **120 cases, ten per teaching area**. Th
 
 ## Coverage ledger
 
-One hundred and two cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 18 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
+One hundred and three cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 17 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -16,13 +16,13 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88, 100 | — | 1 | Ship the whole order late or pay to send half by air? |
 | People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77, 89, 101 | — | 1 | A high-performing team refuses a promotion for its best member. Who should lead? |
 | Strategy and international business | 13, 21, 33, 43, 60, 66, 78, 90, 102 | — | 1 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
-| Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79, 91 | — | 2 | A buyer wants the family brand and its name. Which terms would the founders accept? |
+| Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79, 91, 103 | — | 1 | A buyer wants the family brand and its name. Which terms would the founders accept? |
 | Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71, 81, 92 | — | 2 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
 | Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93 | — | 2 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94 | — | 2 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95 | — | 2 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96 | — | 2 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **102 published** | **0 planned** | **18** | |
+| **Total** | **103 published** | **0 planned** | **17** | |
 
 ## How a lead earns a place
 
@@ -230,3 +230,5 @@ Case 100 adds delayed differentiation: the same common inventory can remain avai
 Case 101 adds voluntary workplace mediation: a communication dispute can be managed through an owner relay or addressed through impartial facilitation. Revealed interests support proposed working terms, not an imposed settlement; cash, paid participant time, owner capacity, consent and fallback duties remain distinct.
 
 Case 102 adds strategic activity fit: a customer promise rests on connected preparation, ordering and handoff choices. A hosted lunch offer is a feasible repositioning, not simply a higher price on the existing pickup system. Choosing a coherent direction does not establish profitable demand or rule out properly resourced combinations elsewhere.
+
+Case 103 adds family-business management succession without an ownership transfer. A transition compact combines a dated leadership route, visible relationship introductions, continuing founder advice and an agreed disagreement channel. A new title alone does not transfer trust or operating authority; co-management also retains real founder time.
