@@ -2,7 +2,7 @@
 
 Case 23 · Hong Kong · 10–15 minutes · Family business · Control rights
 
-![A fictional dessert shop and two sale documents](../family-name-scene.svg)
+![A fictional dessert shop and two sale documents](../family-name-scene.jpg)
 
 ## In the news
 
