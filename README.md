@@ -195,3 +195,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 53
 
 53. [The file arrived. What did we order?](order-units.html)
+
+## Case 54
+
+54. [No commission. No acquisition cost?](direct-cost.html)
