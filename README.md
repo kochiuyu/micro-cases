@@ -305,3 +305,8 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 78
 
 78. [Four signs. One business system?](repeatable-format.html)
+
+
+## Case 79
+
+79. [Funded. What should we promise next?](next-promise.html)
