@@ -420,3 +420,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 106
 
 106. [A bigger order. More mission?](bigger-order-more-mission.html)
+
+## Case 107
+
+107. [Five per cent more. More of what?](more-money-more-kits.html)
