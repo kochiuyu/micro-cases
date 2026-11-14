@@ -1,6 +1,6 @@
 # Micro Cases in Business
 
-Twenty-five classroom cases with an opening decision, a second-round prompt, a debrief, presentation slides, and a printable student handout. Open index.html to browse the collection. Editable case materials and the authoring template are in authoring/.
+Twenty-six classroom cases with an opening decision, a second-round prompt, a debrief, presentation slides, and a printable student handout. Open index.html to browse the collection. Editable case materials and the authoring template are in authoring/.
 
 The [roadmap to 120 and 144 cases](planning/collection-roadmap.md) outlines coverage across business disciplines and the criteria for selecting news stories.
 
@@ -79,3 +79,7 @@ Follow the [art direction and production guide](docs/art-direction.md) for every
 ## Decision-question highlighting
 
 Every opening and round-two decision must use the highlighted **Your decision** box on both the page and its presentation slide. Follow the [required question-format guide](docs/decision-questions.md), and run `python tests/check_decision_prompts.py` before publishing.
+
+## Case 26
+
+26. [97% right. Ready to reply?](chatbot.html)
