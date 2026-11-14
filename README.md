@@ -179,3 +179,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 49
 
 49. [Reusable fifty times. Used how many?](actually-reused.html)
+
+## Case 50
+
+50. [A larger limit. The same gap?](same-gap.html)
