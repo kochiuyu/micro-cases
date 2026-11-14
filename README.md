@@ -199,3 +199,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 54
 
 54. [No commission. No acquisition cost?](direct-cost.html)
+
+## Case 55
+
+55. [Two suppliers. One factory?](shared-factory.html)
