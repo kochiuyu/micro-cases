@@ -280,3 +280,8 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 73
 
 73. [One machine invoice. One asset cost?](machine-cost.html)
+
+
+## Case 74
+
+74. [A discount for paying sooner. Sooner than what?](sooner-than-what.html)
