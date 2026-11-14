@@ -59,3 +59,7 @@ Run `python tests/check_case_links.py` to check this convention across all publi
 ## Illustration style
 
 Follow the [art direction and production guide](docs/art-direction.md) for every new or revised case illustration. Preserve the established watercolor-and-ink narrative style.
+
+## Decision-question highlighting
+
+Every opening and round-two decision must use the highlighted **Your decision** box on both the page and its presentation slide. Follow the [required question-format guide](docs/decision-questions.md), and run `python tests/check_decision_prompts.py` before publishing.

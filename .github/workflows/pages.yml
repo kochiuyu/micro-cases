@@ -17,6 +17,8 @@ jobs:
       - uses: actions/checkout@v4
       - name: Check self-contained cases
         run: python3 tests/check_case_links.py
+      - name: Check highlighted decision questions
+        run: python3 tests/check_decision_prompts.py
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

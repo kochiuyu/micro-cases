@@ -16,6 +16,10 @@ Follow the [collection art guide](../docs/art-direction.md). Visually inspect ex
 
 Anchor the case in a specific reported event. Prioritise Hong Kong, then the rest of the Greater Bay Area, then elsewhere in Asia. A strong story from another region is welcome. Record the place, date, participants, what happened, and the relevant facts in your own words. Put the direct link only in the final sources section. Explain how the reported decision or dispute leads to the students’ choice. Use this opening on the case page, presentation and handout. Identify classroom assumptions separately, especially any invented prices, motives or counterfactual rules. Include the news report among the five or more sources. Do not place external links or “read the report” instructions in the main case, presentation slides or student questions. Students must be able to decide using the information on the page alone.
 
+## Required decision-question formatting
+
+Follow the [decision-question guide](../docs/decision-questions.md). Put every opening vote and round-two/revote question in the existing pale-gold `student-prompt` box with the visible **Your decision** label, on both the reading page and presentation slides. Plain paragraphs or a question-shaped slide title are not substitutes. Keep the handout consistent; label editable Markdown **Student question:**. Run `python tests/check_decision_prompts.py` and visually inspect each decision slide before publication.
+
 ## Opening decision
 
 Give students a role, a concrete choice and a reason to decide now. Save the explanation for the debrief.
