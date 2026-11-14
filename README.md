@@ -163,3 +163,7 @@ Every opening and round-two decision must use the highlighted **Your decision** 
 ## Case 46
 
 46. [They did not come. Did they try to cancel?](unread-cancellation.html)
+
+## Case 47
+
+47. [Fewer sales. A worse price?](fewer-jobs.html)
