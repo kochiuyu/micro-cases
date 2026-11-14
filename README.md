@@ -239,3 +239,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 64
 
 64. [Keep running, or stop on purpose?](planned-stop.html)
+
+## Case 65
+
+65. [Choose your days. Coordinate your work.](shared-time.html)
