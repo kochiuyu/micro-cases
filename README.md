@@ -285,3 +285,8 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 74
 
 74. [A discount for paying sooner. Sooner than what?](sooner-than-what.html)
+
+
+## Case 75
+
+75. [Designed for an age group. Chosen by whom?](chosen-by-whom.html)
