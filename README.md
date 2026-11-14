@@ -424,3 +424,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 107
 
 107. [Five per cent more. More of what?](more-money-more-kits.html)
+
+## Case 108
+
+108. [A busy reception. Useful conversations?](useful-conversations.html)
