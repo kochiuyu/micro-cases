@@ -352,3 +352,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 89
 
 89. [More variety. More ownership?](whole-job.html)
+
+## Case 90
+
+90. [One forecast. Three strategies?](more-than-one-future.html)
