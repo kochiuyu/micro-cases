@@ -155,3 +155,7 @@ Every opening and round-two decision must use the highlighted **Your decision** 
 ## Case 44
 
 44. [Two approvals. One source.](one-source.html)
+
+## Case 45
+
+45. [Twenty per cent less. Less of what?](less-of-what.html)
