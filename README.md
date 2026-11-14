@@ -1,4 +1,4 @@
-# Micro Cases in Economics
+# Micro Cases in Business
 
 Sixteen classroom cases with an opening decision, a second-round prompt, a debrief, presentation slides, and a printable student handout. Open index.html to browse the collection. Editable case materials and the authoring template are in authoring/.
 

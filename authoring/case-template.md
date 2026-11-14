@@ -1,8 +1,12 @@
 # [A question students can decide]
 
-Case [number] · [Location] · [10–15 minutes] · [One or two economic concepts]
+Case [number] · [Location] · [10–15 minutes] · [One or two business topics]
 
 ![Describe the action](../case-scene.jpg)
+
+## Would students want to take sides?
+
+Lead with a choice students can argue about in the first minute. Give each side a defensible reason. Reveal one credible fact that could make someone switch sides, and ask a student who kept their vote to defend it. Try the opening aloud before drafting slides. If it takes a lecture to make the choice interesting, keep looking for a better story.
 
 ## In the news
 
@@ -26,7 +30,7 @@ Reveal one changed fact after the first vote. Keep the other assumptions fixed.
 
 ## Debrief
 
-Trace the economic mechanism. Name an alternative explanation and the evidence that would distinguish it.
+Explain how the decision produces the outcome. Name an alternative explanation and the evidence that would distinguish it.
 
 ## Instructor note
 
