@@ -1,6 +1,6 @@
 # Micro Cases in Business
 
-Sixteen classroom cases with an opening decision, a second-round prompt, a debrief, presentation slides, and a printable student handout. Open index.html to browse the collection. Editable case materials and the authoring template are in authoring/.
+Seventeen classroom cases with an opening decision, a second-round prompt, a debrief, presentation slides, and a printable student handout. Open index.html to browse the collection. Editable case materials and the authoring template are in authoring/.
 
 The [roadmap to 120 and 144 cases](planning/collection-roadmap.md) outlines coverage across business disciplines and the criteria for selecting news stories.
 
@@ -27,6 +27,12 @@ Cases 1–8, listed below, are based on teaching materials developed by Chiu Yu 
 14. [Who funds the covered walkway?](walkway.html)
 15. [Pay per parcel?](parcel.html)
 16. [One stall, one bid](stall.html)
+
+## Case 23
+
+23. [Would you sell the family name?](family-name.html)
+
+Cases 17–22 remain in development; case IDs follow the planning ledger.
 
 ## Self-contained classroom reading
 

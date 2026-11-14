@@ -2,7 +2,7 @@
 
 **Primary area:** Entrepreneurship, innovation and family business  
 **Setting:** A family dessert business in Hong Kong  
-**Status:** Sourced lead for classroom development
+**Status:** Published as [Case 23](../family-name.html), with editable material in [authoring](../authoring/family-name.md).
 
 ## Why this story
 
