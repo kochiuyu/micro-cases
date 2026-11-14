@@ -119,3 +119,7 @@ Every opening and round-two decision must use the highlighted **Your decision** 
 ## Case 35
 
 35. [The backup is green. Can the shop work again?](recovery-rehearsal.html)
+
+## Case 36
+
+36. [The big client wants its own version](separate-version.html)
