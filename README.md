@@ -107,3 +107,7 @@ Every opening and round-two decision must use the highlighted **Your decision** 
 ## Case 32
 
 32. [The best quote. The right reviewer?](supplier-review.html)
+
+## Case 33
+
+33. [The cheaper batch and the prototype bench](prototype-bench.html)
