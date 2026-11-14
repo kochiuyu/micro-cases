@@ -4,7 +4,7 @@ The first balanced collection will have **120 cases, ten per teaching area**. Th
 
 ## Coverage ledger
 
-Fifty-five cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 65 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
+Fifty-six cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 64 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -18,11 +18,11 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Strategy and international business | 13, 21, 33, 43 | — | 6 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
 | Entrepreneurship, innovation and family business | 23, 28, 36, 48 | — | 6 | A buyer wants the family brand and its name. Which terms would the founders accept? |
 | Information systems, AI and business analytics | 3, 26, 35, 44, 53 | — | 5 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
-| Governance, law, ethics and risk | 12, 22, 32, 45 | — | 6 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
+| Governance, law, ethics and risk | 12, 22, 32, 45, 56 | — | 5 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49 | — | 5 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47 | — | 6 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54 | — | 5 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **55 published** | **0 planned** | **65** | |
+| **Total** | **56 published** | **0 planned** | **64** | |
 
 ## How a lead earns a place
 
@@ -116,3 +116,5 @@ Case 53 adds shared data meaning: technically accepted files can encode the wron
 Case 54 adds hotel distribution economics: compare acquisition and processing costs with commission, using equivalent completed stays. Conditional unit economics do not establish incremental demand or an optimal channel mix.
 
 Case 55 adds upstream risk mapping: two distributors can share one production failure point. Test stock, qualified alternatives and response times rather than equating supplier count with continuity.
+
+Case 56 adds purpose-based data minimisation: an existing-account birthday offer needs a timing field and redemption control, not necessarily a full personal profile. It distinguishes reduced collection from anonymity, security and comprehensive legal compliance.

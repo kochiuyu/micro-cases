@@ -203,3 +203,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 55
 
 55. [Two suppliers. One factory?](shared-factory.html)
+
+## Case 56
+
+56. [A birthday offer. A full birth date?](birthday-fields.html)
