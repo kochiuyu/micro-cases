@@ -4,7 +4,7 @@ The first balanced collection will have **120 cases, ten per teaching area**. Th
 
 ## Coverage ledger
 
-Thirty-six cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 84 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
+Thirty-seven cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 83 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -21,8 +21,8 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Governance, law, ethics and risk | 12, 22, 32 | — | 7 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14 | — | 6 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29 | — | 7 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
-| Hospitality, tourism, property and service management | 1, 25 | — | 8 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **36 published** | **0 planned** | **84** | |
+| Hospitality, tourism, property and service management | 1, 25, 37 | — | 7 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
+| **Total** | **37 published** | **0 planned** | **83** | |
 
 ## How a lead earns a place
 
@@ -68,3 +68,9 @@ Case 34 adds process capacity and shifting bottlenecks: the best station-speed g
 Case 35 adds business recovery readiness: successful backup jobs and readable files do not establish that staff can resume the required service within the recovery-time target.
 
 Case 36 adds startup business-model choice: a valuable separate-version contract consumes continuing development capacity and may require choosing client services rather than a shared product.
+
+Case 37 adds hotel length-of-stay displacement: accepting a one-night group can forgo linked nights from longer stays, while a forecast remains less certain than the assumed secured group contribution.
+
+## 37-case coverage checkpoint · 14 November 2026
+
+Every teaching area now has at least three published cases. Sustainability has four; the other eleven have three each. The minimum-three coverage goal has been reached ahead of the 48-case milestone. Continue toward ten per area by choosing distinct decisions, not near-duplicate examples. Topic filtering is already available; review broader discipline browsing at 48.

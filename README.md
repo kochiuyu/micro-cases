@@ -123,3 +123,7 @@ Every opening and round-two decision must use the highlighted **Your decision** 
 ## Case 36
 
 36. [The big client wants its own version](separate-version.html)
+
+## Case 37
+
+37. [One busy night. Two nights of business.](two-night-stays.html)
