@@ -265,3 +265,8 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 70
 
 70. [Same seats. Same capacity?](table-mix.html)
+
+
+## Case 71
+
+71. [A good forecast. Available when?](forecast-cutoff.html)
