@@ -336,3 +336,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 85
 
 85. [A quiet year. Less machine used?](machine-hours.html)
+
+## Case 86
+
+86. [Back sooner. Worth more?](back-sooner.html)
