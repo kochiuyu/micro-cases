@@ -408,3 +408,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 103
 
 103. [A new leader. Who still decides?](who-still-decides.html)
+
+## Case 104
+
+104. [A fresher screen. A better decision?](fresher-screen.html)
