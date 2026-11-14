@@ -275,3 +275,8 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 72
 
 72. [Three small orders. One big commitment?](one-commitment.html)
+
+
+## Case 73
+
+73. [One machine invoice. One asset cost?](machine-cost.html)
