@@ -260,3 +260,8 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 69
 
 69. [Faster at both. Do both?](faster-at-both.html)
+
+
+## Case 70
+
+70. [Same seats. Same capacity?](table-mix.html)
