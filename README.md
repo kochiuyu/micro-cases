@@ -167,3 +167,11 @@ Every opening and round-two decision must use the highlighted **Your decision** 
 ## Case 47
 
 47. [Fewer sales. A worse price?](fewer-jobs.html)
+
+## Case 48
+
+48. [HK$60,000 of support. Can we use it?](usable-support.html)
+
+## Teaching-area browsing
+
+Use Teaching area, Business topic and Class time available together, or Reset filters to show all cases. Primary areas follow the coverage ledger; secondary concepts remain in the topic menu. When adding a case, update its `data-discipline` and visible `.discipline` label to match the ledger, then run `python tests/check_disciplines.py` alongside the other checks.

@@ -4,7 +4,7 @@ The first balanced collection will have **120 cases, ten per teaching area**. Th
 
 ## Coverage ledger
 
-Forty-seven cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 73 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
+Forty-eight cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 72 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -16,13 +16,13 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Operations, supply chains and logistics | 17, 27, 34, 42 | — | 6 | Ship the whole order late or pay to send half by air? |
 | People, leadership and organisational behaviour | 8, 15, 20, 39 | — | 6 | A high-performing team refuses a promotion for its best member. Who should lead? |
 | Strategy and international business | 13, 21, 33, 43 | — | 6 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
-| Entrepreneurship, innovation and family business | 23, 28, 36 | — | 7 | A buyer wants the family brand and its name. Which terms would the founders accept? |
+| Entrepreneurship, innovation and family business | 23, 28, 36, 48 | — | 6 | A buyer wants the family brand and its name. Which terms would the founders accept? |
 | Information systems, AI and business analytics | 3, 26, 35, 44 | — | 6 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
 | Governance, law, ethics and risk | 12, 22, 32, 45 | — | 6 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14 | — | 6 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47 | — | 6 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46 | — | 6 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **47 published** | **0 planned** | **73** | |
+| **Total** | **48 published** | **0 planned** | **72** | |
 
 ## How a lead earns a place
 
@@ -96,3 +96,9 @@ Case 45 adds environmental claim sign-off: a genuine reduction per occupied room
 Case 46 adds reservation-process design: deposits do not read cancellation messages or release tables. Distinguish timely notice, staff handling and actual refilling before judging a no-show policy.
 
 Case 47 adds price-demand-cost comparison: lower forecast revenue can coexist with higher contribution when fewer jobs avoid costs. Its alternative-price threshold is not whole-business break-even or a globally optimal price.
+
+Case 48 adds startup resource fit: restricted credits and flexible support offset different useful expenses. Compare the same work plan, not headline ceilings or unnecessary spending.
+
+## 48-case coverage and browsing checkpoint · 14 November 2026
+
+All twelve teaching areas now have four published cases, exceeding the minimum-three target. The collection offers a primary teaching-area filter alongside the existing topic and time filters, with visible area labels and a reset control. Each case has one editorial primary area matching this ledger; secondary topics remain searchable. Continue toward ten cases per area with distinct decisions, not near-duplicates. The next instructor-feedback checkpoint remains 72.
