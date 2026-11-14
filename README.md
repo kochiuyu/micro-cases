@@ -412,3 +412,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 104
 
 104. [A fresher screen. A better decision?](fresher-screen.html)
+
+## Case 105
+
+105. [Externally checked. What was checked?](what-was-checked.html)
