@@ -247,3 +247,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 66
 
 66. [Share the studio. Share the advantage?](shared-advantage.html)
+
+## Case 67
+
+67. [Eighty kilos wasted. Eighty kilos to donate?](edible-surplus.html)
