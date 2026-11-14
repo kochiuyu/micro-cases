@@ -115,3 +115,7 @@ Every opening and round-two decision must use the highlighted **Your decision** 
 ## Case 34
 
 34. [A faster machine. More finished boxes?](packing-line.html)
+
+## Case 35
+
+35. [The backup is green. Can the shop work again?](recovery-rehearsal.html)
