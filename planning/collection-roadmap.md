@@ -4,7 +4,7 @@ The first balanced collection will have **120 cases, ten per teaching area**. Th
 
 ## Coverage ledger
 
-Twenty-seven cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 93 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
+Twenty-eight cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 92 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -16,13 +16,13 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Operations, supply chains and logistics | 17, 27 | — | 8 | Ship the whole order late or pay to send half by air? |
 | People, leadership and organisational behaviour | 8, 15, 20 | — | 7 | A high-performing team refuses a promotion for its best member. Who should lead? |
 | Strategy and international business | 13, 21 | — | 8 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
-| Entrepreneurship, innovation and family business | 23 | — | 9 | A buyer wants the family brand and its name. Which terms would the founders accept? |
+| Entrepreneurship, innovation and family business | 23, 28 | — | 8 | A buyer wants the family brand and its name. Which terms would the founders accept? |
 | Information systems, AI and business analytics | 3, 26 | — | 8 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
 | Governance, law, ethics and risk | 12, 22 | — | 8 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14 | — | 6 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16 | — | 8 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25 | — | 8 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **27 published** | **0 planned** | **93** | |
+| **Total** | **28 published** | **0 planned** | **92** | |
 
 ## How a lead earns a place
 
@@ -48,3 +48,7 @@ Case25 follows the checkpoint by adding hospitality/service-recovery coverage: t
 Case 26 adds AI oversight: a strong aggregate reply score can hide failures in exception handling and falsely confirmed actions. The operational boundary and human handoff must be tested, not assumed.
 
 Case 27 adds targeted expediting: ship the missing component that creates usable output by the deadline, rather than accelerating the entire order. Customer acceptance and the full delivery chain remain explicit.
+
+## 28-case balance checkpoint · 14 November 2026
+
+Cases 25–28 add service recovery, AI oversight, targeted expediting and staged customer discovery. Every teaching area now has at least two cases. Finance and people have three each; sustainability has four. Continue selecting strong, distinct decisions in the nine areas still at two before expanding already broader areas. The next formal milestone remains 48, with at least three per area; the owner has authorized continuing toward 120.
