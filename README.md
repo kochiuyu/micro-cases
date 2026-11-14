@@ -139,3 +139,7 @@ Every opening and round-two decision must use the highlighted **Your decision** 
 ## Case 40
 
 40. [The stock is all there. Is it worth the same?](count-and-value.html)
+
+## Case 41
+
+41. [More days to return it, or less trouble?](return-friction.html)
