@@ -376,3 +376,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 95
 
 95. [A package deal. Must everyone buy both?](both-or-one.html)
+
+## Case 96
+
+96. [One exhibit. More than one way in.](more-than-one-way-in.html)

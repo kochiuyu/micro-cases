@@ -4,7 +4,7 @@ The first balanced collection will have **120 cases, ten per teaching area**. Th
 
 ## Coverage ledger
 
-Ninety-five cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 25 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
+Ninety-six cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 24 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -21,8 +21,8 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93 | — | 2 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94 | — | 2 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95 | — | 2 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
-| Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84 | — | 3 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **95 published** | **0 planned** | **25** | |
+| Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96 | — | 2 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
+| **Total** | **96 published** | **0 planned** | **24** | |
 
 ## How a lead earns a place
 
@@ -208,3 +208,13 @@ Case 93 adds anonymous versus confidential reporting access. A small fictional u
 Case 94 adds landlord–tenant split incentives: the party funding an efficiency upgrade does not receive the original bill savings. A voluntary verified-savings share can align incentives while leaving performance risk and measurement responsibilities visible; the transfer does not create extra energy savings or authorise a lease change.
 
 Case 95 adds mixed bundling: customers choose the highest value minus price among genuine options. A standalone route retains a single-service buyer while others choose the pair; comparisons hold the three buyers constant and do not imply globally optimal prices, cheaper provision or universal consumer gains.
+
+Case 96 adds inclusive interpretation: alternative formats must connect visitors to the same exhibit meaning, not merely add sensory features. A revised prototype supports shared exploration while facilitation retains its dialogue advantage; required provision stays funded and qualitative observations are not universal access or learning certification.
+
+## Internal checkpoint at 96
+
+The editorial review of Cases 85–96 confirms eight cases in each of twelve teaching areas, leaving two per area to reach 120. The latest round covers distinct decisions, from depreciation and payback to supplier dependence, speaking up, split incentives, bundling and inclusive interpretation. Collection, discipline, source-link and decision-prompt checks passed; all twelve recent presentation scripts passed syntax checks.
+
+This is an internal content and regression review, not instructor feedback or evidence of classroom effectiveness. The questions about which decisions sparked disagreement and which topics instructors still need remain open. Work can continue under the owner's instruction without treating that feedback as received.
+
+For the next round, vary reveal structures rather than repeatedly adding a pilot or hybrid option. Keep necessary assumptions close to the decision, reduce duplicated cautions, and make workshop, implementation and maintenance costs explicit. Preserve genuine uncertainty where choices depend on priorities, but do not manufacture false balance when stated arithmetic determines the result. Live visual checks remain separate from static tests; neither implies mobile, print or accessibility certification.
