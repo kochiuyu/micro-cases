@@ -2,7 +2,7 @@
 
 Sixteen classroom cases with an opening decision, a second-round prompt, a debrief, presentation slides, and a printable student handout. Open index.html to browse the collection. Editable case materials and the authoring template are in authoring/.
 
-The [roadmap to 100 cases](planning/roadmap-to-100.md) outlines coverage across business disciplines and the criteria for selecting news stories.
+The [roadmap to 120 and 144 cases](planning/collection-roadmap.md) outlines coverage across business disciplines and the criteria for selecting news stories.
 
 ## Acknowledgement
 
