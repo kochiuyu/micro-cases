@@ -4,6 +4,12 @@ Case 11 · Hong Kong · 10–15 minutes · Price discrimination · Self-selectio
 
 ![Ferry passengers discuss a pass on a Hong Kong pier.](../ferry-pass-scene.jpg)
 
+## Hong Kong in the news · 11 March 2026
+
+During the outlying-island ferry fare review, the Transport Department said multi-ride tickets and monthly passes would see smaller increases than single fares. Why offer frequent travellers a different price per trip?
+
+[RTHK, 11 March 2026](https://news.rthk.hk/rthk/en/component/k2/1846884-20260311.htm)
+
 ## Opening decision
 
 You set fares for a fictional harbour crossing. A single costs HK$12. Consider a ten-trip pass valid for one week, initially restricted to one passenger. Travellers take their stated trips either way and can buy singles.

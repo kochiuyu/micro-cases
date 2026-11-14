@@ -4,6 +4,12 @@ Case 9 · Hong Kong · 10–15 minutes · Sunk cost · Opportunity cost
 
 ![A baker considers an offer for the last tray at closing.](../tarts-scene.jpg)
 
+## Hong Kong in the news · June 2024
+
+Wan Chai volunteers collected unsold bread from bakeries at closing time for redistribution. For a baker facing an offer at the door, what other use does the last tray have tonight?
+
+[CUHK Varsity, June 2024](https://varsity.com.cuhk.edu.hk/index.php/2024/06/rescuing-leftover-bread-for-the-needy/)
+
 ## Opening decision
 
 You run a Hong Kong bakery. Twelve egg tarts sit on the counter as you turn the sign to Closed. The café next door offers to take the whole tray. You have no other buyer or use for it tonight.

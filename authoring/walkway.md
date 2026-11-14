@@ -4,6 +4,12 @@ Case 14 · Hong Kong · 10–15 minutes · Public goods · Free riding
 
 ![Four neighbouring shopkeepers discuss a shared rain canopy.](../walkway-scene.jpg)
 
+## Hong Kong in the news · 24 April 2024
+
+During a Legislative Council debate, a member recalled that limited resources had led Cheung Chau festival organisers to use drawings and a small bun tower in place of traditional giant towers. When a whole neighbourhood benefits, whose contribution makes the project possible? The shopkeepers below face that funding question for a shared rain cover.
+
+[Hong Kong Legislative Council, 24 April 2024](https://www.legco.gov.hk/yr2024/english/counmtg/hansard/cm20240424-translate-e.pdf)
+
 ## Opening decision
 
 Four shops get the same sheltered access if a landlord installs a canopy. Each owner values it at HK$800. The landlord needs HK$2,400 in total pledges. Pledges are returned if the target is missed. You represent one shop.

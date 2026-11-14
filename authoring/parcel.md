@@ -4,6 +4,12 @@ Case 15 · Hong Kong · 10–15 minutes · Incentive pay · Multitasking
 
 ![A courier and depot supervisor inspect a parcel at dispatch.](../parcel-scene.jpg)
 
+## Hong Kong in the news · November 2021
+
+Hong Kong Foodpanda couriers went on strike over grievances including pay changes and time spent waiting at restaurants. A payment per completed order rewards some parts of the job while leaving others unpaid. How would you design the contract?
+
+[South China Morning Post, November 2021](https://www.scmp.com/news/hong-kong/transport/article/3156153/what-caused-hong-kongs-foodpanda-riders-go-strike-long)
+
 ## Opening decision
 
 You manage a depot. Choose a payment rule for a one-hour shift. Couriers can make 8 careful deliveries or 10 hurried ones, at the same personal effort. They keep their pay for each recorded delivery.

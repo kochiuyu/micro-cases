@@ -4,6 +4,12 @@ Case 13 · Hong Kong · 10–15 minutes · Strategic pricing · Nash equilibrium
 
 ![Two campus cafés face each other across a courtyard.](../cafes-scene.jpg)
 
+## Hong Kong in the news · 3 June 2025
+
+After opening 12 Hong Kong outlets in half a year, Luckin Coffee was offering a HK$15.90 first-order deal through its app. A rival café must decide whether matching a discount will attract customers or simply reduce its margin.
+
+[The Standard, 3 June 2025](https://www.thestandard.com.hk/finance/article/303885/Luckin-Coffee-opening-new-stores-in-Central-other-key-business-districts)
+
 ## Opening decision
 
 You run East Café. West Café has announced its regular lunch price. Your analyst expects East to earn HK$100 this lunch if you hold price and HK$130 if you offer a HK$5 discount. Choose before the lunch bell.

@@ -4,6 +4,12 @@ Case 16 · Hong Kong · 10–15 minutes · Auction design · Private values
 
 ![Students submit sealed bids for a university festival stall.](../stall-scene.jpg)
 
+## Hong Kong in the news · 15 November 2023
+
+Hong Kong concluded the open auction for stalls at the 2024 Victoria Park Lunar New Year Fair. Students now bid for a fictional festival stall under two sealed-bid rules and see how changing the payment rule changes a sensible bid.
+
+[Hong Kong Food and Environmental Hygiene Department, 15 November 2023](https://www.fehd.gov.hk/english/news/details/20231115_10632.html)
+
 ## Opening decision
 
 Your society values a stall at HK$900 after allowing for all costs except the stall fee. The highest rival bid will be either HK$500 or HK$800, equally likely. You are risk neutral, can bid in HK$10 steps, and lose ties. Highest bid wins.

@@ -4,6 +4,10 @@ Case [number] · [Location] · [10–15 minutes] · [One or two economic concept
 
 ![Describe the action](../case-scene.jpg)
 
+## In the news
+
+Anchor the case in a specific reported event. Prioritise Hong Kong, then the rest of the Greater Bay Area, then elsewhere in Asia. A strong story from another region is welcome. Record the place, date, participants, what happened, and a direct link to the report. Explain how the reported decision or dispute leads to the students’ choice. Use this opening on the case page, presentation and handout. Identify classroom assumptions separately, especially any invented prices, motives or counterfactual rules. Include the news report among the five or more sources.
+
 ## Opening decision
 
 Give students a role, a concrete choice and a reason to decide now. Save the explanation for the debrief.

@@ -4,6 +4,12 @@ Case 12 · Hong Kong · 10–15 minutes · Asymmetric information · Verificatio
 
 ![A buyer and seller inspect a used smartphone.](../battery-scene.jpg)
 
+## Hong Kong in the news · 18 October 2026
+
+A pavilion for second-hand smartphones debuted at a Hong Kong trade show, bringing together refurbishers and recycling platforms. If two used handsets look alike, what evidence makes one worth more?
+
+[South China Morning Post, 18 October 2026](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371309/second-hand-smartphone-traders-eye-hong-kong-springboard-global-exports?pgtype=live)
+
 ## Opening decision
 
 You are choosing between otherwise identical used phones. One seller asks HK$300 extra, saying the battery was replaced. A genuinely fresh battery is worth HK$500 extra to you. An old one adds nothing. You put the chance the claim is true at 40%.

@@ -4,6 +4,12 @@ Case 10 · Hong Kong · 10–15 minutes · Scarcity · Allocation rules
 
 ![Two badminton teams approach a university booking desk.](../court-scene.jpg)
 
+## Hong Kong in the news · 11 June 2026
+
+Hong Kong announced a 15-minute booking head start for certain SmartPLAY users authenticating with iAM Smart, as part of its response to touting. Who gains access when the rule changes who can book first?
+
+[Hong Kong Leisure and Cultural Services Department, 11 June 2026](https://www.info.gov.hk/gia/general/202606/11/P2026061100243.htm)
+
 ## Opening decision
 
 You allocate the last 7 p.m. court at a university. Two clubs request the full hour. Splitting it would leave neither club enough time for its match. Announce a rule before you learn who can attend booking.
