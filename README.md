@@ -223,3 +223,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 60
 
 60. [Two hundred clients. Two hundred new clients?](combined-clients.html)
+
+## Case 61
+
+61. [Paid today. Earned today?](paid-earned.html)
