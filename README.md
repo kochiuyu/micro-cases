@@ -344,3 +344,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 87
 
 87. [A fresher pack. Still easy to find?](familiar-pack.html)
+
+## Case 88
+
+88. [Check it again. Or make the mistake harder?](harder-to-miss.html)

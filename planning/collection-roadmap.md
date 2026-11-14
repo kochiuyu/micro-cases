@@ -4,7 +4,7 @@ The first balanced collection will have **120 cases, ten per teaching area**. Th
 
 ## Coverage ledger
 
-Eighty-seven cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 33 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
+Eighty-eight cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 32 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -13,7 +13,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Accounting, audit and management control | 9, 24, 30, 40, 52, 61, 73, 85 | — | 2 | A division misses its target after a shared cost is reassigned. Cut its budget or change the measure? |
 | Finance, banking and insurance | 2, 7, 18, 38, 50, 62, 74, 86 | — | 2 | A major customer asks for longer payment terms. What would you ask for in return? |
 | Marketing, retail and consumer behaviour | 11, 19, 31, 41, 57, 63, 75, 87 | — | 2 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
-| Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76 | — | 3 | Ship the whole order late or pay to send half by air? |
+| Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88 | — | 2 | Ship the whole order late or pay to send half by air? |
 | People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77 | — | 3 | A high-performing team refuses a promotion for its best member. Who should lead? |
 | Strategy and international business | 13, 21, 33, 43, 60, 66, 78 | — | 3 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
 | Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79 | — | 3 | A buyer wants the family brand and its name. Which terms would the founders accept? |
@@ -22,7 +22,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80 | — | 3 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83 | — | 3 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84 | — | 3 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **87 published** | **0 planned** | **33** | |
+| **Total** | **88 published** | **0 planned** | **32** | |
 
 ## How a lead earns a place
 
@@ -192,3 +192,5 @@ Case 85 adds depreciation-method judgement: evidence about consumption, ageing a
 Case 86 adds simple payback versus full-life net present value. Reviewed later receipts support a slower-recovering plan when funding, horizon and comparable risk are explicitly supplied. Forecast NPV is neither guaranteed cash nor accounting profit, and genuine liquidity constraints remain relevant.
 
 Case 87 adds packaging recognition and information hierarchy. A feasible hybrid preserves familiar cues while improving flavour clarity; separate task counts inform the tradeoff without claiming population rankings, causal sales effects or a universally dominant design.
+
+Case 88 adds quality at source: a counted packing aid can make omissions visible before closure, while release inspection remains necessary. A bounded before-and-after trial supports a choice without proving causation, zero escaped defects or cost savings.
