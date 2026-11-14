@@ -4,7 +4,7 @@ The first balanced collection will have **120 cases, ten per teaching area**. Th
 
 ## Coverage ledger
 
-Forty-two cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 78 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
+Forty-three cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 77 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -15,14 +15,14 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Marketing, retail and consumer behaviour | 11, 19, 31, 41 | — | 6 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
 | Operations, supply chains and logistics | 17, 27, 34, 42 | — | 6 | Ship the whole order late or pay to send half by air? |
 | People, leadership and organisational behaviour | 8, 15, 20, 39 | — | 6 | A high-performing team refuses a promotion for its best member. Who should lead? |
-| Strategy and international business | 13, 21, 33 | — | 7 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
+| Strategy and international business | 13, 21, 33, 43 | — | 6 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
 | Entrepreneurship, innovation and family business | 23, 28, 36 | — | 7 | A buyer wants the family brand and its name. Which terms would the founders accept? |
 | Information systems, AI and business analytics | 3, 26, 35 | — | 7 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
 | Governance, law, ethics and risk | 12, 22, 32 | — | 7 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14 | — | 6 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29 | — | 7 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37 | — | 7 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **42 published** | **0 planned** | **78** | |
+| **Total** | **43 published** | **0 planned** | **77** | |
 
 ## How a lead earns a place
 
@@ -86,3 +86,5 @@ One third of the 120-case target is published. All twelve areas have at least th
 Case 41 adds return-policy design: distinguish a longer deadline from lower customer effort and cost, while testing actual behaviour and total contribution rather than treating small interview samples as causal proof.
 
 Case 42 adds batch sequencing and responsiveness: meet an earlier mixed collection rather than merely the end-of-shift total. A three-run extension avoids presenting the initial four-run plan as optimal.
+
+Case 43 adds international product adaptation: preserve a core customer promise while separating channel-specific fit requirements from the uncommitted demand needed to cover development cost.

@@ -147,3 +147,7 @@ Every opening and round-two decision must use the highlighted **Your decision** 
 ## Case 42
 
 42. [Fewer changeovers. A later customer.](mixed-collection.html)
+
+## Case 43
+
+43. [Export the product, or export the promise?](portable-promise.html)
