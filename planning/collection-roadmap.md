@@ -4,7 +4,7 @@ The first balanced collection will have **120 cases, ten per teaching area**. Th
 
 ## Coverage ledger
 
-Fifty-two cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 68 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
+Fifty-three cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 67 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -17,12 +17,12 @@ Count each case once by its primary classroom decision. The assignments below ar
 | People, leadership and organisational behaviour | 8, 15, 20, 39, 51 | — | 5 | A high-performing team refuses a promotion for its best member. Who should lead? |
 | Strategy and international business | 13, 21, 33, 43 | — | 6 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
 | Entrepreneurship, innovation and family business | 23, 28, 36, 48 | — | 6 | A buyer wants the family brand and its name. Which terms would the founders accept? |
-| Information systems, AI and business analytics | 3, 26, 35, 44 | — | 6 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
+| Information systems, AI and business analytics | 3, 26, 35, 44, 53 | — | 5 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
 | Governance, law, ethics and risk | 12, 22, 32, 45 | — | 6 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49 | — | 5 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47 | — | 6 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46 | — | 6 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **52 published** | **0 planned** | **68** | |
+| **Total** | **53 published** | **0 planned** | **67** | |
 
 ## How a lead earns a place
 
@@ -110,3 +110,5 @@ Case 50 adds insurance trigger-versus-limit analysis: raising a payment ceiling 
 Case 51 adds employee voice and accountable learning: reporting coverage can rise without a higher underlying error rate. Welcome accurate signals, investigate causes and maintain quality standards without treating a before/after comparison as causal proof.
 
 Case 52 adds activity-adjusted cost evaluation: spending above the original plan can be below the allowance for approved actual output. Separate volume, remaining variance, managerial causation and spending authority.
+
+Case 53 adds shared data meaning: technically accepted files can encode the wrong packaging quantity. Verify product-level units and reconcile intended transactions before automating submission.
