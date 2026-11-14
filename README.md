@@ -243,3 +243,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 65
 
 65. [Choose your days. Coordinate your work.](shared-time.html)
+
+## Case 66
+
+66. [Share the studio. Share the advantage?](shared-advantage.html)
