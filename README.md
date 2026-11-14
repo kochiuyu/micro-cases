@@ -151,3 +151,7 @@ Every opening and round-two decision must use the highlighted **Your decision** 
 ## Case 43
 
 43. [Export the product, or export the promise?](portable-promise.html)
+
+## Case 44
+
+44. [Two approvals. One source.](one-source.html)
