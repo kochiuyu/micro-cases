@@ -135,3 +135,7 @@ Every opening and round-two decision must use the highlighted **Your decision** 
 ## Case 39
 
 39. [The handbook is complete. Are they ready?](ready-for-handoff.html)
+
+## Case 40
+
+40. [The stock is all there. Is it worth the same?](count-and-value.html)
