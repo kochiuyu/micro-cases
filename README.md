@@ -368,3 +368,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 93
 
 93. [No name. No conversation?](no-name-still-a-conversation.html)
+
+## Case 94
+
+94. [The landlord pays. Who saves?](landlord-pays-who-saves.html)

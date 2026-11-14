@@ -4,7 +4,7 @@ The first balanced collection will have **120 cases, ten per teaching area**. Th
 
 ## Coverage ledger
 
-Ninety-three cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 27 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
+Ninety-four cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 26 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -19,10 +19,10 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79, 91 | — | 2 | A buyer wants the family brand and its name. Which terms would the founders accept? |
 | Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71, 81, 92 | — | 2 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
 | Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93 | — | 2 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
-| Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80 | — | 3 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
+| Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94 | — | 2 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83 | — | 3 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84 | — | 3 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **93 published** | **0 planned** | **27** | |
+| **Total** | **94 published** | **0 planned** | **26** | |
 
 ## How a lead earns a place
 
@@ -204,3 +204,5 @@ Case 91 adds commercialisation-route choice: building a product brand and licens
 Case 92 adds informed supplier dependence: integrated software can release useful staff capacity while creating costlier future switching. A scoped planned migration makes the trade-off clearer without converting hours into cash, assuming exit is certain, or treating record export as emergency recovery.
 
 Case 93 adds anonymous versus confidential reporting access. A small fictional usability exercise supports two-way unnamed follow-up without establishing trust, workforce preference or future reporting. Existing human routes and funded independent assessment remain; fair handling, realistic expectations and accountable ownership matter beyond channel choice.
+
+Case 94 adds landlord–tenant split incentives: the party funding an efficiency upgrade does not receive the original bill savings. A voluntary verified-savings share can align incentives while leaving performance risk and measurement responsibilities visible; the transfer does not create extra energy savings or authorise a lease change.
