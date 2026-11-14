@@ -384,3 +384,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 97
 
 97. [Two balances. One payment.](two-balances-one-payment.html)
+
+## Case 98
+
+98. [One bank. Two kinds of safety.](protected-and-available.html)
