@@ -143,3 +143,7 @@ Every opening and round-two decision must use the highlighted **Your decision** 
 ## Case 41
 
 41. [More days to return it, or less trouble?](return-friction.html)
+
+## Case 42
+
+42. [Fewer changeovers. A later customer.](mixed-collection.html)
