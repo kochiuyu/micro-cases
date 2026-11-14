@@ -380,3 +380,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 96
 
 96. [One exhibit. More than one way in.](more-than-one-way-in.html)
+
+## Case 97
+
+97. [Two balances. One payment.](two-balances-one-payment.html)
