@@ -270,3 +270,8 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 71
 
 71. [A good forecast. Available when?](forecast-cutoff.html)
+
+
+## Case 72
+
+72. [Three small orders. One big commitment?](one-commitment.html)
