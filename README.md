@@ -211,3 +211,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 57
 
 57. [A slow seller. An important basket?](small-basket.html)
+
+## Case 58
+
+58. [Equal partners. Earned when?](founder-timing.html)
