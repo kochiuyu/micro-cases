@@ -187,3 +187,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 51
 
 51. [Four times the reports. Four times the mistakes?](more-reports.html)
+
+## Case 52
+
+52. [Over budget. Out of control?](over-budget.html)
