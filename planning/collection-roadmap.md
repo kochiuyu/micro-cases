@@ -4,7 +4,7 @@ The first balanced collection will have **120 cases, ten per teaching area**. Th
 
 ## Coverage ledger
 
-Sixty-seven cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 53 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
+Sixty-eight cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 52 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -16,13 +16,13 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64 | — | 4 | Ship the whole order late or pay to send half by air? |
 | People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65 | — | 4 | A high-performing team refuses a promotion for its best member. Who should lead? |
 | Strategy and international business | 13, 21, 33, 43, 60, 66 | — | 4 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
-| Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58 | — | 5 | A buyer wants the family brand and its name. Which terms would the founders accept? |
+| Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68 | — | 4 | A buyer wants the family brand and its name. Which terms would the founders accept? |
 | Information systems, AI and business analytics | 3, 26, 35, 44, 53 | — | 5 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
 | Governance, law, ethics and risk | 12, 22, 32, 45, 56 | — | 5 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67 | — | 4 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59 | — | 5 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54 | — | 5 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **67 published** | **0 planned** | **53** | |
+| **Total** | **68 published** | **0 planned** | **52** | |
 
 ## How a lead earns a place
 
@@ -142,3 +142,5 @@ Case 65 adds hybrid team coordination: identify task-specific shared time before
 Case 66 adds coopetition: sharing a facility can reduce costs while separate firms continue competing, but the exact resource boundary may change differentiation. A quoted saving that includes access to a distinctive set cannot be retained while assuming that access away. Customer responses and revised terms remain uncertain.
 
 Case 67 adds food-waste intervention fit: a separated composition audit distinguishes potential edible surplus from plate returns and inedible scraps. Donation remains valuable, but candidate weight is not guaranteed accepted donation; investigate prevention while protecting adequate meals and existing safe arrangements.
+
+Case 68 adds innovation-protection fit: confidential drawings do not make a mechanism undiscoverable in a sold product. A confidential internal test prompts pre-launch professional assessment without assuming patentability, guaranteed exclusivity or inevitable failure; hidden know-how and execution remain separate considerations.

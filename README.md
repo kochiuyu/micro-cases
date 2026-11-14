@@ -251,3 +251,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 67
 
 67. [Eighty kilos wasted. Eighty kilos to donate?](edible-surplus.html)
+
+## Case 68
+
+68. [Keep it secret. For how long?](visible-secret.html)
