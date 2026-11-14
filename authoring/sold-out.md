@@ -29,7 +29,7 @@ Contribution = sales revenue minus cost of every kit ordered. Sales cannot excee
 
 ## Round two
 
-The cashier checks the receipts: 80 of today’s 100 sandwiches were bought by visitors wearing wristbands for a nearby one-day event. The event will not run tomorrow. The price was the same for everyone. No other assumption changes.
+The cashier checks the wristband tally kept during the event: 80 of today’s 100 sandwiches were bought by visitors wearing wristbands for a nearby one-day event. The event will not run tomorrow. The price was the same for everyone. No other assumption changes.
 
 You do not know whether those visitors will return independently, whether local customers were turned away, or how many people would have bought later if stock had remained.
 
@@ -59,7 +59,7 @@ The news motivates the forecasting question. It does not establish that McDonald
 
 ## Instructor note
 
-Minutes 0–3: show the opening and payoff table; take a vote. Ask one student on each side to name the risk they accept. Minutes 3–7: reveal the event receipts and vote again. Minutes 7–12: compare the evidence students would collect and work through the optional threshold if appropriate.
+Minutes 0–3: show the opening and payoff table; take a vote. Ask one student on each side to name the risk they accept. Minutes 3–7: reveal the event tally and vote again. Minutes 7–12: compare the evidence students would collect and work through the optional threshold if appropriate.
 
 Challenge “100 sold means 100 wanted” with the unrecorded turnaways. Challenge “80 visitors gone means only 20 tomorrow” with the same missing data. Ask 200-order supporters how strong their high-demand belief must be. Ask 100-order supporters what evidence would make them switch. There is no uniquely correct quantity without a forecast and an objective. For a later discussion, consider whether pre-orders or smaller, more frequent replenishment could change the trade-off; those options are not available under today’s fixed order rule.
 
