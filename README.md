@@ -332,3 +332,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 84
 
 84. [A faster lunch. Which part should be faster?](meal-pace.html)
+
+## Case 85
+
+85. [A quiet year. Less machine used?](machine-hours.html)
