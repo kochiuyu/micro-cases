@@ -131,3 +131,7 @@ Every opening and round-two decision must use the highlighted **Your decision** 
 ## Case 38
 
 38. [The invoice is not the exposure](invoice-exposure.html)
+
+## Case 39
+
+39. [The handbook is complete. Are they ready?](ready-for-handoff.html)
