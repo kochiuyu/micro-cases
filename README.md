@@ -416,3 +416,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 105
 
 105. [Externally checked. What was checked?](what-was-checked.html)
+
+## Case 106
+
+106. [A bigger order. More mission?](bigger-order-more-mission.html)
