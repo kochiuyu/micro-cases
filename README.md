@@ -207,3 +207,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 56
 
 56. [A birthday offer. A full birth date?](birthday-fields.html)
+
+## Case 57
+
+57. [A slow seller. An important basket?](small-basket.html)
