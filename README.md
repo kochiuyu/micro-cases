@@ -328,3 +328,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 83
 
 83. [A cheaper delivery. Cheaper for whom?](cheaper-for-whom.html)
+
+## Case 84
+
+84. [A faster lunch. Which part should be faster?](meal-pace.html)

@@ -4,7 +4,7 @@ The first balanced collection will have **120 cases, ten per teaching area**. Th
 
 ## Coverage ledger
 
-Eighty-three cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 37 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
+Eighty-four cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 36 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -21,8 +21,8 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82 | — | 3 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80 | — | 3 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83 | — | 3 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
-| Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70 | — | 4 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **83 published** | **0 planned** | **37** | |
+| Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84 | — | 3 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
+| **Total** | **84 published** | **0 planned** | **36** | |
 
 ## How a lead earns a place
 
@@ -180,3 +180,9 @@ Case 81 adds staged information-system rollout design. Quiet-site exposure limit
 Case 82 adds supplier corrective-action governance. A bounded independent review and worker perspectives can support conditional renewal, while responsible exit remains possible. Buyer planning, continuing checks and escalation ownership matter alongside supplier accountability.
 
 Case 83 adds negative externalities: private handling costs exclude disturbance borne by neighbours. Quieter equipment lowers the combined modelled cost, while a comparison with the quieter service preserves a distributional tradeoff. Fictional monetary equivalents do not override rights or establish a universal social optimum.
+
+Case 84 adds guest-centred meal pacing: remove unwanted payment delay without assuming every meal stage should be rushed. An informed express option remains legitimate; rehearsal timings are not guaranteed departure times or extra sales.
+
+## 84-case balance checkpoint · 14 November 2026
+
+All twelve areas now have seven cases, leaving three per area to reach 120. Continue selecting distinct decisions, with the next formal feedback checkpoint at 96. This is an editorial coverage check, not evidence of classroom testing.
