@@ -400,3 +400,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 101
 
 101. [Separate the colleagues. Or repair the handoff?](repair-the-handoff.html)
+
+## Case 102
+
+102. [A premium offer. The same business?](same-business.html)
