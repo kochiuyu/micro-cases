@@ -49,9 +49,25 @@ class Page(HTMLParser):
   if tag=='nav':self.nav=False
   if tag=='span':self.code=None
 
+def check_identity_surfaces(source, case):
+ from html import unescape
+ code = case['code']
+ title = re.findall(r'<title>(.*?)</title>', source, re.S)
+ assert len(title) == 1 and unescape(title[0]).startswith(code + ' · '), (case['slug'], 'browser title code')
+ header = re.findall(r'<header\b[^>]*>(.*?)</header>', source, re.S)
+ assert len(header) == 1, (case['slug'], 'header missing')
+ identity = re.findall(r'<strong[^>]*>(.*?)</strong>', header[0], re.S)
+ assert identity == ['MICRO CASE · ' + code], (case['slug'], 'header code')
+ dialogs = re.findall(r'<dialog\b[^>]*aria-label="([^"]*)"', source)
+ assert dialogs == [code + ' classroom presentation'], (case['slug'], 'presentation label code')
+ counters = re.findall(r"document\.querySelector\('\#counter'\)\.textContent=([^;]+)", source)
+ assert len(counters) == 1 and counters[0].startswith("'" + code + " · '+"), (case['slug'], 'presentation counter code')
+
 def check_pages(root,data):
  for c in data['cases']:
-  page=Page();page.feed((root/(c['slug']+'.html')).read_text())
+  source=(root/(c['slug']+'.html')).read_text()
+  check_identity_surfaces(source,c)
+  page=Page();page.feed(source)
   assert 'case-navigation.css' in page.css,c['slug']
   assert [''.join(v).strip() for v in page.codes]==[c['code']],c['slug']
   group=sorted([x for x in data['cases'] if x['area']==c['area']],key=lambda x:x['legacy_id']);i=group.index(c)
@@ -68,6 +84,14 @@ def check(root=ROOT):
  import copy
  data,mapping=load_registry(root)
  check_pages(root,data)
+ # Changing only one surface must fail even if metadata remains correct.
+ case=data['cases'][0];source=(root/(case['slug']+'.html')).read_text();code=case['code']
+ for before in ('<title>'+code+' · ', '<strong>MICRO CASE · '+code+'</strong>', 'aria-label="'+code+' classroom presentation"', "textContent='"+code+" · '+"):
+  assert before in source
+  bad=source.replace(before,before.replace(code,'WRONG-99'),1)
+  try:check_identity_surfaces(bad,case)
+  except AssertionError:pass
+  else:raise AssertionError('Identity surface mutation escaped: '+before)
  for mutation in ('id','code','slug','area','order'):
   bad=copy.deepcopy(data)
   if mutation=='id':bad['cases'][0]['legacy_id']=bad['cases'][1]['legacy_id']

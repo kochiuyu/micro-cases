@@ -162,3 +162,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 118 | SUS-10 | [replace-which-part.html](../replace-which-part.html) | Repair the chair. Replace which part? |
 | 119 | ECO-10 | [covered-damage.html](../covered-damage.html) | Covered damage. Unchanged behaviour? |
 | 120 | HSP-10 | [whose-story.html](../whose-story.html) | A village tour. Whose story? |
+| 121 | ACC-11 | [same-units-different-setups.html](../same-units-different-setups.html) | Same units. Same overhead? |

@@ -902,6 +902,13 @@
       "slug": "whose-story",
       "area": "Hospitality, tourism, property and service management",
       "title": "A village tour. Whose story?"
+    },
+    {
+      "legacy_id": 121,
+      "code": "ACC-11",
+      "slug": "same-units-different-setups",
+      "area": "Accounting, audit and management control",
+      "title": "Same units. Same overhead?"
     }
   ]
 }

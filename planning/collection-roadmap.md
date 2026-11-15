@@ -1,28 +1,28 @@
-# Micro Cases in Business · Roadmap to 120 and 144
+# Micro Cases in Business · Coverage and expansion to 240
 
-The first balanced collection now has **120 cases, ten per teaching area**. The next milestone is **144 cases, twelve per area**. Beyond 144, each additional set of twelve adds one case per area.
+The original 120-case collection is complete. The approved [expansion plan](expansion-to-240.md) adds cases 11–20 to each area, targeting 240 in ten balanced waves.
 
 ## Coverage ledger
 
-One hundred and twenty cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). The first target is complete: twelve teaching areas with ten cases each. The 2024 award acknowledgement covers Cases 1–8.
+121 cases are published: the original 120 plus ACC-11. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
-| Primary teaching area | Published case numbers | Planned case numbers | Further leads to reach ten | Example decision to scout |
+| Primary teaching area | Published case numbers | Planned case numbers | Remaining cases to reach twenty | Example decision to scout |
 |---|---|---|---:|---|
-| Accounting, audit and management control | 9, 24, 30, 40, 52, 61, 73, 85, 97, 109 | — | 0 | A division misses its target after a shared cost is reassigned. Cut its budget or change the measure? |
-| Finance, banking and insurance | 2, 7, 18, 38, 50, 62, 74, 86, 98, 110 | — | 0 | A major customer asks for longer payment terms. What would you ask for in return? |
-| Marketing, retail and consumer behaviour | 11, 19, 31, 41, 57, 63, 75, 87, 99, 111 | — | 0 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
-| Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88, 100, 112 | — | 0 | Ship the whole order late or pay to send half by air? |
-| People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77, 89, 101, 113 | — | 0 | A high-performing team refuses a promotion for its best member. Who should lead? |
-| Strategy and international business | 13, 21, 33, 43, 60, 66, 78, 90, 102, 114 | — | 0 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
-| Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79, 91, 103, 115 | — | 0 | A buyer wants the family brand and its name. Which terms would the founders accept? |
-| Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71, 81, 92, 104, 116 | — | 0 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
-| Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93, 105, 117 | — | 0 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
-| Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118 | — | 0 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
-| Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119 | — | 0 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
-| Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120 | — | 0 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **120 published** | **0 planned** | **0** | |
+| Accounting, audit and management control | 9, 24, 30, 40, 52, 61, 73, 85, 97, 109, 121 | — | 9 | A division misses its target after a shared cost is reassigned. Cut its budget or change the measure? |
+| Finance, banking and insurance | 2, 7, 18, 38, 50, 62, 74, 86, 98, 110 | — | 10 | A major customer asks for longer payment terms. What would you ask for in return? |
+| Marketing, retail and consumer behaviour | 11, 19, 31, 41, 57, 63, 75, 87, 99, 111 | — | 10 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
+| Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88, 100, 112 | — | 10 | Ship the whole order late or pay to send half by air? |
+| People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77, 89, 101, 113 | — | 10 | A high-performing team refuses a promotion for its best member. Who should lead? |
+| Strategy and international business | 13, 21, 33, 43, 60, 66, 78, 90, 102, 114 | — | 10 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
+| Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79, 91, 103, 115 | — | 10 | A buyer wants the family brand and its name. Which terms would the founders accept? |
+| Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71, 81, 92, 104, 116 | — | 10 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
+| Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93, 105, 117 | — | 10 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
+| Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118 | — | 10 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
+| Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119 | — | 10 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
+| Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120 | — | 10 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
+| **Total** | **121 published** | **119 approved editorial slots** | **119** | |
 
 ## How a lead earns a place
 
@@ -274,3 +274,7 @@ Case 120 adds community agency in a cultural-tourism product. Two equally funded
 The first balanced collection contains cases 1–120 once each and ten primary assignments in each of twelve teaching areas. The card/objective matrix was reviewed for distinct decisions; Cases 109–120 received a deeper review against nearby earlier cases. This is an internal editorial and technical checkpoint, not instructor feedback or evidence of learning outcomes. New cases preserve optional-only source links, explicit fictional assumptions, matching watercolor-and-ink illustrations and highlighted decision questions in both page and presentation.
 
 Collection, discipline/filter, link-location and decision-prompt checks remain required before publication, together with script syntax and deployment checks. The five-source convention denotes substantive contextual bodies, not five independent empirical studies for every case. Prior source research is not a fresh universal availability audit. Browser checks cover the tested desktop flows; mobile viewport and print-rendering verification remain limited by the available browser tools. Classroom pacing, accessibility certification and actual instructor/student feedback remain future review work. The 144-case milestone is a future editorial target, not a claim that additional cases have been commissioned or published.
+
+## Expansion wave 1 · ACC-11
+
+Case 121 (ACC-11) separates production volume from batch-support consumption in repeat-order costing. Five source bodies were read, including dated HKPC manufacturing context and accounting teaching references; all workshop figures are original fictional assumptions. Independent source, arithmetic and editorial review passed before rendering. Changing the allocation reconciles the same HK$38,000 total and does not itself save cash or determine an optimal price. The remaining eleven areas in this wave are not counted as published.
