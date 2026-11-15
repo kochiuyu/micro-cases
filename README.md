@@ -780,3 +780,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## OPS-17
 
 196. [Steady output. Or follow the peak?](steady-output-later-peak.html)
+
+## PPL-17
+
+197. [Everyone agrees. Has everyone’s evidence been heard?](whose-evidence-reached-the-table.html)

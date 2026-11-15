@@ -4,7 +4,7 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-196 cases are published: the original 120 plus 76 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+197 cases are published: the original 120 plus 77 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -14,7 +14,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Finance, banking and insurance | 2, 7, 18, 38, 50, 62, 74, 86, 98, 110, 122, 134, 146, 158, 170, 182, 194 | — | 3 | A major customer asks for longer payment terms. What would you ask for in return? |
 | Marketing, retail and consumer behaviour | 11, 19, 31, 41, 57, 63, 75, 87, 99, 111, 123, 135, 147, 159, 171, 183, 195 | — | 3 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
 | Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88, 100, 112, 124, 136, 148, 160, 172, 184, 196 | — | 3 | Ship the whole order late or pay to send half by air? |
-| People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77, 89, 101, 113, 125, 137, 149, 161, 173, 185 | — | 4 | A high-performing team refuses a promotion for its best member. Who should lead? |
+| People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77, 89, 101, 113, 125, 137, 149, 161, 173, 185, 197 | — | 3 | A high-performing team refuses a promotion for its best member. Who should lead? |
 | Strategy and international business | 13, 21, 33, 43, 60, 66, 78, 90, 102, 114, 126, 138, 150, 162, 174, 186 | — | 4 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
 | Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79, 91, 103, 115, 127, 139, 151, 163, 175, 187 | — | 4 | A buyer wants the family brand and its name. Which terms would the founders accept? |
 | Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71, 81, 92, 104, 116, 128, 140, 152, 164, 176, 188 | — | 4 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
@@ -22,7 +22,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142, 154, 166, 178, 190 | — | 4 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143, 155, 167, 179, 191 | — | 4 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144, 156, 168, 180, 192 | — | 4 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **196 published** | **44 approved editorial slots** | **44** | |
+| **Total** | **197 published** | **43 approved editorial slots** | **43** | |
 
 ## How a lead earns a place
 
@@ -605,3 +605,7 @@ Integrated the independently reviewed case. Attribute trade-offs are elicited wi
 ## Expansion wave 7 · OPS-17
 
 Integrated the independently reviewed case. Aggregate production choices preserve the stated workforce, inventory and backlog constraints rather than treating delayed work or stock as costless. Reviewed substantive facts and exact prompts are preserved, with optional source scopes and uncertainty limits retained. Parent-approved original artwork is hash-verified and illustrative. Local validation remains separate from rendered, mobile, print and live QA.
+
+## Expansion wave 7 · PPL-17
+
+Integrated the independently reviewed case. Shared information and unique evidence are distinguished; the staged discussion does not establish that consensus alone verifies a decision. Reviewed substantive facts and exact prompts are preserved, with optional source scopes and uncertainty limits retained. Parent-approved original artwork is hash-verified and illustrative. Local validation remains separate from rendered, mobile, print and live QA.

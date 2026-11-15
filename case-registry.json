@@ -1434,6 +1434,13 @@
       "slug": "steady-output-later-peak",
       "area": "Operations, supply chains and logistics",
       "title": "Steady output. Or follow the peak?"
+    },
+    {
+      "legacy_id": 197,
+      "code": "PPL-17",
+      "slug": "whose-evidence-reached-the-table",
+      "area": "People, leadership and organisational behaviour",
+      "title": "Everyone agrees. Has everyone’s evidence been heard?"
     }
   ]
 }
