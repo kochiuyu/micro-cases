@@ -1518,6 +1518,13 @@
       "slug": "orders-are-not-consumption",
       "area": "Operations, supply chains and logistics",
       "title": "Customer demand moved a little. Orders moved a lot."
+    },
+    {
+      "legacy_id": 209,
+      "code": "PPL-18",
+      "slug": "count-the-work-not-only-the-reports",
+      "area": "People, leadership and organisational behaviour",
+      "title": "More people to lead. The same manager’s day?"
     }
   ]
 }

@@ -828,3 +828,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## OPS-18
 
 208. [Customer demand moved a little. Orders moved a lot.](orders-are-not-consumption.html)
+
+## PPL-18
+
+209. [More people to lead. The same manager’s day?](count-the-work-not-only-the-reports.html)
