@@ -1707,6 +1707,13 @@
       "slug": "stop-the-venture-keep-the-promise",
       "area": "Entrepreneurship, innovation and family business",
       "title": "Stop the venture. Keep the promise?"
+    },
+    {
+      "legacy_id": 236,
+      "code": "IS-20",
+      "slug": "trace-the-number-not-only-the-chart",
+      "area": "Information systems, AI and business analytics",
+      "title": "A persuasive dashboard. Can we trace the number?"
     }
   ]
 }

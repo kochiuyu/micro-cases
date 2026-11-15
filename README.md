@@ -936,3 +936,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## ENT-20
 
 235. [Stop the venture. Keep the promise?](stop-the-venture-keep-the-promise.html)
+
+## IS-20
+
+236. [A persuasive dashboard. Can we trace the number?](trace-the-number-not-only-the-chart.html)
