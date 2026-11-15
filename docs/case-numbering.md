@@ -276,3 +276,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 232 | OPS-20 | [count-the-risky-shelves.html](../count-the-risky-shelves.html) | Count everything twice. Or risky shelves more often? |
 | 233 | PPL-20 | [whose-example-changes-the-habit.html](../whose-example-changes-the-habit.html) | The instruction is clear. Whose example changes the habit? |
 | 234 | STR-20 | [one-network-local-decisions.html](../one-network-local-decisions.html) | One network. Every decision at headquarters? |
+| 235 | ENT-20 | [stop-the-venture-keep-the-promise.html](../stop-the-venture-keep-the-promise.html) | Stop the venture. Keep the promise? |

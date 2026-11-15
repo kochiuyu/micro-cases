@@ -932,3 +932,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## STR-20
 
 234. [One network. Every decision at headquarters?](one-network-local-decisions.html)
+
+## ENT-20
+
+235. [Stop the venture. Keep the promise?](stop-the-venture-keep-the-promise.html)

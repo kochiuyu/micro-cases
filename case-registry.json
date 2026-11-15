@@ -1700,6 +1700,13 @@
       "slug": "one-network-local-decisions",
       "area": "Strategy and international business",
       "title": "One network. Every decision at headquarters?"
+    },
+    {
+      "legacy_id": 235,
+      "code": "ENT-20",
+      "slug": "stop-the-venture-keep-the-promise",
+      "area": "Entrepreneurship, innovation and family business",
+      "title": "Stop the venture. Keep the promise?"
     }
   ]
 }
