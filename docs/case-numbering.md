@@ -206,3 +206,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 162 | STR-14 | [own-or-share-the-operation.html](../own-or-share-the-operation.html) | Own the operation. Share the local knowledge? |
 | 163 | ENT-14 | [sell-now-stay-to-build.html](../sell-now-stay-to-build.html) | Sell now. Stay to build? |
 | 164 | IS-14 | [accurate-alerts-useful-alerts.html](../accurate-alerts-useful-alerts.html) | Accurate alerts. Useful alerts? |
+| 165 | GVR-14 | [training-not-a-holiday.html](../training-not-a-holiday.html) | A training visit. A supplier’s holiday? |

@@ -652,3 +652,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## IS-14
 
 164. [Accurate alerts. Useful alerts?](accurate-alerts-useful-alerts.html)
+
+## GVR-14
+
+165. [A training visit. A supplier’s holiday?](training-not-a-holiday.html)

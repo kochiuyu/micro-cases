@@ -1210,6 +1210,13 @@
       "slug": "accurate-alerts-useful-alerts",
       "area": "Information systems, AI and business analytics",
       "title": "Accurate alerts. Useful alerts?"
+    },
+    {
+      "legacy_id": 165,
+      "code": "GVR-14",
+      "slug": "training-not-a-holiday",
+      "area": "Governance, law, ethics and risk",
+      "title": "A training visit. A supplier’s holiday?"
     }
   ]
 }
