@@ -844,3 +844,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## IS-18
 
 212. [The feature is delivered. Is the work supported?](features-pass-work-still-waits.html)
+
+## GVR-18
+
+213. [A useful industry meeting. Which topics are off limits?](keep-the-meeting-in-bounds.html)

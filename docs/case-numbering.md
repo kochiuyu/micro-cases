@@ -254,3 +254,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 210 | STR-18 | [another-way-to-spend-the-evening.html](../another-way-to-spend-the-evening.html) | The rival across the road. Or a different way to meet the need? |
 | 211 | ENT-18 | [will-the-routine-travel.html](../will-the-routine-travel.html) | It worked in the last business. Will the routine travel? |
 | 212 | IS-18 | [features-pass-work-still-waits.html](../features-pass-work-still-waits.html) | The feature is delivered. Is the work supported? |
+| 213 | GVR-18 | [keep-the-meeting-in-bounds.html](../keep-the-meeting-in-bounds.html) | A useful industry meeting. Which topics are off limits? |

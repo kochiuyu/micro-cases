@@ -1546,6 +1546,13 @@
       "slug": "features-pass-work-still-waits",
       "area": "Information systems, AI and business analytics",
       "title": "The feature is delivered. Is the work supported?"
+    },
+    {
+      "legacy_id": 213,
+      "code": "GVR-18",
+      "slug": "keep-the-meeting-in-bounds",
+      "area": "Governance, law, ethics and risk",
+      "title": "A useful industry meeting. Which topics are off limits?"
     }
   ]
 }
