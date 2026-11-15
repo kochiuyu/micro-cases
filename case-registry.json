@@ -1413,6 +1413,13 @@
       "slug": "coverage-is-not-a-population",
       "area": "Accounting, audit and management control",
       "title": "Most of the value. Enough of the evidence?"
+    },
+    {
+      "legacy_id": 194,
+      "code": "FIN-17",
+      "slug": "cheaper-credit-tighter-promise",
+      "area": "Finance, banking and insurance",
+      "title": "More credit. A tighter promise?"
     }
   ]
 }

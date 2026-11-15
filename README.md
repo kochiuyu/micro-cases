@@ -768,3 +768,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## ACC-17
 
 193. [Most of the value. Enough of the evidence?](coverage-is-not-a-population.html)
+
+## FIN-17
+
+194. [More credit. A tighter promise?](cheaper-credit-tighter-promise.html)
