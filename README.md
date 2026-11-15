@@ -448,3 +448,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 113
 
 113. [A higher target. A clearer method?](clearer-method.html)
+
+## Case 114
+
+114. [One large customer. Too much dependence?](anchor-customer.html)
