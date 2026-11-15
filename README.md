@@ -764,3 +764,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## HSP-16
 
 192. [Lively to one table. Too loud to another?](a-room-for-this-conversation.html)
+
+## ACC-17
+
+193. [Most of the value. Enough of the evidence?](coverage-is-not-a-population.html)

@@ -1406,6 +1406,13 @@
       "slug": "a-room-for-this-conversation",
       "area": "Hospitality, tourism, property and service management",
       "title": "Lively to one table. Too loud to another?"
+    },
+    {
+      "legacy_id": 193,
+      "code": "ACC-17",
+      "slug": "coverage-is-not-a-population",
+      "area": "Accounting, audit and management control",
+      "title": "Most of the value. Enough of the evidence?"
     }
   ]
 }
