@@ -508,3 +508,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## IS-11
 
 128. [Most respondents liked it. Most customers?](respondents-or-customers.html)
+
+## GVR-11
+
+129. [The meeting agreed. Which version applies?](which-version.html)

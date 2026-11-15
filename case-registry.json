@@ -958,6 +958,13 @@
       "slug": "respondents-or-customers",
       "area": "Information systems, AI and business analytics",
       "title": "Most respondents liked it. Most customers?"
+    },
+    {
+      "legacy_id": 129,
+      "code": "GVR-11",
+      "slug": "which-version",
+      "area": "Governance, law, ethics and risk",
+      "title": "The meeting agreed. Which version applies?"
     }
   ]
 }
