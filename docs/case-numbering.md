@@ -265,3 +265,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 221 | PPL-19 | [lose-a-team-member-keep-a-colleague.html](../lose-a-team-member-keep-a-colleague.html) | Lose a team member. Keep a colleague? |
 | 222 | STR-19 | [next-market-missing-capability.html](../next-market-missing-capability.html) | The next market. The next missing capability? |
 | 223 | ENT-19 | [start-a-business-buy-one-to-run.html](../start-a-business-buy-one-to-run.html) | Start a business. Or buy one to run? |
+| 224 | IS-19 | [one-switch-two-records.html](../one-switch-two-records.html) | One switch-over. Two records to reconcile? |

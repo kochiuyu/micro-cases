@@ -1623,6 +1623,13 @@
       "slug": "start-a-business-buy-one-to-run",
       "area": "Entrepreneurship, innovation and family business",
       "title": "Start a business. Or buy one to run?"
+    },
+    {
+      "legacy_id": 224,
+      "code": "IS-19",
+      "slug": "one-switch-two-records",
+      "area": "Information systems, AI and business analytics",
+      "title": "One switch-over. Two records to reconcile?"
     }
   ]
 }
