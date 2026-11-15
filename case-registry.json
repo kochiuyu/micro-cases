@@ -1504,6 +1504,13 @@
       "slug": "cash-on-the-day-it-is-needed",
       "area": "Finance, banking and insurance",
       "title": "Earn more interest. Available on which day?"
+    },
+    {
+      "legacy_id": 207,
+      "code": "MKT-18",
+      "slug": "permission-is-not-a-message-quota",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "More reminders. More relationships?"
     }
   ]
 }

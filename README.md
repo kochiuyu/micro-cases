@@ -820,3 +820,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## FIN-18
 
 206. [Earn more interest. Available on which day?](cash-on-the-day-it-is-needed.html)
+
+## MKT-18
+
+207. [More reminders. More relationships?](permission-is-not-a-message-quota.html)

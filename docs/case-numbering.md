@@ -248,3 +248,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 204 | HSP-17 | [keys-are-not-a-completion-record.html](../keys-are-not-a-completion-record.html) | Keys handed over. Ready to move in? |
 | 205 | ACC-18 | [one-target-two-views.html](../one-target-two-views.html) | Keep the budget. Update the forecast? |
 | 206 | FIN-18 | [cash-on-the-day-it-is-needed.html](../cash-on-the-day-it-is-needed.html) | Earn more interest. Available on which day? |
+| 207 | MKT-18 | [permission-is-not-a-message-quota.html](../permission-is-not-a-message-quota.html) | More reminders. More relationships? |
