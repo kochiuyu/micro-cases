@@ -229,3 +229,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 185 | PPL-16 | [someone-else-can-cover.html](../someone-else-can-cover.html) | One expert. Who else can cover? |
 | 186 | STR-16 | [compatible-with-what.html](../compatible-with-what.html) | Join the standard. Keep the distinctive feature? |
 | 187 | ENT-16 | [one-first-market.html](../one-first-market.html) | Many possible users. One first market? |
+| 188 | IS-16 | [same-error-different-loss.html](../same-error-different-loss.html) | The same average error. The same business cost? |

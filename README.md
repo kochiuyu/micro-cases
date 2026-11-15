@@ -744,3 +744,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## ENT-16
 
 187. [Many possible users. One first market?](one-first-market.html)
+
+## IS-16
+
+188. [The same average error. The same business cost?](same-error-different-loss.html)

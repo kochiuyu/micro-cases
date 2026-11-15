@@ -1371,6 +1371,13 @@
       "slug": "one-first-market",
       "area": "Entrepreneurship, innovation and family business",
       "title": "Many possible users. One first market?"
+    },
+    {
+      "legacy_id": 188,
+      "code": "IS-16",
+      "slug": "same-error-different-loss",
+      "area": "Information systems, AI and business analytics",
+      "title": "The same average error. The same business cost?"
     }
   ]
 }
