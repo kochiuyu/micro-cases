@@ -993,6 +993,13 @@
       "slug": "margin-per-minute",
       "area": "Accounting, audit and management control",
       "title": "The best margin. Per what?"
+    },
+    {
+      "legacy_id": 134,
+      "code": "FIN-12",
+      "slug": "rent-and-exit",
+      "area": "Finance, banking and insurance",
+      "title": "Rent the equipment. Keep the exit?"
     }
   ]
 }

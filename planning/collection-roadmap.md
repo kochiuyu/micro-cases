@@ -4,14 +4,14 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-133 cases are published: the original 120 plus 13 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+134 cases are published: the original 120 plus 14 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
 | Primary teaching area | Published case numbers | Planned case numbers | Remaining cases to reach twenty | Example decision to scout |
 |---|---|---|---:|---|
 | Accounting, audit and management control | 9, 24, 30, 40, 52, 61, 73, 85, 97, 109, 121, 133 | — | 8 | A division misses its target after a shared cost is reassigned. Cut its budget or change the measure? |
-| Finance, banking and insurance | 2, 7, 18, 38, 50, 62, 74, 86, 98, 110, 122 | — | 9 | A major customer asks for longer payment terms. What would you ask for in return? |
+| Finance, banking and insurance | 2, 7, 18, 38, 50, 62, 74, 86, 98, 110, 122, 134 | — | 8 | A major customer asks for longer payment terms. What would you ask for in return? |
 | Marketing, retail and consumer behaviour | 11, 19, 31, 41, 57, 63, 75, 87, 99, 111, 123 | — | 9 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
 | Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88, 100, 112, 124 | — | 9 | Ship the whole order late or pay to send half by air? |
 | People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77, 89, 101, 113, 125 | — | 9 | A high-performing team refuses a promotion for its best member. Who should lead? |
@@ -22,7 +22,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130 | — | 9 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131 | — | 9 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132 | — | 9 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **133 published** | **107 approved editorial slots** | **107** | |
+| **Total** | **134 published** | **106 approved editorial slots** | **106** | |
 
 ## How a lead earns a place
 
@@ -329,3 +329,7 @@ The first twelve expansion cases add one distinct lead objective in each teachin
 ## Expansion wave 2 · ACC-12
 
 Case 133 (ACC-12) compares contribution per scarce finishing minute rather than contribution per order. Original whole-order quantities and confirmed demand caps produce a feasible HK$660 contribution mix within 180 minutes. A costed extra hour raises contribution to HK$840 before its HK$100 charge, an HK$80 improvement after that charge; unchanged fixed costs remain outside the comparison. The marginal hour serves the lower-ranked product because demand for the higher-ranked product is already filled. Five substantive source bodies, arithmetic and distinctness from setup-cost allocation and bottleneck investment received independent review. Two reference chapters belong to the same textbook, not independent empirical studies. Rendering and deployment verification remain separate from this editorial note.
+
+## Expansion wave 2 · FIN-12
+
+Case 134 (FIN-12) compares buying and leasing the same scanner, including a specified contractual exit and uncertain resale proceeds. The original three-year undiscounted cash comparison favours buying under its forecast; a pre-signing horizon change requires a fresh one-year comparison. The supplied lease exit costs HK$48,000 and releases the remaining payments when its conditions are met. Buying matches that cost at HK$48,000 net resale, a threshold rather than a valuation or guaranteed sale. Five substantive source bodies and independent editorial/arithmetic review support the bounded exercise; foreign tax/accounting treatments and financier-specific terms are not imported into the fictional Hong Kong contract. Rendering and deployment checks remain separate.

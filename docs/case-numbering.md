@@ -175,3 +175,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 131 | ECO-11 | [one-more-hour.html](../one-more-hour.html) | A profitable day. One more hour? |
 | 132 | HSP-11 | [another-promise.html](../another-promise.html) | A cancellation forecast. Another promise? |
 | 133 | ACC-12 | [margin-per-minute.html](../margin-per-minute.html) | The best margin. Per what? |
+| 134 | FIN-12 | [rent-and-exit.html](../rent-and-exit.html) | Rent the equipment. Keep the exit? |

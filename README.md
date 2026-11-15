@@ -528,3 +528,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## ACC-12
 
 133. [The best margin. Per what?](margin-per-minute.html)
+
+## FIN-12
+
+134. [Rent the equipment. Keep the exit?](rent-and-exit.html)
