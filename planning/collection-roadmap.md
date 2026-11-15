@@ -4,7 +4,7 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-150 cases are published: the original 120 plus 30 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+151 cases are published: the original 120 plus 31 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -16,13 +16,13 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88, 100, 112, 124, 136, 148 | — | 7 | Ship the whole order late or pay to send half by air? |
 | People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77, 89, 101, 113, 125, 137, 149 | — | 7 | A high-performing team refuses a promotion for its best member. Who should lead? |
 | Strategy and international business | 13, 21, 33, 43, 60, 66, 78, 90, 102, 114, 126, 138, 150 | — | 7 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
-| Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79, 91, 103, 115, 127, 139 | — | 8 | A buyer wants the family brand and its name. Which terms would the founders accept? |
+| Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79, 91, 103, 115, 127, 139, 151 | — | 7 | A buyer wants the family brand and its name. Which terms would the founders accept? |
 | Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71, 81, 92, 104, 116, 128, 140 | — | 8 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
 | Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93, 105, 117, 129, 141 | — | 8 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142 | — | 8 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143 | — | 8 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144 | — | 8 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **150 published** | **90 approved editorial slots** | **90** | |
+| **Total** | **151 published** | **89 approved editorial slots** | **89** | |
 
 ## How a lead earns a place
 
@@ -401,3 +401,7 @@ Case 149 (PPL-13) distinguishes equal leave entitlement from fair access to a sc
 ## Expansion wave 3 · STR-13
 
 Case 150 (STR-13) distinguishes opening first from building a durable advantage while a complementary service remains uncertain. The fictional workshop is complete, lawful and accessible without the optional shuttle. Its additional four-week opening cost requires 120 paid visits, or 75% of capacity, to break even; expressions of interest are neither bookings nor conversion forecasts. Early operating learning and later readiness information both have potential value, but later-period outcomes and shuttle-start probabilities are not supplied. Five substantive source bodies and independent editorial/arithmetic review were completed, with related contextual releases identified rather than treated as independent studies. Parent-approved original artwork is illustrative; rendering and deployment checks remain separate.
+
+## Expansion wave 3 · ENT-13
+
+Case 151 (ENT-13) distinguishes familiar trust from access to complementary resources through a network bridge. Equal-budget activities trade specification learning within an established circle against exploratory conversations beyond it; neither introductions nor weak ties guarantee capability, availability or customers. The original sketch preserves familiar contacts' value and requires consent, verification and separately agreed next steps before any resource commitment. Five substantive source bodies and independent editorial review were completed; institutional programme descriptions and research concepts do not establish venture outcomes. Parent-approved original artwork is illustrative; rendering and deployment checks remain separate.

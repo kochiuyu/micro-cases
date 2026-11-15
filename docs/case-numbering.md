@@ -192,3 +192,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 148 | OPS-13 | [promise-by-when.html](../promise-by-when.html) | Promise Friday. Based on which stock? |
 | 149 | PPL-13 | [same-leave-fair-process.html](../same-leave-fair-process.html) | The same leave entitlement. The same fair process? |
 | 150 | STR-13 | [open-before-the-network.html](../open-before-the-network.html) | Open first. Be ready first? |
+| 151 | ENT-13 | [beyond-familiar-contacts.html](../beyond-familiar-contacts.html) | Ask the people we know. Meet the people they do not know? |

@@ -596,3 +596,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## STR-13
 
 150. [Open first. Be ready first?](open-before-the-network.html)
+
+## ENT-13
+
+151. [Ask the people we know. Meet the people they do not know?](beyond-familiar-contacts.html)
