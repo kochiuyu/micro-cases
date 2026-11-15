@@ -928,3 +928,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## PPL-20
 
 233. [The instruction is clear. Whose example changes the habit?](whose-example-changes-the-habit.html)
+
+## STR-20
+
+234. [One network. Every decision at headquarters?](one-network-local-decisions.html)

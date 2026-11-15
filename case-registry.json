@@ -1693,6 +1693,13 @@
       "slug": "whose-example-changes-the-habit",
       "area": "People, leadership and organisational behaviour",
       "title": "The instruction is clear. Whose example changes the habit?"
+    },
+    {
+      "legacy_id": 234,
+      "code": "STR-20",
+      "slug": "one-network-local-decisions",
+      "area": "Strategy and international business",
+      "title": "One network. Every decision at headquarters?"
     }
   ]
 }
