@@ -1203,6 +1203,13 @@
       "slug": "sell-now-stay-to-build",
       "area": "Entrepreneurship, innovation and family business",
       "title": "Sell now. Stay to build?"
+    },
+    {
+      "legacy_id": 164,
+      "code": "IS-14",
+      "slug": "accurate-alerts-useful-alerts",
+      "area": "Information systems, AI and business analytics",
+      "title": "Accurate alerts. Useful alerts?"
     }
   ]
 }

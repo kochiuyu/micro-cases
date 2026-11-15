@@ -4,7 +4,7 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-163 cases are published: the original 120 plus 43 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+164 cases are published: the original 120 plus 44 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -17,12 +17,12 @@ Count each case once by its primary classroom decision. The assignments below ar
 | People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77, 89, 101, 113, 125, 137, 149, 161 | — | 6 | A high-performing team refuses a promotion for its best member. Who should lead? |
 | Strategy and international business | 13, 21, 33, 43, 60, 66, 78, 90, 102, 114, 126, 138, 150, 162 | — | 6 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
 | Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79, 91, 103, 115, 127, 139, 151, 163 | — | 6 | A buyer wants the family brand and its name. Which terms would the founders accept? |
-| Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71, 81, 92, 104, 116, 128, 140, 152 | — | 7 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
+| Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71, 81, 92, 104, 116, 128, 140, 152, 164 | — | 6 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
 | Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93, 105, 117, 129, 141, 153 | — | 7 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142, 154 | — | 7 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143, 155 | — | 7 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144, 156 | — | 7 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **163 published** | **77 approved editorial slots** | **77** | |
+| **Total** | **164 published** | **76 approved editorial slots** | **76** | |
 
 ## How a lead earns a place
 
@@ -457,3 +457,7 @@ Case 162 (STR-14) compares ownership of a foreign operation when a prospective p
 ## Expansion wave 4 · ENT-14
 
 Case 163 (ENT-14) separates certain share consideration, contingent earn-out and pay for continuing work. The fictional target is measurable but only partly influenced by the founder after sale; records and count adjudication do not guarantee the commercial conditions needed to reach it. Both actual packages remain defensible without invented probabilities or free negotiated improvements. Five substantive source bodies and independent editorial/arithmetic review were completed with historical and reading limits recorded. Salary is not sale price, and the exercise supplies no personal tax, legal or investment recommendation. Parent-approved original artwork is illustrative; rendering and deployment checks remain separate.
+
+## Expansion wave 4 · IS-14
+
+Case 164 (IS-14) separates recall, specificity and alert precision when the underlying gap frequency changes. The original complete audit tables and explicitly fixed conditional rates yield different alert mixes; every alert incurs a check cost, including useful ones. The second setting's HK$2 advantage for one threshold is fragile, with a HK$14.25 missed-gap-loss break-even under the stipulated counts. Five substantive source bodies and independent arithmetic/editorial review were completed. This compares two thresholds, not a universally optimal policy or a financial return against no system, and transfer to new settings requires validation. Parent-approved original artwork is illustrative; rendering and deployment checks remain separate.
