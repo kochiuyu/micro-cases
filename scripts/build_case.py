@@ -58,6 +58,7 @@ def validate_payload(x):
     require(len(set(x["topics"]))==len(x["topics"]), "Duplicate topics")
     for key,width in (("sections",2),("slides",2),("sources",3)):
         require(isinstance(x[key],list) and x[key] and all(isinstance(row,list) and len(row)==width and all(isinstance(v,str) and v.strip() for v in row) for row in x[key]), "Malformed "+key)
+    require(sum(heading == "Instructor note" for heading, _ in x["sections"]) == 1, "Exactly one dedicated Instructor note section required")
     for heading,_ in x["sections"]+x["slides"]:
         require(not re.search(r"[<>]|https?://",heading,re.I), "Headings must be plain text")
     allowed={"p","strong","b","em","i","br","ul","ol","li","table","thead","tbody","tfoot","tr","th","td","caption"}

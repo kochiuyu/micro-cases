@@ -70,6 +70,14 @@ Discuss the first responsibilities, realistic availability, how priorities will 
 
 Ownership, pay, intellectual-property arrangements and exit provisions need separate, appropriate agreement and advice. This case asks which relationship to explore, not for a universal equity split or legal document.
 
+## Instructor note
+
+Allow 2 minutes to read the opening, 3 for a first vote and task-coverage map, 2 for the reveal, 3 for a revised choice and 2 for synthesis. Ask students to name who will own technical delivery and venue adoption under each combination.
+
+Keep the decision narrow: Kai is choosing whom to invite into mutual founding discussions, not appointing an employee, issuing ownership or agreeing an equity split. Both candidates remain defensible. Ask Alex supporters how they will cover adoption; ask Bo supporters how fewer hours and less technical depth affect the initial scope.
+
+Alex’s 24 hours and Bo’s 16 are availability, not productivity scores. With Kai’s 24, the totals are 48 and 40 planned hours; Bo’s two shared blocks are already included. The exercise gives bounded evidence about contributions and discussion, not proof of future compatibility or customer demand. End by naming one uncovered task and one question to resolve before any founding agreement.
+
 ## Sources and case assumptions · optional reference
 
 All information needed for classroom decisions is provided above. Sources are optional reading.

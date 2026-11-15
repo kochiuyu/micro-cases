@@ -22,7 +22,7 @@ def payload(repo):
     area=next(a for a in reg['areas'] if sum(c['area']==a['name'] for c in reg['cases'])<20)
     number=max(c['legacy_id'] for c in reg['cases'])+1
     seq=sum(c['area']==area['name'] for c in reg['cases'])+1
-    return dict(number=number,code=f"{area['code']}-{seq:02}",slug='builder-test-only',title='A fixture. Not a publication.',discipline=area['name'],topics=['Builder fixture'],teaser='An isolated test.',alt='A test illustration.',news_heading='Context',news='<p>Fictional context.</p>',opening='<p>A fictional decision.</p>',exhibit='<table><tr><th>Option</th><th>Units</th></tr><tr><td>A</td><td>2</td></tr></table>',exhibit_md='| Option | Units |\n| --- | --- |\n| A | 2 |',q1='Which option?',round2='<p>New fictional context.</p>',q2='Keep or change?',sections=[['Debrief','<p>Compare the evidence.</p>']],notes='All facts are fictional test data.',sources=[[f'https://example.org/source-{i}','Fixture source','Not a real reviewed source.'] for i in range(5)],slides=[['Title','<p>A fixture.</p>'],['Context','<p>Fictional context.</p>'],['Decision','<p>Which option?</p>'],['Reveal','<p>New fictional context.</p>'],['Second decision','<p>Keep or change?</p>']])
+    return dict(number=number,code=f"{area['code']}-{seq:02}",slug='builder-test-only',title='A fixture. Not a publication.',discipline=area['name'],topics=['Builder fixture'],teaser='An isolated test.',alt='A test illustration.',news_heading='Context',news='<p>Fictional context.</p>',opening='<p>A fictional decision.</p>',exhibit='<table><tr><th>Option</th><th>Units</th></tr><tr><td>A</td><td>2</td></tr></table>',exhibit_md='| Option | Units |\n| --- | --- |\n| A | 2 |',q1='Which option?',round2='<p>New fictional context.</p>',q2='Keep or change?',sections=[['Debrief','<p>Compare the evidence.</p>'],['Instructor note','<p>Discuss the evidence for twelve minutes.</p>']],notes='All facts are fictional test data.',sources=[[f'https://example.org/source-{i}','Fixture source','Not a real reviewed source.'] for i in range(5)],slides=[['Title','<p>A fixture.</p>'],['Context','<p>Fictional context.</p>'],['Decision','<p>Which option?</p>'],['Reveal','<p>New fictional context.</p>'],['Second decision','<p>Keep or change?</p>']])
 
 
 def reduce_to_original_baseline(repo):
@@ -96,6 +96,13 @@ class BuilderTests(unittest.TestCase):
         (self.repo/(self.x['slug']+'-scene.jpg')).write_bytes(b'fixture only')
         self.run_builder(write=True)
         self.assertEqual(len(json.loads(reg_path.read_text())['cases']),121)
+
+    def test_instructor_note_required(self):
+        self.x['sections']=[row for row in self.x['sections'] if row[0]!='Instructor note']
+        self.reject('dedicated Instructor note')
+        self.x=payload(self.repo)
+        self.x['sections'].append(['Instructor note','<p>Duplicate.</p>'])
+        self.reject('dedicated Instructor note')
 
     def test_metadata(self):
         original=copy.deepcopy(self.x)
