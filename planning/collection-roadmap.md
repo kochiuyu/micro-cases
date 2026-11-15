@@ -4,7 +4,7 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-153 cases are published: the original 120 plus 33 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+154 cases are published: the original 120 plus 34 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -19,10 +19,10 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79, 91, 103, 115, 127, 139, 151 | — | 7 | A buyer wants the family brand and its name. Which terms would the founders accept? |
 | Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71, 81, 92, 104, 116, 128, 140, 152 | — | 7 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
 | Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93, 105, 117, 129, 141, 153 | — | 7 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
-| Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142 | — | 8 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
+| Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142, 154 | — | 7 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143 | — | 8 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144 | — | 8 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **153 published** | **87 approved editorial slots** | **87** | |
+| **Total** | **154 published** | **86 approved editorial slots** | **86** | |
 
 ## How a lead earns a place
 
@@ -413,3 +413,7 @@ Case 152 (IS-13) separates actual portfolio completion rates from a descriptive 
 ## Expansion wave 3 · GVR-13
 
 Case 153 (GVR-13) distinguishes a system flag from a decision and a usable challenge from a human rubber stamp. Two funded review routes trade speed and transaction access against item inspection and conversation, while both can consider new evidence and overturn the initial view. The fictional customer request remains undecided; offered documents need verification and return counts do not establish dishonesty. Five substantive source bodies and independent editorial review were completed within their stated jurisdictional and reading limits. The exercise establishes neither a real refund decision nor a new legal entitlement. Parent-approved original artwork is illustrative; rendering and deployment checks remain separate.
+
+## Expansion wave 3 · SUS-13
+
+Case 154 (SUS-13) compares equal-cost water projects by both annual inlet-volume reduction and local seasonal pressure. The original forecasts favour Harbour for annual volume and Valley for dry-season reduction in the stipulated more constrained supply setting. Neither objective automatically dominates, and lower withdrawal does not establish lower net consumption or quantified ecosystem recovery. Five substantive source bodies and independent editorial/arithmetic review were completed; no real locality receives a scarcity classification and no universal risk multiplier is invented. Required service, safety and compliance remain protected. Parent-approved original artwork is illustrative; rendering and deployment checks remain separate.
