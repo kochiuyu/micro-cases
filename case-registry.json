@@ -1567,6 +1567,13 @@
       "slug": "ready-stock-is-not-endless",
       "area": "Economics, competition and pricing",
       "title": "The shared resource is open. Will it last?"
+    },
+    {
+      "legacy_id": 216,
+      "code": "HSP-18",
+      "slug": "rent-is-not-the-whole-site",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "The highest rent. The right neighbour?"
     }
   ]
 }

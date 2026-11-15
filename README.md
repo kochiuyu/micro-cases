@@ -856,3 +856,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## ECO-18
 
 215. [The shared resource is open. Will it last?](ready-stock-is-not-endless.html)
+
+## HSP-18
+
+216. [The highest rent. The right neighbour?](rent-is-not-the-whole-site.html)
