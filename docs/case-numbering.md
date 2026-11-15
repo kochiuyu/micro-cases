@@ -223,3 +223,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 179 | ECO-15 | [printer-and-printing.html](../printer-and-printing.html) | A cheaper printer. More expensive printing? |
 | 180 | HSP-15 | [before-guests-travel.html](../before-guests-travel.html) | Decide before guests travel. Or wait? |
 | 181 | ACC-16 | [small-but-in-the-note.html](../small-but-in-the-note.html) | A small payment. An important correction? |
+| 182 | FIN-16 | [cash-moves-together.html](../cash-moves-together.html) | Two income streams. One bad month? |

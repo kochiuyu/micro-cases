@@ -720,3 +720,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## ACC-16
 
 181. [A small payment. An important correction?](small-but-in-the-note.html)
+
+## FIN-16
+
+182. [Two income streams. One bad month?](cash-moves-together.html)

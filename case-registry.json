@@ -1329,6 +1329,13 @@
       "slug": "small-but-in-the-note",
       "area": "Accounting, audit and management control",
       "title": "A small payment. An important correction?"
+    },
+    {
+      "legacy_id": 182,
+      "code": "FIN-16",
+      "slug": "cash-moves-together",
+      "area": "Finance, banking and insurance",
+      "title": "Two income streams. One bad month?"
     }
   ]
 }
