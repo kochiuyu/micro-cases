@@ -4,7 +4,7 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-179 cases are published: the original 120 plus 59 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+180 cases are published: the original 120 plus 60 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -21,8 +21,8 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93, 105, 117, 129, 141, 153, 165, 177 | — | 5 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142, 154, 166, 178 | — | 5 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143, 155, 167, 179 | — | 5 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
-| Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144, 156, 168 | — | 6 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **179 published** | **61 approved editorial slots** | **61** | |
+| Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144, 156, 168, 180 | — | 5 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
+| **Total** | **180 published** | **60 approved editorial slots** | **60** | |
 
 ## How a lead earns a place
 
@@ -525,3 +525,11 @@ Integrated the independently reviewed habitat-connectivity case. A larger planti
 ## Expansion wave 5 · ECO-15
 
 Integrated the independently reviewed complementary-goods case. The fictional one-year comparison uses printed sides, complete metered consumable costs and fixed required output. The six-thousand-side crossover and separate-office comparison do not establish actual market quotes, supplier lock-in or a reason to change necessary output. Common costs and equal residual values are explicit. Five optional substantive source bodies retain historical and manufacturer-tool limitations. Parent-approved original art is illustrative. Internal checks do not replace browser, print or deployment validation.
+
+## Expansion wave 5 · HSP-15
+
+Integrated the independently reviewed guest-preparation and commitment-timing case. The decision concerns when to communicate a service choice before guests rely on it, rather than remedying a failed booking after arrival. Reviewed safeguards, complete fictional options and exact decision questions remain intact. Five optional substantive source bodies retain jurisdictional and contextual limits; no real weather threshold is imported. The parent-approved original artwork is illustrative. Rendered and deployment checks remain separate.
+
+## Internal editorial checkpoint · Expansion wave 5 (169–180)
+
+The internal cross-case checkpoint passed: reviewed source boundaries, arithmetic, distinct mechanisms, self-contained evidence and presentation decision parity were checked. The twelve objectives cover profit/cash reconciliation, project hurdle rates, message interpretation, recovery routing, developmental access, geographic density, founder deadlock, override authority, licence scope, habitat connectivity, complementary-product cost and pre-travel commitment timing. Dense presentation sections were staged or split in 173, 175 and 180 while preserving reviewed facts and exact prompts. This is internal editorial review, not instructor/student feedback, a fresh audit of sixty source bodies, or browser, mobile, print or live validation. Final presentation readability and deployment verification remain separate responsibilities.

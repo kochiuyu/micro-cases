@@ -712,3 +712,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## ECO-15
 
 179. [A cheaper printer. More expensive printing?](printer-and-printing.html)
+
+## HSP-15
+
+180. [Decide before guests travel. Or wait?](before-guests-travel.html)

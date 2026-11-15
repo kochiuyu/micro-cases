@@ -1315,6 +1315,13 @@
       "slug": "printer-and-printing",
       "area": "Economics, competition and pricing",
       "title": "A cheaper printer. More expensive printing?"
+    },
+    {
+      "legacy_id": 180,
+      "code": "HSP-15",
+      "slug": "before-guests-travel",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "Decide before guests travel. Or wait?"
     }
   ]
 }
