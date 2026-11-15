@@ -923,6 +923,13 @@
       "slug": "see-the-advice",
       "area": "Marketing, retail and consumer behaviour",
       "title": "A promise of expertise. What can buyers see?"
+    },
+    {
+      "legacy_id": 124,
+      "code": "OPS-11",
+      "slug": "time-to-reorder",
+      "area": "Operations, supply chains and logistics",
+      "title": "Plenty on the shelf. Time to reorder?"
     }
   ]
 }

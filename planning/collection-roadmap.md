@@ -4,7 +4,7 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-123 cases are published: the original 120 plus 3 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+124 cases are published: the original 120 plus 4 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -13,7 +13,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Accounting, audit and management control | 9, 24, 30, 40, 52, 61, 73, 85, 97, 109, 121 | — | 9 | A division misses its target after a shared cost is reassigned. Cut its budget or change the measure? |
 | Finance, banking and insurance | 2, 7, 18, 38, 50, 62, 74, 86, 98, 110, 122 | — | 9 | A major customer asks for longer payment terms. What would you ask for in return? |
 | Marketing, retail and consumer behaviour | 11, 19, 31, 41, 57, 63, 75, 87, 99, 111, 123 | — | 9 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
-| Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88, 100, 112 | — | 10 | Ship the whole order late or pay to send half by air? |
+| Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88, 100, 112, 124 | — | 9 | Ship the whole order late or pay to send half by air? |
 | People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77, 89, 101, 113 | — | 10 | A high-performing team refuses a promotion for its best member. Who should lead? |
 | Strategy and international business | 13, 21, 33, 43, 60, 66, 78, 90, 102, 114 | — | 10 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
 | Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79, 91, 103, 115 | — | 10 | A buyer wants the family brand and its name. Which terms would the founders accept? |
@@ -22,7 +22,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118 | — | 10 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119 | — | 10 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120 | — | 10 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **123 published** | **117 approved editorial slots** | **117** | |
+| **Total** | **124 published** | **116 approved editorial slots** | **116** | |
 
 ## How a lead earns a place
 
@@ -286,3 +286,7 @@ Case 122 (FIN-11) compares fixed and floating financing with the same principal 
 ## Expansion wave 1 · MKT-11
 
 Case 123 (MKT-11) asks how to make an intangible advisory service understandable before purchase. Both promotional routes preserve the same truthful scope, credentials and fee; an original worked example competes with an approachable staff introduction. Eight fictional exploratory interviews help identify uncertainty but do not estimate conversion or prove campaign effectiveness. Five substantive source bodies and the editorial distinctions were independently reviewed. Artwork remains illustrative, not a real customer report or service endorsement.
+
+## Expansion wave 1 · OPS-11
+
+Case 124 (OPS-11) separates on-hand stock from inventory position when replenishment lead time changes. A dated receipt-and-consumption trace prevents double-counting inbound stock and checks the agreed buffer before a later replenishment. Fixed lot size and deterministic classroom assumptions isolate order timing; no optimal buffer or guaranteed real-world service level is claimed. Five substantive source bodies, timing arithmetic and editorial distinctness received independent review.

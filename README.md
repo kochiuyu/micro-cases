@@ -488,3 +488,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## MKT-11
 
 123. [A promise of expertise. What can buyers see?](see-the-advice.html)
+
+## OPS-11
+
+124. [Plenty on the shelf. Time to reorder?](time-to-reorder.html)
