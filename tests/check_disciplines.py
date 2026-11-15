@@ -223,17 +223,20 @@ def check(root=ROOT):
                             text=True, capture_output=True, timeout=120)
     assert result.returncode == 0, result.stdout + result.stderr
     print(result.stdout.strip())
-    for target in (121, 240):
+    for target in (121, 240, 241, 360):
         fixture = copy.deepcopy(payload)
+        fixture['cards'] = [c for c in fixture['cards'] if int(c['attrs']['data-case-id']) <= target]
         while len(fixture['cards']) < target:
             i = len(fixture['cards'])
-            c = copy.deepcopy(payload['cards'][i % len(payload['cards'])])
+            area = registry['areas'][(i-240) % 12]
+            prototype=next(card for card in payload['cards'] if card['attrs']['data-discipline']==area['name'])
+            c = copy.deepcopy(prototype)
             c['attrs']['data-case-id'] = str(i + 1)
-            c['attrs']['data-case-code'] = c['attrs']['data-case-code'].split('-')[0] + '-20'
+            c['attrs']['data-case-code'] = c['attrs']['data-case-code'].split('-')[0] + '-' + str(21 + (i-240)//12)
             fixture['cards'].append(c)
-        result = subprocess.run(['node', '-e', NODE], input=json.dumps(fixture), text=True, capture_output=True, timeout=60)
+        result = subprocess.run(['node', '-e', NODE], input=json.dumps(fixture), text=True, capture_output=True, timeout=120)
         assert result.returncode == 0, result.stdout + result.stderr
-    print('PASS: synthetic uneven 121-card and 240-card browse flows.')
+    print('PASS: synthetic 121/240/241/360-card browse flows.')
     print(f'PASS: {len(p.cards)} cards match all 12 ledger areas, visible labels and selectors; mutations rejected.')
 
 

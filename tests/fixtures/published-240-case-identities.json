@@ -1,0 +1,1442 @@
+[
+  {
+    "legacy_id": 1,
+    "code": "HSP-01",
+    "slug": "snow-town",
+    "area": "Hospitality, tourism, property and service management"
+  },
+  {
+    "legacy_id": 2,
+    "code": "FIN-01",
+    "slug": "match",
+    "area": "Finance, banking and insurance"
+  },
+  {
+    "legacy_id": 3,
+    "code": "IS-01",
+    "slug": "shenzhen",
+    "area": "Information systems, AI and business analytics"
+  },
+  {
+    "legacy_id": 4,
+    "code": "ECO-01",
+    "slug": "tunnel",
+    "area": "Economics, competition and pricing"
+  },
+  {
+    "legacy_id": 5,
+    "code": "SUS-01",
+    "slug": "bag",
+    "area": "Sustainability, social enterprise and public management"
+  },
+  {
+    "legacy_id": 6,
+    "code": "SUS-02",
+    "slug": "waste",
+    "area": "Sustainability, social enterprise and public management"
+  },
+  {
+    "legacy_id": 7,
+    "code": "FIN-02",
+    "slug": "minibus",
+    "area": "Finance, banking and insurance"
+  },
+  {
+    "legacy_id": 8,
+    "code": "PPL-01",
+    "slug": "exam",
+    "area": "People, leadership and organisational behaviour"
+  },
+  {
+    "legacy_id": 9,
+    "code": "ACC-01",
+    "slug": "tarts",
+    "area": "Accounting, audit and management control"
+  },
+  {
+    "legacy_id": 10,
+    "code": "SUS-03",
+    "slug": "court",
+    "area": "Sustainability, social enterprise and public management"
+  },
+  {
+    "legacy_id": 11,
+    "code": "MKT-01",
+    "slug": "ferry-pass",
+    "area": "Marketing, retail and consumer behaviour"
+  },
+  {
+    "legacy_id": 12,
+    "code": "GVR-01",
+    "slug": "battery",
+    "area": "Governance, law, ethics and risk"
+  },
+  {
+    "legacy_id": 13,
+    "code": "STR-01",
+    "slug": "cafes",
+    "area": "Strategy and international business"
+  },
+  {
+    "legacy_id": 14,
+    "code": "SUS-04",
+    "slug": "walkway",
+    "area": "Sustainability, social enterprise and public management"
+  },
+  {
+    "legacy_id": 15,
+    "code": "PPL-02",
+    "slug": "parcel",
+    "area": "People, leadership and organisational behaviour"
+  },
+  {
+    "legacy_id": 16,
+    "code": "ECO-02",
+    "slug": "stall",
+    "area": "Economics, competition and pricing"
+  },
+  {
+    "legacy_id": 17,
+    "code": "OPS-01",
+    "slug": "sold-out",
+    "area": "Operations, supply chains and logistics"
+  },
+  {
+    "legacy_id": 18,
+    "code": "FIN-03",
+    "slug": "cash-flow",
+    "area": "Finance, banking and insurance"
+  },
+  {
+    "legacy_id": 19,
+    "code": "MKT-02",
+    "slug": "coupon",
+    "area": "Marketing, retail and consumer behaviour"
+  },
+  {
+    "legacy_id": 20,
+    "code": "PPL-03",
+    "slug": "supervisor",
+    "area": "People, leadership and organisational behaviour"
+  },
+  {
+    "legacy_id": 21,
+    "code": "STR-02",
+    "slug": "distributor",
+    "area": "Strategy and international business"
+  },
+  {
+    "legacy_id": 22,
+    "code": "GVR-02",
+    "slug": "customer-notice",
+    "area": "Governance, law, ethics and risk"
+  },
+  {
+    "legacy_id": 23,
+    "code": "ENT-01",
+    "slug": "family-name",
+    "area": "Entrepreneurship, innovation and family business"
+  },
+  {
+    "legacy_id": 24,
+    "code": "ACC-02",
+    "slug": "branch-loss",
+    "area": "Accounting, audit and management control"
+  },
+  {
+    "legacy_id": 25,
+    "code": "HSP-02",
+    "slug": "replacement-room",
+    "area": "Hospitality, tourism, property and service management"
+  },
+  {
+    "legacy_id": 26,
+    "code": "IS-02",
+    "slug": "chatbot",
+    "area": "Information systems, AI and business analytics"
+  },
+  {
+    "legacy_id": 27,
+    "code": "OPS-02",
+    "slug": "split-shipment",
+    "area": "Operations, supply chains and logistics"
+  },
+  {
+    "legacy_id": 28,
+    "code": "ENT-02",
+    "slug": "paid-pilot",
+    "area": "Entrepreneurship, innovation and family business"
+  },
+  {
+    "legacy_id": 29,
+    "code": "ECO-03",
+    "slug": "booking-fee",
+    "area": "Economics, competition and pricing"
+  },
+  {
+    "legacy_id": 30,
+    "code": "ACC-03",
+    "slug": "returns-target",
+    "area": "Accounting, audit and management control"
+  },
+  {
+    "legacy_id": 31,
+    "code": "MKT-03",
+    "slug": "character-collaboration",
+    "area": "Marketing, retail and consumer behaviour"
+  },
+  {
+    "legacy_id": 32,
+    "code": "GVR-03",
+    "slug": "supplier-review",
+    "area": "Governance, law, ethics and risk"
+  },
+  {
+    "legacy_id": 33,
+    "code": "STR-03",
+    "slug": "prototype-bench",
+    "area": "Strategy and international business"
+  },
+  {
+    "legacy_id": 34,
+    "code": "OPS-03",
+    "slug": "packing-line",
+    "area": "Operations, supply chains and logistics"
+  },
+  {
+    "legacy_id": 35,
+    "code": "IS-03",
+    "slug": "recovery-rehearsal",
+    "area": "Information systems, AI and business analytics"
+  },
+  {
+    "legacy_id": 36,
+    "code": "ENT-03",
+    "slug": "separate-version",
+    "area": "Entrepreneurship, innovation and family business"
+  },
+  {
+    "legacy_id": 37,
+    "code": "HSP-03",
+    "slug": "two-night-stays",
+    "area": "Hospitality, tourism, property and service management"
+  },
+  {
+    "legacy_id": 38,
+    "code": "FIN-04",
+    "slug": "invoice-exposure",
+    "area": "Finance, banking and insurance"
+  },
+  {
+    "legacy_id": 39,
+    "code": "PPL-04",
+    "slug": "ready-for-handoff",
+    "area": "People, leadership and organisational behaviour"
+  },
+  {
+    "legacy_id": 40,
+    "code": "ACC-04",
+    "slug": "count-and-value",
+    "area": "Accounting, audit and management control"
+  },
+  {
+    "legacy_id": 41,
+    "code": "MKT-04",
+    "slug": "return-friction",
+    "area": "Marketing, retail and consumer behaviour"
+  },
+  {
+    "legacy_id": 42,
+    "code": "OPS-04",
+    "slug": "mixed-collection",
+    "area": "Operations, supply chains and logistics"
+  },
+  {
+    "legacy_id": 43,
+    "code": "STR-04",
+    "slug": "portable-promise",
+    "area": "Strategy and international business"
+  },
+  {
+    "legacy_id": 44,
+    "code": "IS-04",
+    "slug": "one-source",
+    "area": "Information systems, AI and business analytics"
+  },
+  {
+    "legacy_id": 45,
+    "code": "GVR-04",
+    "slug": "less-of-what",
+    "area": "Governance, law, ethics and risk"
+  },
+  {
+    "legacy_id": 46,
+    "code": "HSP-04",
+    "slug": "unread-cancellation",
+    "area": "Hospitality, tourism, property and service management"
+  },
+  {
+    "legacy_id": 47,
+    "code": "ECO-04",
+    "slug": "fewer-jobs",
+    "area": "Economics, competition and pricing"
+  },
+  {
+    "legacy_id": 48,
+    "code": "ENT-04",
+    "slug": "usable-support",
+    "area": "Entrepreneurship, innovation and family business"
+  },
+  {
+    "legacy_id": 49,
+    "code": "SUS-05",
+    "slug": "actually-reused",
+    "area": "Sustainability, social enterprise and public management"
+  },
+  {
+    "legacy_id": 50,
+    "code": "FIN-05",
+    "slug": "same-gap",
+    "area": "Finance, banking and insurance"
+  },
+  {
+    "legacy_id": 51,
+    "code": "PPL-05",
+    "slug": "more-reports",
+    "area": "People, leadership and organisational behaviour"
+  },
+  {
+    "legacy_id": 52,
+    "code": "ACC-05",
+    "slug": "over-budget",
+    "area": "Accounting, audit and management control"
+  },
+  {
+    "legacy_id": 53,
+    "code": "IS-05",
+    "slug": "order-units",
+    "area": "Information systems, AI and business analytics"
+  },
+  {
+    "legacy_id": 54,
+    "code": "HSP-05",
+    "slug": "direct-cost",
+    "area": "Hospitality, tourism, property and service management"
+  },
+  {
+    "legacy_id": 55,
+    "code": "OPS-05",
+    "slug": "shared-factory",
+    "area": "Operations, supply chains and logistics"
+  },
+  {
+    "legacy_id": 56,
+    "code": "GVR-05",
+    "slug": "birthday-fields",
+    "area": "Governance, law, ethics and risk"
+  },
+  {
+    "legacy_id": 57,
+    "code": "MKT-05",
+    "slug": "small-basket",
+    "area": "Marketing, retail and consumer behaviour"
+  },
+  {
+    "legacy_id": 58,
+    "code": "ENT-05",
+    "slug": "founder-timing",
+    "area": "Entrepreneurship, innovation and family business"
+  },
+  {
+    "legacy_id": 59,
+    "code": "ECO-05",
+    "slug": "local-matches",
+    "area": "Economics, competition and pricing"
+  },
+  {
+    "legacy_id": 60,
+    "code": "STR-05",
+    "slug": "combined-clients",
+    "area": "Strategy and international business"
+  },
+  {
+    "legacy_id": 61,
+    "code": "ACC-06",
+    "slug": "paid-earned",
+    "area": "Accounting, audit and management control"
+  },
+  {
+    "legacy_id": 62,
+    "code": "FIN-06",
+    "slug": "smaller-payments",
+    "area": "Finance, banking and insurance"
+  },
+  {
+    "legacy_id": 63,
+    "code": "MKT-06",
+    "slug": "qualified-contacts",
+    "area": "Marketing, retail and consumer behaviour"
+  },
+  {
+    "legacy_id": 64,
+    "code": "OPS-06",
+    "slug": "planned-stop",
+    "area": "Operations, supply chains and logistics"
+  },
+  {
+    "legacy_id": 65,
+    "code": "PPL-06",
+    "slug": "shared-time",
+    "area": "People, leadership and organisational behaviour"
+  },
+  {
+    "legacy_id": 66,
+    "code": "STR-06",
+    "slug": "shared-advantage",
+    "area": "Strategy and international business"
+  },
+  {
+    "legacy_id": 67,
+    "code": "SUS-06",
+    "slug": "edible-surplus",
+    "area": "Sustainability, social enterprise and public management"
+  },
+  {
+    "legacy_id": 68,
+    "code": "ENT-06",
+    "slug": "visible-secret",
+    "area": "Entrepreneurship, innovation and family business"
+  },
+  {
+    "legacy_id": 69,
+    "code": "ECO-06",
+    "slug": "faster-at-both",
+    "area": "Economics, competition and pricing"
+  },
+  {
+    "legacy_id": 70,
+    "code": "HSP-06",
+    "slug": "table-mix",
+    "area": "Hospitality, tourism, property and service management"
+  },
+  {
+    "legacy_id": 71,
+    "code": "IS-06",
+    "slug": "forecast-cutoff",
+    "area": "Information systems, AI and business analytics"
+  },
+  {
+    "legacy_id": 72,
+    "code": "GVR-06",
+    "slug": "one-commitment",
+    "area": "Governance, law, ethics and risk"
+  },
+  {
+    "legacy_id": 73,
+    "code": "ACC-07",
+    "slug": "machine-cost",
+    "area": "Accounting, audit and management control"
+  },
+  {
+    "legacy_id": 74,
+    "code": "FIN-07",
+    "slug": "sooner-than-what",
+    "area": "Finance, banking and insurance"
+  },
+  {
+    "legacy_id": 75,
+    "code": "MKT-07",
+    "slug": "chosen-by-whom",
+    "area": "Marketing, retail and consumer behaviour"
+  },
+  {
+    "legacy_id": 76,
+    "code": "OPS-07",
+    "slug": "empty-counter",
+    "area": "Operations, supply chains and logistics"
+  },
+  {
+    "legacy_id": 77,
+    "code": "PPL-07",
+    "slug": "right-skill",
+    "area": "People, leadership and organisational behaviour"
+  },
+  {
+    "legacy_id": 78,
+    "code": "STR-07",
+    "slug": "repeatable-format",
+    "area": "Strategy and international business"
+  },
+  {
+    "legacy_id": 79,
+    "code": "ENT-07",
+    "slug": "next-promise",
+    "area": "Entrepreneurship, innovation and family business"
+  },
+  {
+    "legacy_id": 80,
+    "code": "SUS-07",
+    "slug": "reached-and-helped",
+    "area": "Sustainability, social enterprise and public management"
+  },
+  {
+    "legacy_id": 81,
+    "code": "IS-07",
+    "slug": "first-rollout",
+    "area": "Information systems, AI and business analytics"
+  },
+  {
+    "legacy_id": 82,
+    "code": "GVR-07",
+    "slug": "credible-improvement",
+    "area": "Governance, law, ethics and risk"
+  },
+  {
+    "legacy_id": 83,
+    "code": "ECO-07",
+    "slug": "cheaper-for-whom",
+    "area": "Economics, competition and pricing"
+  },
+  {
+    "legacy_id": 84,
+    "code": "HSP-07",
+    "slug": "meal-pace",
+    "area": "Hospitality, tourism, property and service management"
+  },
+  {
+    "legacy_id": 85,
+    "code": "ACC-08",
+    "slug": "machine-hours",
+    "area": "Accounting, audit and management control"
+  },
+  {
+    "legacy_id": 86,
+    "code": "FIN-08",
+    "slug": "back-sooner",
+    "area": "Finance, banking and insurance"
+  },
+  {
+    "legacy_id": 87,
+    "code": "MKT-08",
+    "slug": "familiar-pack",
+    "area": "Marketing, retail and consumer behaviour"
+  },
+  {
+    "legacy_id": 88,
+    "code": "OPS-08",
+    "slug": "harder-to-miss",
+    "area": "Operations, supply chains and logistics"
+  },
+  {
+    "legacy_id": 89,
+    "code": "PPL-08",
+    "slug": "whole-job",
+    "area": "People, leadership and organisational behaviour"
+  },
+  {
+    "legacy_id": 90,
+    "code": "STR-08",
+    "slug": "more-than-one-future",
+    "area": "Strategy and international business"
+  },
+  {
+    "legacy_id": 91,
+    "code": "ENT-08",
+    "slug": "route-to-market",
+    "area": "Entrepreneurship, innovation and family business"
+  },
+  {
+    "legacy_id": 92,
+    "code": "IS-08",
+    "slug": "better-system-harder-exit",
+    "area": "Information systems, AI and business analytics"
+  },
+  {
+    "legacy_id": 93,
+    "code": "GVR-08",
+    "slug": "no-name-still-a-conversation",
+    "area": "Governance, law, ethics and risk"
+  },
+  {
+    "legacy_id": 94,
+    "code": "SUS-08",
+    "slug": "landlord-pays-who-saves",
+    "area": "Sustainability, social enterprise and public management"
+  },
+  {
+    "legacy_id": 95,
+    "code": "ECO-08",
+    "slug": "both-or-one",
+    "area": "Economics, competition and pricing"
+  },
+  {
+    "legacy_id": 96,
+    "code": "HSP-08",
+    "slug": "more-than-one-way-in",
+    "area": "Hospitality, tourism, property and service management"
+  },
+  {
+    "legacy_id": 97,
+    "code": "ACC-09",
+    "slug": "two-balances-one-payment",
+    "area": "Accounting, audit and management control"
+  },
+  {
+    "legacy_id": 98,
+    "code": "FIN-09",
+    "slug": "protected-and-available",
+    "area": "Finance, banking and insurance"
+  },
+  {
+    "legacy_id": 99,
+    "code": "MKT-09",
+    "slug": "more-new-people",
+    "area": "Marketing, retail and consumer behaviour"
+  },
+  {
+    "legacy_id": 100,
+    "code": "OPS-09",
+    "slug": "keep-the-design-open",
+    "area": "Operations, supply chains and logistics"
+  },
+  {
+    "legacy_id": 101,
+    "code": "PPL-09",
+    "slug": "repair-the-handoff",
+    "area": "People, leadership and organisational behaviour"
+  },
+  {
+    "legacy_id": 102,
+    "code": "STR-09",
+    "slug": "same-business",
+    "area": "Strategy and international business"
+  },
+  {
+    "legacy_id": 103,
+    "code": "ENT-09",
+    "slug": "who-still-decides",
+    "area": "Entrepreneurship, innovation and family business"
+  },
+  {
+    "legacy_id": 104,
+    "code": "IS-09",
+    "slug": "fresher-screen",
+    "area": "Information systems, AI and business analytics"
+  },
+  {
+    "legacy_id": 105,
+    "code": "GVR-09",
+    "slug": "what-was-checked",
+    "area": "Governance, law, ethics and risk"
+  },
+  {
+    "legacy_id": 106,
+    "code": "SUS-09",
+    "slug": "bigger-order-more-mission",
+    "area": "Sustainability, social enterprise and public management"
+  },
+  {
+    "legacy_id": 107,
+    "code": "ECO-09",
+    "slug": "more-money-more-kits",
+    "area": "Economics, competition and pricing"
+  },
+  {
+    "legacy_id": 108,
+    "code": "HSP-09",
+    "slug": "useful-conversations",
+    "area": "Hospitality, tourism, property and service management"
+  },
+  {
+    "legacy_id": 109,
+    "code": "ACC-10",
+    "slug": "through-our-till",
+    "area": "Accounting, audit and management control"
+  },
+  {
+    "legacy_id": 110,
+    "code": "FIN-10",
+    "slug": "only-once",
+    "area": "Finance, banking and insurance"
+  },
+  {
+    "legacy_id": 111,
+    "code": "MKT-10",
+    "slug": "easier-to-choose",
+    "area": "Marketing, retail and consumer behaviour"
+  },
+  {
+    "legacy_id": 112,
+    "code": "OPS-10",
+    "slug": "same-process",
+    "area": "Operations, supply chains and logistics"
+  },
+  {
+    "legacy_id": 113,
+    "code": "PPL-10",
+    "slug": "clearer-method",
+    "area": "People, leadership and organisational behaviour"
+  },
+  {
+    "legacy_id": 114,
+    "code": "STR-10",
+    "slug": "anchor-customer",
+    "area": "Strategy and international business"
+  },
+  {
+    "legacy_id": 115,
+    "code": "ENT-10",
+    "slug": "keep-the-job",
+    "area": "Entrepreneurship, innovation and family business"
+  },
+  {
+    "legacy_id": 116,
+    "code": "IS-10",
+    "slug": "separate-groups",
+    "area": "Information systems, AI and business analytics"
+  },
+  {
+    "legacy_id": 117,
+    "code": "GVR-10",
+    "slug": "bigger-risk",
+    "area": "Governance, law, ethics and risk"
+  },
+  {
+    "legacy_id": 118,
+    "code": "SUS-10",
+    "slug": "replace-which-part",
+    "area": "Sustainability, social enterprise and public management"
+  },
+  {
+    "legacy_id": 119,
+    "code": "ECO-10",
+    "slug": "covered-damage",
+    "area": "Economics, competition and pricing"
+  },
+  {
+    "legacy_id": 120,
+    "code": "HSP-10",
+    "slug": "whose-story",
+    "area": "Hospitality, tourism, property and service management"
+  },
+  {
+    "legacy_id": 121,
+    "code": "ACC-11",
+    "slug": "same-units-different-setups",
+    "area": "Accounting, audit and management control"
+  },
+  {
+    "legacy_id": 122,
+    "code": "FIN-11",
+    "slug": "lower-rate-less-certainty",
+    "area": "Finance, banking and insurance"
+  },
+  {
+    "legacy_id": 123,
+    "code": "MKT-11",
+    "slug": "see-the-advice",
+    "area": "Marketing, retail and consumer behaviour"
+  },
+  {
+    "legacy_id": 124,
+    "code": "OPS-11",
+    "slug": "time-to-reorder",
+    "area": "Operations, supply chains and logistics"
+  },
+  {
+    "legacy_id": 125,
+    "code": "PPL-11",
+    "slug": "strong-finish-strong-year",
+    "area": "People, leadership and organisational behaviour"
+  },
+  {
+    "legacy_id": 126,
+    "code": "STR-11",
+    "slug": "what-remains",
+    "area": "Strategy and international business"
+  },
+  {
+    "legacy_id": 127,
+    "code": "ENT-11",
+    "slug": "complementary-founder",
+    "area": "Entrepreneurship, innovation and family business"
+  },
+  {
+    "legacy_id": 128,
+    "code": "IS-11",
+    "slug": "respondents-or-customers",
+    "area": "Information systems, AI and business analytics"
+  },
+  {
+    "legacy_id": 129,
+    "code": "GVR-11",
+    "slug": "which-version",
+    "area": "Governance, law, ethics and risk"
+  },
+  {
+    "legacy_id": 130,
+    "code": "SUS-11",
+    "slug": "collected-where",
+    "area": "Sustainability, social enterprise and public management"
+  },
+  {
+    "legacy_id": 131,
+    "code": "ECO-11",
+    "slug": "one-more-hour",
+    "area": "Economics, competition and pricing"
+  },
+  {
+    "legacy_id": 132,
+    "code": "HSP-11",
+    "slug": "another-promise",
+    "area": "Hospitality, tourism, property and service management"
+  },
+  {
+    "legacy_id": 133,
+    "code": "ACC-12",
+    "slug": "margin-per-minute",
+    "area": "Accounting, audit and management control"
+  },
+  {
+    "legacy_id": 134,
+    "code": "FIN-12",
+    "slug": "rent-and-exit",
+    "area": "Finance, banking and insurance"
+  },
+  {
+    "legacy_id": 135,
+    "code": "MKT-12",
+    "slug": "where-journey-breaks",
+    "area": "Marketing, retail and consumer behaviour"
+  },
+  {
+    "legacy_id": 136,
+    "code": "OPS-12",
+    "slug": "stock-is-not-ready",
+    "area": "Operations, supply chains and logistics"
+  },
+  {
+    "legacy_id": 137,
+    "code": "PPL-12",
+    "slug": "explain-the-difficult-part",
+    "area": "People, leadership and organisational behaviour"
+  },
+  {
+    "legacy_id": 138,
+    "code": "STR-12",
+    "slug": "dedicated-tool",
+    "area": "Strategy and international business"
+  },
+  {
+    "legacy_id": 139,
+    "code": "ENT-12",
+    "slug": "better-for-whom",
+    "area": "Entrepreneurship, innovation and family business"
+  },
+  {
+    "legacy_id": 140,
+    "code": "IS-12",
+    "slug": "blank-cell",
+    "area": "Information systems, AI and business analytics"
+  },
+  {
+    "legacy_id": 141,
+    "code": "GVR-12",
+    "slug": "preserve-an-exception",
+    "area": "Governance, law, ethics and risk"
+  },
+  {
+    "legacy_id": 142,
+    "code": "SUS-12",
+    "slug": "same-energy-different-time",
+    "area": "Sustainability, social enterprise and public management"
+  },
+  {
+    "legacy_id": 143,
+    "code": "ECO-12",
+    "slug": "winning-is-information",
+    "area": "Economics, competition and pricing"
+  },
+  {
+    "legacy_id": 144,
+    "code": "HSP-12",
+    "slug": "find-the-entrance",
+    "area": "Hospitality, tourism, property and service management"
+  },
+  {
+    "legacy_id": 145,
+    "code": "ACC-13",
+    "slug": "cheaper-material-dearer-batch",
+    "area": "Accounting, audit and management control"
+  },
+  {
+    "legacy_id": 146,
+    "code": "FIN-13",
+    "slug": "cash-before-risk",
+    "area": "Finance, banking and insurance"
+  },
+  {
+    "legacy_id": 147,
+    "code": "MKT-13",
+    "slug": "valuable-relationship",
+    "area": "Marketing, retail and consumer behaviour"
+  },
+  {
+    "legacy_id": 148,
+    "code": "OPS-13",
+    "slug": "promise-by-when",
+    "area": "Operations, supply chains and logistics"
+  },
+  {
+    "legacy_id": 149,
+    "code": "PPL-13",
+    "slug": "same-leave-fair-process",
+    "area": "People, leadership and organisational behaviour"
+  },
+  {
+    "legacy_id": 150,
+    "code": "STR-13",
+    "slug": "open-before-the-network",
+    "area": "Strategy and international business"
+  },
+  {
+    "legacy_id": 151,
+    "code": "ENT-13",
+    "slug": "beyond-familiar-contacts",
+    "area": "Entrepreneurship, innovation and family business"
+  },
+  {
+    "legacy_id": 152,
+    "code": "IS-13",
+    "slug": "same-mix-different-answer",
+    "area": "Information systems, AI and business analytics"
+  },
+  {
+    "legacy_id": 153,
+    "code": "GVR-13",
+    "slug": "flag-and-review",
+    "area": "Governance, law, ethics and risk"
+  },
+  {
+    "legacy_id": 154,
+    "code": "SUS-13",
+    "slug": "a-litre-in-which-place",
+    "area": "Sustainability, social enterprise and public management"
+  },
+  {
+    "legacy_id": 155,
+    "code": "ECO-13",
+    "slug": "promise-costs",
+    "area": "Economics, competition and pricing"
+  },
+  {
+    "legacy_id": 156,
+    "code": "HSP-13",
+    "slug": "a-window-not-any-time",
+    "area": "Hospitality, tourism, property and service management"
+  },
+  {
+    "legacy_id": 157,
+    "code": "ACC-14",
+    "slug": "an-invoice-not-a-receipt",
+    "area": "Accounting, audit and management control"
+  },
+  {
+    "legacy_id": 158,
+    "code": "FIN-14",
+    "slug": "same-money-same-rate",
+    "area": "Finance, banking and insurance"
+  },
+  {
+    "legacy_id": 159,
+    "code": "MKT-14",
+    "slug": "same-price-two-comparisons",
+    "area": "Marketing, retail and consumer behaviour"
+  },
+  {
+    "legacy_id": 160,
+    "code": "OPS-14",
+    "slug": "route-and-window",
+    "area": "Operations, supply chains and logistics"
+  },
+  {
+    "legacy_id": 161,
+    "code": "PPL-14",
+    "slug": "market-rate-existing-colleague",
+    "area": "People, leadership and organisational behaviour"
+  },
+  {
+    "legacy_id": 162,
+    "code": "STR-14",
+    "slug": "own-or-share-the-operation",
+    "area": "Strategy and international business"
+  },
+  {
+    "legacy_id": 163,
+    "code": "ENT-14",
+    "slug": "sell-now-stay-to-build",
+    "area": "Entrepreneurship, innovation and family business"
+  },
+  {
+    "legacy_id": 164,
+    "code": "IS-14",
+    "slug": "accurate-alerts-useful-alerts",
+    "area": "Information systems, AI and business analytics"
+  },
+  {
+    "legacy_id": 165,
+    "code": "GVR-14",
+    "slug": "training-not-a-holiday",
+    "area": "Governance, law, ethics and risk"
+  },
+  {
+    "legacy_id": 166,
+    "code": "SUS-14",
+    "slug": "shade-now-shade-later",
+    "area": "Sustainability, social enterprise and public management"
+  },
+  {
+    "legacy_id": 167,
+    "code": "ECO-14",
+    "slug": "entry-fee-extra-visit",
+    "area": "Economics, competition and pricing"
+  },
+  {
+    "legacy_id": 168,
+    "code": "HSP-14",
+    "slug": "script-and-occasion",
+    "area": "Hospitality, tourism, property and service management"
+  },
+  {
+    "legacy_id": 169,
+    "code": "ACC-15",
+    "slug": "profit-not-cash",
+    "area": "Accounting, audit and management control"
+  },
+  {
+    "legacy_id": 170,
+    "code": "FIN-15",
+    "slug": "one-company-one-hurdle",
+    "area": "Finance, banking and insurance"
+  },
+  {
+    "legacy_id": 171,
+    "code": "MKT-15",
+    "slug": "same-benefit-different-frame",
+    "area": "Marketing, retail and consumer behaviour"
+  },
+  {
+    "legacy_id": 172,
+    "code": "OPS-15",
+    "slug": "returned-checked-where-next",
+    "area": "Operations, supply chains and logistics"
+  },
+  {
+    "legacy_id": 173,
+    "code": "PPL-15",
+    "slug": "who-gets-a-chance",
+    "area": "People, leadership and organisational behaviour"
+  },
+  {
+    "legacy_id": 174,
+    "code": "STR-15",
+    "slug": "nearby-or-three-cities",
+    "area": "Strategy and international business"
+  },
+  {
+    "legacy_id": 175,
+    "code": "ENT-15",
+    "slug": "equal-votes-no-decision",
+    "area": "Entrepreneurship, innovation and family business"
+  },
+  {
+    "legacy_id": 176,
+    "code": "IS-15",
+    "slug": "challenge-and-authorise",
+    "area": "Information systems, AI and business analytics"
+  },
+  {
+    "legacy_id": 177,
+    "code": "GVR-15",
+    "slug": "paid-for-which-use",
+    "area": "Governance, law, ethics and risk"
+  },
+  {
+    "legacy_id": 178,
+    "code": "SUS-15",
+    "slug": "more-trees-better-habitat",
+    "area": "Sustainability, social enterprise and public management"
+  },
+  {
+    "legacy_id": 179,
+    "code": "ECO-15",
+    "slug": "printer-and-printing",
+    "area": "Economics, competition and pricing"
+  },
+  {
+    "legacy_id": 180,
+    "code": "HSP-15",
+    "slug": "before-guests-travel",
+    "area": "Hospitality, tourism, property and service management"
+  },
+  {
+    "legacy_id": 181,
+    "code": "ACC-16",
+    "slug": "small-but-in-the-note",
+    "area": "Accounting, audit and management control"
+  },
+  {
+    "legacy_id": 182,
+    "code": "FIN-16",
+    "slug": "cash-moves-together",
+    "area": "Finance, banking and insurance"
+  },
+  {
+    "legacy_id": 183,
+    "code": "MKT-16",
+    "slug": "new-pack-new-sales",
+    "area": "Marketing, retail and consumer behaviour"
+  },
+  {
+    "legacy_id": 184,
+    "code": "OPS-16",
+    "slug": "started-is-not-finished",
+    "area": "Operations, supply chains and logistics"
+  },
+  {
+    "legacy_id": 185,
+    "code": "PPL-16",
+    "slug": "someone-else-can-cover",
+    "area": "People, leadership and organisational behaviour"
+  },
+  {
+    "legacy_id": 186,
+    "code": "STR-16",
+    "slug": "compatible-with-what",
+    "area": "Strategy and international business"
+  },
+  {
+    "legacy_id": 187,
+    "code": "ENT-16",
+    "slug": "one-first-market",
+    "area": "Entrepreneurship, innovation and family business"
+  },
+  {
+    "legacy_id": 188,
+    "code": "IS-16",
+    "slug": "same-error-different-loss",
+    "area": "Information systems, AI and business analytics"
+  },
+  {
+    "legacy_id": 189,
+    "code": "GVR-16",
+    "slug": "same-exception-same-reasons",
+    "area": "Governance, law, ethics and risk"
+  },
+  {
+    "legacy_id": 190,
+    "code": "SUS-16",
+    "slug": "a-booking-not-just-a-button",
+    "area": "Sustainability, social enterprise and public management"
+  },
+  {
+    "legacy_id": 191,
+    "code": "ECO-16",
+    "slug": "one-more-quotation",
+    "area": "Economics, competition and pricing"
+  },
+  {
+    "legacy_id": 192,
+    "code": "HSP-16",
+    "slug": "a-room-for-this-conversation",
+    "area": "Hospitality, tourism, property and service management"
+  },
+  {
+    "legacy_id": 193,
+    "code": "ACC-17",
+    "slug": "coverage-is-not-a-population",
+    "area": "Accounting, audit and management control"
+  },
+  {
+    "legacy_id": 194,
+    "code": "FIN-17",
+    "slug": "cheaper-credit-tighter-promise",
+    "area": "Finance, banking and insurance"
+  },
+  {
+    "legacy_id": 195,
+    "code": "MKT-17",
+    "slug": "which-improvement-would-you-give-up",
+    "area": "Marketing, retail and consumer behaviour"
+  },
+  {
+    "legacy_id": 196,
+    "code": "OPS-17",
+    "slug": "steady-output-later-peak",
+    "area": "Operations, supply chains and logistics"
+  },
+  {
+    "legacy_id": 197,
+    "code": "PPL-17",
+    "slug": "whose-evidence-reached-the-table",
+    "area": "People, leadership and organisational behaviour"
+  },
+  {
+    "legacy_id": 198,
+    "code": "STR-17",
+    "slug": "defend-the-position-not-every-price",
+    "area": "Strategy and international business"
+  },
+  {
+    "legacy_id": 199,
+    "code": "ENT-17",
+    "slug": "partners-change-the-opportunity",
+    "area": "Entrepreneurship, innovation and family business"
+  },
+  {
+    "legacy_id": 200,
+    "code": "IS-17",
+    "slug": "cover-the-task-not-every-permission",
+    "area": "Information systems, AI and business analytics"
+  },
+  {
+    "legacy_id": 201,
+    "code": "GVR-17",
+    "slug": "the-date-that-changes-the-rule",
+    "area": "Governance, law, ethics and risk"
+  },
+  {
+    "legacy_id": 202,
+    "code": "SUS-17",
+    "slug": "cover-the-service-not-the-signup-count",
+    "area": "Sustainability, social enterprise and public management"
+  },
+  {
+    "legacy_id": 203,
+    "code": "ECO-17",
+    "slug": "ready-only-if-both-are-ready",
+    "area": "Economics, competition and pricing"
+  },
+  {
+    "legacy_id": 204,
+    "code": "HSP-17",
+    "slug": "keys-are-not-a-completion-record",
+    "area": "Hospitality, tourism, property and service management"
+  },
+  {
+    "legacy_id": 205,
+    "code": "ACC-18",
+    "slug": "one-target-two-views",
+    "area": "Accounting, audit and management control"
+  },
+  {
+    "legacy_id": 206,
+    "code": "FIN-18",
+    "slug": "cash-on-the-day-it-is-needed",
+    "area": "Finance, banking and insurance"
+  },
+  {
+    "legacy_id": 207,
+    "code": "MKT-18",
+    "slug": "permission-is-not-a-message-quota",
+    "area": "Marketing, retail and consumer behaviour"
+  },
+  {
+    "legacy_id": 208,
+    "code": "OPS-18",
+    "slug": "orders-are-not-consumption",
+    "area": "Operations, supply chains and logistics"
+  },
+  {
+    "legacy_id": 209,
+    "code": "PPL-18",
+    "slug": "count-the-work-not-only-the-reports",
+    "area": "People, leadership and organisational behaviour"
+  },
+  {
+    "legacy_id": 210,
+    "code": "STR-18",
+    "slug": "another-way-to-spend-the-evening",
+    "area": "Strategy and international business"
+  },
+  {
+    "legacy_id": 211,
+    "code": "ENT-18",
+    "slug": "will-the-routine-travel",
+    "area": "Entrepreneurship, innovation and family business"
+  },
+  {
+    "legacy_id": 212,
+    "code": "IS-18",
+    "slug": "features-pass-work-still-waits",
+    "area": "Information systems, AI and business analytics"
+  },
+  {
+    "legacy_id": 213,
+    "code": "GVR-18",
+    "slug": "keep-the-meeting-in-bounds",
+    "area": "Governance, law, ethics and risk"
+  },
+  {
+    "legacy_id": 214,
+    "code": "SUS-18",
+    "slug": "who-can-shape-the-ballot",
+    "area": "Sustainability, social enterprise and public management"
+  },
+  {
+    "legacy_id": 215,
+    "code": "ECO-18",
+    "slug": "ready-stock-is-not-endless",
+    "area": "Economics, competition and pricing"
+  },
+  {
+    "legacy_id": 216,
+    "code": "HSP-18",
+    "slug": "rent-is-not-the-whole-site",
+    "area": "Hospitality, tourism, property and service management"
+  },
+  {
+    "legacy_id": 217,
+    "code": "ACC-19",
+    "slug": "lower-return-better-investment",
+    "area": "Accounting, audit and management control"
+  },
+  {
+    "legacy_id": 218,
+    "code": "FIN-19",
+    "slug": "best-project-best-package",
+    "area": "Finance, banking and insurance"
+  },
+  {
+    "legacy_id": 219,
+    "code": "MKT-19",
+    "slug": "one-name-two-promises",
+    "area": "Marketing, retail and consumer behaviour"
+  },
+  {
+    "legacy_id": 220,
+    "code": "OPS-19",
+    "slug": "through-the-depot-or-to-a-shelf",
+    "area": "Operations, supply chains and logistics"
+  },
+  {
+    "legacy_id": 221,
+    "code": "PPL-19",
+    "slug": "lose-a-team-member-keep-a-colleague",
+    "area": "People, leadership and organisational behaviour"
+  },
+  {
+    "legacy_id": 222,
+    "code": "STR-19",
+    "slug": "next-market-missing-capability",
+    "area": "Strategy and international business"
+  },
+  {
+    "legacy_id": 223,
+    "code": "ENT-19",
+    "slug": "start-a-business-buy-one-to-run",
+    "area": "Entrepreneurship, innovation and family business"
+  },
+  {
+    "legacy_id": 224,
+    "code": "IS-19",
+    "slug": "one-switch-two-records",
+    "area": "Information systems, AI and business analytics"
+  },
+  {
+    "legacy_id": 225,
+    "code": "GVR-19",
+    "slug": "board-agreed-record-the-conditions",
+    "area": "Governance, law, ethics and risk"
+  },
+  {
+    "legacy_id": 226,
+    "code": "SUS-19",
+    "slug": "carbon-project-happen-anyway",
+    "area": "Sustainability, social enterprise and public management"
+  },
+  {
+    "legacy_id": 227,
+    "code": "ECO-19",
+    "slug": "price-cap-shortage-remains",
+    "area": "Economics, competition and pricing"
+  },
+  {
+    "legacy_id": 228,
+    "code": "HSP-19",
+    "slug": "ten-minutes-without-knowing",
+    "area": "Hospitality, tourism, property and service management"
+  },
+  {
+    "legacy_id": 229,
+    "code": "ACC-20",
+    "slug": "internal-price-two-refusals",
+    "area": "Accounting, audit and management control"
+  },
+  {
+    "legacy_id": 230,
+    "code": "FIN-20",
+    "slug": "good-year-distributable-surplus",
+    "area": "Finance, banking and insurance"
+  },
+  {
+    "legacy_id": 231,
+    "code": "MKT-20",
+    "slug": "points-earned-benefits-understood",
+    "area": "Marketing, retail and consumer behaviour"
+  },
+  {
+    "legacy_id": 232,
+    "code": "OPS-20",
+    "slug": "count-the-risky-shelves",
+    "area": "Operations, supply chains and logistics"
+  },
+  {
+    "legacy_id": 233,
+    "code": "PPL-20",
+    "slug": "whose-example-changes-the-habit",
+    "area": "People, leadership and organisational behaviour"
+  },
+  {
+    "legacy_id": 234,
+    "code": "STR-20",
+    "slug": "one-network-local-decisions",
+    "area": "Strategy and international business"
+  },
+  {
+    "legacy_id": 235,
+    "code": "ENT-20",
+    "slug": "stop-the-venture-keep-the-promise",
+    "area": "Entrepreneurship, innovation and family business"
+  },
+  {
+    "legacy_id": 236,
+    "code": "IS-20",
+    "slug": "trace-the-number-not-only-the-chart",
+    "area": "Information systems, AI and business analytics"
+  },
+  {
+    "legacy_id": 237,
+    "code": "GVR-20",
+    "slug": "one-response-clear-authority",
+    "area": "Governance, law, ethics and risk"
+  },
+  {
+    "legacy_id": 238,
+    "code": "SUS-20",
+    "slug": "fund-the-years-after-opening",
+    "area": "Sustainability, social enterprise and public management"
+  },
+  {
+    "legacy_id": 239,
+    "code": "ECO-20",
+    "slug": "the-rival-customers-would-choose",
+    "area": "Economics, competition and pricing"
+  },
+  {
+    "legacy_id": 240,
+    "code": "HSP-20",
+    "slug": "one-booking-different-visits",
+    "area": "Hospitality, tourism, property and service management"
+  }
+]

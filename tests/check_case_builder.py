@@ -19,17 +19,17 @@ builder=importlib.util.module_from_spec(spec);spec.loader.exec_module(builder)
 
 def payload(repo):
     reg=json.loads((repo/'case-registry.json').read_text())
-    area=next(a for a in reg['areas'] if sum(c['area']==a['name'] for c in reg['cases'])<20)
+    area=next(a for a in reg['areas'] if sum(c['area']==a['name'] for c in reg['cases'])<30)
     number=max(c['legacy_id'] for c in reg['cases'])+1
     seq=sum(c['area']==area['name'] for c in reg['cases'])+1
     return dict(number=number,code=f"{area['code']}-{seq:02}",slug='builder-test-only',title='A fixture. Not a publication.',discipline=area['name'],topics=['Builder fixture'],teaser='An isolated test.',alt='A test illustration.',news_heading='Context',news='<p>Fictional context.</p>',opening='<p>A fictional decision.</p>',exhibit='<table><tr><th>Option</th><th>Units</th></tr><tr><td>A</td><td>2</td></tr></table>',exhibit_md='| Option | Units |\n| --- | --- |\n| A | 2 |',q1='Which option?',round2='<p>New fictional context.</p>',q2='Keep or change?',sections=[['Debrief','<p>Compare the evidence.</p>'],['Instructor note','<p>Discuss the evidence for twelve minutes.</p>']],notes='All facts are fictional test data.',sources=[[f'https://example.org/source-{i}','Fixture source','Not a real reviewed source.'] for i in range(5)],slides=[['Title','<p>A fixture.</p>'],['Context','<p>Fictional context.</p>'],['Decision','<p>Which option?</p>'],['Reveal','<p>New fictional context.</p>'],['Second decision','<p>Keep or change?</p>']])
 
 
-def reduce_to_original_baseline(repo):
-    """Keep stable 1–120 fixtures, independent of production occupancy."""
+def reduce_to_original_baseline(repo, limit=120):
+    """Keep a protected historical prefix independent of production occupancy."""
     reg_path=repo/'case-registry.json'
     reg=json.loads(reg_path.read_text())
-    reg['cases']=[c for c in reg['cases'] if c['legacy_id']<=120]
+    reg['cases']=[c for c in reg['cases'] if c['legacy_id']<=limit]
     reg_path.write_text(json.dumps(reg),encoding='utf-8')
     keep={c['slug']+'.html' for c in reg['cases']}
     index=repo/'index.html'
@@ -50,7 +50,7 @@ class BuilderTests(unittest.TestCase):
         for p in ROOT.rglob('*'):
             if '.git' in p.parts or '__pycache__' in p.parts or not p.is_file() or p.suffix not in ('.html','.md','.json','.py'):continue
             target=self.repo/p.relative_to(ROOT);target.parent.mkdir(parents=True,exist_ok=True);shutil.copyfile(p,target)
-        reduce_to_original_baseline(self.repo)
+        reduce_to_original_baseline(self.repo,240)
         self.x=payload(self.repo)
         self.input=Path(self.temp.name)/'input.json'
 
@@ -71,31 +71,59 @@ class BuilderTests(unittest.TestCase):
         self.assertEqual(builder.ROOT,ROOT)
         before=self.snapshot();self.run_builder();self.assertEqual(before,self.snapshot())
 
-    def test_full_240_baseline_is_reduced_safely(self):
-        reg_path=self.repo/'case-registry.json'
-        reg=json.loads(reg_path.read_text())
-        additions=[]
-        while len(reg['cases'])<240:
-            area=next(a for a in reg['areas'] if sum(c['area']==a['name'] for c in reg['cases'])<20)
-            number=len(reg['cases'])+1
-            seq=sum(c['area']==area['name'] for c in reg['cases'])+1
-            slug=f'capacity-fixture-{number}'
-            reg['cases'].append(dict(legacy_id=number,code=f"{area['code']}-{seq:02}",slug=slug,title='Capacity fixture',area=area['name']))
-            additions.append(f'<a class="card" href="{slug}.html">Fixture</a>')
-        self.assertTrue(all(sum(c['area']==a['name'] for c in reg['cases'])==20 for a in reg['areas']))
-        reg_path.write_text(json.dumps(reg),encoding='utf-8')
-        index=self.repo/'index.html'
-        source=index.read_text();first=source.index('<a class="card"')
-        index.write_text(source[:first]+''.join(additions)+source[first:],encoding='utf-8')
+    def test_original_fixture_remains_available(self):
+        original=(self.repo/'tests/fixtures/original-case-identities.json').read_bytes()
         reduce_to_original_baseline(self.repo)
+        self.assertEqual(len(json.loads((self.repo/'case-registry.json').read_text())['cases']),120)
+        self.assertEqual((self.repo/'tests/fixtures/original-case-identities.json').read_bytes(),original)
+
+    def stage_published(self, total):
+        # Restore real protected identities before adding synthetic unpublished slots.
+        reg=json.loads((ROOT/'case-registry.json').read_text())
+        reg['cases']=[c for c in reg['cases'] if c['legacy_id']<=240]
+        source=(ROOT/'index.html').read_text()
+        keep={c['slug']+'.html' for c in reg['cases']}
+        source=re.sub(r'<a class="card".*?</a>',lambda m:m[0] if re.search(r'href="([^"]+)"',m[0])[1] in keep else '',source,flags=re.S)
+        first=source.index('<a class="card"')
+        additions=[]
+        template=(self.repo/(reg['cases'][0]['slug']+'.html')).read_text()
+        while len(reg['cases'])<total:
+            n=len(reg['cases'])+1
+            area=next(a for a in reg['areas'] if sum(c['area']==a['name'] for c in reg['cases'])<30)
+            seq=sum(c['area']==area['name'] for c in reg['cases'])+1
+            slug=f'stage-fixture-{n}'
+            reg['cases'].append(dict(legacy_id=n,code=f"{area['code']}-{seq:02}",slug=slug,title='Fixture',area=area['name']))
+            (self.repo/(slug+'.html')).write_text(template)
+            additions.append(f'<a class="card" href="{slug}.html">Fixture</a>')
+        (self.repo/'case-registry.json').write_text(json.dumps(reg))
+        (self.repo/'index.html').write_text(source[:first]+''.join(additions)+source[first:])
+
+    def test_staged_241_and_360_and_overflow(self):
+        for before in (240,359):
+            with self.subTest(before=before):
+                self.stage_published(before)
+                self.x=payload(self.repo)
+                self.x['slug']=f'builder-stage-{before+1}'
+                (self.repo/(self.x['slug']+'-scene.jpg')).write_bytes(b'test-only')
+                self.run_builder(write=True)
+                reg=json.loads((self.repo/'case-registry.json').read_text())
+                self.assertEqual(len(reg['cases']),before+1)
+                ledger=(self.repo/'planning/collection-roadmap.md').read_text()
+                self.assertIn(f'**{360-before-1} approved editorial slots**',ledger)
+                self.assertIn(f'{before+1} decisions · 12 teaching areas',(self.repo/'index.html').read_text())
+        self.x['number']=361;self.x['code']='ACC-31';self.x['slug']='overflow-test'
+        self.reject('121–360')
+
+    def test_area_overflow_and_frozen_identity_rejected(self):
+        self.stage_published(250)
         self.x=payload(self.repo)
-        self.assertEqual(self.x['number'],121)
-        self.assertEqual(len(json.loads(reg_path.read_text())['cases']),120)
-        self.assertEqual(len(re.findall(r'<a class="card"',index.read_text())),120)
-        before=self.snapshot();self.run_builder();self.assertEqual(before,self.snapshot())
-        (self.repo/(self.x['slug']+'-scene.jpg')).write_bytes(b'fixture only')
-        self.run_builder(write=True)
-        self.assertEqual(len(json.loads(reg_path.read_text())['cases']),121)
+        reg=json.loads((self.repo/'case-registry.json').read_text())
+        self.x['discipline']=reg['areas'][0]['name'];self.x['code']='ACC-31'
+        self.reject('Wrong next area code')
+        self.x=payload(self.repo)
+        reg['cases'][239]['slug']='mutated-published-url'
+        (self.repo/'case-registry.json').write_text(json.dumps(reg))
+        self.reject('Published identity changed')
 
     def test_instructor_note_required(self):
         self.x['sections']=[row for row in self.x['sections'] if row[0]!='Instructor note']

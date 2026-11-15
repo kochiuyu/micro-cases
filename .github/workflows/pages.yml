@@ -15,6 +15,13 @@ jobs:
       url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install builder test dependency
+        run: python3 -m pip install lxml==6.1.1
+      - name: Check isolated case builder
+        run: python3 tests/check_case_builder.py
       - name: Check self-contained cases
         run: python3 tests/check_case_links.py
       - name: Check highlighted decision questions

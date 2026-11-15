@@ -11,18 +11,24 @@ def validate_registry(data):
  assert len(areas)==12 and [a['code'] for a in areas]==list(CODES)
  names=[a['name'] for a in areas];assert len(set(names))==12
  assert all(a.get('label','').strip() for a in areas)
- assert 120 <= len(cases) <= 240, 'Expected staged expansion from 120 to 240 cases'
+ assert 120 <= len(cases) <= 360, 'Expected staged expansion from 120 to 360 cases'
  assert all(type(c['legacy_id']) is int for c in cases), 'IDs must be integers'
  assert {c['legacy_id'] for c in cases}==set(range(1,len(cases)+1)), 'Permanent IDs must be contiguous'
  baseline=json.loads((ROOT/'tests/fixtures/original-case-identities.json').read_text())
  current={c['legacy_id']:c for c in cases}
  for original in baseline:
   assert all(current[original['legacy_id']][key]==value for key,value in original.items()), 'Original identity changed: '+str(original['legacy_id'])
+ # Historical staged fixtures may end before 240; every identity present is frozen.
+ frozen=json.loads((ROOT/'tests/fixtures/published-240-case-identities.json').read_text())
+ assert len(frozen)==240 and frozen[:120]==baseline, 'Identity snapshots disagree'
+ for original in frozen:
+  if original['legacy_id'] in current:
+   assert all(current[original['legacy_id']][key]==value for key,value in original.items()), 'Published identity changed: '+str(original['legacy_id'])
  for key in ('legacy_id','code','slug'):
   assert len({c[key] for c in cases})==len(cases),f'Duplicate {key}'
  for area in areas:
   group=sorted([c for c in cases if c['area']==area['name']],key=lambda c:c['legacy_id'])
-  assert 10 <= len(group) <= 20,area['name']
+  assert 10 <= len(group) <= 30,area['name']
   assert [c['code'] for c in group]==[f"{area['code']}-{i:02}" for i in range(1,len(group)+1)],area['name']
  for c in cases:
   assert c['area'] in names and re.fullmatch(r'[a-z0-9]+(?:-[a-z0-9]+)*',c['slug'])
