@@ -452,3 +452,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 114
 
 114. [One large customer. Too much dependence?](anchor-customer.html)
+
+## Case 115
+
+115. [Keep the job. Start the business?](keep-the-job.html)
