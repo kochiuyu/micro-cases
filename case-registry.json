@@ -1336,6 +1336,13 @@
       "slug": "cash-moves-together",
       "area": "Finance, banking and insurance",
       "title": "Two income streams. One bad month?"
+    },
+    {
+      "legacy_id": 183,
+      "code": "MKT-16",
+      "slug": "new-pack-new-sales",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "A new pack. New sales?"
     }
   ]
 }
