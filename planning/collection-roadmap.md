@@ -4,7 +4,7 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-224 cases are published: the original 120 plus 104 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+225 cases are published: the original 120 plus 105 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -18,11 +18,11 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Strategy and international business | 13, 21, 33, 43, 60, 66, 78, 90, 102, 114, 126, 138, 150, 162, 174, 186, 198, 210, 222 | — | 1 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
 | Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79, 91, 103, 115, 127, 139, 151, 163, 175, 187, 199, 211, 223 | — | 1 | A buyer wants the family brand and its name. Which terms would the founders accept? |
 | Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71, 81, 92, 104, 116, 128, 140, 152, 164, 176, 188, 200, 212, 224 | — | 1 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
-| Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93, 105, 117, 129, 141, 153, 165, 177, 189, 201, 213 | — | 2 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
+| Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93, 105, 117, 129, 141, 153, 165, 177, 189, 201, 213, 225 | — | 1 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142, 154, 166, 178, 190, 202, 214 | — | 2 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143, 155, 167, 179, 191, 203, 215 | — | 2 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144, 156, 168, 180, 192, 204, 216 | — | 2 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **224 published** | **16 approved editorial slots** | **16** | |
+| **Total** | **225 published** | **15 approved editorial slots** | **15** | |
 
 ## How a lead earns a place
 
@@ -723,5 +723,9 @@ Integrated the independently reviewed case, preserving its fictional assumptions
 Integrated the independently reviewed case, preserving its fictional assumptions, substantive reveal, exact decision prompts and source limitations. Parent-approved original artwork is hash-verified and illustrative. No new factual or outcome claims were added during integration. Full local collection and builder checks remain separate from browser, mobile, print and live deployment validation.
 
 ## Expansion wave 9 · IS-19
+
+Integrated the independently reviewed case, preserving its fictional assumptions, substantive reveal, exact decision prompts and source limitations. Parent-approved original artwork is hash-verified and illustrative. No new factual or outcome claims were added during integration. Full local collection and builder checks remain separate from browser, mobile, print and live deployment validation.
+
+## Expansion wave 9 · GVR-19
 
 Integrated the independently reviewed case, preserving its fictional assumptions, substantive reveal, exact decision prompts and source limitations. Parent-approved original artwork is hash-verified and illustrative. No new factual or outcome claims were added during integration. Full local collection and builder checks remain separate from browser, mobile, print and live deployment validation.

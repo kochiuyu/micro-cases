@@ -1630,6 +1630,13 @@
       "slug": "one-switch-two-records",
       "area": "Information systems, AI and business analytics",
       "title": "One switch-over. Two records to reconcile?"
+    },
+    {
+      "legacy_id": 225,
+      "code": "GVR-19",
+      "slug": "board-agreed-record-the-conditions",
+      "area": "Governance, law, ethics and risk",
+      "title": "The board agreed. Did it record the conditions?"
     }
   ]
 }

@@ -892,3 +892,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## IS-19
 
 224. [One switch-over. Two records to reconcile?](one-switch-two-records.html)
+
+## GVR-19
+
+225. [The board agreed. Did it record the conditions?](board-agreed-record-the-conditions.html)
