@@ -4,13 +4,13 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-168 cases are published: the original 120 plus 48 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+169 cases are published: the original 120 plus 49 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
 | Primary teaching area | Published case numbers | Planned case numbers | Remaining cases to reach twenty | Example decision to scout |
 |---|---|---|---:|---|
-| Accounting, audit and management control | 9, 24, 30, 40, 52, 61, 73, 85, 97, 109, 121, 133, 145, 157 | — | 6 | A division misses its target after a shared cost is reassigned. Cut its budget or change the measure? |
+| Accounting, audit and management control | 9, 24, 30, 40, 52, 61, 73, 85, 97, 109, 121, 133, 145, 157, 169 | — | 5 | A division misses its target after a shared cost is reassigned. Cut its budget or change the measure? |
 | Finance, banking and insurance | 2, 7, 18, 38, 50, 62, 74, 86, 98, 110, 122, 134, 146, 158 | — | 6 | A major customer asks for longer payment terms. What would you ask for in return? |
 | Marketing, retail and consumer behaviour | 11, 19, 31, 41, 57, 63, 75, 87, 99, 111, 123, 135, 147, 159 | — | 6 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
 | Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88, 100, 112, 124, 136, 148, 160 | — | 6 | Ship the whole order late or pay to send half by air? |
@@ -22,7 +22,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142, 154, 166 | — | 6 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143, 155, 167 | — | 6 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144, 156, 168 | — | 6 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **168 published** | **72 approved editorial slots** | **72** | |
+| **Total** | **169 published** | **71 approved editorial slots** | **71** | |
 
 ## How a lead earns a place
 
@@ -481,3 +481,7 @@ Integrated the independently reviewed service-script case. Both funded designs r
 ## Internal editorial checkpoint · Expansion wave 4 (157–168)
 
 The cross-case internal review passed for distinct mechanisms, numerical reasoning, self-contained choices and exact presentation decision prompts. The twelve objectives span receivable recovery, nominal/real consistency, reference comparisons, delivery windows, internal pay relationships, ownership mode, earn-outs, alert base rates, supplier-funded visits, adaptation timing, two-part tariffs and bounded service adaptation. This is internal editorial review, not instructor or student feedback, a fresh exhaustive audit of sixty source bodies, or live/browser/mobile/print validation. Dense illustration-context openings were identified for a separate concise-slide revision, preserving the full case-page context and factual boundaries.
+
+## Expansion wave 5 · ACC-15
+
+Integrated the independently reviewed completed-month cash reconciliation case. Profit, non-cash depreciation, operating-balance movements and equipment investment remain distinct, with explicit simplified assumptions and no immediate cash-release promise. Neither inventory growth nor receivables establishes waste or wrongdoing. Five optional substantive source bodies support bounded reporting concepts; foreign guidance is not presented as Hong Kong authority. The illustration-context slide is concise while full page context is retained. Parent-approved original art is illustrative. This editorial record does not replace browser, mobile, print or deployment QA.

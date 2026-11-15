@@ -1238,6 +1238,13 @@
       "slug": "script-and-occasion",
       "area": "Hospitality, tourism, property and service management",
       "title": "Follow the script. Recognise the occasion?"
+    },
+    {
+      "legacy_id": 169,
+      "code": "ACC-15",
+      "slug": "profit-not-cash",
+      "area": "Accounting, audit and management control",
+      "title": "A profit. Where did the cash go?"
     }
   ]
 }

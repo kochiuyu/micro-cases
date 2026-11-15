@@ -210,3 +210,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 166 | SUS-14 | [shade-now-shade-later.html](../shade-now-shade-later.html) | A cooler courtyard. Ready for a hotter summer? |
 | 167 | ECO-14 | [entry-fee-extra-visit.html](../entry-fee-extra-visit.html) | A low visit price. A high-use member? |
 | 168 | HSP-14 | [script-and-occasion.html](../script-and-occasion.html) | Follow the script. Recognise the occasion? |
+| 169 | ACC-15 | [profit-not-cash.html](../profit-not-cash.html) | A profit. Where did the cash go? |
