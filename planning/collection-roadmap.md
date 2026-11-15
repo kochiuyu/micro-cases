@@ -4,7 +4,7 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-142 cases are published: the original 120 plus 22 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+143 cases are published: the original 120 plus 23 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -20,9 +20,9 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71, 81, 92, 104, 116, 128, 140 | — | 8 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
 | Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93, 105, 117, 129, 141 | — | 8 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142 | — | 8 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
-| Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131 | — | 9 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
+| Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143 | — | 8 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132 | — | 9 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **142 published** | **98 approved editorial slots** | **98** | |
+| **Total** | **143 published** | **97 approved editorial slots** | **97** | |
 
 ## How a lead earns a place
 
@@ -365,3 +365,7 @@ Case 141 (GVR-12) treats a preservation exception as a controlled lifecycle deci
 ## Expansion wave 2 · SUS-12
 
 Case 142 (SUS-12) separates shifting electricity use in time from reducing use and from allocating emissions. The original safe, service-equivalent schedules cost HK$100 and HK$132 per day; the cheaper option uses 100 kWh while the other uses 80. Invented window-average factors allocate 60 and 16 kg CO₂ respectively, creating an explicit cost-versus-emissions trade-off without establishing avoided grid emissions or a cleaner Hong Kong time window. Five substantive source bodies, arithmetic, source boundaries and corrected slide parity received independent review. The exercise authorises no operational change or tariff application, and rendering/deployment checks remain separate.
+
+## Expansion wave 2 · ECO-12
+
+Case 143 (ECO-12) shows how winning can select a lower common-value state rather than preserve the bidder's unconditional estimate. Under the original two-state model and fixed rival rule, HK$7,100 yields HK$450 expected surplus; HK$9,000 yields a HK$500 expected loss. Checking every permitted bid range supports the supplied best response, not an equilibrium claim or a universal auction discount. Five substantive source bodies and independent arithmetic/editorial review were completed. The Hong Kong auction material supplies context only; no real lot valuation, bid, competitor information exchange or public-auction recommendation is implied. Rendering and deployment checks remain separate.

@@ -564,3 +564,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## SUS-12
 
 142. [The same electricity. A different time?](same-energy-different-time.html)
+
+## ECO-12
+
+143. [The highest estimate. The best bid?](winning-is-information.html)

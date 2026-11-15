@@ -184,3 +184,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 140 | IS-12 | [blank-cell.html](../blank-cell.html) | A blank cell. A harmless average? |
 | 141 | GVR-12 | [preserve-an-exception.html](../preserve-an-exception.html) | Delete on schedule. Preserve an exception? |
 | 142 | SUS-12 | [same-energy-different-time.html](../same-energy-different-time.html) | The same electricity. A different time? |
+| 143 | ECO-12 | [winning-is-information.html](../winning-is-information.html) | The highest estimate. The best bid? |

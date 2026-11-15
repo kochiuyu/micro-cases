@@ -1056,6 +1056,13 @@
       "slug": "same-energy-different-time",
       "area": "Sustainability, social enterprise and public management",
       "title": "The same electricity. A different time?"
+    },
+    {
+      "legacy_id": 143,
+      "code": "ECO-12",
+      "slug": "winning-is-information",
+      "area": "Economics, competition and pricing",
+      "title": "The highest estimate. The best bid?"
     }
   ]
 }
