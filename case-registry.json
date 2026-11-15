@@ -1105,6 +1105,13 @@
       "slug": "same-leave-fair-process",
       "area": "People, leadership and organisational behaviour",
       "title": "The same leave entitlement. The same fair process?"
+    },
+    {
+      "legacy_id": 150,
+      "code": "STR-13",
+      "slug": "open-before-the-network",
+      "area": "Strategy and international business",
+      "title": "Open first. Be ready first?"
     }
   ]
 }

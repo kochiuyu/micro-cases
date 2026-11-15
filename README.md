@@ -592,3 +592,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## PPL-13
 
 149. [The same leave entitlement. The same fair process?](same-leave-fair-process.html)
+
+## STR-13
+
+150. [Open first. Be ready first?](open-before-the-network.html)
