@@ -4,7 +4,7 @@ The first balanced collection will have **120 cases, ten per teaching area**. Th
 
 ## Coverage ledger
 
-One hundred and fifteen cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 5 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
+One hundred and sixteen cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 4 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -17,12 +17,12 @@ Count each case once by its primary classroom decision. The assignments below ar
 | People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77, 89, 101, 113 | — | 0 | A high-performing team refuses a promotion for its best member. Who should lead? |
 | Strategy and international business | 13, 21, 33, 43, 60, 66, 78, 90, 102, 114 | — | 0 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
 | Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79, 91, 103, 115 | — | 0 | A buyer wants the family brand and its name. Which terms would the founders accept? |
-| Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71, 81, 92, 104 | — | 1 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
+| Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71, 81, 92, 104, 116 | — | 0 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
 | Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93, 105 | — | 1 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106 | — | 1 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107 | — | 1 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108 | — | 1 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **115 published** | **0 planned** | **5** | |
+| **Total** | **116 published** | **0 planned** | **4** | |
 
 ## How a lead earns a place
 
@@ -258,3 +258,5 @@ Case 113 distinguishes an observable learning goal from an output target during 
 Case 114 adds customer dependence and renewal exposure: a conditional full-plan customer share is neither a safety threshold nor a purchase commitment. Compare a bounded anchor offer with broader but uncommitted prospects, preserving realistic alternatives without a free second growth programme. Distinct from channel control, acquisition overlap and shared upstream supply risk. Strategy now has ten cases.
 
 Case 115 adds hybrid versus full-time entrepreneurial entry. Preserved employment income reduces the funded downside, while customer onboarding windows change the usefulness of founder time. Broader access is not orders, revenue or profit; affordable exposure is not automatically worthwhile. Distinct from production pilots, founder equity and workplace attendance. Entrepreneurship now has ten cases.
+
+Case 116 adds the choice of random assignment unit for a collaborative software feature. Shared notes can expose old-editor colleagues to helper-created information. Whole-team allocation better matches the stated question but does not establish effectiveness or adequate precision. Distinct from rollout representativeness and observational inference. Information systems, AI and business analytics now has ten cases.

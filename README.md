@@ -456,3 +456,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 115
 
 115. [Keep the job. Start the business?](keep-the-job.html)
+
+## Case 116
+
+116. [Two versions. Two separate groups?](separate-groups.html)
