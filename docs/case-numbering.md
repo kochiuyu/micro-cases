@@ -180,3 +180,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 136 | OPS-12 | [stock-is-not-ready.html](../stock-is-not-ready.html) | Two stores. One safety stock? |
 | 137 | PPL-12 | [explain-the-difficult-part.html](../explain-the-difficult-part.html) | Fill the vacancy. Explain the difficult part? |
 | 138 | STR-12 | [dedicated-tool.html](../dedicated-tool.html) | A dedicated tool. A dependable agreement? |
+| 139 | ENT-12 | [better-for-whom.html](../better-for-whom.html) | Better ratings. The same business? |

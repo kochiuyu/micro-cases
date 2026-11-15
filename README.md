@@ -548,3 +548,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## STR-12
 
 138. [A dedicated tool. A dependable agreement?](dedicated-tool.html)
+
+## ENT-12
+
+139. [Better ratings. The same business?](better-for-whom.html)

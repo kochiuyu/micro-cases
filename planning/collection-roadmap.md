@@ -4,7 +4,7 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-138 cases are published: the original 120 plus 18 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+139 cases are published: the original 120 plus 19 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -16,13 +16,13 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88, 100, 112, 124, 136 | — | 8 | Ship the whole order late or pay to send half by air? |
 | People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77, 89, 101, 113, 125, 137 | — | 8 | A high-performing team refuses a promotion for its best member. Who should lead? |
 | Strategy and international business | 13, 21, 33, 43, 60, 66, 78, 90, 102, 114, 126, 138 | — | 8 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
-| Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79, 91, 103, 115, 127 | — | 9 | A buyer wants the family brand and its name. Which terms would the founders accept? |
+| Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79, 91, 103, 115, 127, 139 | — | 8 | A buyer wants the family brand and its name. Which terms would the founders accept? |
 | Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71, 81, 92, 104, 116, 128 | — | 9 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
 | Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93, 105, 117, 129 | — | 9 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130 | — | 9 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131 | — | 9 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132 | — | 9 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **138 published** | **102 approved editorial slots** | **102** | |
+| **Total** | **139 published** | **101 approved editorial slots** | **101** | |
 
 ## How a lead earns a place
 
@@ -349,3 +349,7 @@ Case 137 (PPL-12) compares two truthful pre-offer job previews: a structured bri
 ## Expansion wave 2 · STR-12
 
 Case 138 (STR-12) examines a relationship-specific tooling investment and safeguards that address its limited alternative uses. A forecast-cost advantage is not the same as committed demand or guaranteed profit. The fictional minimum-purchase performance branch and immediate pre-production termination branch are mutually exclusive: the latter leaves HK$15,000 unrecovered setup cash under the specified payment and disposal assumptions, compared with HK$75,000 without the termination payment. The safeguard reduces exposure without removing collection risk or making the dedicated tool as redeployable as the alternative. Five substantive source bodies and independent arithmetic/editorial review support the bounded discussion; historical contracts are not Hong Kong legal templates or allegations about their parties. Rendering and deployment checks remain separate.
+
+## Expansion wave 2 · ENT-12
+
+Case 139 (ENT-12) distinguishes improved perceived usability from evidence about a customer problem and a possible pivot. All twenty fictional respondents report ease-of-use ratings, so the issue is not missing-response weighting. Sustained use differs between solo accounts and four teams using the prototype for handovers; those small, self-selected groups do not establish a market or a causal product effect. One bounded HK$30,000 learning cycle can investigate either improved solo onboarding or the team-handover hypothesis, with existing support separately funded. Five substantive source bodies and independent editorial/arithmetic review were completed. Illustrative continuation rules are managerial commitments before results, not scientific validation thresholds or commercial-launch approval. Rendered and deployment checks remain separate.
