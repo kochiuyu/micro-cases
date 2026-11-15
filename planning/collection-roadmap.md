@@ -4,7 +4,7 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-198 cases are published: the original 120 plus 78 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+199 cases are published: the original 120 plus 79 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -16,13 +16,13 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88, 100, 112, 124, 136, 148, 160, 172, 184, 196 | — | 3 | Ship the whole order late or pay to send half by air? |
 | People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77, 89, 101, 113, 125, 137, 149, 161, 173, 185, 197 | — | 3 | A high-performing team refuses a promotion for its best member. Who should lead? |
 | Strategy and international business | 13, 21, 33, 43, 60, 66, 78, 90, 102, 114, 126, 138, 150, 162, 174, 186, 198 | — | 3 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
-| Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79, 91, 103, 115, 127, 139, 151, 163, 175, 187 | — | 4 | A buyer wants the family brand and its name. Which terms would the founders accept? |
+| Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79, 91, 103, 115, 127, 139, 151, 163, 175, 187, 199 | — | 3 | A buyer wants the family brand and its name. Which terms would the founders accept? |
 | Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71, 81, 92, 104, 116, 128, 140, 152, 164, 176, 188 | — | 4 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
 | Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93, 105, 117, 129, 141, 153, 165, 177, 189 | — | 4 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142, 154, 166, 178, 190 | — | 4 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143, 155, 167, 179, 191 | — | 4 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144, 156, 168, 180, 192 | — | 4 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **198 published** | **42 approved editorial slots** | **42** | |
+| **Total** | **199 published** | **41 approved editorial slots** | **41** | |
 
 ## How a lead earns a place
 
@@ -613,3 +613,7 @@ Integrated the independently reviewed case. Shared information and unique eviden
 ## Expansion wave 7 · STR-17
 
 Integrated the independently reviewed case. Competitive response is evaluated against segment economics and the stated service position, not an automatic instruction to match every rival price. Reviewed substantive facts and exact prompts are preserved, with optional source scopes and uncertainty limits retained. Parent-approved original artwork is hash-verified and illustrative. Local validation remains separate from rendered, mobile, print and live QA.
+
+## Expansion wave 7 · ENT-17
+
+Integrated the independently reviewed case. Stakeholder precommitments can change an opportunity as well as fund it; the original bounds and trade-offs do not imply guaranteed demand or a free partnership. Reviewed substantive facts and exact prompts are preserved, with optional source scopes and uncertainty limits retained. Parent-approved original artwork is hash-verified and illustrative. Local validation remains separate from rendered, mobile, print and live QA.

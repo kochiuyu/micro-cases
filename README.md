@@ -788,3 +788,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## STR-17
 
 198. [Defend every customer. Defend the right position?](defend-the-position-not-every-price.html)
+
+## ENT-17
+
+199. [A venture plan. Which partners help shape it?](partners-change-the-opportunity.html)

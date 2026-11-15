@@ -240,3 +240,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 196 | OPS-17 | [steady-output-later-peak.html](../steady-output-later-peak.html) | Steady output. Or follow the peak? |
 | 197 | PPL-17 | [whose-evidence-reached-the-table.html](../whose-evidence-reached-the-table.html) | Everyone agrees. Has everyone’s evidence been heard? |
 | 198 | STR-17 | [defend-the-position-not-every-price.html](../defend-the-position-not-every-price.html) | Defend every customer. Defend the right position? |
+| 199 | ENT-17 | [partners-change-the-opportunity.html](../partners-change-the-opportunity.html) | A venture plan. Which partners help shape it? |
