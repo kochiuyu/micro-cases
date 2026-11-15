@@ -544,3 +544,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## PPL-12
 
 137. [Fill the vacancy. Explain the difficult part?](explain-the-difficult-part.html)
+
+## STR-12
+
+138. [A dedicated tool. A dependable agreement?](dedicated-tool.html)
