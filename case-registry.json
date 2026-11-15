@@ -1392,6 +1392,13 @@
       "slug": "a-booking-not-just-a-button",
       "area": "Sustainability, social enterprise and public management",
       "title": "Online first. A service for everyone?"
+    },
+    {
+      "legacy_id": 191,
+      "code": "ECO-16",
+      "slug": "one-more-quotation",
+      "area": "Economics, competition and pricing",
+      "title": "One more quotation. Worth the search?"
     }
   ]
 }

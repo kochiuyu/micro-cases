@@ -756,3 +756,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## SUS-16
 
 190. [Online first. A service for everyone?](a-booking-not-just-a-button.html)
+
+## ECO-16
+
+191. [One more quotation. Worth the search?](one-more-quotation.html)

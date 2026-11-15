@@ -4,7 +4,7 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-190 cases are published: the original 120 plus 70 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+191 cases are published: the original 120 plus 71 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -20,9 +20,9 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71, 81, 92, 104, 116, 128, 140, 152, 164, 176, 188 | — | 4 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
 | Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93, 105, 117, 129, 141, 153, 165, 177, 189 | — | 4 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142, 154, 166, 178, 190 | — | 4 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
-| Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143, 155, 167, 179 | — | 5 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
+| Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143, 155, 167, 179, 191 | — | 4 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144, 156, 168, 180 | — | 5 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **190 published** | **50 approved editorial slots** | **50** | |
+| **Total** | **191 published** | **49 approved editorial slots** | **49** | |
 
 ## How a lead earns a place
 
@@ -573,3 +573,7 @@ Integrated the independently reviewed accountable-discretion case. Consistent re
 ## Expansion wave 6 · SUS-16
 
 Integrated the independently reviewed digital-inclusion case. Access is evaluated across the complete booking process, not merely the availability of a digital button or an assumed universal preference. The supplied fictional service options, resource limits and safeguards remain intact; no population-wide adoption or outcome claim is inferred. Optional sources retain their scope limits. Parent-approved original illustration uses observed neutral coordinator, laptop, telephone and folder details. Static checks are separate from browser, mobile, print and live validation.
+
+## Expansion wave 6 · ECO-16
+
+Integrated the independently reviewed one-step search case. The value of an optional quotation is compared with search and delay costs incurred in both searched outcomes, while the existing quote remains available. Fictional probabilities and an explicit expected-cost objective do not guarantee savings or justify evading required procurement checks. The finite search model is not an unrestricted negotiation or repeated-search problem. Optional source scopes remain bounded. Parent-approved original artwork is illustrative; visual and live validation remain separate from local checks.
