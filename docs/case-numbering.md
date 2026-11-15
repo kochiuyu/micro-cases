@@ -279,3 +279,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 235 | ENT-20 | [stop-the-venture-keep-the-promise.html](../stop-the-venture-keep-the-promise.html) | Stop the venture. Keep the promise? |
 | 236 | IS-20 | [trace-the-number-not-only-the-chart.html](../trace-the-number-not-only-the-chart.html) | A persuasive dashboard. Can we trace the number? |
 | 237 | GVR-20 | [one-response-clear-authority.html](../one-response-clear-authority.html) | An incident declared. Who is directing the response? |
+| 238 | SUS-20 | [fund-the-years-after-opening.html](../fund-the-years-after-opening.html) | The pilot grant ends. Who maintains the benefit? |

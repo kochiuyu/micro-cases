@@ -1721,6 +1721,13 @@
       "slug": "one-response-clear-authority",
       "area": "Governance, law, ethics and risk",
       "title": "An incident declared. Who is directing the response?"
+    },
+    {
+      "legacy_id": 238,
+      "code": "SUS-20",
+      "slug": "fund-the-years-after-opening",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "The pilot grant ends. Who maintains the benefit?"
     }
   ]
 }
