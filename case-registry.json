@@ -1476,6 +1476,13 @@
       "slug": "cover-the-service-not-the-signup-count",
       "area": "Sustainability, social enterprise and public management",
       "title": "Many volunteers. A dependable service?"
+    },
+    {
+      "legacy_id": 203,
+      "code": "ECO-17",
+      "slug": "ready-only-if-both-are-ready",
+      "area": "Economics, competition and pricing",
+      "title": "We will launch if you do."
     }
   ]
 }

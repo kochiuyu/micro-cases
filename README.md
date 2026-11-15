@@ -804,3 +804,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## SUS-17
 
 202. [Many volunteers. A dependable service?](cover-the-service-not-the-signup-count.html)
+
+## ECO-17
+
+203. [We will launch if you do.](ready-only-if-both-are-ready.html)
