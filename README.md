@@ -876,3 +876,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## OPS-19
 
 220. [Straight through the depot. Or onto a shelf?](through-the-depot-or-to-a-shelf.html)
+
+## PPL-19
+
+221. [Lose a team member. Keep a colleague?](lose-a-team-member-keep-a-colleague.html)

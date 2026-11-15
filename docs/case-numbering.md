@@ -262,3 +262,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 218 | FIN-19 | [best-project-best-package.html](../best-project-best-package.html) | The best project. The best set of projects? |
 | 219 | MKT-19 | [one-name-two-promises.html](../one-name-two-promises.html) | One name for two promises? |
 | 220 | OPS-19 | [through-the-depot-or-to-a-shelf.html](../through-the-depot-or-to-a-shelf.html) | Straight through the depot. Or onto a shelf? |
+| 221 | PPL-19 | [lose-a-team-member-keep-a-colleague.html](../lose-a-team-member-keep-a-colleague.html) | Lose a team member. Keep a colleague? |

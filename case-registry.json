@@ -1602,6 +1602,13 @@
       "slug": "through-the-depot-or-to-a-shelf",
       "area": "Operations, supply chains and logistics",
       "title": "Straight through the depot. Or onto a shelf?"
+    },
+    {
+      "legacy_id": 221,
+      "code": "PPL-19",
+      "slug": "lose-a-team-member-keep-a-colleague",
+      "area": "People, leadership and organisational behaviour",
+      "title": "Lose a team member. Keep a colleague?"
     }
   ]
 }
