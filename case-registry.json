@@ -1616,6 +1616,13 @@
       "slug": "next-market-missing-capability",
       "area": "Strategy and international business",
       "title": "The next market. The next missing capability?"
+    },
+    {
+      "legacy_id": 223,
+      "code": "ENT-19",
+      "slug": "start-a-business-buy-one-to-run",
+      "area": "Entrepreneurship, innovation and family business",
+      "title": "Start a business. Or buy one to run?"
     }
   ]
 }

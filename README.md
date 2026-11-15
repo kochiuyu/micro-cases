@@ -884,3 +884,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## STR-19
 
 222. [The next market. The next missing capability?](next-market-missing-capability.html)
+
+## ENT-19
+
+223. [Start a business. Or buy one to run?](start-a-business-buy-one-to-run.html)
