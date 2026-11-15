@@ -1119,6 +1119,13 @@
       "slug": "beyond-familiar-contacts",
       "area": "Entrepreneurship, innovation and family business",
       "title": "Ask the people we know. Meet the people they do not know?"
+    },
+    {
+      "legacy_id": 152,
+      "code": "IS-13",
+      "slug": "same-mix-different-answer",
+      "area": "Information systems, AI and business analytics",
+      "title": "Better in both groups. Worse overall?"
     }
   ]
 }

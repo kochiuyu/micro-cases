@@ -600,3 +600,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## ENT-13
 
 151. [Ask the people we know. Meet the people they do not know?](beyond-familiar-contacts.html)
+
+## IS-13
+
+152. [Better in both groups. Worse overall?](same-mix-different-answer.html)
