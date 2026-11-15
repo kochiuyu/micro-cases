@@ -1539,6 +1539,13 @@
       "slug": "will-the-routine-travel",
       "area": "Entrepreneurship, innovation and family business",
       "title": "It worked in the last business. Will the routine travel?"
+    },
+    {
+      "legacy_id": 212,
+      "code": "IS-18",
+      "slug": "features-pass-work-still-waits",
+      "area": "Information systems, AI and business analytics",
+      "title": "The feature is delivered. Is the work supported?"
     }
   ]
 }

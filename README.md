@@ -840,3 +840,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## ENT-18
 
 211. [It worked in the last business. Will the routine travel?](will-the-routine-travel.html)
+
+## IS-18
+
+212. [The feature is delivered. Is the work supported?](features-pass-work-still-waits.html)
