@@ -226,3 +226,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 182 | FIN-16 | [cash-moves-together.html](../cash-moves-together.html) | Two income streams. One bad month? |
 | 183 | MKT-16 | [new-pack-new-sales.html](../new-pack-new-sales.html) | A new pack. New sales? |
 | 184 | OPS-16 | [started-is-not-finished.html](../started-is-not-finished.html) | Keep every station busy. Finish orders sooner? |
+| 185 | PPL-16 | [someone-else-can-cover.html](../someone-else-can-cover.html) | One expert. Who else can cover? |

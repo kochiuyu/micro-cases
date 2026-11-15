@@ -1350,6 +1350,13 @@
       "slug": "started-is-not-finished",
       "area": "Operations, supply chains and logistics",
       "title": "Keep every station busy. Finish orders sooner?"
+    },
+    {
+      "legacy_id": 185,
+      "code": "PPL-16",
+      "slug": "someone-else-can-cover",
+      "area": "People, leadership and organisational behaviour",
+      "title": "One expert. Who else can cover?"
     }
   ]
 }

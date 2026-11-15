@@ -732,3 +732,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## OPS-16
 
 184. [Keep every station busy. Finish orders sooner?](started-is-not-finished.html)
+
+## PPL-16
+
+185. [One expert. Who else can cover?](someone-else-can-cover.html)
