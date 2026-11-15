@@ -243,3 +243,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 199 | ENT-17 | [partners-change-the-opportunity.html](../partners-change-the-opportunity.html) | A venture plan. Which partners help shape it? |
 | 200 | IS-17 | [cover-the-task-not-every-permission.html](../cover-the-task-not-every-permission.html) | Easy access. Appropriate access? |
 | 201 | GVR-17 | [the-date-that-changes-the-rule.html](../the-date-that-changes-the-rule.html) | A new policy. Effective from when? |
+| 202 | SUS-17 | [cover-the-service-not-the-signup-count.html](../cover-the-service-not-the-signup-count.html) | Many volunteers. A dependable service? |

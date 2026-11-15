@@ -1469,6 +1469,13 @@
       "slug": "the-date-that-changes-the-rule",
       "area": "Governance, law, ethics and risk",
       "title": "A new policy. Effective from when?"
+    },
+    {
+      "legacy_id": 202,
+      "code": "SUS-17",
+      "slug": "cover-the-service-not-the-signup-count",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "Many volunteers. A dependable service?"
     }
   ]
 }

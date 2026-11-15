@@ -4,7 +4,7 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-201 cases are published: the original 120 plus 81 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+202 cases are published: the original 120 plus 82 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -19,10 +19,10 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79, 91, 103, 115, 127, 139, 151, 163, 175, 187, 199 | — | 3 | A buyer wants the family brand and its name. Which terms would the founders accept? |
 | Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71, 81, 92, 104, 116, 128, 140, 152, 164, 176, 188, 200 | — | 3 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
 | Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93, 105, 117, 129, 141, 153, 165, 177, 189, 201 | — | 3 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
-| Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142, 154, 166, 178, 190 | — | 4 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
+| Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142, 154, 166, 178, 190, 202 | — | 3 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143, 155, 167, 179, 191 | — | 4 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144, 156, 168, 180, 192 | — | 4 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **201 published** | **39 approved editorial slots** | **39** | |
+| **Total** | **202 published** | **38 approved editorial slots** | **38** | |
 
 ## How a lead earns a place
 
@@ -625,3 +625,7 @@ Integrated the independently reviewed case. Task coverage and access permissions
 ## Expansion wave 7 · GVR-17
 
 Integrated the independently reviewed effective-date case. Policy transition and documented reliance are considered within the explicit fictional discretion, cap and protected-entitlement assumptions. No real employment decision, recovery of prior payments or legal entitlement is inferred. Reviewed numerical constraints and exact prompts remain intact. Optional sources retain shared-framework and public-administration analogy limits rather than being presented as binding private-employment law. Parent-approved original artwork is hash-verified and illustrative. Local checks remain separate from rendered and live validation.
+
+## Expansion wave 7 · SUS-17
+
+Integrated the independently reviewed volunteer-coordination case. Sign-up counts are distinguished from supported task-time coverage and service continuity; the original costs, voluntary participation boundaries and funded fallback remain intact. No retention or social-impact effect is inferred from a participation event. Optional institutional sources retain framework, jurisdictional and evaluation limits. Parent-approved original artwork is hash-verified and illustrative. Exact questions and reviewed content are preserved; static checks remain separate from rendered and live QA.

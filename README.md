@@ -800,3 +800,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## GVR-17
 
 201. [A new policy. Effective from when?](the-date-that-changes-the-rule.html)
+
+## SUS-17
+
+202. [Many volunteers. A dependable service?](cover-the-service-not-the-signup-count.html)
