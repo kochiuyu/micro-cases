@@ -464,3 +464,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 117
 
 117. [The smaller average loss. The bigger risk?](bigger-risk.html)
+
+## Case 118
+
+118. [Repair the chair. Replace which part?](replace-which-part.html)

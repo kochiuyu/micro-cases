@@ -4,7 +4,7 @@ The first balanced collection will have **120 cases, ten per teaching area**. Th
 
 ## Coverage ledger
 
-One hundred and seventeen cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 3 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
+One hundred and eighteen cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 2 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -19,10 +19,10 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79, 91, 103, 115 | — | 0 | A buyer wants the family brand and its name. Which terms would the founders accept? |
 | Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71, 81, 92, 104, 116 | — | 0 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
 | Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93, 105, 117 | — | 0 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
-| Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106 | — | 1 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
+| Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118 | — | 0 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107 | — | 1 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108 | — | 1 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **117 published** | **0 planned** | **3** | |
+| **Total** | **118 published** | **0 planned** | **2** | |
 
 ## How a lead earns a place
 
@@ -262,3 +262,5 @@ Case 115 adds hybrid versus full-time entrepreneurial entry. Preserved employmen
 Case 116 adds the choice of random assignment unit for a collaborative software feature. Shared notes can expose old-editor colleagues to helper-created information. Whole-team allocation better matches the stated question but does not establish effectiveness or adequate precision. Distinct from rollout representativeness and observational inference. Information systems, AI and business analytics now has ten cases.
 
 Case 117 adds expected loss versus the capacity to absorb a severe loss. Equal-price controls change different parts of the risk model; a funded capacity review constrains which residual exposure the business can retain. Fictional assumptions are not engineering evidence, a legal threshold or permission to trade away safety. Distinct from insurance triggers and assurance scope. Governance, law, ethics and risk now has ten cases.
+
+Case 118 adds component-level repairability in furniture procurement. Both products are repairable; the question is whether a smaller replaced part and practical service support justify a premium. Conditional repair-event arithmetic is not a life-cycle assessment, guaranteed lifespan improvement or permission to discard sound parts. Sustainability, social enterprise and public management now has ten cases.
