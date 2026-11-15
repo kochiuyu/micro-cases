@@ -760,3 +760,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## ECO-16
 
 191. [One more quotation. Worth the search?](one-more-quotation.html)
+
+## HSP-16
+
+192. [Lively to one table. Too loud to another?](a-room-for-this-conversation.html)

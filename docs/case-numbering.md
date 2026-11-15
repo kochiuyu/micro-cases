@@ -233,3 +233,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 189 | GVR-16 | [same-exception-same-reasons.html](../same-exception-same-reasons.html) | One exception. A fair rule? |
 | 190 | SUS-16 | [a-booking-not-just-a-button.html](../a-booking-not-just-a-button.html) | Online first. A service for everyone? |
 | 191 | ECO-16 | [one-more-quotation.html](../one-more-quotation.html) | One more quotation. Worth the search? |
+| 192 | HSP-16 | [a-room-for-this-conversation.html](../a-room-for-this-conversation.html) | Lively to one table. Too loud to another? |

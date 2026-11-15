@@ -1399,6 +1399,13 @@
       "slug": "one-more-quotation",
       "area": "Economics, competition and pricing",
       "title": "One more quotation. Worth the search?"
+    },
+    {
+      "legacy_id": 192,
+      "code": "HSP-16",
+      "slug": "a-room-for-this-conversation",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "Lively to one table. Too loud to another?"
     }
   ]
 }

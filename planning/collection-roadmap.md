@@ -4,7 +4,7 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-191 cases are published: the original 120 plus 71 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+192 cases are published: the original 120 plus 72 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -21,8 +21,8 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93, 105, 117, 129, 141, 153, 165, 177, 189 | — | 4 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142, 154, 166, 178, 190 | — | 4 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143, 155, 167, 179, 191 | — | 4 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
-| Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144, 156, 168, 180 | — | 5 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **191 published** | **49 approved editorial slots** | **49** | |
+| Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144, 156, 168, 180, 192 | — | 4 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
+| **Total** | **192 published** | **48 approved editorial slots** | **48** | |
 
 ## How a lead earns a place
 
@@ -577,3 +577,15 @@ Integrated the independently reviewed digital-inclusion case. Access is evaluate
 ## Expansion wave 6 · ECO-16
 
 Integrated the independently reviewed one-step search case. The value of an optional quotation is compared with search and delay costs incurred in both searched outcomes, while the existing quote remains available. Fictional probabilities and an explicit expected-cost objective do not guarantee savings or justify evading required procurement checks. The finite search model is not an unrestricted negotiation or repeated-search problem. Optional source scopes remain bounded. Parent-approved original artwork is illustrative; visual and live validation remain separate from local checks.
+
+## Expansion wave 6 · HSP-16
+
+Integrated the independently reviewed servicescape case. Guest choice and conversational comfort are considered within the supplied fictional room and service conditions, without claiming a universal acoustic preference or an engineering certification. Reviewed options, evidence and exact prompts are preserved. Five optional substantive source bodies retain study-setting, selection and correlation limits. Parent-approved original artwork shows a neutral room discussion; it does not demonstrate an outcome. Static checks remain separate from rendered and live validation.
+
+## Internal editorial checkpoint · Expansion wave 6 (181–192)
+
+The internal cross-case review passed after rereading current draft notes, questions and slides alongside prior individual reviews. Distinct mechanisms, arithmetic, rights boundaries, uncertainty and self-contained teaching content were checked. Objectives cover qualitative materiality, operating-cash co-movement, line-extension displacement, work-in-progress boundaries, skill redundancy, compatibility, first-market access, forecast decision losses, accountable discretion, assisted booking, costly search and servicescape choice. This is not a fresh sixty-source audit, instructor feedback, empirical validation or universal visual/browser/mobile/print certification. Separately, the parent reports live-fit checks passed for Case184 calculation slide ten and Case188 table slide three; these close those specific flags only.
+
+### Supplementary source retrieval · Case185
+
+The earlier independent-review NIST retrieval timeout remains an accurate historical record. Subsequently, the parent independently reopened the NIST MEP workforce-programmes directory and read its introduction, Arizona incumbent-worker technical-training examples and Colorado examples. This supplementary retrieval supports the narrow directory-use claim and resolves that retrieval gap, not a causal outcome, competence guarantee or comprehensive source audit. Published teaching text is unchanged by this follow-up.
