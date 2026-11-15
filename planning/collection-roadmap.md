@@ -4,7 +4,7 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-177 cases are published: the original 120 plus 57 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+178 cases are published: the original 120 plus 58 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -19,10 +19,10 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79, 91, 103, 115, 127, 139, 151, 163, 175 | — | 5 | A buyer wants the family brand and its name. Which terms would the founders accept? |
 | Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71, 81, 92, 104, 116, 128, 140, 152, 164, 176 | — | 5 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
 | Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93, 105, 117, 129, 141, 153, 165, 177 | — | 5 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
-| Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142, 154, 166 | — | 6 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
+| Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142, 154, 166, 178 | — | 5 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143, 155, 167 | — | 6 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144, 156, 168 | — | 6 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **177 published** | **63 approved editorial slots** | **63** | |
+| **Total** | **178 published** | **62 approved editorial slots** | **62** | |
 
 ## How a lead earns a place
 
@@ -517,3 +517,7 @@ Integrated the independently reviewed human-oversight case. Seeing or challengin
 ## Expansion wave 5 · GVR-15
 
 Integrated the independently reviewed creative-permission case. The supplied fictional licence, rather than payment alone, defines permitted use; no unauthorised publication is a proposed option. Complete quotes, the sunk prior fee and matched named-account scope preserve the economic comparison without implying a general commissioned-work ownership rule. Other rights clearances are expressly stipulated, not assumed away for real projects. Five optional source bodies retain overlapping institutional and general-information limits. Parent-approved original artwork is illustrative. Internal checks remain separate from rendered and live deployment QA.
+
+## Expansion wave 5 · SUS-15
+
+Integrated the independently reviewed habitat-connectivity case. A larger planting count is not a biodiversity-unit score: the fictional assessment concerns a specified habitat function and gap. Both professionally feasible packages preserve required access and existing obligations, with funded care and monitoring. Movement observations do not establish population recovery, and no offset or financial return is claimed. Five optional relevant source bodies retain related-framework and geographic limits. Parent-approved watercolor-and-ink art is illustrative; internal validation is separate from rendered and live QA.

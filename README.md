@@ -704,3 +704,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## GVR-15
 
 177. [We bought the photograph. May we reuse it?](paid-for-which-use.html)
+
+## SUS-15
+
+178. [More trees. Better habitat?](more-trees-better-habitat.html)
