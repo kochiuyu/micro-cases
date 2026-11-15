@@ -832,3 +832,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## PPL-18
 
 209. [More people to lead. The same manager’s day?](count-the-work-not-only-the-reports.html)
+
+## STR-18
+
+210. [The rival across the road. Or a different way to meet the need?](another-way-to-spend-the-evening.html)
