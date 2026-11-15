@@ -496,3 +496,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## PPL-11
 
 125. [A strong finish. A strong year?](strong-finish-strong-year.html)
+
+## STR-11
+
+126. [Keep improving it. Or harvest what remains?](what-remains.html)

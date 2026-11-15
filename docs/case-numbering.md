@@ -167,3 +167,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 123 | MKT-11 | [see-the-advice.html](../see-the-advice.html) | A promise of expertise. What can buyers see? |
 | 124 | OPS-11 | [time-to-reorder.html](../time-to-reorder.html) | Plenty on the shelf. Time to reorder? |
 | 125 | PPL-11 | [strong-finish-strong-year.html](../strong-finish-strong-year.html) | A strong finish. A strong year? |
+| 126 | STR-11 | [what-remains.html](../what-remains.html) | Keep improving it. Or harvest what remains? |
