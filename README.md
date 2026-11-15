@@ -532,3 +532,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## FIN-12
 
 134. [Rent the equipment. Keep the exit?](rent-and-exit.html)
+
+## MKT-12
+
+135. [Many visits. Where does the journey break?](where-journey-breaks.html)

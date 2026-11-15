@@ -1000,6 +1000,13 @@
       "slug": "rent-and-exit",
       "area": "Finance, banking and insurance",
       "title": "Rent the equipment. Keep the exit?"
+    },
+    {
+      "legacy_id": 135,
+      "code": "MKT-12",
+      "slug": "where-journey-breaks",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "Many visits. Where does the journey break?"
     }
   ]
 }
