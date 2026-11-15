@@ -900,3 +900,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## SUS-19
 
 226. [A carbon project. Would it happen anyway?](carbon-project-happen-anyway.html)
+
+## ECO-19
+
+227. [A price cap. Which shortage remains?](price-cap-shortage-remains.html)

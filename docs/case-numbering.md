@@ -268,3 +268,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 224 | IS-19 | [one-switch-two-records.html](../one-switch-two-records.html) | One switch-over. Two records to reconcile? |
 | 225 | GVR-19 | [board-agreed-record-the-conditions.html](../board-agreed-record-the-conditions.html) | The board agreed. Did it record the conditions? |
 | 226 | SUS-19 | [carbon-project-happen-anyway.html](../carbon-project-happen-anyway.html) | A carbon project. Would it happen anyway? |
+| 227 | ECO-19 | [price-cap-shortage-remains.html](../price-cap-shortage-remains.html) | A price cap. Which shortage remains? |
