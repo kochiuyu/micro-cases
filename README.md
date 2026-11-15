@@ -440,3 +440,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 111
 
 111. [More to choose. Easier to choose?](easier-to-choose.html)
+
+## Case 112
+
+112. [Within specification. Still the same process?](same-process.html)
