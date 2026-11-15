@@ -187,3 +187,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 143 | ECO-12 | [winning-is-information.html](../winning-is-information.html) | The highest estimate. The best bid? |
 | 144 | HSP-12 | [find-the-entrance.html](../find-the-entrance.html) | They can read the map. Can they find the entrance? |
 | 145 | ACC-13 | [cheaper-material-dearer-batch.html](../cheaper-material-dearer-batch.html) | Cheaper material. A dearer batch? |
+| 146 | FIN-13 | [cash-before-risk.html](../cash-before-risk.html) | The invoice is sold. Is the risk gone? |

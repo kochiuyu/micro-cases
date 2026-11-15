@@ -576,3 +576,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## ACC-13
 
 145. [Cheaper material. A dearer batch?](cheaper-material-dearer-batch.html)
+
+## FIN-13
+
+146. [The invoice is sold. Is the risk gone?](cash-before-risk.html)

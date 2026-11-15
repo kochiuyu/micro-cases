@@ -1077,6 +1077,13 @@
       "slug": "cheaper-material-dearer-batch",
       "area": "Accounting, audit and management control",
       "title": "Cheaper material. A dearer batch?"
+    },
+    {
+      "legacy_id": 146,
+      "code": "FIN-13",
+      "slug": "cash-before-risk",
+      "area": "Finance, banking and insurance",
+      "title": "The invoice is sold. Is the risk gone?"
     }
   ]
 }
