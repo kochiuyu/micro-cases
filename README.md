@@ -880,3 +880,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## PPL-19
 
 221. [Lose a team member. Keep a colleague?](lose-a-team-member-keep-a-colleague.html)
+
+## STR-19
+
+222. [The next market. The next missing capability?](next-market-missing-capability.html)

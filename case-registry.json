@@ -1609,6 +1609,13 @@
       "slug": "lose-a-team-member-keep-a-colleague",
       "area": "People, leadership and organisational behaviour",
       "title": "Lose a team member. Keep a colleague?"
+    },
+    {
+      "legacy_id": 222,
+      "code": "STR-19",
+      "slug": "next-market-missing-capability",
+      "area": "Strategy and international business",
+      "title": "The next market. The next missing capability?"
     }
   ]
 }
