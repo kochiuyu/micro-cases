@@ -1378,6 +1378,13 @@
       "slug": "same-error-different-loss",
       "area": "Information systems, AI and business analytics",
       "title": "The same average error. The same business cost?"
+    },
+    {
+      "legacy_id": 189,
+      "code": "GVR-16",
+      "slug": "same-exception-same-reasons",
+      "area": "Governance, law, ethics and risk",
+      "title": "One exception. A fair rule?"
     }
   ]
 }

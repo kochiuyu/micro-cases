@@ -748,3 +748,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## IS-16
 
 188. [The same average error. The same business cost?](same-error-different-loss.html)
+
+## GVR-16
+
+189. [One exception. A fair rule?](same-exception-same-reasons.html)

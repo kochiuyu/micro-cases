@@ -4,7 +4,7 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-188 cases are published: the original 120 plus 68 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+189 cases are published: the original 120 plus 69 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -18,11 +18,11 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Strategy and international business | 13, 21, 33, 43, 60, 66, 78, 90, 102, 114, 126, 138, 150, 162, 174, 186 | — | 4 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
 | Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79, 91, 103, 115, 127, 139, 151, 163, 175, 187 | — | 4 | A buyer wants the family brand and its name. Which terms would the founders accept? |
 | Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71, 81, 92, 104, 116, 128, 140, 152, 164, 176, 188 | — | 4 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
-| Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93, 105, 117, 129, 141, 153, 165, 177 | — | 5 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
+| Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93, 105, 117, 129, 141, 153, 165, 177, 189 | — | 4 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142, 154, 166, 178 | — | 5 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143, 155, 167, 179 | — | 5 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144, 156, 168, 180 | — | 5 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **188 published** | **52 approved editorial slots** | **52** | |
+| **Total** | **189 published** | **51 approved editorial slots** | **51** | |
 
 ## How a lead earns a place
 
@@ -565,3 +565,7 @@ Integrated the independently reviewed first-market case. Customer-list size, buy
 ## Expansion wave 6 · IS-16
 
 Integrated the independently reviewed forecast-loss case. Forecast-error summaries and the cost of resulting decisions are distinct; the original asymmetric-loss assumptions do not establish universal model superiority. Reviewed evidence, calculations and exact questions remain intact. Source scopes and uncertainty limits are retained. Parent-approved original artwork is illustrative. Presentation table three remains a specific live-fit check rather than a claimed visual pass; static validation and deployment QA are separate.
+
+## Expansion wave 6 · GVR-16
+
+Integrated the independently reviewed accountable-discretion case. Consistent reasons and evidence standards are distinguished from automatically identical outcomes. The supplied fictional policy and facts govern the classroom decision; no actual misconduct or general legal entitlement is inferred. Reviewed choices, uncertainty and exact prompts remain intact, with optional source boundaries preserved. Parent-approved original artwork and observed alternative text are neutral. Rendered and live validation remain separate from static checks.
