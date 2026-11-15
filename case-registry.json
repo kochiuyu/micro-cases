@@ -1343,6 +1343,13 @@
       "slug": "new-pack-new-sales",
       "area": "Marketing, retail and consumer behaviour",
       "title": "A new pack. New sales?"
+    },
+    {
+      "legacy_id": 184,
+      "code": "OPS-16",
+      "slug": "started-is-not-finished",
+      "area": "Operations, supply chains and logistics",
+      "title": "Keep every station busy. Finish orders sooner?"
     }
   ]
 }
