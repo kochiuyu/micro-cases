@@ -4,7 +4,7 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-159 cases are published: the original 120 plus 39 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+160 cases are published: the original 120 plus 40 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -13,7 +13,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Accounting, audit and management control | 9, 24, 30, 40, 52, 61, 73, 85, 97, 109, 121, 133, 145, 157 | — | 6 | A division misses its target after a shared cost is reassigned. Cut its budget or change the measure? |
 | Finance, banking and insurance | 2, 7, 18, 38, 50, 62, 74, 86, 98, 110, 122, 134, 146, 158 | — | 6 | A major customer asks for longer payment terms. What would you ask for in return? |
 | Marketing, retail and consumer behaviour | 11, 19, 31, 41, 57, 63, 75, 87, 99, 111, 123, 135, 147, 159 | — | 6 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
-| Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88, 100, 112, 124, 136, 148 | — | 7 | Ship the whole order late or pay to send half by air? |
+| Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88, 100, 112, 124, 136, 148, 160 | — | 6 | Ship the whole order late or pay to send half by air? |
 | People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77, 89, 101, 113, 125, 137, 149 | — | 7 | A high-performing team refuses a promotion for its best member. Who should lead? |
 | Strategy and international business | 13, 21, 33, 43, 60, 66, 78, 90, 102, 114, 126, 138, 150 | — | 7 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
 | Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79, 91, 103, 115, 127, 139, 151 | — | 7 | A buyer wants the family brand and its name. Which terms would the founders accept? |
@@ -22,7 +22,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142, 154 | — | 7 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143, 155 | — | 7 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144, 156 | — | 7 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **159 published** | **81 approved editorial slots** | **81** | |
+| **Total** | **160 published** | **80 approved editorial slots** | **80** | |
 
 ## How a lead earns a place
 
@@ -441,3 +441,7 @@ Case 158 (FIN-14) matches real and nominal cash-flow units with corresponding di
 ## Expansion wave 4 · MKT-14
 
 Case 159 (MKT-14) distinguishes a genuine former-price saving from a different-model price comparison while holding the product and checkout price fixed. The original same-model reduction is HK$100 or 25%; the HK$200 cross-model gap is not that product's discount. Four exploratory interviews suggest interpretations to clarify but do not establish conversion effects, population prevalence or a legal finding. Five substantive source bodies and independent editorial/arithmetic review were completed, including the stated working-paper status. Warranty differences do not establish comparative lifespan and existing rights remain protected. Parent-approved original artwork is illustrative; rendering and deployment checks remain separate.
+
+## Expansion wave 4 · OPS-14
+
+Case 160 (OPS-14) checks complete delivery-stop timing before comparing route distance. Both original sequences fit their windows; confirmed site constraints make the shorter route infeasible at one stop while the longer route remains feasible. Ten-minute safe service blocks cannot be compressed, and local timing margins are not a reusable delay allowance. Five substantive source bodies and independent timing/editorial review were completed. Only two candidate sequences are compared, not an exhaustive or traffic-robust optimum; model/API conventions do not override the fictional whole-stop window condition. Parent-approved original artwork is illustrative; rendering and deployment checks remain separate.

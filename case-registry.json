@@ -1175,6 +1175,13 @@
       "slug": "same-price-two-comparisons",
       "area": "Marketing, retail and consumer behaviour",
       "title": "The same price. Two comparisons."
+    },
+    {
+      "legacy_id": 160,
+      "code": "OPS-14",
+      "slug": "route-and-window",
+      "area": "Operations, supply chains and logistics",
+      "title": "A shorter route. A missed window?"
     }
   ]
 }
