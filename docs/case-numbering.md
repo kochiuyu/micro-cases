@@ -183,3 +183,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 139 | ENT-12 | [better-for-whom.html](../better-for-whom.html) | Better ratings. The same business? |
 | 140 | IS-12 | [blank-cell.html](../blank-cell.html) | A blank cell. A harmless average? |
 | 141 | GVR-12 | [preserve-an-exception.html](../preserve-an-exception.html) | Delete on schedule. Preserve an exception? |
+| 142 | SUS-12 | [same-energy-different-time.html](../same-energy-different-time.html) | The same electricity. A different time? |

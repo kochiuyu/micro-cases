@@ -1049,6 +1049,13 @@
       "slug": "preserve-an-exception",
       "area": "Governance, law, ethics and risk",
       "title": "Delete on schedule. Preserve an exception?"
+    },
+    {
+      "legacy_id": 142,
+      "code": "SUS-12",
+      "slug": "same-energy-different-time",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "The same electricity. A different time?"
     }
   ]
 }

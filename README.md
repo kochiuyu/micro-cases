@@ -560,3 +560,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## GVR-12
 
 141. [Delete on schedule. Preserve an exception?](preserve-an-exception.html)
+
+## SUS-12
+
+142. [The same electricity. A different time?](same-energy-different-time.html)
