@@ -202,3 +202,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 158 | FIN-14 | [same-money-same-rate.html](../same-money-same-rate.html) | Rising cash flows. The same discount rate? |
 | 159 | MKT-14 | [same-price-two-comparisons.html](../same-price-two-comparisons.html) | The same price. Two comparisons. |
 | 160 | OPS-14 | [route-and-window.html](../route-and-window.html) | A shorter route. A missed window? |
+| 161 | PPL-14 | [market-rate-existing-colleague.html](../market-rate-existing-colleague.html) | A market-rate recruit. An overlooked colleague? |

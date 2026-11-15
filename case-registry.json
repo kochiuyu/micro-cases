@@ -1182,6 +1182,13 @@
       "slug": "route-and-window",
       "area": "Operations, supply chains and logistics",
       "title": "A shorter route. A missed window?"
+    },
+    {
+      "legacy_id": 161,
+      "code": "PPL-14",
+      "slug": "market-rate-existing-colleague",
+      "area": "People, leadership and organisational behaviour",
+      "title": "A market-rate recruit. An overlooked colleague?"
     }
   ]
 }
