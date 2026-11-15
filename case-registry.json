@@ -1322,6 +1322,13 @@
       "slug": "before-guests-travel",
       "area": "Hospitality, tourism, property and service management",
       "title": "Decide before guests travel. Or wait?"
+    },
+    {
+      "legacy_id": 181,
+      "code": "ACC-16",
+      "slug": "small-but-in-the-note",
+      "area": "Accounting, audit and management control",
+      "title": "A small payment. An important correction?"
     }
   ]
 }

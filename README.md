@@ -716,3 +716,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## HSP-15
 
 180. [Decide before guests travel. Or wait?](before-guests-travel.html)
+
+## ACC-16
+
+181. [A small payment. An important correction?](small-but-in-the-note.html)

@@ -4,13 +4,13 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-180 cases are published: the original 120 plus 60 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+181 cases are published: the original 120 plus 61 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
 | Primary teaching area | Published case numbers | Planned case numbers | Remaining cases to reach twenty | Example decision to scout |
 |---|---|---|---:|---|
-| Accounting, audit and management control | 9, 24, 30, 40, 52, 61, 73, 85, 97, 109, 121, 133, 145, 157, 169 | — | 5 | A division misses its target after a shared cost is reassigned. Cut its budget or change the measure? |
+| Accounting, audit and management control | 9, 24, 30, 40, 52, 61, 73, 85, 97, 109, 121, 133, 145, 157, 169, 181 | — | 4 | A division misses its target after a shared cost is reassigned. Cut its budget or change the measure? |
 | Finance, banking and insurance | 2, 7, 18, 38, 50, 62, 74, 86, 98, 110, 122, 134, 146, 158, 170 | — | 5 | A major customer asks for longer payment terms. What would you ask for in return? |
 | Marketing, retail and consumer behaviour | 11, 19, 31, 41, 57, 63, 75, 87, 99, 111, 123, 135, 147, 159, 171 | — | 5 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
 | Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88, 100, 112, 124, 136, 148, 160, 172 | — | 5 | Ship the whole order late or pay to send half by air? |
@@ -22,7 +22,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142, 154, 166, 178 | — | 5 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143, 155, 167, 179 | — | 5 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144, 156, 168, 180 | — | 5 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **180 published** | **60 approved editorial slots** | **60** | |
+| **Total** | **181 published** | **59 approved editorial slots** | **59** | |
 
 ## How a lead earns a place
 
@@ -533,3 +533,7 @@ Integrated the independently reviewed guest-preparation and commitment-timing ca
 ## Internal editorial checkpoint · Expansion wave 5 (169–180)
 
 The internal cross-case checkpoint passed: reviewed source boundaries, arithmetic, distinct mechanisms, self-contained evidence and presentation decision parity were checked. The twelve objectives cover profit/cash reconciliation, project hurdle rates, message interpretation, recovery routing, developmental access, geographic density, founder deadlock, override authority, licence scope, habitat connectivity, complementary-product cost and pre-travel commitment timing. Dense presentation sections were staged or split in 173, 175 and 180 while preserving reviewed facts and exact prompts. This is internal editorial review, not instructor/student feedback, a fresh audit of sixty source bodies, or browser, mobile, print or live validation. Final presentation readability and deployment verification remain separate responsibilities.
+
+## Expansion wave 6 · ACC-16
+
+Integrated the independently reviewed qualitative-materiality case. Correcting the classification and related-party note changes neither already-recognised total expense nor cash. The supplied member-reporting purpose and policy matter alongside size; the numerical percentages are not universal thresholds. Independent purchasing approval does not replace accurate reporting or establish misconduct. Five optional substantive source sections retain shared-publisher, historical and jurisdictional limits. Parent-reviewed original artwork is illustrative, and the ten-slide structure with decision prompts five and eight is retained. Internal checks remain separate from visual and live QA.
