@@ -4,7 +4,7 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-131 cases are published: the original 120 plus 11 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+132 cases are published: the original 120 plus 12 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -21,8 +21,8 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93, 105, 117, 129 | — | 9 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130 | — | 9 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131 | — | 9 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
-| Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120 | — | 10 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **131 published** | **109 approved editorial slots** | **109** | |
+| Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132 | — | 9 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
+| **Total** | **132 published** | **108 approved editorial slots** | **108** | |
 
 ## How a lead earns a place
 
@@ -317,3 +317,11 @@ Case 130 (SUS-11) separates a certified product property from an event’s actua
 
 ### ECO-11 · One more hour
 Independent editorial review checked the marginal decision against the approved expansion plan. The fictional print-shop comparison separates the usual day's average receipts from incremental contribution, an explicitly paid staffing block and other incremental cost. At 24 extra jobs the extension loses HK$20; 26 jobs are needed for a positive whole-job result. Forecasts are not guarantees, and the private cash calculation is not a social-welfare claim. Five source bodies were checked with their scope recorded. Watercolour-and-ink art follows the existing collection. Rendered and live checks are recorded separately from this editorial review.
+
+## Expansion wave 1 · HSP-11
+
+Case 132 (HSP-11) separates expected cancellations from their joint pattern when deciding whether to make one further accommodation promise. The disclosed, voluntary two-property arrangement protects existing guests and funds the named alternative; cancellation outcomes are known before arrival-day allocation. The fictional extra-booking expectation changes from HK$150 to −HK$200 when dependence changes, although each uncertain reservation still has a 50% cancellation probability. Five substantive source bodies and the original arithmetic, protections and slide parity received independent editorial review. This is not a recommendation to conceal overbooking or displace a guest without consent.
+
+## Expansion wave 1 · Internal editorial checkpoint (121–132)
+
+The first twelve expansion cases add one distinct lead objective in each teaching area: batch-support costing; fixed versus floating financing and cash capacity; making an intangible service understandable; inventory position and replenishment timing; whole-year performance evidence; product-portfolio renewal; complementary co-founder capabilities; respondent versus customer-frame preferences; coordinated change obligations; product certification versus recovery route; marginal versus average contribution; and dependence in cancellation outcomes. Individual source-body checks and independent editorial reviews were completed for these cases, with fictional assumptions and source limits recorded separately. This is an internal editorial checkpoint, not instructor or student feedback, a claim of classroom effectiveness, or a fresh audit of all original cases. Local tests, rendered desktop/mobile/print checks and live deployment verification are separate stages; this note does not certify unperformed checks or publication.

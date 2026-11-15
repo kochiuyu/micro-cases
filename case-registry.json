@@ -979,6 +979,13 @@
       "slug": "one-more-hour",
       "area": "Economics, competition and pricing",
       "title": "A profitable day. One more hour?"
+    },
+    {
+      "legacy_id": 132,
+      "code": "HSP-11",
+      "slug": "another-promise",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "A cancellation forecast. Another promise?"
     }
   ]
 }
