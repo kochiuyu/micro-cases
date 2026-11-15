@@ -1,10 +1,10 @@
 # Micro Cases in Business · Roadmap to 120 and 144
 
-The first balanced collection will have **120 cases, ten per teaching area**. The next milestone is **144 cases, twelve per area**. Beyond 144, each additional set of twelve adds one case per area.
+The first balanced collection now has **120 cases, ten per teaching area**. The next milestone is **144 cases, twelve per area**. Beyond 144, each additional set of twelve adds one case per area.
 
 ## Coverage ledger
 
-One hundred and nineteen cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 1 further lead to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
+One hundred and twenty cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). The first target is complete: twelve teaching areas with ten cases each. The 2024 award acknowledgement covers Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -21,8 +21,8 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93, 105, 117 | — | 0 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118 | — | 0 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119 | — | 0 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
-| Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108 | — | 1 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **119 published** | **0 planned** | **1** | |
+| Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120 | — | 0 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
+| **Total** | **120 published** | **0 planned** | **0** | |
 
 ## How a lead earns a place
 
@@ -266,3 +266,11 @@ Case 117 adds expected loss versus the capacity to absorb a severe loss. Equal-p
 Case 118 adds component-level repairability in furniture procurement. Both products are repairable; the question is whether a smaller replaced part and practical service support justify a premium. Conditional repair-event arithmetic is not a life-cycle assessment, guaranteed lifespan improvement or permission to discard sound parts. Sustainability, social enterprise and public management now has ten cases.
 
 Case 119 adds prevention incentives after risk allocation. The same optional protection has different private financial benefits under two clearly specified rental packages. Expected expense, retained exposure and refundable security remain distinct; the exercise neither predicts careless behaviour nor supplies market-equilibrium prices. Economics, competition and pricing now has ten cases.
+
+Case 120 adds community agency in a cultural-tourism product. Two equally funded, authorised formats differ in scheduling flexibility and the role of specific willing resident co-hosts. A developed hosting plan supports feasibility, not automatic authenticity, unanimous consent or measured community benefit. Hospitality, tourism, property and service management now has ten cases.
+
+## 120-case internal editorial checkpoint · 15 November 2026
+
+The first balanced collection contains cases 1–120 once each and ten primary assignments in each of twelve teaching areas. The card/objective matrix was reviewed for distinct decisions; Cases 109–120 received a deeper review against nearby earlier cases. This is an internal editorial and technical checkpoint, not instructor feedback or evidence of learning outcomes. New cases preserve optional-only source links, explicit fictional assumptions, matching watercolor-and-ink illustrations and highlighted decision questions in both page and presentation.
+
+Collection, discipline/filter, link-location and decision-prompt checks remain required before publication, together with script syntax and deployment checks. The five-source convention denotes substantive contextual bodies, not five independent empirical studies for every case. Prior source research is not a fresh universal availability audit. Browser checks cover the tested desktop flows; mobile viewport and print-rendering verification remain limited by the available browser tools. Classroom pacing, accessibility certification and actual instructor/student feedback remain future review work. The 144-case milestone is a future editorial target, not a claim that additional cases have been commissioned or published.
