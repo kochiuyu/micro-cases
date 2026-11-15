@@ -796,3 +796,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## IS-17
 
 200. [Easy access. Appropriate access?](cover-the-task-not-every-permission.html)
+
+## GVR-17
+
+201. [A new policy. Effective from when?](the-date-that-changes-the-rule.html)

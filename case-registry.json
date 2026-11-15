@@ -1462,6 +1462,13 @@
       "slug": "cover-the-task-not-every-permission",
       "area": "Information systems, AI and business analytics",
       "title": "Easy access. Appropriate access?"
+    },
+    {
+      "legacy_id": 201,
+      "code": "GVR-17",
+      "slug": "the-date-that-changes-the-rule",
+      "area": "Governance, law, ethics and risk",
+      "title": "A new policy. Effective from when?"
     }
   ]
 }
