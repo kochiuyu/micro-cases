@@ -958,3 +958,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## HSP-20
 
 240. [One booking. Several different visits?](one-booking-different-visits.html)
+
+## ACC-21
+
+241. [Two products. Which cost changes?](two-products-which-cost-changes.html)

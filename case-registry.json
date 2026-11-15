@@ -1742,6 +1742,13 @@
       "slug": "one-booking-different-visits",
       "area": "Hospitality, tourism, property and service management",
       "title": "One booking. Several different visits?"
+    },
+    {
+      "legacy_id": 241,
+      "code": "ACC-21",
+      "slug": "two-products-which-cost-changes",
+      "area": "Accounting, audit and management control",
+      "title": "Two products. Which cost changes?"
     }
   ]
 }
