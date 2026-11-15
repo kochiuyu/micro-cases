@@ -217,8 +217,10 @@ def check(root=ROOT):
                    areaButtons=[a for tag,a in p.area_buttons],
                    selects={k: values(v) for k, v in p.selects.items()},
                    script='\n'.join(''.join(s) for s in p.scripts))
+    # Exhaustive area/topic/time combinations grow with the catalogue; allow
+    # runtime headroom without reducing assertions or the per-VM deadline.
     result = subprocess.run(['node', '-e', NODE], input=json.dumps(payload),
-                            text=True, capture_output=True, timeout=30)
+                            text=True, capture_output=True, timeout=120)
     assert result.returncode == 0, result.stdout + result.stderr
     print(result.stdout.strip())
     for target in (121, 240):

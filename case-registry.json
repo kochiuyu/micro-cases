@@ -1483,6 +1483,13 @@
       "slug": "ready-only-if-both-are-ready",
       "area": "Economics, competition and pricing",
       "title": "We will launch if you do."
+    },
+    {
+      "legacy_id": 204,
+      "code": "HSP-17",
+      "slug": "keys-are-not-a-completion-record",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "Keys handed over. Ready to move in?"
     }
   ]
 }

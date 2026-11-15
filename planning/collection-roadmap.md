@@ -4,7 +4,7 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-203 cases are published: the original 120 plus 83 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+204 cases are published: the original 120 plus 84 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -21,8 +21,8 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93, 105, 117, 129, 141, 153, 165, 177, 189, 201 | — | 3 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142, 154, 166, 178, 190, 202 | — | 3 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143, 155, 167, 179, 191, 203 | — | 3 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
-| Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144, 156, 168, 180, 192 | — | 4 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **203 published** | **37 approved editorial slots** | **37** | |
+| Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144, 156, 168, 180, 192, 204 | — | 3 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
+| **Total** | **204 published** | **36 approved editorial slots** | **36** | |
 
 ## How a lead earns a place
 
@@ -633,3 +633,11 @@ Integrated the independently reviewed volunteer-coordination case. Sign-up count
 ## Expansion wave 7 · ECO-17
 
 Integrated the independently reviewed complementary-investment case. The supplied private-production payoffs and conditional commitment mechanism address coordination uncertainty rather than a public-good contribution or price-rivalry problem. Reviewed numerical assumptions, rights boundaries and exact prompts are preserved; source collaboration context is not evidence of an achieved outcome. Parent-approved original art is hash-verified and illustrative. The eleven-slide deck retains decisions five/nine; payoff table four requires separate rendered-fit verification. Internal tests do not certify live or visual quality.
+
+## Expansion wave 7 · HSP-17
+
+Integrated the independently reviewed operational-handover case. Key possession and a documented completion decision are distinct; the supplied outstanding-item controls, customer consent and safeguards remain intact. The twelve-slide deck preserves exact questions six/ten. Table four and conditions five remain specific rendered-fit checks, not claimed visual passes. Parent-approved original artwork is hash-verified and illustrative.
+
+## Internal editorial checkpoint · Expansion wave 7 (193–204)
+
+The bounded internal cross-case review passed after rereading current openings, reveals, questions and slides alongside prior individual reviews. Twelve distinct mechanisms, key arithmetic, rights and uncertainty boundaries reconcile; all decks retain two exact questions in order and no teaching-text external reading links. The 204 conditions split remains twelve slides with questions six/ten. This is internal coherence review, not instructor feedback, a fresh sixty-source audit or universal browser/mobile/print certification. Separately, the parent verified Case196 table three in production. Static density observations do not establish actual overflow; a later readability pass may simplify caveat-heavy openings without removing material protections.

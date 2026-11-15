@@ -808,3 +808,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## ECO-17
 
 203. [We will launch if you do.](ready-only-if-both-are-ready.html)
+
+## HSP-17
+
+204. [Keys handed over. Ready to move in?](keys-are-not-a-completion-record.html)

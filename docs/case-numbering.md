@@ -245,3 +245,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 201 | GVR-17 | [the-date-that-changes-the-rule.html](../the-date-that-changes-the-rule.html) | A new policy. Effective from when? |
 | 202 | SUS-17 | [cover-the-service-not-the-signup-count.html](../cover-the-service-not-the-signup-count.html) | Many volunteers. A dependable service? |
 | 203 | ECO-17 | [ready-only-if-both-are-ready.html](../ready-only-if-both-are-ready.html) | We will launch if you do. |
+| 204 | HSP-17 | [keys-are-not-a-completion-record.html](../keys-are-not-a-completion-record.html) | Keys handed over. Ready to move in? |
