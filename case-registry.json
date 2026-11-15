@@ -1637,6 +1637,13 @@
       "slug": "board-agreed-record-the-conditions",
       "area": "Governance, law, ethics and risk",
       "title": "The board agreed. Did it record the conditions?"
+    },
+    {
+      "legacy_id": 226,
+      "code": "SUS-19",
+      "slug": "carbon-project-happen-anyway",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "A carbon project. Would it happen anyway?"
     }
   ]
 }
