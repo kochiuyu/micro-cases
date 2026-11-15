@@ -4,14 +4,14 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-121 cases are published: the original 120 plus ACC-11. The 2024 award acknowledgement remains limited to Cases 1–8.
+122 cases are published: the original 120 plus 2 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
 | Primary teaching area | Published case numbers | Planned case numbers | Remaining cases to reach twenty | Example decision to scout |
 |---|---|---|---:|---|
 | Accounting, audit and management control | 9, 24, 30, 40, 52, 61, 73, 85, 97, 109, 121 | — | 9 | A division misses its target after a shared cost is reassigned. Cut its budget or change the measure? |
-| Finance, banking and insurance | 2, 7, 18, 38, 50, 62, 74, 86, 98, 110 | — | 10 | A major customer asks for longer payment terms. What would you ask for in return? |
+| Finance, banking and insurance | 2, 7, 18, 38, 50, 62, 74, 86, 98, 110, 122 | — | 9 | A major customer asks for longer payment terms. What would you ask for in return? |
 | Marketing, retail and consumer behaviour | 11, 19, 31, 41, 57, 63, 75, 87, 99, 111 | — | 10 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
 | Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88, 100, 112 | — | 10 | Ship the whole order late or pay to send half by air? |
 | People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77, 89, 101, 113 | — | 10 | A high-performing team refuses a promotion for its best member. Who should lead? |
@@ -22,7 +22,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118 | — | 10 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119 | — | 10 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120 | — | 10 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **121 published** | **119 approved editorial slots** | **119** | |
+| **Total** | **122 published** | **118 approved editorial slots** | **118** | |
 
 ## How a lead earns a place
 
@@ -277,4 +277,8 @@ Collection, discipline/filter, link-location and decision-prompt checks remain r
 
 ## Expansion wave 1 · ACC-11
 
-Case 121 (ACC-11) separates production volume from batch-support consumption in repeat-order costing. Five source bodies were read, including dated HKPC manufacturing context and accounting teaching references; all workshop figures are original fictional assumptions. Independent source, arithmetic and editorial review passed before rendering. Changing the allocation reconciles the same HK$38,000 total and does not itself save cash or determine an optimal price. The remaining eleven areas in this wave are not counted as published.
+Case 121 (ACC-11) separates production volume from batch-support consumption in repeat-order costing. Five source bodies were read, including dated HKPC manufacturing context and accounting teaching references; all workshop figures are original fictional assumptions. Independent source, arithmetic and editorial review passed before rendering. Changing the allocation reconciles the same HK$38,000 total and does not itself save cash or determine an optimal price. At that first expansion checkpoint, the other eleven areas in the wave had not yet been published.
+
+## Expansion wave 1 · FIN-11
+
+Case 122 (FIN-11) compares fixed and floating financing with the same principal repayment schedule. Original fictional rate paths and a carry-forward cash test separate uncertain financing expense from payment capacity. Earlier floating-rate savings are retained, yet the supplied stress path still leaves a HK$200 shortfall in month three. Five source bodies and all calculations were independently checked; no likelihood or universal borrowing recommendation is implied.

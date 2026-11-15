@@ -909,6 +909,13 @@
       "slug": "same-units-different-setups",
       "area": "Accounting, audit and management control",
       "title": "Same units. Same overhead?"
+    },
+    {
+      "legacy_id": 122,
+      "code": "FIN-11",
+      "slug": "lower-rate-less-certainty",
+      "area": "Finance, banking and insurance",
+      "title": "A lower rate. A less certain payment?"
     }
   ]
 }
