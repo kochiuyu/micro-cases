@@ -4,7 +4,7 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-166 cases are published: the original 120 plus 46 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+167 cases are published: the original 120 plus 47 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -20,9 +20,9 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71, 81, 92, 104, 116, 128, 140, 152, 164 | — | 6 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
 | Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93, 105, 117, 129, 141, 153, 165 | — | 6 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142, 154, 166 | — | 6 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
-| Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143, 155 | — | 7 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
+| Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143, 155, 167 | — | 6 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144, 156 | — | 7 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **166 published** | **74 approved editorial slots** | **74** | |
+| **Total** | **167 published** | **73 approved editorial slots** | **73** | |
 
 ## How a lead earns a place
 
@@ -469,3 +469,7 @@ Integrated the independently reviewed supplier-training visit case. The staged i
 ## Expansion wave 4 · SUS-14
 
 Integrated the independently reviewed courtyard adaptation case. The two funded packages distinguish first-summer shaded area from conditional later canopy and longer-term service. The sixteen-square-metre initial difference is not a temperature or health-benefit estimate. Professional assessment, maintenance terms, accessible indoor alternatives and voluntary outdoor use remain explicit; neither a free hybrid nor guaranteed plant growth is assumed. Five optional substantive source bodies support bounded context. Parent-approved original illustration is illustrative, not an engineering design. This internal editorial record is separate from instructor feedback and browser, mobile, print or live deployment validation.
+
+## Expansion wave 4 · ECO-14
+
+Integrated the independently reviewed two-part-tariff case. Participation and additional visits are separate choices under the explicitly fictional valuation model; the initial fixed-usage worksheet is not a demand forecast. Visit contribution excludes unchanged fixed costs, and no global optimal tariff or real demand estimate is asserted. Five optional source bodies support context and theory with related-provider limits retained. The presentation context is condensed while the full page context remains intact. Parent-approved illustration is original and illustrative. This editorial record is not instructor feedback or live, mobile or print validation.

@@ -208,3 +208,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 164 | IS-14 | [accurate-alerts-useful-alerts.html](../accurate-alerts-useful-alerts.html) | Accurate alerts. Useful alerts? |
 | 165 | GVR-14 | [training-not-a-holiday.html](../training-not-a-holiday.html) | A training visit. A supplier’s holiday? |
 | 166 | SUS-14 | [shade-now-shade-later.html](../shade-now-shade-later.html) | A cooler courtyard. Ready for a hotter summer? |
+| 167 | ECO-14 | [entry-fee-extra-visit.html](../entry-fee-extra-visit.html) | A low visit price. A high-use member? |

@@ -1224,6 +1224,13 @@
       "slug": "shade-now-shade-later",
       "area": "Sustainability, social enterprise and public management",
       "title": "A cooler courtyard. Ready for a hotter summer?"
+    },
+    {
+      "legacy_id": 167,
+      "code": "ECO-14",
+      "slug": "entry-fee-extra-visit",
+      "area": "Economics, competition and pricing",
+      "title": "A low visit price. A high-use member?"
     }
   ]
 }
