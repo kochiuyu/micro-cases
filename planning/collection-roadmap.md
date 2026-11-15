@@ -4,7 +4,7 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-167 cases are published: the original 120 plus 47 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+168 cases are published: the original 120 plus 48 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -21,8 +21,8 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93, 105, 117, 129, 141, 153, 165 | — | 6 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142, 154, 166 | — | 6 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143, 155, 167 | — | 6 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
-| Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144, 156 | — | 7 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **167 published** | **73 approved editorial slots** | **73** | |
+| Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144, 156, 168 | — | 6 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
+| **Total** | **168 published** | **72 approved editorial slots** | **72** | |
 
 ## How a lead earns a place
 
@@ -473,3 +473,11 @@ Integrated the independently reviewed courtyard adaptation case. The two funded 
 ## Expansion wave 4 · ECO-14
 
 Integrated the independently reviewed two-part-tariff case. Participation and additional visits are separate choices under the explicitly fictional valuation model; the initial fixed-usage worksheet is not a demand forecast. Visit contribution excludes unchanged fixed costs, and no global optimal tariff or real demand estimate is asserted. Five optional source bodies support context and theory with related-provider limits retained. The presentation context is condensed while the full page context remains intact. Parent-approved illustration is original and illustrative. This editorial record is not instructor feedback or live, mobile or print validation.
+
+## Expansion wave 4 · HSP-14
+
+Integrated the independently reviewed service-script case. Both funded designs retain required standards, optional-service refusals and a common escalation route. Adaptable timing is bounded authority, not permission to alter safety, prices or queue priority. Two fictional requests illustrate choices without establishing a demand, revenue or experimental effect. Five optional substantive source bodies retain their scope and related-research limits. Parent-approved original artwork is illustrative. Rendering and deployment checks remain separate.
+
+## Internal editorial checkpoint · Expansion wave 4 (157–168)
+
+The cross-case internal review passed for distinct mechanisms, numerical reasoning, self-contained choices and exact presentation decision prompts. The twelve objectives span receivable recovery, nominal/real consistency, reference comparisons, delivery windows, internal pay relationships, ownership mode, earn-outs, alert base rates, supplier-funded visits, adaptation timing, two-part tariffs and bounded service adaptation. This is internal editorial review, not instructor or student feedback, a fresh exhaustive audit of sixty source bodies, or live/browser/mobile/print validation. Dense illustration-context openings were identified for a separate concise-slide revision, preserving the full case-page context and factual boundaries.

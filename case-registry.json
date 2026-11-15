@@ -1231,6 +1231,13 @@
       "slug": "entry-fee-extra-visit",
       "area": "Economics, competition and pricing",
       "title": "A low visit price. A high-use member?"
+    },
+    {
+      "legacy_id": 168,
+      "code": "HSP-14",
+      "slug": "script-and-occasion",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "Follow the script. Recognise the occasion?"
     }
   ]
 }

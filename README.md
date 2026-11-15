@@ -664,3 +664,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## ECO-14
 
 167. [A low visit price. A high-use member?](entry-fee-extra-visit.html)
+
+## HSP-14
+
+168. [Follow the script. Recognise the occasion?](script-and-occasion.html)
