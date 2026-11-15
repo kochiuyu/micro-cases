@@ -628,3 +628,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## FIN-14
 
 158. [Rising cash flows. The same discount rate?](same-money-same-rate.html)
+
+## MKT-14
+
+159. [The same price. Two comparisons.](same-price-two-comparisons.html)

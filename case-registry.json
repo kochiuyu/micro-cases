@@ -1168,6 +1168,13 @@
       "slug": "same-money-same-rate",
       "area": "Finance, banking and insurance",
       "title": "Rising cash flows. The same discount rate?"
+    },
+    {
+      "legacy_id": 159,
+      "code": "MKT-14",
+      "slug": "same-price-two-comparisons",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "The same price. Two comparisons."
     }
   ]
 }

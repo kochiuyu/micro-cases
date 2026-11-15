@@ -200,3 +200,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 156 | HSP-13 | [a-window-not-any-time.html](../a-window-not-any-time.html) | A tidy room. An unwanted interruption? |
 | 157 | ACC-14 | [an-invoice-not-a-receipt.html](../an-invoice-not-a-receipt.html) | An invoice issued. Cash likely? |
 | 158 | FIN-14 | [same-money-same-rate.html](../same-money-same-rate.html) | Rising cash flows. The same discount rate? |
+| 159 | MKT-14 | [same-price-two-comparisons.html](../same-price-two-comparisons.html) | The same price. Two comparisons. |
