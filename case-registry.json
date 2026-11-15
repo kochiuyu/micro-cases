@@ -1665,6 +1665,13 @@
       "slug": "internal-price-two-refusals",
       "area": "Accounting, audit and management control",
       "title": "An internal price. Two sensible refusals?"
+    },
+    {
+      "legacy_id": 230,
+      "code": "FIN-20",
+      "slug": "good-year-distributable-surplus",
+      "area": "Finance, banking and insurance",
+      "title": "A good year. A distributable surplus?"
     }
   ]
 }

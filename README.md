@@ -912,3 +912,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## ACC-20
 
 229. [An internal price. Two sensible refusals?](internal-price-two-refusals.html)
+
+## FIN-20
+
+230. [A good year. A distributable surplus?](good-year-distributable-surplus.html)

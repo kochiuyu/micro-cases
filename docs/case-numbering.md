@@ -271,3 +271,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 227 | ECO-19 | [price-cap-shortage-remains.html](../price-cap-shortage-remains.html) | A price cap. Which shortage remains? |
 | 228 | HSP-19 | [ten-minutes-without-knowing.html](../ten-minutes-without-knowing.html) | Ten minutes to wait. Ten minutes without knowing? |
 | 229 | ACC-20 | [internal-price-two-refusals.html](../internal-price-two-refusals.html) | An internal price. Two sensible refusals? |
+| 230 | FIN-20 | [good-year-distributable-surplus.html](../good-year-distributable-surplus.html) | A good year. A distributable surplus? |
