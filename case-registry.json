@@ -1014,6 +1014,13 @@
       "slug": "stock-is-not-ready",
       "area": "Operations, supply chains and logistics",
       "title": "Two stores. One safety stock?"
+    },
+    {
+      "legacy_id": 137,
+      "code": "PPL-12",
+      "slug": "explain-the-difficult-part",
+      "area": "People, leadership and organisational behaviour",
+      "title": "Fill the vacancy. Explain the difficult part?"
     }
   ]
 }

@@ -4,7 +4,7 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-136 cases are published: the original 120 plus 16 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+137 cases are published: the original 120 plus 17 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -14,7 +14,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Finance, banking and insurance | 2, 7, 18, 38, 50, 62, 74, 86, 98, 110, 122, 134 | — | 8 | A major customer asks for longer payment terms. What would you ask for in return? |
 | Marketing, retail and consumer behaviour | 11, 19, 31, 41, 57, 63, 75, 87, 99, 111, 123, 135 | — | 8 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
 | Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88, 100, 112, 124, 136 | — | 8 | Ship the whole order late or pay to send half by air? |
-| People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77, 89, 101, 113, 125 | — | 9 | A high-performing team refuses a promotion for its best member. Who should lead? |
+| People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77, 89, 101, 113, 125, 137 | — | 8 | A high-performing team refuses a promotion for its best member. Who should lead? |
 | Strategy and international business | 13, 21, 33, 43, 60, 66, 78, 90, 102, 114, 126 | — | 9 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
 | Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79, 91, 103, 115, 127 | — | 9 | A buyer wants the family brand and its name. Which terms would the founders accept? |
 | Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71, 81, 92, 104, 116, 128 | — | 9 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
@@ -22,7 +22,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130 | — | 9 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131 | — | 9 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132 | — | 9 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **136 published** | **104 approved editorial slots** | **104** | |
+| **Total** | **137 published** | **103 approved editorial slots** | **103** | |
 
 ## How a lead earns a place
 
@@ -341,3 +341,7 @@ Case 135 (MKT-12) locates an online customer-journey drop using consistent peopl
 ## Expansion wave 2 · OPS-12
 
 Case 136 (OPS-12) separates network stock from stock ready at the required shop and time. In the original one-day trace, local stock serves ten requests on time, central-only stock serves six, and a costed local-plus-central reserve serves ten. Those counts do not establish long-run service probabilities or an optimal replenishment policy. The hybrid retains fewer units than the fully local option, while that larger local cushion remains a defensible reason to pay more. Five substantive source bodies and independent timing, arithmetic and editorial review were completed; corporate capability descriptions are not independent evidence of performance. Rendering and live verification remain separate from this note.
+
+## Expansion wave 2 · PPL-12
+
+Case 137 (PPL-12) compares two truthful pre-offer job previews: a structured briefing and paid observation. Candidate understanding of a disclosed working pattern is separate from employer selection, later onboarding and mere offer acceptance. The fictional clarification accounts justify a more concrete explanation without proving that observation prevents departures; the briefing remains a feasible lower-resource option. The observation costs HK$4,500 and six staff-hours more, with no unpaid productive work, private-disclosure demand or penalty for the accessible equivalent. Five substantive source bodies and independent editorial review support these boundaries. The empirical source concerns hypothetical interview responses, not observed retention. Slide density and rendered/mobile/print/live checks remain separate from this editorial note.

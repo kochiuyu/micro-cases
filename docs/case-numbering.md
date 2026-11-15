@@ -178,3 +178,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 134 | FIN-12 | [rent-and-exit.html](../rent-and-exit.html) | Rent the equipment. Keep the exit? |
 | 135 | MKT-12 | [where-journey-breaks.html](../where-journey-breaks.html) | Many visits. Where does the journey break? |
 | 136 | OPS-12 | [stock-is-not-ready.html](../stock-is-not-ready.html) | Two stores. One safety stock? |
+| 137 | PPL-12 | [explain-the-difficult-part.html](../explain-the-difficult-part.html) | Fill the vacancy. Explain the difficult part? |

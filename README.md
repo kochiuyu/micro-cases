@@ -540,3 +540,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## OPS-12
 
 136. [Two stores. One safety stock?](stock-is-not-ready.html)
+
+## PPL-12
+
+137. [Fill the vacancy. Explain the difficult part?](explain-the-difficult-part.html)
