@@ -1455,6 +1455,13 @@
       "slug": "partners-change-the-opportunity",
       "area": "Entrepreneurship, innovation and family business",
       "title": "A venture plan. Which partners help shape it?"
+    },
+    {
+      "legacy_id": 200,
+      "code": "IS-17",
+      "slug": "cover-the-task-not-every-permission",
+      "area": "Information systems, AI and business analytics",
+      "title": "Easy access. Appropriate access?"
     }
   ]
 }

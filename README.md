@@ -792,3 +792,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## ENT-17
 
 199. [A venture plan. Which partners help shape it?](partners-change-the-opportunity.html)
+
+## IS-17
+
+200. [Easy access. Appropriate access?](cover-the-task-not-every-permission.html)
