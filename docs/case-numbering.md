@@ -237,3 +237,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 193 | ACC-17 | [coverage-is-not-a-population.html](../coverage-is-not-a-population.html) | Most of the value. Enough of the evidence? |
 | 194 | FIN-17 | [cheaper-credit-tighter-promise.html](../cheaper-credit-tighter-promise.html) | More credit. A tighter promise? |
 | 195 | MKT-17 | [which-improvement-would-you-give-up.html](../which-improvement-would-you-give-up.html) | They want everything. What will they trade? |
+| 196 | OPS-17 | [steady-output-later-peak.html](../steady-output-later-peak.html) | Steady output. Or follow the peak? |

@@ -1427,6 +1427,13 @@
       "slug": "which-improvement-would-you-give-up",
       "area": "Marketing, retail and consumer behaviour",
       "title": "They want everything. What will they trade?"
+    },
+    {
+      "legacy_id": 196,
+      "code": "OPS-17",
+      "slug": "steady-output-later-peak",
+      "area": "Operations, supply chains and logistics",
+      "title": "Steady output. Or follow the peak?"
     }
   ]
 }

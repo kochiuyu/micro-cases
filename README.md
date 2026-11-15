@@ -776,3 +776,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## MKT-17
 
 195. [They want everything. What will they trade?](which-improvement-would-you-give-up.html)
+
+## OPS-17
+
+196. [Steady output. Or follow the peak?](steady-output-later-peak.html)
