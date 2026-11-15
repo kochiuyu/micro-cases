@@ -1574,6 +1574,13 @@
       "slug": "rent-is-not-the-whole-site",
       "area": "Hospitality, tourism, property and service management",
       "title": "The highest rent. The right neighbour?"
+    },
+    {
+      "legacy_id": 217,
+      "code": "ACC-19",
+      "slug": "lower-return-better-investment",
+      "area": "Accounting, audit and management control",
+      "title": "A lower return. A better investment?"
     }
   ]
 }
