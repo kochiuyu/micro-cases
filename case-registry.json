@@ -951,6 +951,13 @@
       "slug": "complementary-founder",
       "area": "Entrepreneurship, innovation and family business",
       "title": "The impressive co-founder. The complementary co-founder?"
+    },
+    {
+      "legacy_id": 128,
+      "code": "IS-11",
+      "slug": "respondents-or-customers",
+      "area": "Information systems, AI and business analytics",
+      "title": "Most respondents liked it. Most customers?"
     }
   ]
 }

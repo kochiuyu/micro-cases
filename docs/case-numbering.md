@@ -169,3 +169,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 125 | PPL-11 | [strong-finish-strong-year.html](../strong-finish-strong-year.html) | A strong finish. A strong year? |
 | 126 | STR-11 | [what-remains.html](../what-remains.html) | Keep improving it. Or harvest what remains? |
 | 127 | ENT-11 | [complementary-founder.html](../complementary-founder.html) | The impressive co-founder. The complementary co-founder? |
+| 128 | IS-11 | [respondents-or-customers.html](../respondents-or-customers.html) | Most respondents liked it. Most customers? |
