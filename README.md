@@ -700,3 +700,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## IS-15
 
 176. [Challenge the forecast. Who may override it?](challenge-and-authorise.html)
+
+## GVR-15
+
+177. [We bought the photograph. May we reuse it?](paid-for-which-use.html)

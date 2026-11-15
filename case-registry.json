@@ -1294,6 +1294,13 @@
       "slug": "challenge-and-authorise",
       "area": "Information systems, AI and business analytics",
       "title": "Challenge the forecast. Who may override it?"
+    },
+    {
+      "legacy_id": 177,
+      "code": "GVR-15",
+      "slug": "paid-for-which-use",
+      "area": "Governance, law, ethics and risk",
+      "title": "We bought the photograph. May we reuse it?"
     }
   ]
 }
