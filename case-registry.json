@@ -986,6 +986,13 @@
       "slug": "another-promise",
       "area": "Hospitality, tourism, property and service management",
       "title": "A cancellation forecast. Another promise?"
+    },
+    {
+      "legacy_id": 133,
+      "code": "ACC-12",
+      "slug": "margin-per-minute",
+      "area": "Accounting, audit and management control",
+      "title": "The best margin. Per what?"
     }
   ]
 }

@@ -4,13 +4,13 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-132 cases are published: the original 120 plus 12 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+133 cases are published: the original 120 plus 13 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
 | Primary teaching area | Published case numbers | Planned case numbers | Remaining cases to reach twenty | Example decision to scout |
 |---|---|---|---:|---|
-| Accounting, audit and management control | 9, 24, 30, 40, 52, 61, 73, 85, 97, 109, 121 | — | 9 | A division misses its target after a shared cost is reassigned. Cut its budget or change the measure? |
+| Accounting, audit and management control | 9, 24, 30, 40, 52, 61, 73, 85, 97, 109, 121, 133 | — | 8 | A division misses its target after a shared cost is reassigned. Cut its budget or change the measure? |
 | Finance, banking and insurance | 2, 7, 18, 38, 50, 62, 74, 86, 98, 110, 122 | — | 9 | A major customer asks for longer payment terms. What would you ask for in return? |
 | Marketing, retail and consumer behaviour | 11, 19, 31, 41, 57, 63, 75, 87, 99, 111, 123 | — | 9 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
 | Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88, 100, 112, 124 | — | 9 | Ship the whole order late or pay to send half by air? |
@@ -22,7 +22,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130 | — | 9 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131 | — | 9 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132 | — | 9 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **132 published** | **108 approved editorial slots** | **108** | |
+| **Total** | **133 published** | **107 approved editorial slots** | **107** | |
 
 ## How a lead earns a place
 
@@ -325,3 +325,7 @@ Case 132 (HSP-11) separates expected cancellations from their joint pattern when
 ## Expansion wave 1 · Internal editorial checkpoint (121–132)
 
 The first twelve expansion cases add one distinct lead objective in each teaching area: batch-support costing; fixed versus floating financing and cash capacity; making an intangible service understandable; inventory position and replenishment timing; whole-year performance evidence; product-portfolio renewal; complementary co-founder capabilities; respondent versus customer-frame preferences; coordinated change obligations; product certification versus recovery route; marginal versus average contribution; and dependence in cancellation outcomes. Individual source-body checks and independent editorial reviews were completed for these cases, with fictional assumptions and source limits recorded separately. This is an internal editorial checkpoint, not instructor or student feedback, a claim of classroom effectiveness, or a fresh audit of all original cases. Local tests, rendered desktop/mobile/print checks and live deployment verification are separate stages; this note does not certify unperformed checks or publication.
+
+## Expansion wave 2 · ACC-12
+
+Case 133 (ACC-12) compares contribution per scarce finishing minute rather than contribution per order. Original whole-order quantities and confirmed demand caps produce a feasible HK$660 contribution mix within 180 minutes. A costed extra hour raises contribution to HK$840 before its HK$100 charge, an HK$80 improvement after that charge; unchanged fixed costs remain outside the comparison. The marginal hour serves the lower-ranked product because demand for the higher-ranked product is already filled. Five substantive source bodies, arithmetic and distinctness from setup-cost allocation and bottleneck investment received independent review. Two reference chapters belong to the same textbook, not independent empirical studies. Rendering and deployment verification remain separate from this editorial note.
