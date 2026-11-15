@@ -1357,6 +1357,13 @@
       "slug": "someone-else-can-cover",
       "area": "People, leadership and organisational behaviour",
       "title": "One expert. Who else can cover?"
+    },
+    {
+      "legacy_id": 186,
+      "code": "STR-16",
+      "slug": "compatible-with-what",
+      "area": "Strategy and international business",
+      "title": "Join the standard. Keep the distinctive feature?"
     }
   ]
 }

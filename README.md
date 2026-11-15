@@ -736,3 +736,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## PPL-16
 
 185. [One expert. Who else can cover?](someone-else-can-cover.html)
+
+## STR-16
+
+186. [Join the standard. Keep the distinctive feature?](compatible-with-what.html)

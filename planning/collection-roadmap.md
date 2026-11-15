@@ -4,7 +4,7 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-185 cases are published: the original 120 plus 65 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+186 cases are published: the original 120 plus 66 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -15,14 +15,14 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Marketing, retail and consumer behaviour | 11, 19, 31, 41, 57, 63, 75, 87, 99, 111, 123, 135, 147, 159, 171, 183 | — | 4 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
 | Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88, 100, 112, 124, 136, 148, 160, 172, 184 | — | 4 | Ship the whole order late or pay to send half by air? |
 | People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77, 89, 101, 113, 125, 137, 149, 161, 173, 185 | — | 4 | A high-performing team refuses a promotion for its best member. Who should lead? |
-| Strategy and international business | 13, 21, 33, 43, 60, 66, 78, 90, 102, 114, 126, 138, 150, 162, 174 | — | 5 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
+| Strategy and international business | 13, 21, 33, 43, 60, 66, 78, 90, 102, 114, 126, 138, 150, 162, 174, 186 | — | 4 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
 | Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79, 91, 103, 115, 127, 139, 151, 163, 175 | — | 5 | A buyer wants the family brand and its name. Which terms would the founders accept? |
 | Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71, 81, 92, 104, 116, 128, 140, 152, 164, 176 | — | 5 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
 | Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93, 105, 117, 129, 141, 153, 165, 177 | — | 5 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142, 154, 166, 178 | — | 5 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143, 155, 167, 179 | — | 5 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144, 156, 168, 180 | — | 5 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **185 published** | **55 approved editorial slots** | **55** | |
+| **Total** | **186 published** | **54 approved editorial slots** | **54** | |
 
 ## How a lead earns a place
 
@@ -553,3 +553,7 @@ Integrated the independently reviewed work-in-progress case. Measurement boundar
 ## Expansion wave 6 · PPL-16
 
 Integrated the independently reviewed skill-redundancy case. The choice between specialist depth and bounded cross-training preserves readiness, support and operating limits rather than treating brief exposure as unrestricted competence. Reviewed facts and exact prompts remain intact. Source review has a specific limit: the original drafter read the NIST workforce source, but the independent reviewer repeatedly timed out retrieving it. This is not a claim of five independently re-retrieved sources or causal evaluations. Parent-approved original artwork is illustrative. Rendering and deployment QA remain separate.
+
+## Expansion wave 6 · STR-16
+
+Integrated the independently reviewed compatibility and differentiation case. Ecosystem claims are bounded by the stated fictional product conditions rather than inferred from a connector or platform label. Reviewed choices, evidence and questions remain intact. Source limits distinguish first-party manufacturer/platform accounts, related CSA pages and archived NIST assessment questions; none certifies or tests this fictional specification. Parent-approved original artwork remains neutral and illustrative. Static validation is separate from rendered, mobile, print and live QA.
