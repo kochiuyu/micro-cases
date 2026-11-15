@@ -1140,6 +1140,13 @@
       "slug": "a-litre-in-which-place",
       "area": "Sustainability, social enterprise and public management",
       "title": "A litre saved. In which place?"
+    },
+    {
+      "legacy_id": 155,
+      "code": "ECO-13",
+      "slug": "promise-costs",
+      "area": "Economics, competition and pricing",
+      "title": "A promise of quality. Costly for whom?"
     }
   ]
 }

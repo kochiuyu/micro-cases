@@ -4,7 +4,7 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-154 cases are published: the original 120 plus 34 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+155 cases are published: the original 120 plus 35 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -20,9 +20,9 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71, 81, 92, 104, 116, 128, 140, 152 | — | 7 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
 | Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93, 105, 117, 129, 141, 153 | — | 7 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142, 154 | — | 7 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
-| Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143 | — | 8 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
+| Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143, 155 | — | 7 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144 | — | 8 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **154 published** | **86 approved editorial slots** | **86** | |
+| **Total** | **155 published** | **85 approved editorial slots** | **85** | |
 
 ## How a lead earns a place
 
@@ -417,3 +417,7 @@ Case 153 (GVR-13) distinguishes a system flag from a decision and a usable chall
 ## Expansion wave 3 · SUS-13
 
 Case 154 (SUS-13) compares equal-cost water projects by both annual inlet-volume reduction and local seasonal pressure. The original forecasts favour Harbour for annual volume and Valley for dry-season reduction in the stipulated more constrained supply setting. Neither objective automatically dominates, and lower withdrawal does not establish lower net consumption or quantified ecosystem recovery. Five substantive source bodies and independent editorial/arithmetic review were completed; no real locality receives a scarcity classification and no universal risk multiplier is invented. Required service, safety and compliance remain protected. Parent-approved original artwork is illustrative; rendering and deployment checks remain separate.
+
+## Expansion wave 3 · ECO-13
+
+Case 155 (ECO-13) compares the type-dependent expected cost of honouring the same service promise. In the original fixed-quality model, a HK$6,000 hypothetical benefit exceeds the reliable type's HK$1,800 added cost but not the less reliable type's HK$9,000 cost. That supports a conditional separating incentive, not proof about any real provider or a solved market equilibrium. Evasion or a larger benefit can undermine the signal, while ordinary remedies and rights remain protected under both choices. Five substantive source bodies and independent arithmetic/editorial review were completed, with historical and jurisdictional limits retained. Parent-approved original artwork is illustrative; rendering and deployment checks remain separate.
