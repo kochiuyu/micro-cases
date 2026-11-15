@@ -468,3 +468,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 118
 
 118. [Repair the chair. Replace which part?](replace-which-part.html)
+
+## Case 119
+
+119. [Covered damage. Unchanged behaviour?](covered-damage.html)
