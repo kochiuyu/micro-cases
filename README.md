@@ -904,3 +904,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## ECO-19
 
 227. [A price cap. Which shortage remains?](price-cap-shortage-remains.html)
+
+## HSP-19
+
+228. [Ten minutes to wait. Ten minutes without knowing?](ten-minutes-without-knowing.html)
