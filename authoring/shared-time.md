@@ -1,6 +1,8 @@
 # Choose your days. Coordinate your work.
 
-Case 65 · Hong Kong · 10–15 minutes · People management · Hybrid work · Team coordination
+<!-- legacy-case-id: 65 -->
+
+PPL-06 · Hong Kong · 10–15 minutes · People management · Hybrid work · Team coordination
 
 ![Three colleagues discuss work arrangements around a table in a product-design studio with separate drafting desks.](../shared-time-scene.jpg)
 

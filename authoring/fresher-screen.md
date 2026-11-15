@@ -1,6 +1,8 @@
 # A fresher screen. A better decision?
 
-Case 104 · Hong Kong · 10–15 minutes · Information systems · Data freshness · Decision windows
+<!-- legacy-case-id: 104 -->
+
+IS-09 · Hong Kong · 10–15 minutes · Information systems · Data freshness · Decision windows
 
 ![Two colleagues discuss a laptop at a decorative-prop studio counter, with ceramic vases, artificial floral stands and a clock nearby.](../fresher-screen-scene.jpg)
 

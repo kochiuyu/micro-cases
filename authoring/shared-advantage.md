@@ -1,6 +1,8 @@
 # Share the studio. Share the advantage?
 
-Case 66 · Hong Kong · 10–15 minutes · Strategy · Coopetition · Differentiation
+<!-- legacy-case-id: 66 -->
+
+STR-06 · Hong Kong · 10–15 minutes · Strategy · Coopetition · Differentiation
 
 ![Two photographers discuss a shared workspace beside a camera tripod, a softbox and a plain backdrop.](../shared-advantage-scene.jpg)
 

@@ -1,6 +1,8 @@
 # No commission. No acquisition cost?
 
-Case 54 · Hong Kong · 10–15 minutes · Hospitality · Distribution channels · Acquisition costs
+<!-- legacy-case-id: 54 -->
+
+HSP-05 · Hong Kong · 10–15 minutes · Hospitality · Distribution channels · Acquisition costs
 
 ![A hotel manager and colleague discuss two booking folders at a reception desk with a laptop and room key.](../direct-cost-scene.jpg)
 

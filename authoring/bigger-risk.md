@@ -1,6 +1,8 @@
 # The smaller average loss. The bigger risk?
 
-Case 117 · Hong Kong · 10–15 minutes · Governance · Risk capacity · Expected loss
+<!-- legacy-case-id: 117 -->
+
+GVR-10 · Hong Kong · 10–15 minutes · Governance · Risk capacity · Expected loss
 
 ![Two colleagues discuss protective sleeves and raised storage bins for display panels in a clean dry stockroom.](../bigger-risk-scene.jpg)
 

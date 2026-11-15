@@ -1,6 +1,8 @@
 # Print now. Or keep the design open?
 
-Case 100 · Hong Kong · 10–15 minutes · Operations · Delayed differentiation · Design-mix flexibility
+<!-- legacy-case-id: 100 -->
+
+OPS-09 · Hong Kong · 10–15 minutes · Operations · Delayed differentiation · Design-mix flexibility
 
 ![A woman in a sage cardigan and an older man in a rust apron discuss plain fabric pouches and leaf- and wave-printed samples at a workshop table.](../keep-the-design-open-scene.jpg)
 

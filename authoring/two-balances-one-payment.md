@@ -1,6 +1,8 @@
 # Two balances. One payment.
 
-Case 97 · Hong Kong · 10–15 minutes · Accounting · Bank reconciliation · Payment controls
+<!-- legacy-case-id: 97 -->
+
+ACC-09 · Hong Kong · 10–15 minutes · Accounting · Bank reconciliation · Payment controls
 
 ![A woman in a blue cardigan holds a transaction sheet while a colleague in a rust apron points to another record at a workshop counter, beside a laptop, folder and calculator.](../two-balances-one-payment-scene.jpg)
 

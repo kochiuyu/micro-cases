@@ -1,6 +1,8 @@
 # A faster lunch. Which part should be faster?
 
-Case 84 · Hong Kong · 10–15 minutes · Hospitality · Service pacing · Guest control
+<!-- legacy-case-id: 84 -->
+
+HSP-07 · Hong Kong · 10–15 minutes · Hospitality · Service pacing · Guest control
 
 ![A server in a sage apron discusses lunch arrangements with two adult guests seated at a wooden restaurant table with closed menus.](../meal-pace-scene.jpg)
 

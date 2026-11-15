@@ -1,6 +1,8 @@
 # Repair the chair. Replace which part?
 
-Case 118 · Hong Kong · 10–15 minutes · Sustainability · Repairability · Circular procurement
+<!-- legacy-case-id: 118 -->
+
+SUS-10 · Hong Kong · 10–15 minutes · Sustainability · Repairability · Circular procurement
 
 ![A venue coordinator and furniture-service worker compare meeting chairs with a separate pad and seat assembly on a worktable.](../replace-which-part-scene.jpg)
 

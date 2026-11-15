@@ -1,6 +1,8 @@
 # The cheaper batch and the prototype bench
 
-Case 33 · Hong Kong · 10–15 minutes · Strategy · Make or buy · Core capabilities
+<!-- legacy-case-id: 33 -->
+
+STR-03 · Hong Kong · 10–15 minutes · Strategy · Make or buy · Core capabilities
 
 ![Two workshop owners discuss a supplier offer beside fabric pouch samples and a sewing machine.](../prototype-bench-scene.jpg)
 

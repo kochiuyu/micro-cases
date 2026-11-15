@@ -1,6 +1,8 @@
 # A smaller audience. More new people?
 
-Case 99 · Hong Kong · 10–15 minutes · Marketing · Audience overlap · Campaign reach
+<!-- legacy-case-id: 99 -->
+
+MKT-09 · Hong Kong · 10–15 minutes · Marketing · Audience overlap · Campaign reach
 
 ![A woman in a blue apron and a man in a cream shirt discuss two colorful media mockups beside a bamboo steaming basket in a kitchenware shop.](../more-new-people-scene.jpg)
 

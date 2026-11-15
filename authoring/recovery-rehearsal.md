@@ -1,6 +1,8 @@
 # The backup is green. Can the shop work again?
 
-Case 35 · Hong Kong · 10–15 minutes · Information systems · Business continuity · Recovery testing
+<!-- legacy-case-id: 35 -->
+
+IS-03 · Hong Kong · 10–15 minutes · Information systems · Business continuity · Recovery testing
 
 ![A framing-shop owner and technician discuss a laptop, backup drive and job-ticket printer at the counter.](../recovery-rehearsal-scene.jpg)
 

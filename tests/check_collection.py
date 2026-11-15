@@ -2,6 +2,7 @@
 from html.parser import HTMLParser
 from pathlib import Path
 import re
+from check_registry import load_registry
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -16,7 +17,7 @@ class Cards(HTMLParser):
         attrs = dict(attrs)
         if tag == 'a' and 'card' in attrs.get('class', '').split():
             assert self.current is None, 'Nested collection cards'
-            self.current = {'href': attrs.get('href'), 'images': [], 'text': []}
+            self.current = {'href': attrs.get('href'), 'attrs': attrs, 'images': [], 'text': []}
             self.cards.append(self.current)
         if tag == 'img' and self.current is not None:
             self.current['images'].append(attrs.get('src'))
@@ -39,6 +40,7 @@ class PageMetadata(HTMLParser):
         super().__init__()
         self.text = []
         self.depth = 0
+        self.attrs = None
 
     def handle_starttag(self, tag, attrs):
         if tag in self.VOID_TAGS:
@@ -46,6 +48,8 @@ class PageMetadata(HTMLParser):
         if self.depth:
             self.depth += 1
         elif 'meta' in dict(attrs).get('class', '').split():
+            assert self.attrs is None, 'Duplicate page metadata'
+            self.attrs = dict(attrs)
             self.depth = 1
 
     def handle_endtag(self, tag):
@@ -70,9 +74,9 @@ def validate_cards(cards):
     for card in cards:
         assert len(card['images']) == 1 and card['images'][0], (
             f"{card['href']}: every card needs exactly one illustration")
-        ids = case_numbers(' '.join(card['text']))
-        assert len(ids) == 1, f"{card['href']}: missing or ambiguous card case number"
-        card['number'] = ids[0]
+        raw = card['attrs'].get('data-case-id', '')
+        assert raw.isdigit(), 'Missing stable card ID'
+        card['number'] = int(raw)
     return links
 
 
@@ -84,36 +88,29 @@ def check_collection(root=ROOT):
     cases = {f.name for f in root.glob('*.html') if f.name != 'index.html'}
     assert set(links) == cases, 'Collection cards and case pages differ'
 
-    # The original eight HTML pages have unnumbered metadata. Pin their stable
-    # IDs rather than accidentally reading a neighbour's number in navigation.
-    # Their numbered Markdown is also checked where it exists.
-    legacy_unnumbered = {
-        'snow-town.html': 1, 'match.html': 2, 'shenzhen.html': 3,
-        'tunnel.html': 4, 'bag.html': 5, 'waste.html': 6,
-        'minibus.html': 7, 'exam.html': 8,
-    }
-    # Only these two predate the editable Markdown convention entirely.
+    registry, mapping = load_registry(root)
     legacy_html_only = {'snow-town.html', 'match.html'}
     page_ids = []
     for card in parser.cards:
-        name = card['href']
+        name = card['href']; number = card['number']
+        assert number in mapping, 'Unknown stable card ID'
+        case = mapping[number]
+        assert name == case['slug'] + '.html', 'Stable ID/URL mismatch'
+        assert card['attrs'].get('data-case-code') == case['code'], 'Wrong card code'
+        assert case['code'] in ' '.join(card['text']), 'Missing visible card code'
         assert (root / card['images'][0]).is_file(), f'{name}: missing card image'
-        metadata = PageMetadata()
-        metadata.feed((root / name).read_text())
-        ids = case_numbers(' '.join(metadata.text))
-        if name in legacy_unnumbered:
-            expected = legacy_unnumbered[name]
-            assert not ids or ids == [expected], f'{name}: incorrect legacy page number'
-        else:
-            assert len(ids) == 1, f'{name}: missing or ambiguous page case number'
-            expected = ids[0]
-        assert card['number'] == expected, f'{name}: card and page numbers differ'
-        page_ids.append(expected)
+        source = (root / name).read_text()
+        metadata = PageMetadata(); metadata.feed(source)
+        assert case['code'] in ' '.join(metadata.text), f'{name}: missing visible page code'
+        assert metadata.attrs.get('data-case-id') == str(number), f'{name}: metadata stable ID'
+        assert metadata.attrs.get('data-case-code') == case['code'], f'{name}: metadata code'
+        page_ids.append(number)
         if name not in legacy_html_only:
             editable = root / 'authoring' / name.replace('.html', '.md')
             assert editable.is_file(), f'{name}: missing editable Markdown'
-            md_ids = case_numbers(editable.read_text().split('##', 1)[0])
-            assert md_ids == [expected], f'{name}: Markdown and page numbers differ'
+            intro = editable.read_text().split('##', 1)[0]
+            assert re.search(r'<!--\s*legacy-case-id:\s*'+str(number)+r'\s*-->',intro), f'{name}: Markdown stable ID'
+            assert case['code'] in re.sub(r'<!--.*?-->','',intro,flags=re.S), f'{name}: Markdown visible code'
     assert len(set(page_ids)) == len(page_ids), 'Duplicate case-page numbers'
 
     ledger = (root / 'planning/collection-roadmap.md').read_text()

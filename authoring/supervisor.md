@@ -1,6 +1,8 @@
 # The best seller. The best supervisor?
 
-Case 20 · Hong Kong · 10–15 minutes · Promotion · Team performance
+<!-- legacy-case-id: 20 -->
+
+PPL-03 · Hong Kong · 10–15 minutes · Promotion · Team performance
 
 ![A shop owner considers two staff candidates across a desk with two folders and a blank supervisor nameplate.](../supervisor-scene.jpg)
 

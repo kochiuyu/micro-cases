@@ -1,6 +1,8 @@
 # A busy reception. Useful conversations?
 
-Case 108 · Hong Kong · 10–15 minutes · Hospitality · Event facilitation · Guest purposes
+<!-- legacy-case-id: 108 -->
+
+HSP-09 · Hong Kong · 10–15 minutes · Hospitality · Event facilitation · Guest purposes
 
 ![A host introduces two adults in a conference foyer while another pair converse nearby.](../useful-conversations-scene.jpg)
 

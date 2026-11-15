@@ -1,6 +1,8 @@
 # One busy night. Two nights of business.
 
-Case 37 · Hong Kong · 10–15 minutes · Hospitality · Revenue management · Length of stay
+<!-- legacy-case-id: 37 -->
+
+HSP-03 · Hong Kong · 10–15 minutes · Hospitality · Revenue management · Length of stay
 
 ![A boutique-hotel manager and reservations colleague discuss a room-block folder and an unlabelled booking planner.](../two-night-stays-scene.jpg)
 

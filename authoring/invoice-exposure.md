@@ -1,6 +1,8 @@
 # The invoice is not the exposure
 
-Case 38 · Hong Kong · 10–15 minutes · Finance · Foreign exchange · Cash matching
+<!-- legacy-case-id: 38 -->
+
+FIN-04 · Hong Kong · 10–15 minutes · Finance · Foreign exchange · Cash matching
 
 ![A stationery wholesaler and accounting colleague discuss an invoice folder beside stock shelves in a warm watercolor-and-ink office scene.](../invoice-exposure-scene.jpg)
 

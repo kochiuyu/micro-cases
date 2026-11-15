@@ -1,6 +1,8 @@
 # The offer expires Friday
 
-Case 8 · Mainland China · 10–15 minutes · Expected value and opportunity cost
+<!-- legacy-case-id: 8 -->
+
+PPL-01 · Mainland China · 10–15 minutes · Expected value and opportunity cost
 
 ![A graduate considers a job offer beside her civil service exam books.](../exam-scene.jpg)
 

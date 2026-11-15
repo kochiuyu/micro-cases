@@ -1,6 +1,8 @@
 # Funded. What should we promise next?
 
-Case 79 · Hong Kong · 10–15 minutes · Entrepreneurship · Crowdfunding · Scope management
+<!-- legacy-case-id: 79 -->
+
+ENT-07 · Hong Kong · 10–15 minutes · Entrepreneurship · Crowdfunding · Scope management
 
 ![Two adult creators playtest cards in a modest studio with a boxed base game nearby.](../next-promise-scene.jpg)
 

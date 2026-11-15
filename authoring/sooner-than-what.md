@@ -1,6 +1,8 @@
 # A discount for paying sooner. Sooner than what?
 
-Case 74 · Hong Kong · 10–15 minutes · Finance · Payment timing · Incremental benefit
+<!-- legacy-case-id: 74 -->
+
+FIN-07 · Hong Kong · 10–15 minutes · Finance · Payment timing · Incremental benefit
 
 ![An exhibition-workshop owner considers paperwork beside a colleague and finished display panels in a loading area.](../sooner-than-what-scene.jpg)
 

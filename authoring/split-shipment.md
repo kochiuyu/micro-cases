@@ -1,6 +1,8 @@
 # Fly the whole order, or just what is missing?
 
-Case 27 · Hong Kong · 10–15 minutes · Expediting · Supply-chain constraints
+<!-- legacy-case-id: 27 -->
+
+OPS-02 · Hong Kong · 10–15 minutes · Expediting · Supply-chain constraints
 
 ![A logistics manager and warehouse supervisor discuss splitting a shipment beside cloth bags and cartons in a Hong Kong warehouse.](../split-shipment-scene.jpg)
 

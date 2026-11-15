@@ -1,6 +1,8 @@
 # A quiet pilot. Enough to learn?
 
-Case 81 · Hong Kong · 10–15 minutes · Information systems · Staged rollout · Pilot design
+<!-- legacy-case-id: 81 -->
+
+IS-07 · Hong Kong · 10–15 minutes · Information systems · Staged rollout · Pilot design
 
 ![A bicycle-workshop employee and customer calmly check a phone near the counter, with a bicycle in the background.](../first-rollout-scene.jpg)
 

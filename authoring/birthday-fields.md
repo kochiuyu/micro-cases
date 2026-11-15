@@ -1,6 +1,8 @@
 # A birthday offer. A full birth date?
 
-Case 56 · Hong Kong · 10–15 minutes · Governance · Data minimisation · Purpose limitation
+<!-- legacy-case-id: 56 -->
+
+GVR-05 · Hong Kong · 10–15 minutes · Governance · Data minimisation · Purpose limitation
 
 ![Two stationery-shop colleagues consider a blank clipboard and an abstract membership form beside a wrapped notebook and calendar.](../birthday-fields-scene.jpg)
 

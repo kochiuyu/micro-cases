@@ -1,6 +1,8 @@
 # Who gets the last badminton court?
 
-Case 10 · Hong Kong · 10–15 minutes · Scarcity · Allocation rules
+<!-- legacy-case-id: 10 -->
+
+SUS-03 · Hong Kong · 10–15 minutes · Scarcity · Allocation rules
 
 ![Two badminton teams approach a university booking desk.](../court-scene.jpg)
 

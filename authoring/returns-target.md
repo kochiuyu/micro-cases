@@ -1,6 +1,8 @@
 # Target reached. Returns still coming?
 
-Case 30 · Hong Kong · 10–15 minutes · Revenue estimates · Performance measurement
+<!-- legacy-case-id: 30 -->
+
+ACC-03 · Hong Kong · 10–15 minutes · Revenue estimates · Performance measurement
 
 ![An accountant and sales manager review campaign records beside a returned parcel in a Hong Kong homewares shop.](../returns-target-scene.jpg)
 

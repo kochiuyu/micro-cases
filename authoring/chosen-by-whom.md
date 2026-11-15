@@ -1,6 +1,8 @@
 # Designed for an age group. Chosen by whom?
 
-Case 75 · Hong Kong · 10–15 minutes · Marketing · Positioning · Buyer and user
+<!-- legacy-case-id: 75 -->
+
+MKT-07 · Hong Kong · 10–15 minutes · Marketing · Positioning · Buyer and user
 
 ![An older woman checks a daybag’s zipper and strap in a small shop, with an adult child nearby and the owner listening.](../chosen-by-whom-scene.jpg)
 

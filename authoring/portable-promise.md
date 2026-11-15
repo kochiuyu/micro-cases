@@ -1,6 +1,8 @@
 # Export the product, or export the promise?
 
-Case 43 · Hong Kong · 10–15 minutes · Strategy · International business · Product adaptation
+<!-- legacy-case-id: 43 -->
+
+STR-04 · Hong Kong · 10–15 minutes · Strategy · International business · Product adaptation
 
 ![Two designers discuss a wooden desktop organiser and removable dividers in a warm Hong Kong studio.](../portable-promise-scene.jpg)
 

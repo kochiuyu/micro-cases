@@ -1,6 +1,8 @@
 # Four times the reports. Four times the mistakes?
 
-Case 51 · Hong Kong · 10–15 minutes · People · Employee voice · Learning culture
+<!-- legacy-case-id: 51 -->
+
+PPL-05 · Hong Kong · 10–15 minutes · People · Employee voice · Learning culture
 
 ![Three print-shop colleagues discuss a sample proof around a table in a calm team meeting.](../more-reports-scene.jpg)
 

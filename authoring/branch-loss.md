@@ -1,6 +1,8 @@
 # Close the loss-making branch?
 
-Case 24 · Hong Kong · 10–15 minutes · Cost allocation · Avoidable costs
+<!-- legacy-case-id: 24 -->
+
+ACC-02 · Hong Kong · 10–15 minutes · Cost allocation · Avoidable costs
 
 ![A branch manager and accountant discuss a ledger inside an operating stationery and printing shop.](../branch-loss-scene.jpg)
 

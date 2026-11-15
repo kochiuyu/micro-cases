@@ -1,6 +1,8 @@
 # The biggest order, the smallest cash balance
 
-Case 18 · Hong Kong · 10–15 minutes · Cash flow · Working capital
+<!-- legacy-case-id: 18 -->
+
+FIN-03 · Hong Kong · 10–15 minutes · Cash flow · Working capital
 
 ![A workshop owner and accounts colleague discuss an order and payment dates](../cash-flow-scene.jpg)
 

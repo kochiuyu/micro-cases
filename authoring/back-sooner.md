@@ -1,6 +1,8 @@
 # Back sooner. Worth more?
 
-Case 86 · Hong Kong · 10–15 minutes · Finance · Investment appraisal · Payback and present value
+<!-- legacy-case-id: 86 -->
+
+FIN-08 · Hong Kong · 10–15 minutes · Finance · Investment appraisal · Payback and present value
 
 ![A training-studio owner considers two unlabelled room-layout boards beside a tradesperson gesturing toward the sunlit spare room.](../back-sooner-scene.jpg)
 

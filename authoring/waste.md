@@ -1,6 +1,8 @@
 # Did our estate really cut waste by 30%?
 
-Case 6 · Hong Kong · 10–15 minutes · Waste charging, policy evaluation
+<!-- legacy-case-id: 6 -->
+
+SUS-02 · Hong Kong · 10–15 minutes · Waste charging, policy evaluation
 
 ![An estate manager and a cleaner inspect a refuse bin beside sorted recycling.](../waste-scene.jpg)
 

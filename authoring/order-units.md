@@ -1,6 +1,8 @@
 # The file arrived. What did we order?
 
-Case 53 · Hong Kong · 10–15 minutes · Information systems · Data quality · Process integration
+<!-- legacy-case-id: 53 -->
+
+IS-05 · Hong Kong · 10–15 minutes · Information systems · Data quality · Process integration
 
 ![A stationery shop owner and assistant discuss order sheets and a laptop beside notebooks and an open carton.](../order-units-scene.jpg)
 

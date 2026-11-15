@@ -1,6 +1,8 @@
 # A faster machine. More finished boxes?
 
-Case 34 · Hong Kong · 10–15 minutes · Operations · Bottlenecks · Process capacity
+<!-- legacy-case-id: 34 -->
+
+OPS-03 · Hong Kong · 10–15 minutes · Operations · Bottlenecks · Process capacity
 
 ![A packing manager and colleague consider equipment while staff prepare gift boxes at separate worktables.](../packing-line-scene.jpg)
 

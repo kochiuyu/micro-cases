@@ -1,6 +1,8 @@
 # More contacts. More customers?
 
-Case 63 · Hong Kong · 10–15 minutes · Marketing · Lead qualification · B2B sales
+<!-- legacy-case-id: 63 -->
+
+MKT-06 · Hong Kong · 10–15 minutes · Marketing · Lead qualification · B2B sales
 
 ![Packaging suppliers discuss inquiry cards with a visitor beside sample presentation boxes at an exhibition booth.](../qualified-contacts-scene.jpg)
 

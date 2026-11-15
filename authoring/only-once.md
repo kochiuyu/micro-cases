@@ -1,6 +1,8 @@
 # Twenty per cent. Only once?
 
-Case 110 · Hong Kong · 10–15 minutes · Finance · Equity dilution · Funding paths
+<!-- legacy-case-id: 110 -->
+
+FIN-10 · Hong Kong · 10–15 minutes · Finance · Equity dilution · Funding paths
 
 ![Colleagues compare proposal folders in a product-photography studio with a tabletop camera setup and a larger backdrop.](../only-once-scene.jpg)
 

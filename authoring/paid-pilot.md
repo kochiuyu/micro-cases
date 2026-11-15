@@ -1,6 +1,8 @@
 # They like the prototype. Will they buy it?
 
-Case 28 · Hong Kong · 10–15 minutes · Customer discovery · Staged commitment
+<!-- legacy-case-id: 28 -->
+
+ENT-02 · Hong Kong · 10–15 minutes · Customer discovery · Staged commitment
 
 ![Two fictional founders discuss a wooden desk-organizer prototype and a production decision in a small Hong Kong design studio.](../paid-pilot-scene.jpg)
 

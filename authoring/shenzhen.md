@@ -1,6 +1,8 @@
 # Would more stock listings bring Shenzhen homebuyers back?
 
-Case 3 · Shenzhen · 10–15 minutes · Wealth effect, causal inference
+<!-- legacy-case-id: 3 -->
+
+IS-01 · Shenzhen · 10–15 minutes · Wealth effect, causal inference
 
 ![Two journalists weigh a housing headline](../shenzhen-scene.jpg)
 

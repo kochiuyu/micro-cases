@@ -1,6 +1,8 @@
 # A new leader. Who still decides?
 
-Case 103 · Hong Kong · 10–15 minutes · Entrepreneurship · Family succession · Management authority
+<!-- legacy-case-id: 103 -->
+
+ENT-09 · Hong Kong · 10–15 minutes · Entrepreneurship · Family succession · Management authority
 
 ![A silver-haired founder in a sage jacket and an adult male successor in navy discuss plans with a woman holding a folder at a stationery desk.](../who-still-decides-scene.jpg)
 

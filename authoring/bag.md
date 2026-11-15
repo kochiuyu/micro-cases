@@ -1,6 +1,8 @@
 # Does refusing a checkout bag save a bag?
 
-Case 5 · Hong Kong · 10–15 minutes · Substitution, environmental incentives
+<!-- legacy-case-id: 5 -->
+
+SUS-01 · Hong Kong · 10–15 minutes · Substitution, environmental incentives
 
 ![A shopper opens a reusable tote at a Hong Kong grocery checkout.](../bag-scene.jpg)
 

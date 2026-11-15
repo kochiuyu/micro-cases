@@ -1,6 +1,8 @@
 # The warning changed. Did customers notice?
 
-Case 22 · Hong Kong · 10–15 minutes · Risk communication · Governance
+<!-- legacy-case-id: 22 -->
+
+GVR-02 · Hong Kong · 10–15 minutes · Risk communication · Governance
 
 ![A customer-service lead, quality colleague and manager discuss two travel cups and a customer notice at an office desk.](../customer-notice-scene.jpg)
 

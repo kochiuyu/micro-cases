@@ -1,6 +1,8 @@
 # One large customer. Too much dependence?
 
-Case 114 · Hong Kong · 10–15 minutes · Strategy · Customer dependence · Renewal
+<!-- legacy-case-id: 114 -->
+
+STR-10 · Hong Kong · 10–15 minutes · Strategy · Customer dependence · Renewal
 
 ![Two colleagues consider a large catalogue and several smaller sample folders at a catalogue-layout studio desk.](../anchor-customer-scene.jpg)
 

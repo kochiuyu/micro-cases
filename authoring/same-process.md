@@ -1,6 +1,8 @@
 # Within specification. Still the same process?
 
-Case 112 · Hong Kong · 10–15 minutes · Operations · Process monitoring · Variation
+<!-- legacy-case-id: 112 -->
+
+OPS-10 · Hong Kong · 10–15 minutes · Operations · Process monitoring · Variation
 
 ![A supervisor and technician discuss a clipboard beside paper sleeves, a measuring gauge and a safely guarded cutter at a stationery workbench.](../same-process-scene.jpg)
 

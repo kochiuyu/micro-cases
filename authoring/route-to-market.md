@@ -1,6 +1,8 @@
 # Sell the product. Or license the invention?
 
-Case 91 · Hong Kong · 10–15 minutes · Entrepreneurship · Commercialisation · Licensing
+<!-- legacy-case-id: 91 -->
+
+ENT-08 · Hong Kong · 10–15 minutes · Entrepreneurship · Commercialisation · Licensing
 
 ![Two adult founders examine a connector and a rearrangeable wooden desktop organiser at a workbench with plain packaging and sketches.](../route-to-market-scene.jpg)
 

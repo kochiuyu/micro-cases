@@ -1,6 +1,8 @@
 # A slow seller. An important basket?
 
-Case 57 · Hong Kong · 10–15 minutes · Marketing · Assortment decisions · Basket effects
+<!-- legacy-case-id: 57 -->
+
+MKT-05 · Hong Kong · 10–15 minutes · Marketing · Assortment decisions · Basket effects
 
 ![An art-shop owner and colleague compare a packet of pen refills with notebooks beside a wooden display shelf.](../small-basket-scene.jpg)
 

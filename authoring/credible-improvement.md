@@ -1,6 +1,8 @@
 # A supplier failed. Must the relationship end?
 
-Case 82 · Hong Kong · 10–15 minutes · Governance · Supplier improvement · Responsible purchasing
+<!-- legacy-case-id: 82 -->
+
+GVR-07 · Hong Kong · 10–15 minutes · Governance · Supplier improvement · Responsible purchasing
 
 ![A sewing worker discusses a cloth bag with a workshop coordinator and buyer beside fabric samples and a noticeboard.](../credible-improvement-scene.jpg)
 

@@ -1,6 +1,8 @@
 # A premium offer. The same business?
 
-Case 102 · Hong Kong · 10–15 minutes · Strategy · Positioning · Activity fit
+<!-- legacy-case-id: 102 -->
+
+STR-09 · Hong Kong · 10–15 minutes · Strategy · Positioning · Activity fit
 
 ![A woman in an indigo apron and a man in a sage shirt discuss closed lunchboxes and a sample place setting at a calm lunch counter.](../same-business-scene.jpg)
 

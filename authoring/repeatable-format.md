@@ -1,6 +1,8 @@
 # Four signs. One business system?
 
-Case 78 · Hong Kong · 10–15 minutes · Strategy · Franchising · Business replication
+<!-- legacy-case-id: 78 -->
+
+STR-07 · Hong Kong · 10–15 minutes · Strategy · Franchising · Business replication
 
 ![A facilitator demonstrates paper binding to adults in a bright craft workshop while the founder and a prospective operator observe nearby.](../repeatable-format-scene.jpg)
 

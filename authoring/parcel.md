@@ -1,6 +1,8 @@
 # Pay per parcel?
 
-Case 15 · Hong Kong · 10–15 minutes · Incentive pay · Multitasking
+<!-- legacy-case-id: 15 -->
+
+PPL-02 · Hong Kong · 10–15 minutes · Incentive pay · Multitasking
 
 ![A courier and depot supervisor inspect a parcel at dispatch.](../parcel-scene.jpg)
 

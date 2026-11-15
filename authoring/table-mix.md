@@ -1,6 +1,8 @@
 # Same seats. Same capacity?
 
-Case 70 · Hong Kong · 10–15 minutes · Hospitality · Table mix · Capacity planning
+<!-- legacy-case-id: 70 -->
+
+HSP-06 · Hong Kong · 10–15 minutes · Hospitality · Table mix · Capacity planning
 
 ![Two managers discuss arrangements in an empty restaurant with small dining tables behind them.](../table-mix-scene.jpg)
 

@@ -1,6 +1,8 @@
 # More to choose. Easier to choose?
 
-Case 111 · Hong Kong · 10–15 minutes · Marketing · Choice architecture · Shopper tasks
+<!-- legacy-case-id: 111 -->
+
+MKT-10 · Hong Kong · 10–15 minutes · Marketing · Choice architecture · Shopper tasks
 
 ![Two stationery-shop colleagues consider a tablet beside display pens and shelves of writing supplies.](../easier-to-choose-scene.jpg)
 

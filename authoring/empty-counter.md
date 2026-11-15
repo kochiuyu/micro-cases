@@ -1,6 +1,8 @@
 # An empty counter. A waiting customer.
 
-Case 76 · Hong Kong · 10–15 minutes · Operations · Queue design · Service objectives
+<!-- legacy-case-id: 76 -->
+
+OPS-07 · Hong Kong · 10–15 minutes · Operations · Queue design · Service objectives
 
 ![At a repair-shop collection area, one employee is available while another serves a customer and other customers wait.](../empty-counter-scene.jpg)
 

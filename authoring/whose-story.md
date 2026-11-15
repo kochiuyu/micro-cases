@@ -1,6 +1,8 @@
 # A village tour. Whose story?
 
-Case 120 · Hong Kong · 10–15 minutes · Tourism · Community partnership · Destination stewardship
+<!-- legacy-case-id: 120 -->
+
+HSP-10 · Hong Kong · 10–15 minutes · Tourism · Community partnership · Destination stewardship
 
 ![A professional guide and two adult resident co-hosts discuss a route sketch and photograph backs at a village community-room table.](../whose-story-scene.jpg)
 

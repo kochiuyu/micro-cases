@@ -1,6 +1,8 @@
 # Fewer sales. A worse price?
 
-Case 47 · Hong Kong · 10–15 minutes · Economics · Pricing decisions · Contribution
+<!-- legacy-case-id: 47 -->
+
+ECO-04 · Hong Kong · 10–15 minutes · Economics · Pricing decisions · Contribution
 
 ![A parcel-wrapping shop owner and assistant discuss two blank price cards beside paper rolls and wrapped parcels.](../fewer-jobs-scene.jpg)
 

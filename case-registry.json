@@ -1,0 +1,907 @@
+{
+  "schema_version": 1,
+  "areas": [
+    {
+      "code": "ACC",
+      "name": "Accounting, audit and management control",
+      "label": "Accounting"
+    },
+    {
+      "code": "FIN",
+      "name": "Finance, banking and insurance",
+      "label": "Finance"
+    },
+    {
+      "code": "MKT",
+      "name": "Marketing, retail and consumer behaviour",
+      "label": "Marketing"
+    },
+    {
+      "code": "OPS",
+      "name": "Operations, supply chains and logistics",
+      "label": "Operations"
+    },
+    {
+      "code": "PPL",
+      "name": "People, leadership and organisational behaviour",
+      "label": "People"
+    },
+    {
+      "code": "STR",
+      "name": "Strategy and international business",
+      "label": "Strategy"
+    },
+    {
+      "code": "ENT",
+      "name": "Entrepreneurship, innovation and family business",
+      "label": "Entrepreneurship"
+    },
+    {
+      "code": "IS",
+      "name": "Information systems, AI and business analytics",
+      "label": "Information systems"
+    },
+    {
+      "code": "GVR",
+      "name": "Governance, law, ethics and risk",
+      "label": "Governance"
+    },
+    {
+      "code": "SUS",
+      "name": "Sustainability, social enterprise and public management",
+      "label": "Sustainability"
+    },
+    {
+      "code": "ECO",
+      "name": "Economics, competition and pricing",
+      "label": "Economics"
+    },
+    {
+      "code": "HSP",
+      "name": "Hospitality, tourism, property and service management",
+      "label": "Hospitality"
+    }
+  ],
+  "cases": [
+    {
+      "legacy_id": 1,
+      "code": "HSP-01",
+      "slug": "snow-town",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "Snow Town"
+    },
+    {
+      "legacy_id": 2,
+      "code": "FIN-01",
+      "slug": "match",
+      "area": "Finance, banking and insurance",
+      "title": "When the star sits out"
+    },
+    {
+      "legacy_id": 3,
+      "code": "IS-01",
+      "slug": "shenzhen",
+      "area": "Information systems, AI and business analytics",
+      "title": "The Shenzhen data puzzle"
+    },
+    {
+      "legacy_id": 4,
+      "code": "ECO-01",
+      "slug": "tunnel",
+      "area": "Economics, competition and pricing",
+      "title": "Crossing Victoria Harbour"
+    },
+    {
+      "legacy_id": 5,
+      "code": "SUS-01",
+      "slug": "bag",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "The checkout bag"
+    },
+    {
+      "legacy_id": 6,
+      "code": "SUS-02",
+      "slug": "waste",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "The missing rubbish"
+    },
+    {
+      "legacy_id": 7,
+      "code": "FIN-02",
+      "slug": "minibus",
+      "area": "Finance, banking and insurance",
+      "title": "The red minibus bid"
+    },
+    {
+      "legacy_id": 8,
+      "code": "PPL-01",
+      "slug": "exam",
+      "area": "People, leadership and organisational behaviour",
+      "title": "The offer expires Friday"
+    },
+    {
+      "legacy_id": 9,
+      "code": "ACC-01",
+      "slug": "tarts",
+      "area": "Accounting, audit and management control",
+      "title": "The last tray of egg tarts"
+    },
+    {
+      "legacy_id": 10,
+      "code": "SUS-03",
+      "slug": "court",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "Who gets the last badminton court?"
+    },
+    {
+      "legacy_id": 11,
+      "code": "MKT-01",
+      "slug": "ferry-pass",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "Would you share a ten-trip ferry pass?"
+    },
+    {
+      "legacy_id": 12,
+      "code": "GVR-01",
+      "slug": "battery",
+      "area": "Governance, law, ethics and risk",
+      "title": "The phone with a fresh battery"
+    },
+    {
+      "legacy_id": 13,
+      "code": "STR-01",
+      "slug": "cafes",
+      "area": "Strategy and international business",
+      "title": "Two cafés, one lunch rush"
+    },
+    {
+      "legacy_id": 14,
+      "code": "SUS-04",
+      "slug": "walkway",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "Who funds the covered walkway?"
+    },
+    {
+      "legacy_id": 15,
+      "code": "PPL-02",
+      "slug": "parcel",
+      "area": "People, leadership and organisational behaviour",
+      "title": "Pay per parcel?"
+    },
+    {
+      "legacy_id": 16,
+      "code": "ECO-02",
+      "slug": "stall",
+      "area": "Economics, competition and pricing",
+      "title": "One stall, one bid"
+    },
+    {
+      "legacy_id": 17,
+      "code": "OPS-01",
+      "slug": "sold-out",
+      "area": "Operations, supply chains and logistics",
+      "title": "Sold out by noon. Double tomorrow?"
+    },
+    {
+      "legacy_id": 18,
+      "code": "FIN-03",
+      "slug": "cash-flow",
+      "area": "Finance, banking and insurance",
+      "title": "The biggest order, the smallest cash balance"
+    },
+    {
+      "legacy_id": 19,
+      "code": "MKT-02",
+      "slug": "coupon",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "A thousand coupons. A better business?"
+    },
+    {
+      "legacy_id": 20,
+      "code": "PPL-03",
+      "slug": "supervisor",
+      "area": "People, leadership and organisational behaviour",
+      "title": "The best seller. The best supervisor?"
+    },
+    {
+      "legacy_id": 21,
+      "code": "STR-02",
+      "slug": "distributor",
+      "area": "Strategy and international business",
+      "title": "A bigger market. Whose customers?"
+    },
+    {
+      "legacy_id": 22,
+      "code": "GVR-02",
+      "slug": "customer-notice",
+      "area": "Governance, law, ethics and risk",
+      "title": "The warning changed. Did customers notice?"
+    },
+    {
+      "legacy_id": 23,
+      "code": "ENT-01",
+      "slug": "family-name",
+      "area": "Entrepreneurship, innovation and family business",
+      "title": "Would you sell the family name?"
+    },
+    {
+      "legacy_id": 24,
+      "code": "ACC-02",
+      "slug": "branch-loss",
+      "area": "Accounting, audit and management control",
+      "title": "Close the loss-making branch?"
+    },
+    {
+      "legacy_id": 25,
+      "code": "HSP-02",
+      "slug": "replacement-room",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "A room is ready. Is the guest’s trip restored?"
+    },
+    {
+      "legacy_id": 26,
+      "code": "IS-02",
+      "slug": "chatbot",
+      "area": "Information systems, AI and business analytics",
+      "title": "97% right. Ready to reply?"
+    },
+    {
+      "legacy_id": 27,
+      "code": "OPS-02",
+      "slug": "split-shipment",
+      "area": "Operations, supply chains and logistics",
+      "title": "Fly the whole order, or just what is missing?"
+    },
+    {
+      "legacy_id": 28,
+      "code": "ENT-02",
+      "slug": "paid-pilot",
+      "area": "Entrepreneurship, innovation and family business",
+      "title": "They like the prototype. Will they buy it?"
+    },
+    {
+      "legacy_id": 29,
+      "code": "ECO-03",
+      "slug": "booking-fee",
+      "area": "Economics, competition and pricing",
+      "title": "No booking fee. A lower price?"
+    },
+    {
+      "legacy_id": 30,
+      "code": "ACC-03",
+      "slug": "returns-target",
+      "area": "Accounting, audit and management control",
+      "title": "Target reached. Returns still coming?"
+    },
+    {
+      "legacy_id": 31,
+      "code": "MKT-03",
+      "slug": "character-collaboration",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "They remember the character. Do they remember us?"
+    },
+    {
+      "legacy_id": 32,
+      "code": "GVR-03",
+      "slug": "supplier-review",
+      "area": "Governance, law, ethics and risk",
+      "title": "The best quote. The right reviewer?"
+    },
+    {
+      "legacy_id": 33,
+      "code": "STR-03",
+      "slug": "prototype-bench",
+      "area": "Strategy and international business",
+      "title": "The cheaper batch and the prototype bench"
+    },
+    {
+      "legacy_id": 34,
+      "code": "OPS-03",
+      "slug": "packing-line",
+      "area": "Operations, supply chains and logistics",
+      "title": "A faster machine. More finished boxes?"
+    },
+    {
+      "legacy_id": 35,
+      "code": "IS-03",
+      "slug": "recovery-rehearsal",
+      "area": "Information systems, AI and business analytics",
+      "title": "The backup is green. Can the shop work again?"
+    },
+    {
+      "legacy_id": 36,
+      "code": "ENT-03",
+      "slug": "separate-version",
+      "area": "Entrepreneurship, innovation and family business",
+      "title": "The big client wants its own version"
+    },
+    {
+      "legacy_id": 37,
+      "code": "HSP-03",
+      "slug": "two-night-stays",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "One busy night. Two nights of business."
+    },
+    {
+      "legacy_id": 38,
+      "code": "FIN-04",
+      "slug": "invoice-exposure",
+      "area": "Finance, banking and insurance",
+      "title": "The invoice is not the exposure"
+    },
+    {
+      "legacy_id": 39,
+      "code": "PPL-04",
+      "slug": "ready-for-handoff",
+      "area": "People, leadership and organisational behaviour",
+      "title": "The handbook is complete. Are they ready?"
+    },
+    {
+      "legacy_id": 40,
+      "code": "ACC-04",
+      "slug": "count-and-value",
+      "area": "Accounting, audit and management control",
+      "title": "The stock is all there. Is it worth the same?"
+    },
+    {
+      "legacy_id": 41,
+      "code": "MKT-04",
+      "slug": "return-friction",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "More days to return it, or less trouble?"
+    },
+    {
+      "legacy_id": 42,
+      "code": "OPS-04",
+      "slug": "mixed-collection",
+      "area": "Operations, supply chains and logistics",
+      "title": "Fewer changeovers. A later customer."
+    },
+    {
+      "legacy_id": 43,
+      "code": "STR-04",
+      "slug": "portable-promise",
+      "area": "Strategy and international business",
+      "title": "Export the product, or export the promise?"
+    },
+    {
+      "legacy_id": 44,
+      "code": "IS-04",
+      "slug": "one-source",
+      "area": "Information systems, AI and business analytics",
+      "title": "Two approvals. One source."
+    },
+    {
+      "legacy_id": 45,
+      "code": "GVR-04",
+      "slug": "less-of-what",
+      "area": "Governance, law, ethics and risk",
+      "title": "Twenty per cent less. Less of what?"
+    },
+    {
+      "legacy_id": 46,
+      "code": "HSP-04",
+      "slug": "unread-cancellation",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "They did not come. Did they try to cancel?"
+    },
+    {
+      "legacy_id": 47,
+      "code": "ECO-04",
+      "slug": "fewer-jobs",
+      "area": "Economics, competition and pricing",
+      "title": "Fewer sales. A worse price?"
+    },
+    {
+      "legacy_id": 48,
+      "code": "ENT-04",
+      "slug": "usable-support",
+      "area": "Entrepreneurship, innovation and family business",
+      "title": "HK$60,000 of support. Can we use it?"
+    },
+    {
+      "legacy_id": 49,
+      "code": "SUS-05",
+      "slug": "actually-reused",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "Reusable fifty times. Used how many?"
+    },
+    {
+      "legacy_id": 50,
+      "code": "FIN-05",
+      "slug": "same-gap",
+      "area": "Finance, banking and insurance",
+      "title": "A larger limit. The same gap?"
+    },
+    {
+      "legacy_id": 51,
+      "code": "PPL-05",
+      "slug": "more-reports",
+      "area": "People, leadership and organisational behaviour",
+      "title": "Four times the reports. Four times the mistakes?"
+    },
+    {
+      "legacy_id": 52,
+      "code": "ACC-05",
+      "slug": "over-budget",
+      "area": "Accounting, audit and management control",
+      "title": "Over budget. Out of control?"
+    },
+    {
+      "legacy_id": 53,
+      "code": "IS-05",
+      "slug": "order-units",
+      "area": "Information systems, AI and business analytics",
+      "title": "The file arrived. What did we order?"
+    },
+    {
+      "legacy_id": 54,
+      "code": "HSP-05",
+      "slug": "direct-cost",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "No commission. No acquisition cost?"
+    },
+    {
+      "legacy_id": 55,
+      "code": "OPS-05",
+      "slug": "shared-factory",
+      "area": "Operations, supply chains and logistics",
+      "title": "Two suppliers. One factory?"
+    },
+    {
+      "legacy_id": 56,
+      "code": "GVR-05",
+      "slug": "birthday-fields",
+      "area": "Governance, law, ethics and risk",
+      "title": "A birthday offer. A full birth date?"
+    },
+    {
+      "legacy_id": 57,
+      "code": "MKT-05",
+      "slug": "small-basket",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "A slow seller. An important basket?"
+    },
+    {
+      "legacy_id": 58,
+      "code": "ENT-05",
+      "slug": "founder-timing",
+      "area": "Entrepreneurship, innovation and family business",
+      "title": "Equal partners. Earned when?"
+    },
+    {
+      "legacy_id": 59,
+      "code": "ECO-05",
+      "slug": "local-matches",
+      "area": "Economics, competition and pricing",
+      "title": "One hundred couriers. One hundred matches?"
+    },
+    {
+      "legacy_id": 60,
+      "code": "STR-05",
+      "slug": "combined-clients",
+      "area": "Strategy and international business",
+      "title": "Two hundred clients. Two hundred new clients?"
+    },
+    {
+      "legacy_id": 61,
+      "code": "ACC-06",
+      "slug": "paid-earned",
+      "area": "Accounting, audit and management control",
+      "title": "Paid today. Earned today?"
+    },
+    {
+      "legacy_id": 62,
+      "code": "FIN-06",
+      "slug": "smaller-payments",
+      "area": "Finance, banking and insurance",
+      "title": "Smaller payments. Cheaper loan?"
+    },
+    {
+      "legacy_id": 63,
+      "code": "MKT-06",
+      "slug": "qualified-contacts",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "More contacts. More customers?"
+    },
+    {
+      "legacy_id": 64,
+      "code": "OPS-06",
+      "slug": "planned-stop",
+      "area": "Operations, supply chains and logistics",
+      "title": "Keep running, or stop on purpose?"
+    },
+    {
+      "legacy_id": 65,
+      "code": "PPL-06",
+      "slug": "shared-time",
+      "area": "People, leadership and organisational behaviour",
+      "title": "Choose your days. Coordinate your work."
+    },
+    {
+      "legacy_id": 66,
+      "code": "STR-06",
+      "slug": "shared-advantage",
+      "area": "Strategy and international business",
+      "title": "Share the studio. Share the advantage?"
+    },
+    {
+      "legacy_id": 67,
+      "code": "SUS-06",
+      "slug": "edible-surplus",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "Eighty kilos wasted. Eighty kilos to donate?"
+    },
+    {
+      "legacy_id": 68,
+      "code": "ENT-06",
+      "slug": "visible-secret",
+      "area": "Entrepreneurship, innovation and family business",
+      "title": "Keep it secret. For how long?"
+    },
+    {
+      "legacy_id": 69,
+      "code": "ECO-06",
+      "slug": "faster-at-both",
+      "area": "Economics, competition and pricing",
+      "title": "Faster at both. Do both?"
+    },
+    {
+      "legacy_id": 70,
+      "code": "HSP-06",
+      "slug": "table-mix",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "Same seats. Same capacity?"
+    },
+    {
+      "legacy_id": 71,
+      "code": "IS-06",
+      "slug": "forecast-cutoff",
+      "area": "Information systems, AI and business analytics",
+      "title": "A good forecast. Available when?"
+    },
+    {
+      "legacy_id": 72,
+      "code": "GVR-06",
+      "slug": "one-commitment",
+      "area": "Governance, law, ethics and risk",
+      "title": "Three small orders. One big commitment?"
+    },
+    {
+      "legacy_id": 73,
+      "code": "ACC-07",
+      "slug": "machine-cost",
+      "area": "Accounting, audit and management control",
+      "title": "One machine invoice. One asset cost?"
+    },
+    {
+      "legacy_id": 74,
+      "code": "FIN-07",
+      "slug": "sooner-than-what",
+      "area": "Finance, banking and insurance",
+      "title": "A discount for paying sooner. Sooner than what?"
+    },
+    {
+      "legacy_id": 75,
+      "code": "MKT-07",
+      "slug": "chosen-by-whom",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "Designed for an age group. Chosen by whom?"
+    },
+    {
+      "legacy_id": 76,
+      "code": "OPS-07",
+      "slug": "empty-counter",
+      "area": "Operations, supply chains and logistics",
+      "title": "An empty counter. A waiting customer."
+    },
+    {
+      "legacy_id": 77,
+      "code": "PPL-07",
+      "slug": "right-skill",
+      "area": "People, leadership and organisational behaviour",
+      "title": "A realistic test. The right skill?"
+    },
+    {
+      "legacy_id": 78,
+      "code": "STR-07",
+      "slug": "repeatable-format",
+      "area": "Strategy and international business",
+      "title": "Four signs. One business system?"
+    },
+    {
+      "legacy_id": 79,
+      "code": "ENT-07",
+      "slug": "next-promise",
+      "area": "Entrepreneurship, innovation and family business",
+      "title": "Funded. What should we promise next?"
+    },
+    {
+      "legacy_id": 80,
+      "code": "SUS-07",
+      "slug": "reached-and-helped",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "More people reached. More people helped?"
+    },
+    {
+      "legacy_id": 81,
+      "code": "IS-07",
+      "slug": "first-rollout",
+      "area": "Information systems, AI and business analytics",
+      "title": "A quiet pilot. Enough to learn?"
+    },
+    {
+      "legacy_id": 82,
+      "code": "GVR-07",
+      "slug": "credible-improvement",
+      "area": "Governance, law, ethics and risk",
+      "title": "A supplier failed. Must the relationship end?"
+    },
+    {
+      "legacy_id": 83,
+      "code": "ECO-07",
+      "slug": "cheaper-for-whom",
+      "area": "Economics, competition and pricing",
+      "title": "A cheaper delivery. Cheaper for whom?"
+    },
+    {
+      "legacy_id": 84,
+      "code": "HSP-07",
+      "slug": "meal-pace",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "A faster lunch. Which part should be faster?"
+    },
+    {
+      "legacy_id": 85,
+      "code": "ACC-08",
+      "slug": "machine-hours",
+      "area": "Accounting, audit and management control",
+      "title": "A quiet year. Less machine used?"
+    },
+    {
+      "legacy_id": 86,
+      "code": "FIN-08",
+      "slug": "back-sooner",
+      "area": "Finance, banking and insurance",
+      "title": "Back sooner. Worth more?"
+    },
+    {
+      "legacy_id": 87,
+      "code": "MKT-08",
+      "slug": "familiar-pack",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "A fresher pack. Still easy to find?"
+    },
+    {
+      "legacy_id": 88,
+      "code": "OPS-08",
+      "slug": "harder-to-miss",
+      "area": "Operations, supply chains and logistics",
+      "title": "Check it again. Or make the mistake harder?"
+    },
+    {
+      "legacy_id": 89,
+      "code": "PPL-08",
+      "slug": "whole-job",
+      "area": "People, leadership and organisational behaviour",
+      "title": "More variety. More ownership?"
+    },
+    {
+      "legacy_id": 90,
+      "code": "STR-08",
+      "slug": "more-than-one-future",
+      "area": "Strategy and international business",
+      "title": "One forecast. Three strategies?"
+    },
+    {
+      "legacy_id": 91,
+      "code": "ENT-08",
+      "slug": "route-to-market",
+      "area": "Entrepreneurship, innovation and family business",
+      "title": "Sell the product. Or license the invention?"
+    },
+    {
+      "legacy_id": 92,
+      "code": "IS-08",
+      "slug": "better-system-harder-exit",
+      "area": "Information systems, AI and business analytics",
+      "title": "A better system. A harder exit?"
+    },
+    {
+      "legacy_id": 93,
+      "code": "GVR-08",
+      "slug": "no-name-still-a-conversation",
+      "area": "Governance, law, ethics and risk",
+      "title": "No name. No conversation?"
+    },
+    {
+      "legacy_id": 94,
+      "code": "SUS-08",
+      "slug": "landlord-pays-who-saves",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "The landlord pays. Who saves?"
+    },
+    {
+      "legacy_id": 95,
+      "code": "ECO-08",
+      "slug": "both-or-one",
+      "area": "Economics, competition and pricing",
+      "title": "A package deal. Must everyone buy both?"
+    },
+    {
+      "legacy_id": 96,
+      "code": "HSP-08",
+      "slug": "more-than-one-way-in",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "One exhibit. More than one way in."
+    },
+    {
+      "legacy_id": 97,
+      "code": "ACC-09",
+      "slug": "two-balances-one-payment",
+      "area": "Accounting, audit and management control",
+      "title": "Two balances. One payment."
+    },
+    {
+      "legacy_id": 98,
+      "code": "FIN-09",
+      "slug": "protected-and-available",
+      "area": "Finance, banking and insurance",
+      "title": "One bank. Two kinds of safety."
+    },
+    {
+      "legacy_id": 99,
+      "code": "MKT-09",
+      "slug": "more-new-people",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "A smaller audience. More new people?"
+    },
+    {
+      "legacy_id": 100,
+      "code": "OPS-09",
+      "slug": "keep-the-design-open",
+      "area": "Operations, supply chains and logistics",
+      "title": "Print now. Or keep the design open?"
+    },
+    {
+      "legacy_id": 101,
+      "code": "PPL-09",
+      "slug": "repair-the-handoff",
+      "area": "People, leadership and organisational behaviour",
+      "title": "Separate the colleagues. Or repair the handoff?"
+    },
+    {
+      "legacy_id": 102,
+      "code": "STR-09",
+      "slug": "same-business",
+      "area": "Strategy and international business",
+      "title": "A premium offer. The same business?"
+    },
+    {
+      "legacy_id": 103,
+      "code": "ENT-09",
+      "slug": "who-still-decides",
+      "area": "Entrepreneurship, innovation and family business",
+      "title": "A new leader. Who still decides?"
+    },
+    {
+      "legacy_id": 104,
+      "code": "IS-09",
+      "slug": "fresher-screen",
+      "area": "Information systems, AI and business analytics",
+      "title": "A fresher screen. A better decision?"
+    },
+    {
+      "legacy_id": 105,
+      "code": "GVR-09",
+      "slug": "what-was-checked",
+      "area": "Governance, law, ethics and risk",
+      "title": "Externally checked. What was checked?"
+    },
+    {
+      "legacy_id": 106,
+      "code": "SUS-09",
+      "slug": "bigger-order-more-mission",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "A bigger order. More mission?"
+    },
+    {
+      "legacy_id": 107,
+      "code": "ECO-09",
+      "slug": "more-money-more-kits",
+      "area": "Economics, competition and pricing",
+      "title": "Five per cent more. More of what?"
+    },
+    {
+      "legacy_id": 108,
+      "code": "HSP-09",
+      "slug": "useful-conversations",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "A busy reception. Useful conversations?"
+    },
+    {
+      "legacy_id": 109,
+      "code": "ACC-10",
+      "slug": "through-our-till",
+      "area": "Accounting, audit and management control",
+      "title": "Through our till. All our revenue?"
+    },
+    {
+      "legacy_id": 110,
+      "code": "FIN-10",
+      "slug": "only-once",
+      "area": "Finance, banking and insurance",
+      "title": "Twenty per cent. Only once?"
+    },
+    {
+      "legacy_id": 111,
+      "code": "MKT-10",
+      "slug": "easier-to-choose",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "More to choose. Easier to choose?"
+    },
+    {
+      "legacy_id": 112,
+      "code": "OPS-10",
+      "slug": "same-process",
+      "area": "Operations, supply chains and logistics",
+      "title": "Within specification. Still the same process?"
+    },
+    {
+      "legacy_id": 113,
+      "code": "PPL-10",
+      "slug": "clearer-method",
+      "area": "People, leadership and organisational behaviour",
+      "title": "A higher target. A clearer method?"
+    },
+    {
+      "legacy_id": 114,
+      "code": "STR-10",
+      "slug": "anchor-customer",
+      "area": "Strategy and international business",
+      "title": "One large customer. Too much dependence?"
+    },
+    {
+      "legacy_id": 115,
+      "code": "ENT-10",
+      "slug": "keep-the-job",
+      "area": "Entrepreneurship, innovation and family business",
+      "title": "Keep the job. Start the business?"
+    },
+    {
+      "legacy_id": 116,
+      "code": "IS-10",
+      "slug": "separate-groups",
+      "area": "Information systems, AI and business analytics",
+      "title": "Two versions. Two separate groups?"
+    },
+    {
+      "legacy_id": 117,
+      "code": "GVR-10",
+      "slug": "bigger-risk",
+      "area": "Governance, law, ethics and risk",
+      "title": "The smaller average loss. The bigger risk?"
+    },
+    {
+      "legacy_id": 118,
+      "code": "SUS-10",
+      "slug": "replace-which-part",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "Repair the chair. Replace which part?"
+    },
+    {
+      "legacy_id": 119,
+      "code": "ECO-10",
+      "slug": "covered-damage",
+      "area": "Economics, competition and pricing",
+      "title": "Covered damage. Unchanged behaviour?"
+    },
+    {
+      "legacy_id": 120,
+      "code": "HSP-10",
+      "slug": "whose-story",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "A village tour. Whose story?"
+    }
+  ]
+}

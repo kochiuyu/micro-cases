@@ -1,6 +1,8 @@
 # A realistic test. The right skill?
 
-Case 77 · Hong Kong · 10–15 minutes · People management · Assessment design · Entry competencies
+<!-- legacy-case-id: 77 -->
+
+PPL-07 · Hong Kong · 10–15 minutes · People management · Assessment design · Entry competencies
 
 ![Two colleagues review a mock booking display and blank calendar sheets at a standing counter in an event-operations workspace.](../right-skill-scene.jpg)
 

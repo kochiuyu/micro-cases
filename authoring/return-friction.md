@@ -1,6 +1,8 @@
 # More days to return it, or less trouble?
 
-Case 41 · Hong Kong · 10–15 minutes · Marketing · Return policy · Customer friction
+<!-- legacy-case-id: 41 -->
+
+MKT-04 · Hong Kong · 10–15 minutes · Marketing · Return policy · Customer friction
 
 ![Two homewares colleagues discuss a cushion cover and return parcel at a round table beside fabric swatches.](../return-friction-scene.jpg)
 

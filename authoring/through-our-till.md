@@ -1,6 +1,8 @@
 # Through our till. All our revenue?
 
-Case 109 · Hong Kong · 10–15 minutes · Accounting · Principal and agent · Gross and net revenue
+<!-- legacy-case-id: 109 -->
+
+ACC-10 · Hong Kong · 10–15 minutes · Accounting · Principal and agent · Gross and net revenue
 
 ![An art-print desk owner and a bookkeeper discuss sales and settlement records beside framed and rolled prints.](../through-our-till-scene.jpg)
 

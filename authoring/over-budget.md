@@ -1,6 +1,8 @@
 # Over budget. Out of control?
 
-Case 52 · Hong Kong · 10–15 minutes · Accounting · Flexible budgets · Performance evaluation
+<!-- legacy-case-id: 52 -->
+
+ACC-05 · Hong Kong · 10–15 minutes · Accounting · Flexible budgets · Performance evaluation
 
 ![A lunch-kitchen owner and cook discuss a blank ledger beside lunch boxes and fresh ingredients.](../over-budget-scene.jpg)
 

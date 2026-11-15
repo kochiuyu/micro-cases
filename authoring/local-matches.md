@@ -1,6 +1,8 @@
 # One hundred couriers. One hundred matches?
 
-Case 59 · Hong Kong · 10–15 minutes · Economics · Network effects · Local matching
+<!-- legacy-case-id: 59 -->
+
+ECO-05 · Hong Kong · 10–15 minutes · Economics · Network effects · Local matching
 
 ![A courier and two dispatch colleagues discuss a delivery service beside plain document envelopes in a Hong Kong office.](../local-matches-scene.jpg)
 

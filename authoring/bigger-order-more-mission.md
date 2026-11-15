@@ -1,6 +1,8 @@
 # A bigger order. More mission?
 
-Case 106 · Hong Kong · 10–15 minutes · Social enterprise · Mission fit · Earned income
+<!-- legacy-case-id: 106 -->
+
+SUS-09 · Hong Kong · 10–15 minutes · Social enterprise · Mission fit · Earned income
 
 ![Adult participants and a coach check a fabric folder at a sewing-workshop table with patterns and folded fabric.](../bigger-order-more-mission-scene.jpg)
 

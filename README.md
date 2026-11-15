@@ -1,6 +1,6 @@
 # Micro Cases in Business
 
-Short classroom cases with an opening decision, a second-round prompt, a debrief, presentation slides, and a printable student handout. Open index.html to browse the collection. Editable case materials and the authoring template are in authoring/.
+Short classroom cases with an opening decision, a second-round prompt, a debrief, presentation slides, and a printable student handout. Open index.html to browse the collection. Cases now use area codes such as ACC-01 and HSP-01, with unchanged page URLs. Search by title, topic, code or original number; filter links retain the chosen view. See [numbering and the complete crosswalk](docs/case-numbering.md). Editable case materials and the authoring template are in authoring/.
 
 The [roadmap to 120 and 144 cases](planning/collection-roadmap.md) outlines coverage across business disciplines and the criteria for selecting news stories.
 

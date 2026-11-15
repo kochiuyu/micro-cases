@@ -1,6 +1,8 @@
 # The best quote. The right reviewer?
 
-Case 32 · Hong Kong · 10–15 minutes · Conflicts of interest · Procurement governance
+<!-- legacy-case-id: 32 -->
+
+GVR-03 · Hong Kong · 10–15 minutes · Conflicts of interest · Procurement governance
 
 ![A café owner and purchasing manager examine serving-tray samples and quotation sheets in a calm procurement discussion.](../supplier-review-scene.jpg)
 

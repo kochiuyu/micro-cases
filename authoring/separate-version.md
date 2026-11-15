@@ -1,6 +1,8 @@
 # The big client wants its own version
 
-Case 36 · Hong Kong · 10–15 minutes · Entrepreneurship · Business models · Product scope
+<!-- legacy-case-id: 36 -->
+
+ENT-03 · Hong Kong · 10–15 minutes · Entrepreneurship · Business models · Product scope
 
 ![Two software founders consider a large client proposal beside laptops in a shared office adjoining a craft studio.](../separate-version-scene.jpg)
 

@@ -1,6 +1,8 @@
 # A cheaper delivery. Cheaper for whom?
 
-Case 83 · Hong Kong · 10–15 minutes · Economics · External costs · Noise mitigation
+<!-- legacy-case-id: 83 -->
+
+ECO-07 · Hong Kong · 10–15 minutes · Economics · External costs · Noise mitigation
 
 ![A delivery worker moves a trolley with plain cartons while a shop owner listens to an older resident beside an adjacent doorway in daylight.](../cheaper-for-whom-scene.jpg)
 

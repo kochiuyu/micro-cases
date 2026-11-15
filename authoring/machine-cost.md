@@ -1,6 +1,8 @@
 # One machine invoice. One asset cost?
 
-Case 73 · Hong Kong · 10–15 minutes · Accounting · Asset recognition · Equipment cost
+<!-- legacy-case-id: 73 -->
+
+ACC-07 · Hong Kong · 10–15 minutes · Accounting · Asset recognition · Equipment cost
 
 ![A technician explains a printing machine to an operator while the studio owner considers the purchase.](../machine-cost-scene.jpg)
 

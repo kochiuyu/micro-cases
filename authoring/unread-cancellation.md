@@ -1,6 +1,8 @@
 # They did not come. Did they try to cancel?
 
-Case 46 · Hong Kong · 10–15 minutes · Hospitality · Reservations · Service process
+<!-- legacy-case-id: 46 -->
+
+HSP-04 · Hong Kong · 10–15 minutes · Hospitality · Reservations · Service process
 
 ![A silver-haired restaurant owner and host review a reservation book beside an empty table and telephone.](../unread-cancellation-scene.jpg)
 

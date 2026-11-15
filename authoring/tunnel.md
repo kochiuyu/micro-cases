@@ -1,6 +1,8 @@
 # Would you cross the harbour early to save HK$20?
 
-Case 4 · Hong Kong · 10–15 minutes · Congestion pricing, opportunity cost
+<!-- legacy-case-id: 4 -->
+
+ECO-01 · Hong Kong · 10–15 minutes · Congestion pricing, opportunity cost
 
 ![Drivers approach a Hong Kong harbour tunnel at dawn.](../tunnel-scene.jpg)
 

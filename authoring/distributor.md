@@ -1,6 +1,8 @@
 # A bigger market. Whose customers?
 
-Case 21 · Hong Kong · 10–15 minutes · Distribution strategy · Channel control
+<!-- legacy-case-id: 21 -->
+
+STR-02 · Hong Kong · 10–15 minutes · Distribution strategy · Channel control
 
 ![A bag-brand founder and colleague discuss a distribution offer with a business partner in their showroom.](../distributor-scene.jpg)
 

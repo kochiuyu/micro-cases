@@ -1,6 +1,8 @@
 # More people reached. More people helped?
 
-Case 80 · Hong Kong · 10–15 minutes · Social enterprise · Service allocation · Outcome evidence
+<!-- legacy-case-id: 80 -->
+
+SUS-07 · Hong Kong · 10–15 minutes · Social enterprise · Service allocation · Outcome evidence
 
 ![An older adult actively uses a demonstration tablet while a facilitator listens, with peers learning at another table in a community room.](../reached-and-helped-scene.jpg)
 

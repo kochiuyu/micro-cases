@@ -1,6 +1,8 @@
 # Paid today. Earned today?
 
-Case 61 · Hong Kong · 10–15 minutes · Accounting · Revenue recognition · Advance payments
+<!-- legacy-case-id: 61 -->
+
+ACC-06 · Hong Kong · 10–15 minutes · Accounting · Revenue recognition · Advance payments
 
 ![A pottery workshop owner, bookkeeper and adult customer discuss paperwork beside shelves of handmade bowls.](../paid-earned-scene.jpg)
 

@@ -1,6 +1,8 @@
 # A larger limit. The same gap?
 
-Case 50 · Hong Kong · 10–15 minutes · Finance · Insurance coverage · Risk retention
+<!-- legacy-case-id: 50 -->
+
+FIN-05 · Hong Kong · 10–15 minutes · Finance · Insurance coverage · Risk retention
 
 ![A craft-studio owner and colleague compare two folders at a worktable while rain falls outside intact windows.](../same-gap-scene.jpg)
 

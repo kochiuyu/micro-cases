@@ -1,6 +1,8 @@
 # The last tray of egg tarts
 
-Case 9 · Hong Kong · 10–15 minutes · Sunk cost · Opportunity cost
+<!-- legacy-case-id: 9 -->
+
+ACC-01 · Hong Kong · 10–15 minutes · Sunk cost · Opportunity cost
 
 ![A baker considers an offer for the last tray at closing.](../tarts-scene.jpg)
 

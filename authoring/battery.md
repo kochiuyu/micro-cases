@@ -1,6 +1,8 @@
 # The phone with a fresh battery
 
-Case 12 · Hong Kong · 10–15 minutes · Asymmetric information · Verification
+<!-- legacy-case-id: 12 -->
+
+GVR-01 · Hong Kong · 10–15 minutes · Asymmetric information · Verification
 
 ![A buyer and seller inspect a used smartphone.](../battery-scene.jpg)
 

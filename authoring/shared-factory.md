@@ -1,6 +1,8 @@
 # Two suppliers. One factory?
 
-Case 55 · Hong Kong · 10–15 minutes · Operations · Supply resilience · Upstream dependencies
+<!-- legacy-case-id: 55 -->
+
+OPS-05 · Hong Kong · 10–15 minutes · Operations · Supply resilience · Upstream dependencies
 
 ![Two gift-shop colleagues compare plain supplier folders and matching presentation-box samples at a wrapping counter.](../shared-factory-scene.jpg)
 

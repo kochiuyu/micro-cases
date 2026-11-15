@@ -1,6 +1,8 @@
 # More variety. More ownership?
 
-Case 89 · Hong Kong · 10–15 minutes · People · Job design · Task ownership
+<!-- legacy-case-id: 89 -->
+
+PPL-08 · Hong Kong · 10–15 minutes · People · Job design · Task ownership
 
 ![Three experienced framing-studio colleagues discuss a finished botanical print at a counter with frame samples, an order folder and colour swatches.](../whole-job-scene.jpg)
 

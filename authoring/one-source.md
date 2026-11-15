@@ -1,6 +1,8 @@
 # Two approvals. One source.
 
-Case 44 · Hong Kong · 10–15 minutes · Information systems · Authentication · Independent verification
+<!-- legacy-case-id: 44 -->
+
+IS-04 · Hong Kong · 10–15 minutes · Information systems · Authentication · Independent verification
 
 ![Two colleagues review a plain invoice beside a laptop and telephone in an exhibition-display workshop.](../one-source-scene.jpg)
 

@@ -1,6 +1,8 @@
 # Would you sell the family name?
 
-Case 23 · Hong Kong · 10–15 minutes · Family business · Control rights
+<!-- legacy-case-id: 23 -->
+
+ENT-01 · Hong Kong · 10–15 minutes · Family business · Control rights
 
 ![A fictional dessert shop and two sale documents](../family-name-scene.jpg)
 

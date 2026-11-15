@@ -1,6 +1,8 @@
 # Keep running, or stop on purpose?
 
-Case 64 · Hong Kong · 10–15 minutes · Operations · Maintenance · Reliability
+<!-- legacy-case-id: 64 -->
+
+OPS-06 · Hong Kong · 10–15 minutes · Operations · Maintenance · Reliability
 
 ![A production supervisor and service coordinator discuss an appointment folder beside paper stacks and an enclosed machine at rest.](../planned-stop-scene.jpg)
 

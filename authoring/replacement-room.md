@@ -1,6 +1,8 @@
 # A room is ready. Is the guest’s trip restored?
 
-Case 25 · Hong Kong · 10–15 minutes · Service recovery · Guest needs
+<!-- legacy-case-id: 25 -->
+
+HSP-02 · Hong Kong · 10–15 minutes · Service recovery · Guest needs
 
 ![A hotel duty manager and receptionist discuss replacement-room arrangements with a waiting traveler and suitcase.](../replacement-room-scene.jpg)
 

@@ -1,6 +1,8 @@
 # No booking fee. A lower price?
 
-Case 29 · Hong Kong · 10–15 minutes · Fee incidence · Platform pricing
+<!-- legacy-case-id: 29 -->
+
+ECO-03 · Hong Kong · 10–15 minutes · Fee incidence · Platform pricing
 
 ![A craft-workshop owner and a booking-platform representative discuss pricing beside pottery and a tablet in a Hong Kong studio.](../booking-fee-scene.jpg)
 

@@ -9,6 +9,7 @@ import copy
 import json
 import re
 import subprocess
+from check_registry import load_registry
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -26,12 +27,15 @@ class Browse(HTMLParser):
         self.script = None
         self.scripts = []
         self.in_discipline = False
+        self.area_buttons = []
 
     def handle_starttag(self, tag, attrs):
         a = dict(attrs)
         if a.get('id'):
             assert a['id'] not in self.ids, 'Duplicate DOM id'
             self.ids[a['id']] = (tag, a, bool(self.labels))
+        if 'area-tile' in a.get('class', '').split():
+            self.area_buttons.append((tag, a))
         if tag == 'label':
             self.labels.append(a)
         if tag == 'a' and 'card' in a.get('class', '').split():
@@ -105,9 +109,9 @@ def validate(p, areas, mapping):
     assert '0' in durations and all(v.isdigit() for v in durations)
     seen = set()
     for c in p.cards:
-        ids = re.findall(r'\bCase\s+(\d+)\b', ' '.join(c['text']))
-        assert len(ids) == 1, 'Missing or ambiguous card number'
-        n = int(ids[0])
+        raw = c['attrs'].get('data-case-id', '')
+        assert raw.isdigit(), 'Missing stable card ID'
+        n = int(raw)
         assert n not in seen and n in mapping, 'Duplicate or unknown card'
         seen.add(n)
         a = c['attrs']
@@ -122,43 +126,73 @@ def validate(p, areas, mapping):
         assert p.ids[name][0] == 'select' and p.ids[name][2], f'{name}: native select needs a label'
     assert p.ids['reset-filters'][0] == 'button' and p.ids['reset-filters'][1].get('type') == 'button'
     assert p.ids['count'][1].get('role') == 'status', 'Result count needs status role'
+    assert p.ids['search'][0] == 'input' and p.ids['search'][2], 'Search needs native labelled input'
+    assert p.ids['show-more'][0] == 'button' and p.ids['show-more'][1].get('type') == 'button'
+    assert 'hidden' in p.ids['show-more'][1], 'No-JS show-more must be hidden'
+    assert 'hidden' in p.ids['area-shortcuts'][1]
+    assert len(p.area_buttons) == 12
+    assert {a.get('data-area') for tag,a in p.area_buttons} == set(areas)
+    assert all(tag=='button' and a.get('type')=='button' for tag,a in p.area_buttons)
+
     assert 'hidden' in p.ids['filters'][1], 'Hide nonfunctional filters without JS'
 
 
-NODE = r'''
+NODE = r"""
 const vm=require('node:vm'),assert=require('node:assert/strict');
 let input='';process.stdin.on('data',s=>input+=s);process.stdin.on('end',()=>{
- const p=JSON.parse(input), controls={};
- for(const [id,options] of Object.entries(p.selects)) controls['#'+id]={value:options[0]};
- controls['#filters']={hidden:true};controls['#count']={textContent:''};controls['#reset-filters']={};
- const cards=p.cards.map(c=>({dataset:{discipline:c['data-discipline'],concepts:c['data-concepts'],minutes:c['data-minutes']},hidden:false}));
- const doc={querySelector:s=>{assert(s in controls,'Unexpected selector '+s);return controls[s]},querySelectorAll:s=>{assert.equal(s,'.card');return cards}};
- vm.runInNewContext(p.script,{document:doc}, {timeout:1000});
- assert.equal(controls['#filters'].hidden,false);
- function check(d,c,t){
-  const expected=cards.map(x=>(!d||x.dataset.discipline===d)&&(!c||x.dataset.concepts.split('|').includes(c))&&(!Number(t)||Number(x.dataset.minutes)<=Number(t)));
-  assert.deepEqual(cards.map(x=>!x.hidden),expected,'Wrong filter intersection');
-  const count=expected.filter(Boolean).length,status=controls['#count'].textContent;
-  if(count) assert(new RegExp('\\b'+count+'\\s+case').test(status),'Incorrect result count');
-  else {assert(/no cases/i.test(status));assert(/reset/i.test(status),'No-result guidance must offer reset');}
-  assert.equal(controls['#discipline'].value,d);assert.equal(controls['#concept'].value,c);assert.equal(controls['#time'].value,t);
+ const p=JSON.parse(input);
+ function boot(query='') {
+  const controls={},location={href:'https://example.org/micro-cases/index.html'+query};let focused=null;
+  for(const [id,options] of Object.entries(p.selects)) controls['#'+id]={value:options[0],options:options.map(value=>({value}))};
+  for(const id of ['filters','area-shortcuts','count','reset-filters','show-more'])controls['#'+id]={hidden:true,textContent:''};
+  controls['#search']={value:''};
+  const cards=p.cards.map(c=>({dataset:{discipline:c.attrs['data-discipline'],concepts:c.attrs['data-concepts'],minutes:c.attrs['data-minutes'],caseId:c.attrs['data-case-id'],caseCode:c.attrs['data-case-code']},textContent:c.text.join(' '),hidden:false,focus(){focused=this}}));
+  const areas=p.areaButtons.map(a=>({dataset:{area:a['data-area']},attrs:{},setAttribute(k,v){this.attrs[k]=v}}));
+  const doc={querySelector:s=>{assert(s in controls,'Unexpected selector '+s);return controls[s]},querySelectorAll:s=>{if(s==='.card')return cards;if(s==='.area-tile')return areas;throw Error('Unexpected selector '+s)}};
+  const history={replaceState(a,b,url){location.href=new URL(url,location.href).href}};
+  vm.runInNewContext(p.script,{document:doc,window:{location,history},URL},{timeout:1000});
+  assert.equal(controls['#filters'].hidden,false);assert.equal(controls['#area-shortcuts'].hidden,false);
+  let limit=24;
+  const norm=s=>s.toLowerCase().trim().replace(/\s+/g,' ');
+  function check(sync=false){
+   const d=controls['#discipline'].value,c=controls['#concept'].value,t=controls['#time'].value,q=controls['#search'].value;
+   const tokens=norm(q).split(' ').filter(Boolean),legacy=norm(q).match(/^(?:case\s*)?(\d+)$/);
+   const matches=cards.filter(x=>(!d||x.dataset.discipline===d)&&(!c||x.dataset.concepts.split('|').includes(c))&&(!Number(t)||Number(x.dataset.minutes)<=Number(t))&&(legacy?Number(x.dataset.caseId)===Number(legacy[1]):tokens.every(z=>norm(x.textContent+' '+x.dataset.caseCode+' '+x.dataset.caseId+' case '+x.dataset.caseId).includes(z))));
+   const visible=matches.slice(0,limit);assert.deepEqual(cards.filter(x=>!x.hidden),visible,'Wrong intersection/pagination');
+   const status=controls['#count'].textContent;
+   if(matches.length===0){assert(/no cases/i.test(status));assert(/reset/i.test(status))}
+   else if(matches.length>visible.length)assert.equal(status,`Showing ${visible.length} of ${matches.length} cases`);
+   else assert.equal(status,`${matches.length} ${matches.length===1?'case':'cases'}`);
+   assert.equal(controls['#show-more'].hidden,visible.length>=matches.length);
+   if(visible.length<matches.length)assert.equal(controls['#show-more'].textContent,`Show ${Math.min(24,matches.length-visible.length)} more cases`);
+   for(const a of areas)assert.equal(a.attrs['aria-pressed'],String(a.dataset.area===d));
+   if(sync){let u=new URL(location.href);for(const [k,v] of [['q',q.trim()],['area',d],['topic',c],['time',t==='0'?'':t]])assert.equal(u.searchParams.get(k),v||null)}
+   return matches;
+  }
+  function change(id,value){controls['#'+id].value=value;limit=24;controls['#'+id][id==='search'?'oninput':'onchange']();check(true)}
+  function more(){const before=cards.filter(c=>!c.hidden);limit+=24;controls['#show-more'].onclick();const matches=check();if(matches.length>before.length)assert.equal(focused,matches[before.length])}
+  function reset(){limit=24;controls['#reset-filters'].onclick();assert.equal(controls['#search'].value,'');assert.equal(controls['#discipline'].value,'');assert.equal(controls['#concept'].value,'');assert.equal(controls['#time'].value,'0');check(true)}
+  return {controls,cards,areas,check,change,more,reset,location};
  }
- check('','','0');
- for(let cycle=0;cycle<2;cycle++) for(const d of p.selects.discipline) for(const c of p.selects.concept) for(const t of p.selects.time){
-  const vals={discipline:d,concept:c,time:t};
-  for(const id of ['discipline','concept','time']) {controls['#'+id].value=vals[id];assert.equal(typeof controls['#'+id].onchange,'function');controls['#'+id].onchange();}
-  check(d,c,t);
- }
- controls['#reset-filters'].onclick();check('','','0');
- console.log('PASS: real index JS intersections, empty results, repeated changes and reset.');
+ const b=boot();b.check();for(let i=0;i<4;i++)b.more();assert.equal(b.cards.filter(c=>!c.hidden).length,120);
+ b.change('search','NONEXISTENT XYZ');assert.equal(b.cards.filter(c=>!c.hidden).length,0);b.reset();assert.equal(b.cards.filter(c=>!c.hidden).length,24);
+ for(const d of p.selects.discipline)for(const c of p.selects.concept){b.change('discipline',d);b.change('concept',c);for(const t of p.selects.time)b.change('time',t)}
+ b.reset();for(const q of [p.cards[0].attrs['data-case-code'],'  '+p.cards[0].attrs['data-case-code'].toLowerCase()+'  ','case 120','119','Case119','Case 119','001','999','risk capacity','& <script>'])b.change('search',q);
+ b.reset();for(const q of ['119','Case119','Case 119']){b.change('search',q);assert.deepEqual(b.cards.filter(c=>!c.hidden).map(c=>c.dataset.caseId),['119'])}b.reset();b.more();b.change('time','0');assert.equal(b.cards.filter(c=>!c.hidden).length,24);
+ for(const a of b.areas){b.change('search','impossible');b.change('concept',p.selects.concept[1]);a.onclick();assert.equal(b.controls['#search'].value,'');assert.equal(b.controls['#concept'].value,'');assert.equal(b.controls['#time'].value,'0');b.check(true)}
+ const q=new URLSearchParams({area:p.selects.discipline[1],topic:p.selects.concept[1],time:p.selects.time[1],q:'risk'}).toString();const deep=boot('?'+q+'#catalogue');deep.check();assert.equal(deep.controls['#search'].value,'risk');assert.equal(deep.controls['#discipline'].value,p.selects.discipline[1]);deep.change('search','');assert(new URL(deep.location.href).hash==='#catalogue');
+ const bad=boot('?area=invalid&topic=invalid&time=-1&q=ACC-01');bad.check();assert.equal(bad.controls['#discipline'].value,'');assert.equal(bad.controls['#concept'].value,'');assert.equal(bad.controls['#time'].value,'0');assert.equal(bad.controls['#search'].value,'ACC-01');
+ console.log('PASS: real index search, filters,24-card pagination,show-more focus,area shortcuts,reset and URL state.');
 });
-'''
+"""
 
 
 def check(root=ROOT):
     p = Browse()
     p.feed((root / 'index.html').read_text())
     areas, mapping = ledger_map((root / 'planning/collection-roadmap.md').read_text())
+    registry, entries = load_registry(root)
+    assert {n: c['area'] for n, c in entries.items()} == mapping, 'Registry/ledger mismatch'
     validate(p, areas, mapping)
     # Mutate parsed structures only: never rewrite the shared checkout.
     for change in ('area', 'label', 'option', 'missing', 'topic'):
@@ -179,7 +213,8 @@ def check(root=ROOT):
             pass
         else:
             raise AssertionError(f'Mutation escaped validation: {change}')
-    payload = dict(cards=[c['attrs'] for c in p.cards],
+    payload = dict(cards=[dict(attrs=c['attrs'],text=c['text']) for c in p.cards],
+                   areaButtons=[a for tag,a in p.area_buttons],
                    selects={k: values(v) for k, v in p.selects.items()},
                    script='\n'.join(''.join(s) for s in p.scripts))
     result = subprocess.run(['node', '-e', NODE], input=json.dumps(payload),

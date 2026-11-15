@@ -1,6 +1,8 @@
 # Smaller payments. Cheaper loan?
 
-Case 62 · Hong Kong · 10–15 minutes · Finance · Loan repayment · Cash flow
+<!-- legacy-case-id: 62 -->
+
+FIN-06 · Hong Kong · 10–15 minutes · Finance · Loan repayment · Cash flow
 
 ![A repair workshop owner and bookkeeper discuss two quotation folders while a technician works nearby.](../smaller-payments-scene.jpg)
 

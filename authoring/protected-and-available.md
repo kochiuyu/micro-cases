@@ -1,6 +1,8 @@
 # One bank. Two kinds of safety.
 
-Case 98 · Hong Kong · 10–15 minutes · Finance · Cash concentration · Payment access
+<!-- legacy-case-id: 98 -->
+
+FIN-09 · Hong Kong · 10–15 minutes · Finance · Cash concentration · Payment access
 
 ![An older man in a sage shirt listens as a woman in a terracotta cardigan gestures between two open folders at a print-shop desk, with paper stacks and printing equipment behind them.](../protected-and-available-scene.jpg)
 

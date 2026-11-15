@@ -1,6 +1,8 @@
 # Keep it secret. For how long?
 
-Case 68 · Hong Kong · 10–15 minutes · Entrepreneurship · Innovation protection · Launch readiness
+<!-- legacy-case-id: 68 -->
+
+ENT-06 · Hong Kong · 10–15 minutes · Entrepreneurship · Innovation protection · Launch readiness
 
 ![Two founders discuss a compact folded display stand and an unmarked notebook in a modest prototype workshop.](../visible-secret-scene.jpg)
 

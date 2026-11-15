@@ -1,6 +1,8 @@
 # Twenty per cent less. Less of what?
 
-Case 45 · Hong Kong · 10–15 minutes · Governance · Environmental claims · Measurement scope
+<!-- legacy-case-id: 45 -->
+
+GVR-04 · Hong Kong · 10–15 minutes · Governance · Environmental claims · Measurement scope
 
 ![A hotel manager and communications colleague discuss a draft card and report in a warm office overlooking a courtyard.](../less-of-what-scene.jpg)
 

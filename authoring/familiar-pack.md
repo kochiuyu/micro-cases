@@ -1,6 +1,8 @@
 # A fresher pack. Still easy to find?
 
-Case 87 · Hong Kong · 10–15 minutes · Marketing · Packaging · Brand recognition
+<!-- legacy-case-id: 87 -->
+
+MKT-08 · Hong Kong · 10–15 minutes · Marketing · Packaging · Brand recognition
 
 ![A shopkeeper considers two biscuit-carton mockups held by a designer, one with a diagonal teal band and the other with a biscuit picture.](../familiar-pack-scene.jpg)
 

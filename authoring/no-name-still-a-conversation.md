@@ -1,6 +1,8 @@
 # No name. No conversation?
 
-Case 93 · Hong Kong · 10–15 minutes · Governance · Speaking up · Accountable follow-up
+<!-- legacy-case-id: 93 -->
+
+GVR-08 · Hong Kong · 10–15 minutes · Governance · Speaking up · Accountable follow-up
 
 ![A woman in a plum blouse and a man in a sage shirt discuss a tablet with two blank message shapes beside a closed folder, with a partitioned two-chair meeting nook and rolled exhibition panels behind them.](../no-name-still-a-conversation-scene.jpg)
 

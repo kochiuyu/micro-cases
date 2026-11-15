@@ -1,6 +1,8 @@
 # A thousand coupons. A better business?
 
-Case 19 · Hong Kong · 10–15 minutes · Marketing · Incremental sales
+<!-- legacy-case-id: 19 -->
+
+MKT-02 · Hong Kong · 10–15 minutes · Marketing · Incremental sales
 
 ![Two café managers discuss discount vouchers](../coupon-scene.jpg)
 

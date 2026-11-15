@@ -1,6 +1,8 @@
 # The landlord pays. Who saves?
 
-Case 94 · Hong Kong · 10–15 minutes · Sustainability · Split incentives · Shared savings
+<!-- legacy-case-id: 94 -->
+
+SUS-08 · Hong Kong · 10–15 minutes · Sustainability · Split incentives · Shared savings
 
 ![A seated woman in an ochre cardigan and a man in a blue shirt discuss a ceiling-light panel sample and plain papers on a meeting table, with ordinary office lighting behind them.](../landlord-pays-who-saves-scene.jpg)
 

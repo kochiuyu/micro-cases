@@ -1,6 +1,8 @@
 # Fewer changeovers. A later customer.
 
-Case 42 · Hong Kong · 10–15 minutes · Operations · Batch size · Production scheduling
+<!-- legacy-case-id: 42 -->
+
+OPS-04 · Hong Kong · 10–15 minutes · Operations · Batch size · Production scheduling
 
 ![A workshop supervisor and printer discuss trays of leaf and flower gift labels beside a divided collection box.](../mixed-collection-scene.jpg)
 

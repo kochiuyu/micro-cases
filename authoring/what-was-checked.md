@@ -1,6 +1,8 @@
 # Externally checked. What was checked?
 
-Case 105 · Hong Kong · 10–15 minutes · Governance · Review scope · Oversight
+<!-- legacy-case-id: 105 -->
+
+GVR-09 · Hong Kong · 10–15 minutes · Governance · Review scope · Oversight
 
 ![A grey-haired woman, a man in beige and a woman in sage discuss two closed folders and paper samples in a printing workshop.](../what-was-checked-scene.jpg)
 

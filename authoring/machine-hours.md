@@ -1,6 +1,8 @@
 # A quiet year. Less machine used?
 
-Case 85 · Hong Kong · 10–15 minutes · Accounting · Depreciation methods · Consumption estimates
+<!-- legacy-case-id: 85 -->
+
+ACC-08 · Hong Kong · 10–15 minutes · Accounting · Depreciation methods · Consumption estimates
 
 ![An embroidery-machine operator gestures toward the equipment while an older colleague considers an open notebook in a sunlit workshop.](../machine-hours-scene.jpg)
 

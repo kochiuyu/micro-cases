@@ -1,6 +1,8 @@
 # Covered damage. Unchanged behaviour?
 
-Case 119 · Hong Kong · 10–15 minutes · Economics · Prevention incentives · Risk allocation
+<!-- legacy-case-id: 119 -->
+
+ECO-10 · Hong Kong · 10–15 minutes · Economics · Prevention incentives · Risk allocation
 
 ![Two event colleagues discuss plain quotation sheets beside a portable display unit in an intact transport case and a removable padded sleeve.](../covered-damage-scene.jpg)
 

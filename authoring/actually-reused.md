@@ -1,6 +1,8 @@
 # Reusable fifty times. Used how many?
 
-Case 49 · Hong Kong · 10–15 minutes · Sustainability · Reuse systems · Life-cycle thinking
+<!-- legacy-case-id: 49 -->
+
+SUS-05 · Hong Kong · 10–15 minutes · Sustainability · Reuse systems · Life-cycle thinking
 
 ![Two market organisers discuss reusable cups packed in transport crates beneath a market awning.](../actually-reused-scene.jpg)
 

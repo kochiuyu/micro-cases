@@ -1,6 +1,8 @@
 # Three small orders. One big commitment?
 
-Case 72 · Hong Kong · 10–15 minutes · Governance · Delegated authority · Procurement controls
+<!-- legacy-case-id: 72 -->
+
+GVR-06 · Hong Kong · 10–15 minutes · Governance · Delegated authority · Procurement controls
 
 ![A design-studio coordinator and colleague discuss blank paperwork and material swatches beside a chair.](../one-commitment-scene.jpg)
 

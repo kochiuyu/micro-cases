@@ -1,6 +1,8 @@
 # Separate the colleagues. Or repair the handoff?
 
-Case 101 · Hong Kong · 10–15 minutes · People · Workplace conflict · Mediation
+<!-- legacy-case-id: 101 -->
+
+PPL-09 · Hong Kong · 10–15 minutes · People · Workplace conflict · Mediation
 
 ![Watercolour and ink illustration of two colleagues and their studio owner discussing unlettered exhibition layouts around a worktable.](../repair-the-handoff-scene.jpg)
 

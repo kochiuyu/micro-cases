@@ -1,6 +1,8 @@
 # The stock is all there. Is it worth the same?
 
-Case 40 · Hong Kong · 10–15 minutes · Accounting · Inventory valuation · Audit evidence
+<!-- legacy-case-id: 40 -->
+
+ACC-04 · Hong Kong · 10–15 minutes · Accounting · Inventory valuation · Audit evidence
 
 ![A stockkeeper with a plain clipboard and accounting colleague discuss fabric pouches in an accessories stockroom.](../count-and-value-scene.jpg)
 

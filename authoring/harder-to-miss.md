@@ -1,6 +1,8 @@
 # Check it again. Or make the mistake harder?
 
-Case 88 · Hong Kong · 10–15 minutes · Operations · Quality at source · Mistake-proofing
+<!-- legacy-case-id: 88 -->
+
+OPS-08 · Hong Kong · 10–15 minutes · Operations · Quality at source · Mistake-proofing
 
 ![A workshop supervisor and operator discuss an open stationery gift box beside a four-compartment wooden tray and a notebook, pencil, eraser and ruler.](../harder-to-miss-scene.jpg)
 

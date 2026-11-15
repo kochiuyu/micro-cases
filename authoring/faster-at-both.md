@@ -1,6 +1,8 @@
 # Faster at both. Do both?
 
-Case 69 · Hong Kong · 10–15 minutes · Economics · Comparative advantage · Opportunity cost
+<!-- legacy-case-id: 69 -->
+
+ECO-06 · Hong Kong · 10–15 minutes · Economics · Comparative advantage · Opportunity cost
 
 ![Two colleagues discuss parcels and an unmarked notebook in a modest retail workroom, with a camera tripod nearby.](../faster-at-both-scene.jpg)
 

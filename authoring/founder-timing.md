@@ -1,6 +1,8 @@
 # Equal partners. Earned when?
 
-Case 58 · Hong Kong · 10–15 minutes · Entrepreneurship · Founder equity · Vesting
+<!-- legacy-case-id: 58 -->
+
+ENT-05 · Hong Kong · 10–15 minutes · Entrepreneurship · Founder equity · Vesting
 
 ![Two cofounders discuss their partnership beside a laptop, blank folder and small sensor prototype in a shared workspace.](../founder-timing-scene.jpg)
 

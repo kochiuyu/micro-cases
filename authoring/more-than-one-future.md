@@ -1,6 +1,8 @@
 # One forecast. Three strategies?
 
-Case 90 · Hong Kong · 10–15 minutes · Strategy · Scenario planning · Strategic flexibility
+<!-- legacy-case-id: 90 -->
+
+STR-08 · Hong Kong · 10–15 minutes · Strategy · Scenario planning · Strategic flexibility
 
 ![Two adult trainers consider a substantial course folder and separate thin lesson booklets in a sunlit teaching studio.](../more-than-one-future-scene.jpg)
 

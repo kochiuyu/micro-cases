@@ -1,6 +1,8 @@
 # Would you share a ten-trip ferry pass?
 
-Case 11 · Hong Kong · 10–15 minutes · Price discrimination · Self-selection
+<!-- legacy-case-id: 11 -->
+
+MKT-01 · Hong Kong · 10–15 minutes · Price discrimination · Self-selection
 
 ![Ferry passengers discuss a pass on a Hong Kong pier.](../ferry-pass-scene.jpg)
 

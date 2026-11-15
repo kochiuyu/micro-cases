@@ -1,6 +1,8 @@
 # The handbook is complete. Are they ready?
 
-Case 39 · Hong Kong · 10–15 minutes · People · Onboarding · Knowledge transfer
+<!-- legacy-case-id: 39 -->
+
+PPL-04 · Hong Kong · 10–15 minutes · People · Onboarding · Knowledge transfer
 
 ![A print-shop manager discusses an open handbook with two adult recruits arranging paper samples and a practice job folder.](../ready-for-handoff-scene.jpg)
 

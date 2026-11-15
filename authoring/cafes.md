@@ -1,6 +1,8 @@
 # Two cafés, one lunch rush
 
-Case 13 · Hong Kong · 10–15 minutes · Strategic pricing · Nash equilibrium
+<!-- legacy-case-id: 13 -->
+
+STR-01 · Hong Kong · 10–15 minutes · Strategic pricing · Nash equilibrium
 
 ![Two campus cafés face each other across a courtyard.](../cafes-scene.jpg)
 

@@ -1,6 +1,8 @@
 # A better system. A harder exit?
 
-Case 92 · Hong Kong · 10–15 minutes · Information systems · Supplier dependence · Planned migration
+<!-- legacy-case-id: 92 -->
+
+IS-08 · Hong Kong · 10–15 minutes · Information systems · Supplier dependence · Planned migration
 
 ![Two adult colleagues discuss a laptop and booking folders at an equipment-rental counter, with folded chairs and protective cases nearby.](../better-system-harder-exit-scene.jpg)
 

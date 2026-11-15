@@ -1,6 +1,8 @@
 # HK$60,000 of support. Can we use it?
 
-Case 48 · Hong Kong · 10–15 minutes · Entrepreneurship · Resource fit · Startup support
+<!-- legacy-case-id: 48 -->
+
+ENT-04 · Hong Kong · 10–15 minutes · Entrepreneurship · Resource fit · Startup support
 
 ![Two startup founders discuss support folders beside a laptop and interface sketchbook in a shared studio.](../usable-support-scene.jpg)
 

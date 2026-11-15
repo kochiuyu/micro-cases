@@ -1,6 +1,8 @@
 # A package deal. Must everyone buy both?
 
-Case 95 · Hong Kong · 10–15 minutes · Economics · Bundling · Buyer choice
+<!-- legacy-case-id: 95 -->
+
+ECO-08 · Hong Kong · 10–15 minutes · Economics · Bundling · Buyer choice
 
 ![A woman instructor in a teal apron gestures to abstract brush strokes and a blue folded paper crane while a man in a rust shirt and a woman in a cream blouse consider the samples at a craft-studio table.](../both-or-one-scene.jpg)
 

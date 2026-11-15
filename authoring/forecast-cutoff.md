@@ -1,6 +1,8 @@
 # A good forecast. Available when?
 
-Case 71 · Hong Kong · 10–15 minutes · Business analytics · Forecast evaluation · Data leakage
+<!-- legacy-case-id: 71 -->
+
+IS-06 · Hong Kong · 10–15 minutes · Business analytics · Forecast evaluation · Data leakage
 
 ![An owner and colleague prepare a stationery shop for opening beside a blank notebook and a modest laptop.](../forecast-cutoff-scene.jpg)
 

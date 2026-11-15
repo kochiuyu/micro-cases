@@ -1,6 +1,8 @@
 # Who funds the covered walkway?
 
-Case 14 · Hong Kong · 10–15 minutes · Public goods · Free riding
+<!-- legacy-case-id: 14 -->
+
+SUS-04 · Hong Kong · 10–15 minutes · Public goods · Free riding
 
 ![Four neighbouring shopkeepers discuss a shared rain canopy.](../walkway-scene.jpg)
 

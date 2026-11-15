@@ -1,6 +1,8 @@
 # Keep the job. Start the business?
 
-Case 115 · Hong Kong · 10–15 minutes · Entrepreneurship · Hybrid entry · Founder time
+<!-- legacy-case-id: 115 -->
+
+ENT-10 · Hong Kong · 10–15 minutes · Entrepreneurship · Hybrid entry · Founder time
 
 ![A woman with plant-care equipment discusses a weekly planner with a facilities contact beside office greenery.](../keep-the-job-scene.jpg)
 

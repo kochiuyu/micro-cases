@@ -1,6 +1,8 @@
 # Five per cent more. More of what?
 
-Case 107 · Hong Kong · 10–15 minutes · Economics · Purchasing power · Price indices
+<!-- legacy-case-id: 107 -->
+
+ECO-09 · Hong Kong · 10–15 minutes · Economics · Purchasing power · Price indices
 
 ![Two art-shop coworkers discuss a paper sheet beside a tray of paper, brushes and paint jars, with unmarked kit boxes nearby.](../more-money-more-kits-scene.jpg)
 

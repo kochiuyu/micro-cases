@@ -1,6 +1,8 @@
 # What would you bid for the red minibus?
 
-Case 7 · Hong Kong · 10–15 minutes · Asset valuation and opportunity cost
+<!-- legacy-case-id: 7 -->
+
+FIN-02 · Hong Kong · 10–15 minutes · Asset valuation and opportunity cost
 
 ![A driver and passengers at a Hong Kong red minibus terminus.](../minibus-scene.jpg)
 

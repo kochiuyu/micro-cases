@@ -1,6 +1,8 @@
 # One exhibit. More than one way in.
 
-Case 96 · Hong Kong · 10–15 minutes · Hospitality · Inclusive interpretation · Visitor choice
+<!-- legacy-case-id: 96 -->
+
+HSP-08 · Hong Kong · 10–15 minutes · Hospitality · Inclusive interpretation · Visitor choice
 
 ![A woman in a plum cardigan discusses a wooden tabletop harbour-crane replica with a man in a sage shirt and a woman in cream, with an audio handset and plain panel beside the model.](../more-than-one-way-in-scene.jpg)
 

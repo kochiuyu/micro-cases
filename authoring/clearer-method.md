@@ -1,6 +1,8 @@
 # A higher target. A clearer method?
 
-Case 113 · Hong Kong · 10–15 minutes · People · Learning goals · Task methods
+<!-- legacy-case-id: 113 -->
+
+PPL-10 · Hong Kong · 10–15 minutes · People · Learning goals · Task methods
 
 ![Two adult photographers and a studio lead discuss image cards beside a cup, vase and flat tile at a tabletop photography setup.](../clearer-method-scene.jpg)
 

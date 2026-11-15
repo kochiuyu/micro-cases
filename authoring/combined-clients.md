@@ -1,6 +1,8 @@
 # Two hundred clients. Two hundred new clients?
 
-Case 60 · Hong Kong · 10–15 minutes · Strategy · Acquisition rationale · Synergies
+<!-- legacy-case-id: 60 -->
+
+STR-05 · Hong Kong · 10–15 minutes · Strategy · Acquisition rationale · Synergies
 
 ![Two professional-service business owners and a colleague discuss a possible combination in a design studio with colour swatches and plain folders.](../combined-clients-scene.jpg)
 

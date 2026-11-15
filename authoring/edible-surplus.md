@@ -1,6 +1,8 @@
 # Eighty kilos wasted. Eighty kilos to donate?
 
-Case 67 · Hong Kong · 10–15 minutes · Sustainability · Food-waste prevention · Edible surplus
+<!-- legacy-case-id: 67 -->
+
+SUS-06 · Hong Kong · 10–15 minutes · Sustainability · Food-waste prevention · Edible surplus
 
 ![A chef and manager discuss a plan in a modest canteen kitchen beside a clean covered container.](../edible-surplus-scene.jpg)
 

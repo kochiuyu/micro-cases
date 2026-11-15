@@ -1,6 +1,8 @@
 # Sold out by noon. Double tomorrow?
 
-Case 17 · Hong Kong · 10–15 minutes · Demand forecasting · Inventory
+<!-- legacy-case-id: 17 -->
+
+OPS-01 · Hong Kong · 10–15 minutes · Demand forecasting · Inventory
 
 ![A kiosk owner holds an empty tray while a colleague considers tomorrow’s order](../sold-out-scene.jpg)
 

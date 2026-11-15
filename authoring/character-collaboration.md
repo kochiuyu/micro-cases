@@ -1,6 +1,8 @@
 # They remember the character. Do they remember us?
 
-Case 31 · Hong Kong · 10–15 minutes · Co-branding · Brand attribution
+<!-- legacy-case-id: 31 -->
+
+MKT-03 · Hong Kong · 10–15 minutes · Co-branding · Brand attribution
 
 ![A heritage stationery craftsperson shows a refillable notebook while the shop manager holds an original owl-sleeved edition.](../character-collaboration-scene.jpg)
 

@@ -19,6 +19,8 @@ jobs:
         run: python3 tests/check_case_links.py
       - name: Check highlighted decision questions
         run: python3 tests/check_decision_prompts.py
+      - name: Check area codes and stable case identity
+        run: python3 tests/check_registry.py
       - name: Check collection and coverage
         run: python3 tests/check_collection.py
       - name: Check discipline browsing

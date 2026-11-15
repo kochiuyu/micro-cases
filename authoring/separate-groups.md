@@ -1,6 +1,8 @@
 # Two versions. Two separate groups?
 
-Case 116 · Hong Kong · 10–15 minutes · Information systems · Experiments · Team assignment
+<!-- legacy-case-id: 116 -->
+
+IS-10 · Hong Kong · 10–15 minutes · Information systems · Experiments · Team assignment
 
 ![Three adult colleagues discuss a handover folder and a laptop with abstract task cards in an event-administration office.](../separate-groups-scene.jpg)
 

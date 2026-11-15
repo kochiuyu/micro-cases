@@ -1,6 +1,8 @@
 # One stall, one bid
 
-Case 16 · Hong Kong · 10–15 minutes · Auction design · Private values
+<!-- legacy-case-id: 16 -->
+
+ECO-02 · Hong Kong · 10–15 minutes · Auction design · Private values
 
 ![Students submit sealed bids for a university festival stall.](../stall-scene.jpg)
 

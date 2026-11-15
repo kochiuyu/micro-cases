@@ -1,6 +1,8 @@
 # 97% right. Ready to reply?
 
-Case 26 · Hong Kong · 10–15 minutes · AI oversight · Service automation
+<!-- legacy-case-id: 26 -->
+
+IS-02 · Hong Kong · 10–15 minutes · AI oversight · Service automation
 
 ![Two customer-support colleagues discuss a chatbot launch beside a laptop, headset and online-retail parcels.](../chatbot-scene.jpg)
 
