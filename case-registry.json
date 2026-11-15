@@ -1581,6 +1581,13 @@
       "slug": "lower-return-better-investment",
       "area": "Accounting, audit and management control",
       "title": "A lower return. A better investment?"
+    },
+    {
+      "legacy_id": 218,
+      "code": "FIN-19",
+      "slug": "best-project-best-package",
+      "area": "Finance, banking and insurance",
+      "title": "The best project. The best set of projects?"
     }
   ]
 }

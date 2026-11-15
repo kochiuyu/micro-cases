@@ -259,3 +259,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 215 | ECO-18 | [ready-stock-is-not-endless.html](../ready-stock-is-not-endless.html) | The shared resource is open. Will it last? |
 | 216 | HSP-18 | [rent-is-not-the-whole-site.html](../rent-is-not-the-whole-site.html) | The highest rent. The right neighbour? |
 | 217 | ACC-19 | [lower-return-better-investment.html](../lower-return-better-investment.html) | A lower return. A better investment? |
+| 218 | FIN-19 | [best-project-best-package.html](../best-project-best-package.html) | The best project. The best set of projects? |
