@@ -460,3 +460,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 116
 
 116. [Two versions. Two separate groups?](separate-groups.html)
+
+## Case 117
+
+117. [The smaller average loss. The bigger risk?](bigger-risk.html)
