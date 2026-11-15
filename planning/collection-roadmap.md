@@ -4,7 +4,7 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-171 cases are published: the original 120 plus 51 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+172 cases are published: the original 120 plus 52 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -13,7 +13,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Accounting, audit and management control | 9, 24, 30, 40, 52, 61, 73, 85, 97, 109, 121, 133, 145, 157, 169 | — | 5 | A division misses its target after a shared cost is reassigned. Cut its budget or change the measure? |
 | Finance, banking and insurance | 2, 7, 18, 38, 50, 62, 74, 86, 98, 110, 122, 134, 146, 158, 170 | — | 5 | A major customer asks for longer payment terms. What would you ask for in return? |
 | Marketing, retail and consumer behaviour | 11, 19, 31, 41, 57, 63, 75, 87, 99, 111, 123, 135, 147, 159, 171 | — | 5 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
-| Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88, 100, 112, 124, 136, 148, 160 | — | 6 | Ship the whole order late or pay to send half by air? |
+| Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88, 100, 112, 124, 136, 148, 160, 172 | — | 5 | Ship the whole order late or pay to send half by air? |
 | People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77, 89, 101, 113, 125, 137, 149, 161 | — | 6 | A high-performing team refuses a promotion for its best member. Who should lead? |
 | Strategy and international business | 13, 21, 33, 43, 60, 66, 78, 90, 102, 114, 126, 138, 150, 162 | — | 6 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
 | Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79, 91, 103, 115, 127, 139, 151, 163 | — | 6 | A buyer wants the family brand and its name. Which terms would the founders accept? |
@@ -22,7 +22,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142, 154, 166 | — | 6 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143, 155, 167 | — | 6 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144, 156, 168 | — | 6 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **171 published** | **69 approved editorial slots** | **69** | |
+| **Total** | **172 published** | **68 approved editorial slots** | **68** | |
 
 ## How a lead earns a place
 
@@ -493,3 +493,7 @@ Integrated the independently reviewed project-risk and hurdle-rate case. Equal e
 ## Expansion wave 5 · MKT-15
 
 Integrated the independently reviewed message-framing case. The same optional offer, audience and prominent terms remain fixed while headline emphasis changes. Eight purposive fictional interviews support interpretation, not a sales winner, causal lift or population share. All four illustrative comments and comprehension limits remain; presentation service terms are staged as a checklist and table labels shortened without changing facts or questions. Five optional substantive bodies retain overlapping-literature and jurisdictional boundaries. Parent-approved original art has visually grounded alternative text. Rendered slide density and deployment checks remain separate from this editorial record.
+
+## Expansion wave 5 · OPS-15
+
+Integrated the independently reviewed reverse-logistics routing case. Both routes eventually recover the same quantity, but branch location, repair cutoffs and availability dates differ. Forecast demand is not an order book; unsold stock is not treated as worthless, and no unsupported profit or carbon ranking is inferred. Ownership, refund resolution, checks, condition disclosure and safe release remain explicit. Five optional substantive source bodies support bounded process context and theory, not observed outcomes for the fictional retailer. Parent-approved original artwork is illustrative. Static validation does not replace rendered or live deployment QA.

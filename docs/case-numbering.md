@@ -213,3 +213,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 169 | ACC-15 | [profit-not-cash.html](../profit-not-cash.html) | A profit. Where did the cash go? |
 | 170 | FIN-15 | [one-company-one-hurdle.html](../one-company-one-hurdle.html) | One company. One hurdle rate? |
 | 171 | MKT-15 | [same-benefit-different-frame.html](../same-benefit-different-frame.html) | The same benefit. A different frame? |
+| 172 | OPS-15 | [returned-checked-where-next.html](../returned-checked-where-next.html) | Returned and checked. Where next? |
