@@ -684,3 +684,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## OPS-15
 
 172. [Returned and checked. Where next?](returned-checked-where-next.html)
+
+## PPL-15
+
+173. [The reliable choice. The only person who gets a chance?](who-gets-a-chance.html)

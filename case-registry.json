@@ -1266,6 +1266,13 @@
       "slug": "returned-checked-where-next",
       "area": "Operations, supply chains and logistics",
       "title": "Returned and checked. Where next?"
+    },
+    {
+      "legacy_id": 173,
+      "code": "PPL-15",
+      "slug": "who-gets-a-chance",
+      "area": "People, leadership and organisational behaviour",
+      "title": "The reliable choice. The only person who gets a chance?"
     }
   ]
 }
