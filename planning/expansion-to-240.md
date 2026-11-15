@@ -1421,7 +1421,7 @@ Each research lead is unverified and must pass the gates above.
 
 **Learning objective:** Climate-finance additionality, delivery risk and the difference between contribution and verified compensation.
 
-**Distinctness check:** GVR-04 polices a claim; SUS-19 evaluates the underlying funding counterfactual. SUS-15 concerns displaced donations, while this also requires physical delivery and durability safeguards.
+**Distinctness check:** GVR-04 polices a claim; SUS-19 evaluates the underlying funding counterfactual. SUS-15 concerns habitat connectivity; SUS-19 instead examines funding additionality alongside physical delivery and durability safeguards.
 
 **Research lead, not yet verified:** Research lead only: authoritative carbon-credit integrity principles, official project documentation and a dated additionality debate. Do not imply credits are interchangeable, guaranteed permanent or a substitute for reducing own emissions.
 
