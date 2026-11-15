@@ -4,13 +4,13 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-156 cases are published: the original 120 plus 36 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+157 cases are published: the original 120 plus 37 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
 | Primary teaching area | Published case numbers | Planned case numbers | Remaining cases to reach twenty | Example decision to scout |
 |---|---|---|---:|---|
-| Accounting, audit and management control | 9, 24, 30, 40, 52, 61, 73, 85, 97, 109, 121, 133, 145 | — | 7 | A division misses its target after a shared cost is reassigned. Cut its budget or change the measure? |
+| Accounting, audit and management control | 9, 24, 30, 40, 52, 61, 73, 85, 97, 109, 121, 133, 145, 157 | — | 6 | A division misses its target after a shared cost is reassigned. Cut its budget or change the measure? |
 | Finance, banking and insurance | 2, 7, 18, 38, 50, 62, 74, 86, 98, 110, 122, 134, 146 | — | 7 | A major customer asks for longer payment terms. What would you ask for in return? |
 | Marketing, retail and consumer behaviour | 11, 19, 31, 41, 57, 63, 75, 87, 99, 111, 123, 135, 147 | — | 7 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
 | Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88, 100, 112, 124, 136, 148 | — | 7 | Ship the whole order late or pay to send half by air? |
@@ -22,7 +22,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142, 154 | — | 7 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143, 155 | — | 7 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144, 156 | — | 7 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **156 published** | **84 approved editorial slots** | **84** | |
+| **Total** | **157 published** | **83 approved editorial slots** | **83** | |
 
 ## How a lead earns a place
 
@@ -429,3 +429,7 @@ Case 156 (HSP-13) distinguishes a housekeeping preference from an agreed service
 ## Expansion wave 3 · Internal editorial checkpoint (145–156)
 
 All twelve drafts received independent review for distinct learning objectives, self-contained decisions, arithmetic and rights/safety boundaries, with no unresolved material correction. The objectives are material price/usage variances, factoring recourse, relationship contribution, time-phased allocation, leave-process fairness, entry timing, resource brokerage, common-mix adjustment, meaningful AI reconsideration, contextual water stewardship, costly signalling and consent-based housekeeping windows. Each retains five optional references and two standalone presentation decisions without external-reading dependencies. This is internal editorial review, not instructor/student feedback, a fresh exhaustive source audit or browser/mobile/print/live certification. Automated checks and deployment verification are separate. The nonblocking editorial recommendation is to retain short paragraphs and staged constraints in denser cases rather than add repetitive blanket caveats.
+
+## Expansion wave 4 · ACC-14
+
+Case 157 (ACC-14) updates an expected receivable-loss estimate without changing the gross claim or inventing a cash receipt. The original complete scenario sets imply allowances of HK$10,000 and HK$20,000 at successive internal reviews, so the increase is HK$10,000. The later HK$80,000 net carrying amount is a weighted estimate, not a promised receipt; collection, forgiveness and write-off are separate matters. Five substantive source bodies and independent arithmetic/editorial review were completed, with related standard-setting accounts and jurisdictional limits identified. The simplified model does not establish a real studio's reporting obligations. Parent-approved original artwork is illustrative; rendering and deployment checks remain separate.

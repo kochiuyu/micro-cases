@@ -1154,6 +1154,13 @@
       "slug": "a-window-not-any-time",
       "area": "Hospitality, tourism, property and service management",
       "title": "A tidy room. An unwanted interruption?"
+    },
+    {
+      "legacy_id": 157,
+      "code": "ACC-14",
+      "slug": "an-invoice-not-a-receipt",
+      "area": "Accounting, audit and management control",
+      "title": "An invoice issued. Cash likely?"
     }
   ]
 }
