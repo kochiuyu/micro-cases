@@ -281,3 +281,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 237 | GVR-20 | [one-response-clear-authority.html](../one-response-clear-authority.html) | An incident declared. Who is directing the response? |
 | 238 | SUS-20 | [fund-the-years-after-opening.html](../fund-the-years-after-opening.html) | The pilot grant ends. Who maintains the benefit? |
 | 239 | ECO-20 | [the-rival-customers-would-choose.html](../the-rival-customers-would-choose.html) | Two sellers merge. Which competition disappears? |
+| 240 | HSP-20 | [one-booking-different-visits.html](../one-booking-different-visits.html) | One booking. Several different visits? |

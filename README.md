@@ -952,3 +952,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## ECO-20
 
 239. [Two sellers merge. Which competition disappears?](the-rival-customers-would-choose.html)
+
+## HSP-20
+
+240. [One booking. Several different visits?](one-booking-different-visits.html)

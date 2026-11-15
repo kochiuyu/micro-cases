@@ -4,7 +4,7 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-239 cases are published: the original 120 plus 119 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+240 cases are published: the original 120 plus 120 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -21,8 +21,8 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93, 105, 117, 129, 141, 153, 165, 177, 189, 201, 213, 225, 237 | — | 0 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142, 154, 166, 178, 190, 202, 214, 226, 238 | — | 0 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143, 155, 167, 179, 191, 203, 215, 227, 239 | — | 0 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
-| Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144, 156, 168, 180, 192, 204, 216, 228 | — | 1 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **239 published** | **1 approved editorial slots** | **1** | |
+| Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144, 156, 168, 180, 192, 204, 216, 228, 240 | — | 0 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
+| **Total** | **240 published** | **0 approved editorial slots** | **0** | |
 
 ## How a lead earns a place
 
@@ -789,3 +789,13 @@ Integrated the independently reviewed case, preserving its fictional assumptions
 ## Expansion wave 10 · ECO-20
 
 Integrated the independently reviewed case, preserving its fictional assumptions, substantive reveal, exact decision prompts and source limitations. Parent-approved original artwork is hash-verified and illustrative. No new factual or outcome claims were added during integration. Full local collection and builder checks remain separate from browser, mobile, print and live deployment validation.
+
+## Expansion wave 10 · HSP-20
+
+Integrated the independently reviewed case, preserving its fictional assumptions, substantive reveal, exact decision prompts and source limitations. Parent-approved original artwork is hash-verified and illustrative. No new factual or outcome claims were added during integration. Full local collection and builder checks remain separate from browser, mobile, print and live deployment validation.
+
+## Internal editorial checkpoint · expansion wave 10, Cases 229–240
+
+The bounded internal content checkpoint passed. It consolidated individual reviews and checked titles, topics, decision questions, section structure and slide-question parity across twelve drafts, plus the openings/reveals/debriefs of 229–232 and full content of 233–240. Earlier individual source reviews for 229–232 were inherited, not freshly repeated; 233–240 carried forward the reviewer's five-body checks and verified corrections. For 240, the official Smithsonian PDF body was read through an indexed full-body retrieval after direct retrieval limits; the original citation and research history remain. This is not a new sixty-source audit, instructor feedback, artwork approval, rendered/mobile/print/accessibility-interaction QA or deployment certification. Multi-column tables on slide four of 237–240 remain specific separate visual targets. The local registry now contains twenty cases in each of twelve areas; actual live availability must be confirmed by the publication workflow.
+
+Final wave-ten presentation parity check: all twelve integrated decks have eleven slides. The first question is on slide six in Cases 230 and 231 and slide five in the other ten cases; every second question is on slide nine. Each exact question occurs once. This corrects the private checkpoint’s earlier all-slide-five shorthand; the teaching decks themselves did not require changes.
