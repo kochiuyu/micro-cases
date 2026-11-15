@@ -255,3 +255,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 211 | ENT-18 | [will-the-routine-travel.html](../will-the-routine-travel.html) | It worked in the last business. Will the routine travel? |
 | 212 | IS-18 | [features-pass-work-still-waits.html](../features-pass-work-still-waits.html) | The feature is delivered. Is the work supported? |
 | 213 | GVR-18 | [keep-the-meeting-in-bounds.html](../keep-the-meeting-in-bounds.html) | A useful industry meeting. Which topics are off limits? |
+| 214 | SUS-18 | [who-can-shape-the-ballot.html](../who-can-shape-the-ballot.html) | Residents will vote. Who can get onto the ballot? |

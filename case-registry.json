@@ -1553,6 +1553,13 @@
       "slug": "keep-the-meeting-in-bounds",
       "area": "Governance, law, ethics and risk",
       "title": "A useful industry meeting. Which topics are off limits?"
+    },
+    {
+      "legacy_id": 214,
+      "code": "SUS-18",
+      "slug": "who-can-shape-the-ballot",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "Residents will vote. Who can get onto the ballot?"
     }
   ]
 }

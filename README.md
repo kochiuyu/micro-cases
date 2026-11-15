@@ -848,3 +848,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## GVR-18
 
 213. [A useful industry meeting. Which topics are off limits?](keep-the-meeting-in-bounds.html)
+
+## SUS-18
+
+214. [Residents will vote. Who can get onto the ballot?](who-can-shape-the-ballot.html)
