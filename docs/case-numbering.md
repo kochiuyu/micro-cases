@@ -278,3 +278,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 234 | STR-20 | [one-network-local-decisions.html](../one-network-local-decisions.html) | One network. Every decision at headquarters? |
 | 235 | ENT-20 | [stop-the-venture-keep-the-promise.html](../stop-the-venture-keep-the-promise.html) | Stop the venture. Keep the promise? |
 | 236 | IS-20 | [trace-the-number-not-only-the-chart.html](../trace-the-number-not-only-the-chart.html) | A persuasive dashboard. Can we trace the number? |
+| 237 | GVR-20 | [one-response-clear-authority.html](../one-response-clear-authority.html) | An incident declared. Who is directing the response? |

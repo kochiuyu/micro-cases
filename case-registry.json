@@ -1714,6 +1714,13 @@
       "slug": "trace-the-number-not-only-the-chart",
       "area": "Information systems, AI and business analytics",
       "title": "A persuasive dashboard. Can we trace the number?"
+    },
+    {
+      "legacy_id": 237,
+      "code": "GVR-20",
+      "slug": "one-response-clear-authority",
+      "area": "Governance, law, ethics and risk",
+      "title": "An incident declared. Who is directing the response?"
     }
   ]
 }

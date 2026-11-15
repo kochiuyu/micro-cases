@@ -940,3 +940,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## IS-20
 
 236. [A persuasive dashboard. Can we trace the number?](trace-the-number-not-only-the-chart.html)
+
+## GVR-20
+
+237. [An incident declared. Who is directing the response?](one-response-clear-authority.html)
