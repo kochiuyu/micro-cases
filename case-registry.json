@@ -1595,6 +1595,13 @@
       "slug": "one-name-two-promises",
       "area": "Marketing, retail and consumer behaviour",
       "title": "One name for two promises?"
+    },
+    {
+      "legacy_id": 220,
+      "code": "OPS-19",
+      "slug": "through-the-depot-or-to-a-shelf",
+      "area": "Operations, supply chains and logistics",
+      "title": "Straight through the depot. Or onto a shelf?"
     }
   ]
 }
