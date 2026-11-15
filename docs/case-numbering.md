@@ -260,3 +260,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 216 | HSP-18 | [rent-is-not-the-whole-site.html](../rent-is-not-the-whole-site.html) | The highest rent. The right neighbour? |
 | 217 | ACC-19 | [lower-return-better-investment.html](../lower-return-better-investment.html) | A lower return. A better investment? |
 | 218 | FIN-19 | [best-project-best-package.html](../best-project-best-package.html) | The best project. The best set of projects? |
+| 219 | MKT-19 | [one-name-two-promises.html](../one-name-two-promises.html) | One name for two promises? |

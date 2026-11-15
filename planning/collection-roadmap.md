@@ -4,7 +4,7 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-218 cases are published: the original 120 plus 98 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+219 cases are published: the original 120 plus 99 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -12,7 +12,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 |---|---|---|---:|---|
 | Accounting, audit and management control | 9, 24, 30, 40, 52, 61, 73, 85, 97, 109, 121, 133, 145, 157, 169, 181, 193, 205, 217 | — | 1 | A division misses its target after a shared cost is reassigned. Cut its budget or change the measure? |
 | Finance, banking and insurance | 2, 7, 18, 38, 50, 62, 74, 86, 98, 110, 122, 134, 146, 158, 170, 182, 194, 206, 218 | — | 1 | A major customer asks for longer payment terms. What would you ask for in return? |
-| Marketing, retail and consumer behaviour | 11, 19, 31, 41, 57, 63, 75, 87, 99, 111, 123, 135, 147, 159, 171, 183, 195, 207 | — | 2 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
+| Marketing, retail and consumer behaviour | 11, 19, 31, 41, 57, 63, 75, 87, 99, 111, 123, 135, 147, 159, 171, 183, 195, 207, 219 | — | 1 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
 | Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88, 100, 112, 124, 136, 148, 160, 172, 184, 196, 208 | — | 2 | Ship the whole order late or pay to send half by air? |
 | People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77, 89, 101, 113, 125, 137, 149, 161, 173, 185, 197, 209 | — | 2 | A high-performing team refuses a promotion for its best member. Who should lead? |
 | Strategy and international business | 13, 21, 33, 43, 60, 66, 78, 90, 102, 114, 126, 138, 150, 162, 174, 186, 198, 210 | — | 2 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
@@ -22,7 +22,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142, 154, 166, 178, 190, 202, 214 | — | 2 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143, 155, 167, 179, 191, 203, 215 | — | 2 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144, 156, 168, 180, 192, 204, 216 | — | 2 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **218 published** | **22 approved editorial slots** | **22** | |
+| **Total** | **219 published** | **21 approved editorial slots** | **21** | |
 
 ## How a lead earns a place
 
@@ -699,5 +699,9 @@ The bounded internal review reread current openings, exhibits, questions, reveal
 Integrated the independently reviewed case, preserving its fictional assumptions, substantive reveal, exact decision prompts and source limitations. Parent-approved original artwork is hash-verified and illustrative. No new factual or outcome claims were added during integration. Full local collection and builder checks remain separate from browser, mobile, print and live deployment validation.
 
 ## Expansion wave 9 · FIN-19
+
+Integrated the independently reviewed case, preserving its fictional assumptions, substantive reveal, exact decision prompts and source limitations. Parent-approved original artwork is hash-verified and illustrative. No new factual or outcome claims were added during integration. Full local collection and builder checks remain separate from browser, mobile, print and live deployment validation.
+
+## Expansion wave 9 · MKT-19
 
 Integrated the independently reviewed case, preserving its fictional assumptions, substantive reveal, exact decision prompts and source limitations. Parent-approved original artwork is hash-verified and illustrative. No new factual or outcome claims were added during integration. Full local collection and builder checks remain separate from browser, mobile, print and live deployment validation.

@@ -1588,6 +1588,13 @@
       "slug": "best-project-best-package",
       "area": "Finance, banking and insurance",
       "title": "The best project. The best set of projects?"
+    },
+    {
+      "legacy_id": 219,
+      "code": "MKT-19",
+      "slug": "one-name-two-promises",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "One name for two promises?"
     }
   ]
 }
