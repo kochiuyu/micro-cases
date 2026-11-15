@@ -1070,6 +1070,13 @@
       "slug": "find-the-entrance",
       "area": "Hospitality, tourism, property and service management",
       "title": "They can read the map. Can they find the entrance?"
+    },
+    {
+      "legacy_id": 145,
+      "code": "ACC-13",
+      "slug": "cheaper-material-dearer-batch",
+      "area": "Accounting, audit and management control",
+      "title": "Cheaper material. A dearer batch?"
     }
   ]
 }

@@ -4,13 +4,13 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-144 cases are published: the original 120 plus 24 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+145 cases are published: the original 120 plus 25 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
 | Primary teaching area | Published case numbers | Planned case numbers | Remaining cases to reach twenty | Example decision to scout |
 |---|---|---|---:|---|
-| Accounting, audit and management control | 9, 24, 30, 40, 52, 61, 73, 85, 97, 109, 121, 133 | — | 8 | A division misses its target after a shared cost is reassigned. Cut its budget or change the measure? |
+| Accounting, audit and management control | 9, 24, 30, 40, 52, 61, 73, 85, 97, 109, 121, 133, 145 | — | 7 | A division misses its target after a shared cost is reassigned. Cut its budget or change the measure? |
 | Finance, banking and insurance | 2, 7, 18, 38, 50, 62, 74, 86, 98, 110, 122, 134 | — | 8 | A major customer asks for longer payment terms. What would you ask for in return? |
 | Marketing, retail and consumer behaviour | 11, 19, 31, 41, 57, 63, 75, 87, 99, 111, 123, 135 | — | 8 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
 | Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88, 100, 112, 124, 136 | — | 8 | Ship the whole order late or pay to send half by air? |
@@ -22,7 +22,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142 | — | 8 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143 | — | 8 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144 | — | 8 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **144 published** | **96 approved editorial slots** | **96** | |
+| **Total** | **145 published** | **95 approved editorial slots** | **95** | |
 
 ## How a lead earns a place
 
@@ -377,3 +377,7 @@ Case 144 (HSP-12) distinguishes reading a museum map from navigating a physical 
 ## Expansion wave 2 · Internal editorial checkpoint (133–144)
 
 This wave adds one distinct lead objective per area: contribution per scarce resource; lease exit versus resale exposure; customer-journey stage diagnosis; inventory location and ready-at time; realistic job previews; relationship-specific investment safeguards; customer-problem pivots; missing numeric data and sensitivity; controlled preservation exceptions; electricity timing versus use and attributed emissions; informative winning in a common-value auction; and physical wayfinding. Individual source-body checks and independent editorial reviews were completed, with original assumptions, quantitative limits and relevant neighbouring-case distinctions recorded. Source counts do not imply five independent empirical studies per case. This is an internal editorial checkpoint, not instructor/student feedback or proof of learning effectiveness; it is not a fresh source audit of the whole collection. Local automated validation, rendered desktop/mobile/print QA and live deployment checks are separate, and publication or unperformed visual checks are not certified by this note.
+
+## Expansion wave 3 · ACC-13
+
+Case 145 (ACC-13) separates a favourable material-price difference from an adverse usage difference at unchanged acceptable output. The original batch bridge is HK$5,000 allowance plus HK$1,000 usage variance less HK$600 price variance, giving HK$5,400 actual clay cost. The arithmetic does not assign blame: firmer clay and changed trimmings storage are documented but their separate effects are unknown. Return to the original input and a controlled alternative trial remain defensible, with required quality protected and other costs needing separate evaluation. Five substantive source bodies and independent editorial/arithmetic review were completed; three textbook sections are complementary teaching sources, not independent studies. Parent-approved original watercolor-and-ink artwork is illustrative. Rendering and deployment checks remain separate.
