@@ -588,3 +588,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## OPS-13
 
 148. [Promise Friday. Based on which stock?](promise-by-when.html)
+
+## PPL-13
+
+149. [The same leave entitlement. The same fair process?](same-leave-fair-process.html)

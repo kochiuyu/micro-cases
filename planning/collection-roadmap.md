@@ -4,7 +4,7 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-148 cases are published: the original 120 plus 28 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+149 cases are published: the original 120 plus 29 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -14,7 +14,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Finance, banking and insurance | 2, 7, 18, 38, 50, 62, 74, 86, 98, 110, 122, 134, 146 | — | 7 | A major customer asks for longer payment terms. What would you ask for in return? |
 | Marketing, retail and consumer behaviour | 11, 19, 31, 41, 57, 63, 75, 87, 99, 111, 123, 135, 147 | — | 7 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
 | Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88, 100, 112, 124, 136, 148 | — | 7 | Ship the whole order late or pay to send half by air? |
-| People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77, 89, 101, 113, 125, 137 | — | 8 | A high-performing team refuses a promotion for its best member. Who should lead? |
+| People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77, 89, 101, 113, 125, 137, 149 | — | 7 | A high-performing team refuses a promotion for its best member. Who should lead? |
 | Strategy and international business | 13, 21, 33, 43, 60, 66, 78, 90, 102, 114, 126, 138 | — | 8 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
 | Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79, 91, 103, 115, 127, 139 | — | 8 | A buyer wants the family brand and its name. Which terms would the founders accept? |
 | Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71, 81, 92, 104, 116, 128, 140 | — | 8 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
@@ -22,7 +22,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142 | — | 8 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143 | — | 8 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144 | — | 8 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **148 published** | **92 approved editorial slots** | **92** | |
+| **Total** | **149 published** | **91 approved editorial slots** | **91** | |
 
 ## How a lead earns a place
 
@@ -393,3 +393,7 @@ Case 147 (MKT-13) compares existing subscription relationships after attributabl
 ## Expansion wave 3 · OPS-13
 
 Case 148 (OPS-13) separates a correct weekly stock balance from a time-phased delivery promise. Existing allocations leave two usable kits at Friday's processing start; a later physical receipt does not become usable until the stipulated Saturday inspection release. Full Friday delivery is infeasible, while two separately capacity-checked offers remain: four desks Saturday or an explicitly priced, customer-approved split. The positive six-kit ending balance does not establish earlier availability. Five substantive source bodies and independent timing/arithmetic review were completed; vendor process documentation does not guarantee the fictional receipts or software behaviour. Parent-approved original artwork is illustrative; rendering and deployment checks remain separate.
+
+## Expansion wave 3 · PPL-13
+
+Case 149 (PPL-13) distinguishes equal leave entitlement from fair access to a scarce preferred period. Unequal portal access undermines a simple timestamp rule, but rotation also needs verified history, clear tie-breaking and a consistent private exception process. The prospective design preserves existing rights and does not reverse approved leave; applicable obligations precede discretionary allocation. Five substantive source bodies and independent editorial review were completed within their jurisdictional limits. The exercise neither ranks real employees nor assigns legal status to fictional private needs, and foreign guidance is not imported as Hong Kong law. Parent-approved original artwork is illustrative; rendering and deployment checks remain separate.
