@@ -252,3 +252,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 208 | OPS-18 | [orders-are-not-consumption.html](../orders-are-not-consumption.html) | Customer demand moved a little. Orders moved a lot. |
 | 209 | PPL-18 | [count-the-work-not-only-the-reports.html](../count-the-work-not-only-the-reports.html) | More people to lead. The same manager’s day? |
 | 210 | STR-18 | [another-way-to-spend-the-evening.html](../another-way-to-spend-the-evening.html) | The rival across the road. Or a different way to meet the need? |
+| 211 | ENT-18 | [will-the-routine-travel.html](../will-the-routine-travel.html) | It worked in the last business. Will the routine travel? |

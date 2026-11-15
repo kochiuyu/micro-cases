@@ -836,3 +836,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## STR-18
 
 210. [The rival across the road. Or a different way to meet the need?](another-way-to-spend-the-evening.html)
+
+## ENT-18
+
+211. [It worked in the last business. Will the routine travel?](will-the-routine-travel.html)
