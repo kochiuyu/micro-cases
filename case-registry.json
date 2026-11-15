@@ -1252,6 +1252,13 @@
       "slug": "one-company-one-hurdle",
       "area": "Finance, banking and insurance",
       "title": "One company. One hurdle rate?"
+    },
+    {
+      "legacy_id": 171,
+      "code": "MKT-15",
+      "slug": "same-benefit-different-frame",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "The same benefit. A different frame?"
     }
   ]
 }

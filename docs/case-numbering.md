@@ -212,3 +212,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 168 | HSP-14 | [script-and-occasion.html](../script-and-occasion.html) | Follow the script. Recognise the occasion? |
 | 169 | ACC-15 | [profit-not-cash.html](../profit-not-cash.html) | A profit. Where did the cash go? |
 | 170 | FIN-15 | [one-company-one-hurdle.html](../one-company-one-hurdle.html) | One company. One hurdle rate? |
+| 171 | MKT-15 | [same-benefit-different-frame.html](../same-benefit-different-frame.html) | The same benefit. A different frame? |
