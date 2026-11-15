@@ -182,3 +182,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 138 | STR-12 | [dedicated-tool.html](../dedicated-tool.html) | A dedicated tool. A dependable agreement? |
 | 139 | ENT-12 | [better-for-whom.html](../better-for-whom.html) | Better ratings. The same business? |
 | 140 | IS-12 | [blank-cell.html](../blank-cell.html) | A blank cell. A harmless average? |
+| 141 | GVR-12 | [preserve-an-exception.html](../preserve-an-exception.html) | Delete on schedule. Preserve an exception? |

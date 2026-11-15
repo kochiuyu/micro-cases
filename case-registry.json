@@ -1042,6 +1042,13 @@
       "slug": "blank-cell",
       "area": "Information systems, AI and business analytics",
       "title": "A blank cell. A harmless average?"
+    },
+    {
+      "legacy_id": 141,
+      "code": "GVR-12",
+      "slug": "preserve-an-exception",
+      "area": "Governance, law, ethics and risk",
+      "title": "Delete on schedule. Preserve an exception?"
     }
   ]
 }

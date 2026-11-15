@@ -556,3 +556,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## IS-12
 
 140. [A blank cell. A harmless average?](blank-cell.html)
+
+## GVR-12
+
+141. [Delete on schedule. Preserve an exception?](preserve-an-exception.html)
