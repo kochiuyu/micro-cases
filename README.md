@@ -920,3 +920,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## MKT-20
 
 231. [Points earned. Benefits understood?](points-earned-benefits-understood.html)
+
+## OPS-20
+
+232. [Count everything twice. Or risky shelves more often?](count-the-risky-shelves.html)

@@ -273,3 +273,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 229 | ACC-20 | [internal-price-two-refusals.html](../internal-price-two-refusals.html) | An internal price. Two sensible refusals? |
 | 230 | FIN-20 | [good-year-distributable-surplus.html](../good-year-distributable-surplus.html) | A good year. A distributable surplus? |
 | 231 | MKT-20 | [points-earned-benefits-understood.html](../points-earned-benefits-understood.html) | Points earned. Benefits understood? |
+| 232 | OPS-20 | [count-the-risky-shelves.html](../count-the-risky-shelves.html) | Count everything twice. Or risky shelves more often? |

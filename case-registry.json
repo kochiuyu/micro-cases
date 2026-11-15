@@ -1679,6 +1679,13 @@
       "slug": "points-earned-benefits-understood",
       "area": "Marketing, retail and consumer behaviour",
       "title": "Points earned. Benefits understood?"
+    },
+    {
+      "legacy_id": 232,
+      "code": "OPS-20",
+      "slug": "count-the-risky-shelves",
+      "area": "Operations, supply chains and logistics",
+      "title": "Count everything twice. Or risky shelves more often?"
     }
   ]
 }
