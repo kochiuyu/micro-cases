@@ -584,3 +584,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## MKT-13
 
 147. [Our biggest customer. Our most valuable relationship?](valuable-relationship.html)
+
+## OPS-13
+
+148. [Promise Friday. Based on which stock?](promise-by-when.html)

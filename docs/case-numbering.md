@@ -189,3 +189,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 145 | ACC-13 | [cheaper-material-dearer-batch.html](../cheaper-material-dearer-batch.html) | Cheaper material. A dearer batch? |
 | 146 | FIN-13 | [cash-before-risk.html](../cash-before-risk.html) | The invoice is sold. Is the risk gone? |
 | 147 | MKT-13 | [valuable-relationship.html](../valuable-relationship.html) | Our biggest customer. Our most valuable relationship? |
+| 148 | OPS-13 | [promise-by-when.html](../promise-by-when.html) | Promise Friday. Based on which stock? |

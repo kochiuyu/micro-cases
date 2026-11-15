@@ -1091,6 +1091,13 @@
       "slug": "valuable-relationship",
       "area": "Marketing, retail and consumer behaviour",
       "title": "Our biggest customer. Our most valuable relationship?"
+    },
+    {
+      "legacy_id": 148,
+      "code": "OPS-13",
+      "slug": "promise-by-when",
+      "area": "Operations, supply chains and logistics",
+      "title": "Promise Friday. Based on which stock?"
     }
   ]
 }
