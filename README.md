@@ -500,3 +500,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## STR-11
 
 126. [Keep improving it. Or harvest what remains?](what-remains.html)
+
+## ENT-11
+
+127. [The impressive co-founder. The complementary co-founder?](complementary-founder.html)

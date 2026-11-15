@@ -4,7 +4,7 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-126 cases are published: the original 120 plus 6 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+127 cases are published: the original 120 plus 7 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -16,13 +16,13 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88, 100, 112, 124 | — | 9 | Ship the whole order late or pay to send half by air? |
 | People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77, 89, 101, 113, 125 | — | 9 | A high-performing team refuses a promotion for its best member. Who should lead? |
 | Strategy and international business | 13, 21, 33, 43, 60, 66, 78, 90, 102, 114, 126 | — | 9 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
-| Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79, 91, 103, 115 | — | 10 | A buyer wants the family brand and its name. Which terms would the founders accept? |
+| Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79, 91, 103, 115, 127 | — | 9 | A buyer wants the family brand and its name. Which terms would the founders accept? |
 | Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71, 81, 92, 104, 116 | — | 10 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
 | Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93, 105, 117 | — | 10 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118 | — | 10 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119 | — | 10 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120 | — | 10 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **126 published** | **114 approved editorial slots** | **114** | |
+| **Total** | **127 published** | **113 approved editorial slots** | **113** | |
 
 ## How a lead earns a place
 
@@ -298,3 +298,7 @@ Case 125 (PPL-11) separates a visible recent success from evidence of whole-year
 ## Expansion wave 1 · STR-11
 
 Case 126 (STR-11) distinguishes portfolio renewal from responsible maintenance of a declining product line. A stable niche and selected customer interest support retaining an album offer but do not establish its incremental investment return. Both programmes preserve separately funded quality, parts and existing support; routine operating costs remain outside the stated HK$150,000 development-and-support envelope. Five substantive sources, arithmetic, trade-offs and nearby-case distinctness were independently reviewed.
+
+## Expansion wave 1 · ENT-11
+
+Case 127 (ENT-11) compares potential co-founder combinations rather than ownership terms. An equal paid working exercise reveals different useful capabilities alongside different committed hours; neither background diversity nor familiarity automatically wins. Combined availability is not a productivity score, and prototype contributions do not establish demand or lasting compatibility. Five substantive source bodies, original scenario arithmetic and distinctness from the vesting case were independently reviewed.

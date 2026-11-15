@@ -944,6 +944,13 @@
       "slug": "what-remains",
       "area": "Strategy and international business",
       "title": "Keep improving it. Or harvest what remains?"
+    },
+    {
+      "legacy_id": 127,
+      "code": "ENT-11",
+      "slug": "complementary-founder",
+      "area": "Entrepreneurship, innovation and family business",
+      "title": "The impressive co-founder. The complementary co-founder?"
     }
   ]
 }
