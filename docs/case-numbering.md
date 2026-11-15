@@ -164,3 +164,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 120 | HSP-10 | [whose-story.html](../whose-story.html) | A village tour. Whose story? |
 | 121 | ACC-11 | [same-units-different-setups.html](../same-units-different-setups.html) | Same units. Same overhead? |
 | 122 | FIN-11 | [lower-rate-less-certainty.html](../lower-rate-less-certainty.html) | A lower rate. A less certain payment? |
+| 123 | MKT-11 | [see-the-advice.html](../see-the-advice.html) | A promise of expertise. What can buyers see? |

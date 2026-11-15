@@ -916,6 +916,13 @@
       "slug": "lower-rate-less-certainty",
       "area": "Finance, banking and insurance",
       "title": "A lower rate. A less certain payment?"
+    },
+    {
+      "legacy_id": 123,
+      "code": "MKT-11",
+      "slug": "see-the-advice",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "A promise of expertise. What can buyers see?"
     }
   ]
 }
