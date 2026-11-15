@@ -512,3 +512,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## GVR-11
 
 129. [The meeting agreed. Which version applies?](which-version.html)
+
+## SUS-11
+
+130. [Compostable here. Collected where?](collected-where.html)

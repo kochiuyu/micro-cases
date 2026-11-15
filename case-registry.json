@@ -965,6 +965,13 @@
       "slug": "which-version",
       "area": "Governance, law, ethics and risk",
       "title": "The meeting agreed. Which version applies?"
+    },
+    {
+      "legacy_id": 130,
+      "code": "SUS-11",
+      "slug": "collected-where",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "Compostable here. Collected where?"
     }
   ]
 }
