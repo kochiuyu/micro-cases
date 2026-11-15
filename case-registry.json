@@ -1287,6 +1287,13 @@
       "slug": "equal-votes-no-decision",
       "area": "Entrepreneurship, innovation and family business",
       "title": "Equal votes. No decision?"
+    },
+    {
+      "legacy_id": 176,
+      "code": "IS-15",
+      "slug": "challenge-and-authorise",
+      "area": "Information systems, AI and business analytics",
+      "title": "Challenge the forecast. Who may override it?"
     }
   ]
 }

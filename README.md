@@ -696,3 +696,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## ENT-15
 
 175. [Equal votes. No decision?](equal-votes-no-decision.html)
+
+## IS-15
+
+176. [Challenge the forecast. Who may override it?](challenge-and-authorise.html)

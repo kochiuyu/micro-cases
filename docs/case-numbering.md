@@ -217,3 +217,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 173 | PPL-15 | [who-gets-a-chance.html](../who-gets-a-chance.html) | The reliable choice. The only person who gets a chance? |
 | 174 | STR-15 | [nearby-or-three-cities.html](../nearby-or-three-cities.html) | Three nearby outlets. Three different cities? |
 | 175 | ENT-15 | [equal-votes-no-decision.html](../equal-votes-no-decision.html) | Equal votes. No decision? |
+| 176 | IS-15 | [challenge-and-authorise.html](../challenge-and-authorise.html) | Challenge the forecast. Who may override it? |
