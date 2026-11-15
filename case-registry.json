@@ -1245,6 +1245,13 @@
       "slug": "profit-not-cash",
       "area": "Accounting, audit and management control",
       "title": "A profit. Where did the cash go?"
+    },
+    {
+      "legacy_id": 170,
+      "code": "FIN-15",
+      "slug": "one-company-one-hurdle",
+      "area": "Finance, banking and insurance",
+      "title": "One company. One hurdle rate?"
     }
   ]
 }
