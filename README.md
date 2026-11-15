@@ -948,3 +948,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## SUS-20
 
 238. [The pilot grant ends. Who maintains the benefit?](fund-the-years-after-opening.html)
+
+## ECO-20
+
+239. [Two sellers merge. Which competition disappears?](the-rival-customers-would-choose.html)
