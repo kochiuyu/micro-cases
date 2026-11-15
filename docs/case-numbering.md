@@ -215,3 +215,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 171 | MKT-15 | [same-benefit-different-frame.html](../same-benefit-different-frame.html) | The same benefit. A different frame? |
 | 172 | OPS-15 | [returned-checked-where-next.html](../returned-checked-where-next.html) | Returned and checked. Where next? |
 | 173 | PPL-15 | [who-gets-a-chance.html](../who-gets-a-chance.html) | The reliable choice. The only person who gets a chance? |
+| 174 | STR-15 | [nearby-or-three-cities.html](../nearby-or-three-cities.html) | Three nearby outlets. Three different cities? |

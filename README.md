@@ -688,3 +688,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## PPL-15
 
 173. [The reliable choice. The only person who gets a chance?](who-gets-a-chance.html)
+
+## STR-15
+
+174. [Three nearby outlets. Three different cities?](nearby-or-three-cities.html)
