@@ -784,3 +784,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## PPL-17
 
 197. [Everyone agrees. Has everyone’s evidence been heard?](whose-evidence-reached-the-table.html)
+
+## STR-17
+
+198. [Defend every customer. Defend the right position?](defend-the-position-not-every-price.html)
