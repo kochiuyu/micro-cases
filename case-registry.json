@@ -1308,6 +1308,13 @@
       "slug": "more-trees-better-habitat",
       "area": "Sustainability, social enterprise and public management",
       "title": "More trees. Better habitat?"
+    },
+    {
+      "legacy_id": 179,
+      "code": "ECO-15",
+      "slug": "printer-and-printing",
+      "area": "Economics, competition and pricing",
+      "title": "A cheaper printer. More expensive printing?"
     }
   ]
 }

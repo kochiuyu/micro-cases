@@ -220,3 +220,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 176 | IS-15 | [challenge-and-authorise.html](../challenge-and-authorise.html) | Challenge the forecast. Who may override it? |
 | 177 | GVR-15 | [paid-for-which-use.html](../paid-for-which-use.html) | We bought the photograph. May we reuse it? |
 | 178 | SUS-15 | [more-trees-better-habitat.html](../more-trees-better-habitat.html) | More trees. Better habitat? |
+| 179 | ECO-15 | [printer-and-printing.html](../printer-and-printing.html) | A cheaper printer. More expensive printing? |
