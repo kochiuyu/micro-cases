@@ -692,3 +692,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## STR-15
 
 174. [Three nearby outlets. Three different cities?](nearby-or-three-cities.html)
+
+## ENT-15
+
+175. [Equal votes. No decision?](equal-votes-no-decision.html)

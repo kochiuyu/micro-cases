@@ -1280,6 +1280,13 @@
       "slug": "nearby-or-three-cities",
       "area": "Strategy and international business",
       "title": "Three nearby outlets. Three different cities?"
+    },
+    {
+      "legacy_id": 175,
+      "code": "ENT-15",
+      "slug": "equal-votes-no-decision",
+      "area": "Entrepreneurship, innovation and family business",
+      "title": "Equal votes. No decision?"
     }
   ]
 }
