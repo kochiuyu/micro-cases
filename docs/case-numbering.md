@@ -203,3 +203,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 159 | MKT-14 | [same-price-two-comparisons.html](../same-price-two-comparisons.html) | The same price. Two comparisons. |
 | 160 | OPS-14 | [route-and-window.html](../route-and-window.html) | A shorter route. A missed window? |
 | 161 | PPL-14 | [market-rate-existing-colleague.html](../market-rate-existing-colleague.html) | A market-rate recruit. An overlooked colleague? |
+| 162 | STR-14 | [own-or-share-the-operation.html](../own-or-share-the-operation.html) | Own the operation. Share the local knowledge? |

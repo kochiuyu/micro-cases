@@ -640,3 +640,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## PPL-14
 
 161. [A market-rate recruit. An overlooked colleague?](market-rate-existing-colleague.html)
+
+## STR-14
+
+162. [Own the operation. Share the local knowledge?](own-or-share-the-operation.html)

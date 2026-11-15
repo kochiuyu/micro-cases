@@ -4,7 +4,7 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-161 cases are published: the original 120 plus 41 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+162 cases are published: the original 120 plus 42 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -15,14 +15,14 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Marketing, retail and consumer behaviour | 11, 19, 31, 41, 57, 63, 75, 87, 99, 111, 123, 135, 147, 159 | — | 6 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
 | Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88, 100, 112, 124, 136, 148, 160 | — | 6 | Ship the whole order late or pay to send half by air? |
 | People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77, 89, 101, 113, 125, 137, 149, 161 | — | 6 | A high-performing team refuses a promotion for its best member. Who should lead? |
-| Strategy and international business | 13, 21, 33, 43, 60, 66, 78, 90, 102, 114, 126, 138, 150 | — | 7 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
+| Strategy and international business | 13, 21, 33, 43, 60, 66, 78, 90, 102, 114, 126, 138, 150, 162 | — | 6 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
 | Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79, 91, 103, 115, 127, 139, 151 | — | 7 | A buyer wants the family brand and its name. Which terms would the founders accept? |
 | Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71, 81, 92, 104, 116, 128, 140, 152 | — | 7 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
 | Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93, 105, 117, 129, 141, 153 | — | 7 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142, 154 | — | 7 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143, 155 | — | 7 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144, 156 | — | 7 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **161 published** | **79 approved editorial slots** | **79** | |
+| **Total** | **162 published** | **78 approved editorial slots** | **78** | |
 
 ## How a lead earns a place
 
@@ -449,3 +449,7 @@ Case 160 (OPS-14) checks complete delivery-stop timing before comparing route di
 ## Expansion wave 4 · PPL-14
 
 Case 161 (PPL-14) compares external recruitment competitiveness with internal pay relationships after checking role comparability. The original recurring HK$6,000 pool can fund either the recruitment premium or two staged HK$3,000 increases, not both. Both priorities retain costs and uncertainties; a review date is not a promised raise and budget scarcity does not excuse established obligations. Five substantive source bodies and independent editorial/arithmetic review were completed with historical and jurisdictional limits retained. The fictional role comparison is not a legal job evaluation or a decision about real employees. Parent-approved original artwork is illustrative; rendering and deployment checks remain separate.
+
+## Expansion wave 4 · STR-14
+
+Case 162 (STR-14) compares ownership of a foreign operation when a prospective partner contributes a practiced team and relationships rather than only purchasable services. The original shared-ownership proposal reduces the maker's initial contribution by HK$480,000, not the operation's total funding, and gives a smaller claim on an unknown result. Proposed joint-consent terms prevent inferring unilateral control from majority ownership. Five substantive source bodies and independent editorial/arithmetic review were completed. Past capability is not a guarantee of orders, and classroom entry-law feasibility does not establish actual foreign-investment rights. Parent-approved original artwork is illustrative; rendering and deployment checks remain separate.
