@@ -772,3 +772,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## FIN-17
 
 194. [More credit. A tighter promise?](cheaper-credit-tighter-promise.html)
+
+## MKT-17
+
+195. [They want everything. What will they trade?](which-improvement-would-you-give-up.html)
