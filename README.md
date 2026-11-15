@@ -444,3 +444,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 112
 
 112. [Within specification. Still the same process?](same-process.html)
+
+## Case 113
+
+113. [A higher target. A clearer method?](clearer-method.html)

@@ -4,7 +4,7 @@ The first balanced collection will have **120 cases, ten per teaching area**. Th
 
 ## Coverage ledger
 
-One hundred and twelve cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 8 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
+One hundred and thirteen cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 7 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -14,7 +14,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Finance, banking and insurance | 2, 7, 18, 38, 50, 62, 74, 86, 98, 110 | — | 0 | A major customer asks for longer payment terms. What would you ask for in return? |
 | Marketing, retail and consumer behaviour | 11, 19, 31, 41, 57, 63, 75, 87, 99, 111 | — | 0 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
 | Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88, 100, 112 | — | 0 | Ship the whole order late or pay to send half by air? |
-| People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77, 89, 101 | — | 1 | A high-performing team refuses a promotion for its best member. Who should lead? |
+| People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77, 89, 101, 113 | — | 0 | A high-performing team refuses a promotion for its best member. Who should lead? |
 | Strategy and international business | 13, 21, 33, 43, 60, 66, 78, 90, 102 | — | 1 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
 | Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79, 91, 103 | — | 1 | A buyer wants the family brand and its name. Which terms would the founders accept? |
 | Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71, 81, 92, 104 | — | 1 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
@@ -22,7 +22,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106 | — | 1 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107 | — | 1 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108 | — | 1 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **112 published** | **0 planned** | **8** | |
+| **Total** | **113 published** | **0 planned** | **7** | |
 
 ## How a lead earns a place
 
@@ -252,3 +252,5 @@ Case 110 adds cumulative equity dilution: compare ownership across complete fina
 Case 111 adds catalogue-entry choice architecture: preserve the same available assortment while choosing between immediate breadth and a supported starting set. Distinguish task completion from purchases, and the deliberately balanced prototype task mix from actual visitor needs. Marketing now has ten cases.
 
 Case 112 adds time-ordered process monitoring: distinguish product specification from historical control limits and a preselected same-side signal. Preserve evidence and investigate proportionately without automatic rejection, blind adjustment or a guaranteed repair-time claim. Operations now has ten cases.
+
+Case 113 distinguishes an observable learning goal from an output target during unfamiliar method development. The same paid time, feedback and quality standard apply to both options; neither guarantees mastery. Distinct from Case 39’s allocation of coaching support, this choice concerns the immediate focus of a shared development goal and evidence for a later output target. People now has ten cases.
