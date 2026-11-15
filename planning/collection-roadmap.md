@@ -4,7 +4,7 @@ The first balanced collection will have **120 cases, ten per teaching area**. Th
 
 ## Coverage ledger
 
-One hundred and ten cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 10 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
+One hundred and eleven cases are published, including all six in the [Cases 17–22 scouting round](cases-17-22.md) and [Case 23](../family-name.html). This leaves 9 further leads to select and publish for the first target. The 2024 award acknowledgement covers Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -12,7 +12,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 |---|---|---|---:|---|
 | Accounting, audit and management control | 9, 24, 30, 40, 52, 61, 73, 85, 97, 109 | — | 0 | A division misses its target after a shared cost is reassigned. Cut its budget or change the measure? |
 | Finance, banking and insurance | 2, 7, 18, 38, 50, 62, 74, 86, 98, 110 | — | 0 | A major customer asks for longer payment terms. What would you ask for in return? |
-| Marketing, retail and consumer behaviour | 11, 19, 31, 41, 57, 63, 75, 87, 99 | — | 1 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
+| Marketing, retail and consumer behaviour | 11, 19, 31, 41, 57, 63, 75, 87, 99, 111 | — | 0 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
 | Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88, 100 | — | 1 | Ship the whole order late or pay to send half by air? |
 | People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77, 89, 101 | — | 1 | A high-performing team refuses a promotion for its best member. Who should lead? |
 | Strategy and international business | 13, 21, 33, 43, 60, 66, 78, 90, 102 | — | 1 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
@@ -22,7 +22,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106 | — | 1 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107 | — | 1 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108 | — | 1 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **110 published** | **0 planned** | **10** | |
+| **Total** | **111 published** | **0 planned** | **9** | |
 
 ## How a lead earns a place
 
@@ -248,3 +248,5 @@ Internal balance checkpoint at 108: nine cases in each of the twelve disciplines
 Case 109 adds principal-versus-agent revenue amount: identify the promised product and control before transfer, then distinguish customer receipts, earned fees and supplier payables. Equal profit does not make gross and net presentations interchangeable. Contract evidence determines classification; dashboard emphasis remains discretionary only with accurate labels and reconciliation. Accounting now has ten cases.
 
 Case 110 adds cumulative equity dilution: compare ownership across complete financing paths, account for the first investor being diluted too, and distinguish conditional future terms from guaranteed funding. Both routes permit pausing expenditure; issued equity does not automatically reverse. Ownership percentage is not a payoff or complete-control forecast. Finance now has ten cases.
+
+Case 111 adds catalogue-entry choice architecture: preserve the same available assortment while choosing between immediate breadth and a supported starting set. Distinguish task completion from purchases, and the deliberately balanced prototype task mix from actual visitor needs. Marketing now has ten cases.

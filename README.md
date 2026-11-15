@@ -436,3 +436,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## Case 110
 
 110. [Twenty per cent. Only once?](only-once.html)
+
+## Case 111
+
+111. [More to choose. Easier to choose?](easier-to-choose.html)
