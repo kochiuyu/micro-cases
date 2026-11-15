@@ -4,7 +4,7 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-124 cases are published: the original 120 plus 4 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+125 cases are published: the original 120 plus 5 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -14,7 +14,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Finance, banking and insurance | 2, 7, 18, 38, 50, 62, 74, 86, 98, 110, 122 | — | 9 | A major customer asks for longer payment terms. What would you ask for in return? |
 | Marketing, retail and consumer behaviour | 11, 19, 31, 41, 57, 63, 75, 87, 99, 111, 123 | — | 9 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
 | Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88, 100, 112, 124 | — | 9 | Ship the whole order late or pay to send half by air? |
-| People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77, 89, 101, 113 | — | 10 | A high-performing team refuses a promotion for its best member. Who should lead? |
+| People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77, 89, 101, 113, 125 | — | 9 | A high-performing team refuses a promotion for its best member. Who should lead? |
 | Strategy and international business | 13, 21, 33, 43, 60, 66, 78, 90, 102, 114 | — | 10 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
 | Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79, 91, 103, 115 | — | 10 | A buyer wants the family brand and its name. Which terms would the founders accept? |
 | Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71, 81, 92, 104, 116 | — | 10 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
@@ -22,7 +22,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118 | — | 10 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119 | — | 10 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120 | — | 10 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **124 published** | **116 approved editorial slots** | **116** | |
+| **Total** | **125 published** | **115 approved editorial slots** | **115** | |
 
 ## How a lead earns a place
 
@@ -290,3 +290,7 @@ Case 123 (MKT-11) asks how to make an intangible advisory service understandable
 ## Expansion wave 1 · OPS-11
 
 Case 124 (OPS-11) separates on-hand stock from inventory position when replenishment lead time changes. A dated receipt-and-consumption trace prevents double-counting inbound stock and checks the agreed buffer before a later replenishment. Fixed lot size and deterministic classroom assumptions isolate order timing; no optimal buffer or guaranteed real-world service level is claimed. Five substantive source bodies, timing arithmetic and editorial distinctness received independent review.
+
+## Expansion wave 1 · PPL-11
+
+Case 125 (PPL-11) separates a visible recent success from evidence of whole-year performance in the same job. Earlier workload complexity, useful handover guides and shared project attribution change the reasoning without mechanically determining a rating. Independent review required significance, scope and continuity to be disclosed in the opening rubric, not introduced after the vote. Five actual source bodies were checked; the employee, records and development-only review are fictional, not a real personnel decision.

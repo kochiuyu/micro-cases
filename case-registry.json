@@ -930,6 +930,13 @@
       "slug": "time-to-reorder",
       "area": "Operations, supply chains and logistics",
       "title": "Plenty on the shelf. Time to reorder?"
+    },
+    {
+      "legacy_id": 125,
+      "code": "PPL-11",
+      "slug": "strong-finish-strong-year",
+      "area": "People, leadership and organisational behaviour",
+      "title": "A strong finish. A strong year?"
     }
   ]
 }

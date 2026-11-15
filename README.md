@@ -492,3 +492,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## OPS-11
 
 124. [Plenty on the shelf. Time to reorder?](time-to-reorder.html)
+
+## PPL-11
+
+125. [A strong finish. A strong year?](strong-finish-strong-year.html)
