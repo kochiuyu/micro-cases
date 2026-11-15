@@ -644,3 +644,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## STR-14
 
 162. [Own the operation. Share the local knowledge?](own-or-share-the-operation.html)
+
+## ENT-14
+
+163. [Sell now. Stay to build?](sell-now-stay-to-build.html)

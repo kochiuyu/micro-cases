@@ -1196,6 +1196,13 @@
       "slug": "own-or-share-the-operation",
       "area": "Strategy and international business",
       "title": "Own the operation. Share the local knowledge?"
+    },
+    {
+      "legacy_id": 163,
+      "code": "ENT-14",
+      "slug": "sell-now-stay-to-build",
+      "area": "Entrepreneurship, innovation and family business",
+      "title": "Sell now. Stay to build?"
     }
   ]
 }
