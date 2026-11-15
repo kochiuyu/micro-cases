@@ -740,3 +740,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## STR-16
 
 186. [Join the standard. Keep the distinctive feature?](compatible-with-what.html)
+
+## ENT-16
+
+187. [Many possible users. One first market?](one-first-market.html)
