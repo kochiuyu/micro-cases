@@ -4,7 +4,7 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-143 cases are published: the original 120 plus 23 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+144 cases are published: the original 120 plus 24 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -21,8 +21,8 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93, 105, 117, 129, 141 | — | 8 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142 | — | 8 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143 | — | 8 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
-| Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132 | — | 9 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **143 published** | **97 approved editorial slots** | **97** | |
+| Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144 | — | 8 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
+| **Total** | **144 published** | **96 approved editorial slots** | **96** | |
 
 ## How a lead earns a place
 
@@ -369,3 +369,11 @@ Case 142 (SUS-12) separates shifting electricity use in time from reducing use a
 ## Expansion wave 2 · ECO-12
 
 Case 143 (ECO-12) shows how winning can select a lower common-value state rather than preserve the bidder's unconditional estimate. Under the original two-state model and fixed rival rule, HK$7,100 yields HK$450 expected surplus; HK$9,000 yields a HK$500 expected loss. Checking every permitted bid range supports the supplied best response, not an equilibrium claim or a universal auction discount. Five substantive source bodies and independent arithmetic/editorial review were completed. The Hong Kong auction material supplies context only; no real lot valuation, bid, competitor information exchange or public-auction recommendation is implied. Rendering and deployment checks remain separate.
+
+## Expansion wave 2 · HSP-12
+
+Case 144 (HSP-12) distinguishes reading a museum map from navigating a physical arrival journey. The fictional walkthrough locates a missed fork and later reassurance gaps without estimating a general failure rate or attributing mistakes to visitor characteristics. A portable overview remains feasible, while a costed cue sequence directly addresses the observed placement problem; neither is certified effective merely by being proposed. Five substantive source bodies and independent editorial review were completed. Required accessibility, safety and assistance remain protected, and the small supported trial is not universal accessibility certification. Rendering and deployment checks remain separate.
+
+## Expansion wave 2 · Internal editorial checkpoint (133–144)
+
+This wave adds one distinct lead objective per area: contribution per scarce resource; lease exit versus resale exposure; customer-journey stage diagnosis; inventory location and ready-at time; realistic job previews; relationship-specific investment safeguards; customer-problem pivots; missing numeric data and sensitivity; controlled preservation exceptions; electricity timing versus use and attributed emissions; informative winning in a common-value auction; and physical wayfinding. Individual source-body checks and independent editorial reviews were completed, with original assumptions, quantitative limits and relevant neighbouring-case distinctions recorded. Source counts do not imply five independent empirical studies per case. This is an internal editorial checkpoint, not instructor/student feedback or proof of learning effectiveness; it is not a fresh source audit of the whole collection. Local automated validation, rendered desktop/mobile/print QA and live deployment checks are separate, and publication or unperformed visual checks are not certified by this note.

@@ -568,3 +568,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## ECO-12
 
 143. [The highest estimate. The best bid?](winning-is-information.html)
+
+## HSP-12
+
+144. [They can read the map. Can they find the entrance?](find-the-entrance.html)
