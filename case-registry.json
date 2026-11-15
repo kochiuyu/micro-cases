@@ -1084,6 +1084,13 @@
       "slug": "cash-before-risk",
       "area": "Finance, banking and insurance",
       "title": "The invoice is sold. Is the risk gone?"
+    },
+    {
+      "legacy_id": 147,
+      "code": "MKT-13",
+      "slug": "valuable-relationship",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "Our biggest customer. Our most valuable relationship?"
     }
   ]
 }

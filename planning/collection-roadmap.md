@@ -4,7 +4,7 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-146 cases are published: the original 120 plus 26 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+147 cases are published: the original 120 plus 27 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -12,7 +12,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 |---|---|---|---:|---|
 | Accounting, audit and management control | 9, 24, 30, 40, 52, 61, 73, 85, 97, 109, 121, 133, 145 | — | 7 | A division misses its target after a shared cost is reassigned. Cut its budget or change the measure? |
 | Finance, banking and insurance | 2, 7, 18, 38, 50, 62, 74, 86, 98, 110, 122, 134, 146 | — | 7 | A major customer asks for longer payment terms. What would you ask for in return? |
-| Marketing, retail and consumer behaviour | 11, 19, 31, 41, 57, 63, 75, 87, 99, 111, 123, 135 | — | 8 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
+| Marketing, retail and consumer behaviour | 11, 19, 31, 41, 57, 63, 75, 87, 99, 111, 123, 135, 147 | — | 7 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
 | Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88, 100, 112, 124, 136 | — | 8 | Ship the whole order late or pay to send half by air? |
 | People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77, 89, 101, 113, 125, 137 | — | 8 | A high-performing team refuses a promotion for its best member. Who should lead? |
 | Strategy and international business | 13, 21, 33, 43, 60, 66, 78, 90, 102, 114, 126, 138 | — | 8 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
@@ -22,7 +22,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142 | — | 8 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143 | — | 8 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144 | — | 8 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **146 published** | **94 approved editorial slots** | **94** | |
+| **Total** | **147 published** | **93 approved editorial slots** | **93** | |
 
 ## How a lead earns a place
 
@@ -385,3 +385,7 @@ Case 145 (ACC-13) separates a favourable material-price difference from an adver
 ## Expansion wave 3 · FIN-13
 
 Case 146 (FIN-13) separates earlier invoice cash from transfer of credit and dispute risk. Under the original funded-repayment assumptions, factoring retains a HK$1,000 cash advantage over the bridge in each supplied scenario, while recourse leaves the seller exposed to customer failure. The reveal can change the explanation without forcing a change of choice. A valid adjustment and zero-recovery failure remain separate branches, and financing cash flows are not profit or an accounting-derecognition conclusion. Five substantive source bodies and independent editorial/arithmetic review were completed with reading scope recorded; product descriptions are not guarantees or personalised offers. Parent-approved original artwork is illustrative; rendering and deployment checks remain separate.
+
+## Expansion wave 3 · MKT-13
+
+Case 147 (MKT-13) compares existing subscription relationships after attributable serving costs and conditional renewals. The original fixed twenty-account cohorts yield HK$31,500 and HK$48,800 expected three-year contribution under the main assumptions; a lower renewal assumption reverses the ranking. Baseline contribution is not an incremental return from the proposed HK$4,000 pilot, and ten accounts per comparison arm do not guarantee precise causal evidence. Five substantive source bodies and independent editorial/arithmetic review were completed. The simplified undiscounted horizon is not full lifetime valuation, and service commitments remain protected. Parent-approved original artwork is illustrative; rendering and deployment checks remain separate.

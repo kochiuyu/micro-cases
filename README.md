@@ -580,3 +580,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## FIN-13
 
 146. [The invoice is sold. Is the risk gone?](cash-before-risk.html)
+
+## MKT-13
+
+147. [Our biggest customer. Our most valuable relationship?](valuable-relationship.html)
