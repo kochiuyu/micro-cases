@@ -852,3 +852,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## SUS-18
 
 214. [Residents will vote. Who can get onto the ballot?](who-can-shape-the-ballot.html)
+
+## ECO-18
+
+215. [The shared resource is open. Will it last?](ready-stock-is-not-endless.html)

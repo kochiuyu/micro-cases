@@ -1560,6 +1560,13 @@
       "slug": "who-can-shape-the-ballot",
       "area": "Sustainability, social enterprise and public management",
       "title": "Residents will vote. Who can get onto the ballot?"
+    },
+    {
+      "legacy_id": 215,
+      "code": "ECO-18",
+      "slug": "ready-stock-is-not-endless",
+      "area": "Economics, competition and pricing",
+      "title": "The shared resource is open. Will it last?"
     }
   ]
 }
