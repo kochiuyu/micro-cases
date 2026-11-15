@@ -11,14 +11,19 @@ def validate_registry(data):
  assert len(areas)==12 and [a['code'] for a in areas]==list(CODES)
  names=[a['name'] for a in areas];assert len(set(names))==12
  assert all(a.get('label','').strip() for a in areas)
- assert len(cases)==120
- assert {c['legacy_id'] for c in cases}==set(range(1,121))
+ assert 120 <= len(cases) <= 240, 'Expected staged expansion from 120 to 240 cases'
+ assert all(type(c['legacy_id']) is int for c in cases), 'IDs must be integers'
+ assert {c['legacy_id'] for c in cases}==set(range(1,len(cases)+1)), 'Permanent IDs must be contiguous'
+ baseline=json.loads((ROOT/'tests/fixtures/original-case-identities.json').read_text())
+ current={c['legacy_id']:c for c in cases}
+ for original in baseline:
+  assert all(current[original['legacy_id']][key]==value for key,value in original.items()), 'Original identity changed: '+str(original['legacy_id'])
  for key in ('legacy_id','code','slug'):
-  assert len({c[key] for c in cases})==120,f'Duplicate {key}'
+  assert len({c[key] for c in cases})==len(cases),f'Duplicate {key}'
  for area in areas:
   group=sorted([c for c in cases if c['area']==area['name']],key=lambda c:c['legacy_id'])
-  assert len(group)==10,area['name']
-  assert [c['code'] for c in group]==[f"{area['code']}-{i:02}" for i in range(1,11)],area['name']
+  assert 10 <= len(group) <= 20,area['name']
+  assert [c['code'] for c in group]==[f"{area['code']}-{i:02}" for i in range(1,len(group)+1)],area['name']
  for c in cases:
   assert c['area'] in names and re.fullmatch(r'[a-z0-9]+(?:-[a-z0-9]+)*',c['slug'])
   assert isinstance(c['title'],str) and c['title'].strip()
@@ -52,7 +57,7 @@ def check_pages(root,data):
   group=sorted([x for x in data['cases'] if x['area']==c['area']],key=lambda x:x['legacy_id']);i=group.index(c)
   expected=[]
   if i:expected.append(group[i-1]['slug']+'.html')
-  if i<9:expected.append(group[i+1]['slug']+'.html')
+  if i<len(group)-1:expected.append(group[i+1]['slug']+'.html')
   direct=[l for l in page.links if urlsplit(l).path!='index.html']
   assert direct==expected,(c['slug'],direct,expected)
   browses=[l for l in page.links if urlsplit(l).path=='index.html'];assert len(browses)==1,c['slug']
@@ -73,5 +78,7 @@ def check(root=ROOT):
   try:validate_registry(bad)
   except AssertionError:pass
   else:raise AssertionError('Mutation escaped: '+mutation)
- print('PASS: stable120 IDs,12 area codes,ordered01–10 sequences, all120 neighbour/browse links and registry mutations.')
+ from check_expansion import check as check_expansion
+ check_expansion(root)
+ print(f'PASS: {len(mapping)} stable IDs, 12 area codes, staged sequences, neighbour links and mutations.')
 if __name__=='__main__':check()

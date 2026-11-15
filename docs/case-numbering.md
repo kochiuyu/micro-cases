@@ -1,6 +1,6 @@
 # Case numbering and stable identity
 
-Cases are displayed by teaching area and two-digit sequence, for example `ACC-01`. Each area currently contains ten cases. This is a browsing identity, not an indication of difficulty or a prescribed teaching order.
+Cases are displayed by teaching area and two-digit sequence, for example `ACC-01`. The initial collection contains ten cases per area; approved additions extend each area to twenty, released incrementally. This is a browsing identity, not an indication of difficulty or a prescribed teaching order.
 
 ## Canonical registry
 
@@ -13,6 +13,13 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 - Editable authoring Markdown uses the new code on its metadata line and `<!-- legacy-case-id: N -->` for traceability. The two original HTML-only cases, Snow Town and Match, remain HTML-only.
 - Historical roadmap entries, award acknowledgements, historical source IDs and citations retain their original numeric references. Use the crosswalk below to interpret them. No source or historical attribution is renamed.
 - When adding a future case, choose its primary area deliberately, allocate the next unused code, retain existing codes and URLs, then update registry, card/page metadata and authoring together. Reclassification requires an explicit identity migration, not an automatic re-sort.
+
+## Expansion identity rules
+
+- Allocate the next global permanent integer ID and next unused area code. Each published area sequence must be contiguous, 01 through its current length, with at most 20 cases. Uneven area totals during release are expected.
+- The initial 120 identities (ID, code, URL slug and primary area) are locked in `tests/fixtures/original-case-identities.json`. Do not regenerate this fixture when adding cases. A title improvement does not change identity.
+- `tests/check_registry.py` supports 120–240 published cases and checks the original identity lock, unique contiguous IDs, area sequences and previous/next links through the actual last case, not a fixed tenth case.
+- Run `python scripts/sync_collection.py` to refresh visible totals. Do not enter 240 or twenty per area until those cases are actually published. The crosswalk below records the original collection; the live registry is authoritative for additions.
 
 ## Area prefixes
 

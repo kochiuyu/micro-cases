@@ -174,7 +174,7 @@ let input='';process.stdin.on('data',s=>input+=s);process.stdin.on('end',()=>{
   function reset(){limit=24;controls['#reset-filters'].onclick();assert.equal(controls['#search'].value,'');assert.equal(controls['#discipline'].value,'');assert.equal(controls['#concept'].value,'');assert.equal(controls['#time'].value,'0');check(true)}
   return {controls,cards,areas,check,change,more,reset,location};
  }
- const b=boot();b.check();for(let i=0;i<4;i++)b.more();assert.equal(b.cards.filter(c=>!c.hidden).length,120);
+ const b=boot();b.check();while(!b.controls['#show-more'].hidden)b.more();assert.equal(b.cards.filter(c=>!c.hidden).length,p.cards.length);
  b.change('search','NONEXISTENT XYZ');assert.equal(b.cards.filter(c=>!c.hidden).length,0);b.reset();assert.equal(b.cards.filter(c=>!c.hidden).length,24);
  for(const d of p.selects.discipline)for(const c of p.selects.concept){b.change('discipline',d);b.change('concept',c);for(const t of p.selects.time)b.change('time',t)}
  b.reset();for(const q of [p.cards[0].attrs['data-case-code'],'  '+p.cards[0].attrs['data-case-code'].toLowerCase()+'  ','case 120','119','Case119','Case 119','001','999','risk capacity','& <script>'])b.change('search',q);
@@ -221,6 +221,17 @@ def check(root=ROOT):
                             text=True, capture_output=True, timeout=30)
     assert result.returncode == 0, result.stdout + result.stderr
     print(result.stdout.strip())
+    for target in (121, 240):
+        fixture = copy.deepcopy(payload)
+        while len(fixture['cards']) < target:
+            i = len(fixture['cards'])
+            c = copy.deepcopy(payload['cards'][i % len(payload['cards'])])
+            c['attrs']['data-case-id'] = str(i + 1)
+            c['attrs']['data-case-code'] = c['attrs']['data-case-code'].split('-')[0] + '-20'
+            fixture['cards'].append(c)
+        result = subprocess.run(['node', '-e', NODE], input=json.dumps(fixture), text=True, capture_output=True, timeout=60)
+        assert result.returncode == 0, result.stdout + result.stderr
+    print('PASS: synthetic uneven 121-card and 240-card browse flows.')
     print(f'PASS: {len(p.cards)} cards match all 12 ledger areas, visible labels and selectors; mutations rejected.')
 
 

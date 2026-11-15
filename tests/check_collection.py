@@ -89,6 +89,8 @@ def check_collection(root=ROOT):
     assert set(links) == cases, 'Collection cards and case pages differ'
 
     registry, mapping = load_registry(root)
+    expected_order = sorted(registry['cases'], key=lambda c: ([a['name'] for a in registry['areas']].index(c['area']), c['code']))
+    assert [c['number'] for c in parser.cards] == [c['legacy_id'] for c in expected_order], 'Cards must follow area and code order'
     legacy_html_only = {'snow-town.html', 'match.html'}
     page_ids = []
     for card in parser.cards:
