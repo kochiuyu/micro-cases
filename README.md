@@ -656,3 +656,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## GVR-14
 
 165. [A training visit. A supplier’s holiday?](training-not-a-holiday.html)
+
+## SUS-14
+
+166. [A cooler courtyard. Ready for a hotter summer?](shade-now-shade-later.html)

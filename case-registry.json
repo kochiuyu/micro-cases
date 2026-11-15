@@ -1217,6 +1217,13 @@
       "slug": "training-not-a-holiday",
       "area": "Governance, law, ethics and risk",
       "title": "A training visit. A supplier’s holiday?"
+    },
+    {
+      "legacy_id": 166,
+      "code": "SUS-14",
+      "slug": "shade-now-shade-later",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "A cooler courtyard. Ready for a hotter summer?"
     }
   ]
 }
