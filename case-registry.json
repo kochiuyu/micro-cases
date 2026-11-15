@@ -1511,6 +1511,13 @@
       "slug": "permission-is-not-a-message-quota",
       "area": "Marketing, retail and consumer behaviour",
       "title": "More reminders. More relationships?"
+    },
+    {
+      "legacy_id": 208,
+      "code": "OPS-18",
+      "slug": "orders-are-not-consumption",
+      "area": "Operations, supply chains and logistics",
+      "title": "Customer demand moved a little. Orders moved a lot."
     }
   ]
 }

@@ -824,3 +824,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## MKT-18
 
 207. [More reminders. More relationships?](permission-is-not-a-message-quota.html)
+
+## OPS-18
+
+208. [Customer demand moved a little. Orders moved a lot.](orders-are-not-consumption.html)

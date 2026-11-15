@@ -249,3 +249,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 205 | ACC-18 | [one-target-two-views.html](../one-target-two-views.html) | Keep the budget. Update the forecast? |
 | 206 | FIN-18 | [cash-on-the-day-it-is-needed.html](../cash-on-the-day-it-is-needed.html) | Earn more interest. Available on which day? |
 | 207 | MKT-18 | [permission-is-not-a-message-quota.html](../permission-is-not-a-message-quota.html) | More reminders. More relationships? |
+| 208 | OPS-18 | [orders-are-not-consumption.html](../orders-are-not-consumption.html) | Customer demand moved a little. Orders moved a lot. |
