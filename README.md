@@ -816,3 +816,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## ACC-18
 
 205. [Keep the budget. Update the forecast?](one-target-two-views.html)
+
+## FIN-18
+
+206. [Earn more interest. Available on which day?](cash-on-the-day-it-is-needed.html)

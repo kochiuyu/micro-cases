@@ -1497,6 +1497,13 @@
       "slug": "one-target-two-views",
       "area": "Accounting, audit and management control",
       "title": "Keep the budget. Update the forecast?"
+    },
+    {
+      "legacy_id": 206,
+      "code": "FIN-18",
+      "slug": "cash-on-the-day-it-is-needed",
+      "area": "Finance, banking and insurance",
+      "title": "Earn more interest. Available on which day?"
     }
   ]
 }
