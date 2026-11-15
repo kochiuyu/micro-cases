@@ -181,3 +181,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 137 | PPL-12 | [explain-the-difficult-part.html](../explain-the-difficult-part.html) | Fill the vacancy. Explain the difficult part? |
 | 138 | STR-12 | [dedicated-tool.html](../dedicated-tool.html) | A dedicated tool. A dependable agreement? |
 | 139 | ENT-12 | [better-for-whom.html](../better-for-whom.html) | Better ratings. The same business? |
+| 140 | IS-12 | [blank-cell.html](../blank-cell.html) | A blank cell. A harmless average? |

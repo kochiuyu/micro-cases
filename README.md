@@ -552,3 +552,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## ENT-12
 
 139. [Better ratings. The same business?](better-for-whom.html)
+
+## IS-12
+
+140. [A blank cell. A harmless average?](blank-cell.html)

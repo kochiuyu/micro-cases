@@ -1035,6 +1035,13 @@
       "slug": "better-for-whom",
       "area": "Entrepreneurship, innovation and family business",
       "title": "Better ratings. The same business?"
+    },
+    {
+      "legacy_id": 140,
+      "code": "IS-12",
+      "slug": "blank-cell",
+      "area": "Information systems, AI and business analytics",
+      "title": "A blank cell. A harmless average?"
     }
   ]
 }

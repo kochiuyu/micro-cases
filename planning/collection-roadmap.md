@@ -4,7 +4,7 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-139 cases are published: the original 120 plus 19 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+140 cases are published: the original 120 plus 20 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -17,12 +17,12 @@ Count each case once by its primary classroom decision. The assignments below ar
 | People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77, 89, 101, 113, 125, 137 | — | 8 | A high-performing team refuses a promotion for its best member. Who should lead? |
 | Strategy and international business | 13, 21, 33, 43, 60, 66, 78, 90, 102, 114, 126, 138 | — | 8 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
 | Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79, 91, 103, 115, 127, 139 | — | 8 | A buyer wants the family brand and its name. Which terms would the founders accept? |
-| Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71, 81, 92, 104, 116, 128 | — | 9 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
+| Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71, 81, 92, 104, 116, 128, 140 | — | 8 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
 | Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93, 105, 117, 129 | — | 9 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130 | — | 9 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131 | — | 9 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132 | — | 9 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **139 published** | **101 approved editorial slots** | **101** | |
+| **Total** | **140 published** | **100 approved editorial slots** | **100** | |
 
 ## How a lead earns a place
 
@@ -353,3 +353,7 @@ Case 138 (STR-12) examines a relationship-specific tooling investment and safegu
 ## Expansion wave 2 · ENT-12
 
 Case 139 (ENT-12) distinguishes improved perceived usability from evidence about a customer problem and a possible pivot. All twenty fictional respondents report ease-of-use ratings, so the issue is not missing-response weighting. Sustained use differs between solo accounts and four teams using the prototype for handovers; those small, self-selected groups do not establish a market or a causal product effect. One bounded HK$30,000 learning cycle can investigate either improved solo onboarding or the team-handover hypothesis, with existing support separately funded. Five substantive source bodies and independent editorial/arithmetic review were completed. Illustrative continuation rules are managerial commitments before results, not scientific validation thresholds or commercial-launch approval. Rendered and deployment checks remain separate.
+
+## Expansion wave 2 · IS-12
+
+Case 140 (IS-12) distinguishes measured service durations from imputed values when every job is listed but four numeric entries are missing. The eight observed durations total 48 minutes; their six-minute mean is not an established mean for all twelve jobs. Busy-period information motivates a conditional estimate without validating it. Sensitivity scenarios straddle the fictional seven-minute investigation trigger; the actual all-job mean exceeds seven only if the missing jobs average more than nine minutes. Five substantive source bodies and independent editorial/arithmetic review support the exercise. Historical methodological guidance is not a current Hong Kong obligation, and neither imputation nor later measurement reconstructs the missing facts with certainty. Rendering and deployment checks remain separate.
