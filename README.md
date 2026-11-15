@@ -908,3 +908,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## HSP-19
 
 228. [Ten minutes to wait. Ten minutes without knowing?](ten-minutes-without-knowing.html)
+
+## ACC-20
+
+229. [An internal price. Two sensible refusals?](internal-price-two-refusals.html)

@@ -1658,6 +1658,13 @@
       "slug": "ten-minutes-without-knowing",
       "area": "Hospitality, tourism, property and service management",
       "title": "Ten minutes to wait. Ten minutes without knowing?"
+    },
+    {
+      "legacy_id": 229,
+      "code": "ACC-20",
+      "slug": "internal-price-two-refusals",
+      "area": "Accounting, audit and management control",
+      "title": "An internal price. Two sensible refusals?"
     }
   ]
 }
