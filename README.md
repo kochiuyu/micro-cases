@@ -812,3 +812,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## HSP-17
 
 204. [Keys handed over. Ready to move in?](keys-are-not-a-completion-record.html)
+
+## ACC-18
+
+205. [Keep the budget. Update the forecast?](one-target-two-views.html)

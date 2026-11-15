@@ -4,13 +4,13 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-204 cases are published: the original 120 plus 84 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+205 cases are published: the original 120 plus 85 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
 | Primary teaching area | Published case numbers | Planned case numbers | Remaining cases to reach twenty | Example decision to scout |
 |---|---|---|---:|---|
-| Accounting, audit and management control | 9, 24, 30, 40, 52, 61, 73, 85, 97, 109, 121, 133, 145, 157, 169, 181, 193 | — | 3 | A division misses its target after a shared cost is reassigned. Cut its budget or change the measure? |
+| Accounting, audit and management control | 9, 24, 30, 40, 52, 61, 73, 85, 97, 109, 121, 133, 145, 157, 169, 181, 193, 205 | — | 2 | A division misses its target after a shared cost is reassigned. Cut its budget or change the measure? |
 | Finance, banking and insurance | 2, 7, 18, 38, 50, 62, 74, 86, 98, 110, 122, 134, 146, 158, 170, 182, 194 | — | 3 | A major customer asks for longer payment terms. What would you ask for in return? |
 | Marketing, retail and consumer behaviour | 11, 19, 31, 41, 57, 63, 75, 87, 99, 111, 123, 135, 147, 159, 171, 183, 195 | — | 3 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
 | Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88, 100, 112, 124, 136, 148, 160, 172, 184, 196 | — | 3 | Ship the whole order late or pay to send half by air? |
@@ -22,7 +22,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142, 154, 166, 178, 190, 202 | — | 3 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143, 155, 167, 179, 191, 203 | — | 3 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144, 156, 168, 180, 192, 204 | — | 3 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **204 published** | **36 approved editorial slots** | **36** | |
+| **Total** | **205 published** | **35 approved editorial slots** | **35** | |
 
 ## How a lead earns a place
 
@@ -641,3 +641,7 @@ Integrated the independently reviewed operational-handover case. Key possession 
 ## Internal editorial checkpoint · Expansion wave 7 (193–204)
 
 The bounded internal cross-case review passed after rereading current openings, reveals, questions and slides alongside prior individual reviews. Twelve distinct mechanisms, key arithmetic, rights and uncertainty boundaries reconcile; all decks retain two exact questions in order and no teaching-text external reading links. The 204 conditions split remains twelve slides with questions six/ten. This is internal coherence review, not instructor feedback, a fresh sixty-source audit or universal browser/mobile/print certification. Separately, the parent verified Case196 table three in production. Static density observations do not establish actual overflow; a later readability pass may simplify caveat-heavy openings without removing material protections.
+
+## Expansion wave 8 · ACC-18
+
+Integrated the independently reviewed budget-and-forecast case. An accountability target and an updated planning view serve distinct purposes; revised information does not by itself rewrite the agreed target or establish a performance verdict. Reviewed assumptions and exact questions remain intact with optional source limits preserved. Parent-approved original artwork is hash-verified and illustrative. Local checks remain separate from rendered and live QA.

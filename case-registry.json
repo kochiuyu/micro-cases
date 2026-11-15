@@ -1490,6 +1490,13 @@
       "slug": "keys-are-not-a-completion-record",
       "area": "Hospitality, tourism, property and service management",
       "title": "Keys handed over. Ready to move in?"
+    },
+    {
+      "legacy_id": 205,
+      "code": "ACC-18",
+      "slug": "one-target-two-views",
+      "area": "Accounting, audit and management control",
+      "title": "Keep the budget. Update the forecast?"
     }
   ]
 }
