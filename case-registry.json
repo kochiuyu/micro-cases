@@ -1686,6 +1686,13 @@
       "slug": "count-the-risky-shelves",
       "area": "Operations, supply chains and logistics",
       "title": "Count everything twice. Or risky shelves more often?"
+    },
+    {
+      "legacy_id": 233,
+      "code": "PPL-20",
+      "slug": "whose-example-changes-the-habit",
+      "area": "People, leadership and organisational behaviour",
+      "title": "The instruction is clear. Whose example changes the habit?"
     }
   ]
 }

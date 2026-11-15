@@ -274,3 +274,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 230 | FIN-20 | [good-year-distributable-surplus.html](../good-year-distributable-surplus.html) | A good year. A distributable surplus? |
 | 231 | MKT-20 | [points-earned-benefits-understood.html](../points-earned-benefits-understood.html) | Points earned. Benefits understood? |
 | 232 | OPS-20 | [count-the-risky-shelves.html](../count-the-risky-shelves.html) | Count everything twice. Or risky shelves more often? |
+| 233 | PPL-20 | [whose-example-changes-the-habit.html](../whose-example-changes-the-habit.html) | The instruction is clear. Whose example changes the habit? |

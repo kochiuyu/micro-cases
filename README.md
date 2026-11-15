@@ -924,3 +924,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## OPS-20
 
 232. [Count everything twice. Or risky shelves more often?](count-the-risky-shelves.html)
+
+## PPL-20
+
+233. [The instruction is clear. Whose example changes the habit?](whose-example-changes-the-habit.html)
