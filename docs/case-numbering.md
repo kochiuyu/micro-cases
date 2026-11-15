@@ -231,3 +231,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 187 | ENT-16 | [one-first-market.html](../one-first-market.html) | Many possible users. One first market? |
 | 188 | IS-16 | [same-error-different-loss.html](../same-error-different-loss.html) | The same average error. The same business cost? |
 | 189 | GVR-16 | [same-exception-same-reasons.html](../same-exception-same-reasons.html) | One exception. A fair rule? |
+| 190 | SUS-16 | [a-booking-not-just-a-button.html](../a-booking-not-just-a-button.html) | Online first. A service for everyone? |

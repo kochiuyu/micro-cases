@@ -1385,6 +1385,13 @@
       "slug": "same-exception-same-reasons",
       "area": "Governance, law, ethics and risk",
       "title": "One exception. A fair rule?"
+    },
+    {
+      "legacy_id": 190,
+      "code": "SUS-16",
+      "slug": "a-booking-not-just-a-button",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "Online first. A service for everyone?"
     }
   ]
 }
