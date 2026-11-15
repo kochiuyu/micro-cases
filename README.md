@@ -536,3 +536,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## MKT-12
 
 135. [Many visits. Where does the journey break?](where-journey-breaks.html)
+
+## OPS-12
+
+136. [Two stores. One safety stock?](stock-is-not-ready.html)

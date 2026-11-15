@@ -1007,6 +1007,13 @@
       "slug": "where-journey-breaks",
       "area": "Marketing, retail and consumer behaviour",
       "title": "Many visits. Where does the journey break?"
+    },
+    {
+      "legacy_id": 136,
+      "code": "OPS-12",
+      "slug": "stock-is-not-ready",
+      "area": "Operations, supply chains and logistics",
+      "title": "Two stores. One safety stock?"
     }
   ]
 }
