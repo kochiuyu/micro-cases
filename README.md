@@ -624,3 +624,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## ACC-14
 
 157. [An invoice issued. Cash likely?](an-invoice-not-a-receipt.html)
+
+## FIN-14
+
+158. [Rising cash flows. The same discount rate?](same-money-same-rate.html)

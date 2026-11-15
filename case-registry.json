@@ -1161,6 +1161,13 @@
       "slug": "an-invoice-not-a-receipt",
       "area": "Accounting, audit and management control",
       "title": "An invoice issued. Cash likely?"
+    },
+    {
+      "legacy_id": 158,
+      "code": "FIN-14",
+      "slug": "same-money-same-rate",
+      "area": "Finance, banking and insurance",
+      "title": "Rising cash flows. The same discount rate?"
     }
   ]
 }

@@ -199,3 +199,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 155 | ECO-13 | [promise-costs.html](../promise-costs.html) | A promise of quality. Costly for whom? |
 | 156 | HSP-13 | [a-window-not-any-time.html](../a-window-not-any-time.html) | A tidy room. An unwanted interruption? |
 | 157 | ACC-14 | [an-invoice-not-a-receipt.html](../an-invoice-not-a-receipt.html) | An invoice issued. Cash likely? |
+| 158 | FIN-14 | [same-money-same-rate.html](../same-money-same-rate.html) | Rising cash flows. The same discount rate? |
