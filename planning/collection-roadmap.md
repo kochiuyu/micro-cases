@@ -4,7 +4,7 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-152 cases are published: the original 120 plus 32 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+153 cases are published: the original 120 plus 33 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -18,11 +18,11 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Strategy and international business | 13, 21, 33, 43, 60, 66, 78, 90, 102, 114, 126, 138, 150 | — | 7 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
 | Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79, 91, 103, 115, 127, 139, 151 | — | 7 | A buyer wants the family brand and its name. Which terms would the founders accept? |
 | Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71, 81, 92, 104, 116, 128, 140, 152 | — | 7 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
-| Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93, 105, 117, 129, 141 | — | 8 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
+| Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93, 105, 117, 129, 141, 153 | — | 7 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142 | — | 8 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143 | — | 8 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144 | — | 8 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **152 published** | **88 approved editorial slots** | **88** | |
+| **Total** | **153 published** | **87 approved editorial slots** | **87** | |
 
 ## How a lead earns a place
 
@@ -409,3 +409,7 @@ Case 151 (ENT-13) distinguishes familiar trust from access to complementary reso
 ## Expansion wave 3 · IS-13
 
 Case 152 (IS-13) separates actual portfolio completion rates from a descriptive comparison with common category weights. The original complete records give 66% and 74% overall; applying the stipulated 50/50 reference mix gives 75% and 65%. The reversal does not invalidate the raw description or establish a causal improvement from reallocating work. Category definitions precede outcomes, but unmeasured differences, capacity and costs remain unresolved. Five substantive source bodies and independent arithmetic/editorial review were completed; examples of standardisation outside business do not supply business forecasts or a universal adjustment rule. Parent-approved original artwork is illustrative; rendering and deployment checks remain separate.
+
+## Expansion wave 3 · GVR-13
+
+Case 153 (GVR-13) distinguishes a system flag from a decision and a usable challenge from a human rubber stamp. Two funded review routes trade speed and transaction access against item inspection and conversation, while both can consider new evidence and overturn the initial view. The fictional customer request remains undecided; offered documents need verification and return counts do not establish dishonesty. Five substantive source bodies and independent editorial review were completed within their stated jurisdictional and reading limits. The exercise establishes neither a real refund decision nor a new legal entitlement. Parent-approved original artwork is illustrative; rendering and deployment checks remain separate.

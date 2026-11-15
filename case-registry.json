@@ -1126,6 +1126,13 @@
       "slug": "same-mix-different-answer",
       "area": "Information systems, AI and business analytics",
       "title": "Better in both groups. Worse overall?"
+    },
+    {
+      "legacy_id": 153,
+      "code": "GVR-13",
+      "slug": "flag-and-review",
+      "area": "Governance, law, ethics and risk",
+      "title": "The score flagged the refund. Who can review it?"
     }
   ]
 }

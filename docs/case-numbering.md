@@ -194,3 +194,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 150 | STR-13 | [open-before-the-network.html](../open-before-the-network.html) | Open first. Be ready first? |
 | 151 | ENT-13 | [beyond-familiar-contacts.html](../beyond-familiar-contacts.html) | Ask the people we know. Meet the people they do not know? |
 | 152 | IS-13 | [same-mix-different-answer.html](../same-mix-different-answer.html) | Better in both groups. Worse overall? |
+| 153 | GVR-13 | [flag-and-review.html](../flag-and-review.html) | The score flagged the refund. Who can review it? |
