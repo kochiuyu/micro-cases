@@ -972,6 +972,13 @@
       "slug": "collected-where",
       "area": "Sustainability, social enterprise and public management",
       "title": "Compostable here. Collected where?"
+    },
+    {
+      "legacy_id": 131,
+      "code": "ECO-11",
+      "slug": "one-more-hour",
+      "area": "Economics, competition and pricing",
+      "title": "A profitable day. One more hour?"
     }
   ]
 }

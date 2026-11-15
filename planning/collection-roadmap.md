@@ -4,7 +4,7 @@ The original 120-case collection is complete. The approved [expansion plan](expa
 
 ## Coverage ledger
 
-130 cases are published: the original 120 plus 10 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+131 cases are published: the original 120 plus 11 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
@@ -20,9 +20,9 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71, 81, 92, 104, 116, 128 | — | 9 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
 | Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93, 105, 117, 129 | — | 9 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130 | — | 9 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
-| Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119 | — | 10 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
+| Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131 | — | 9 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120 | — | 10 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **130 published** | **110 approved editorial slots** | **110** | |
+| **Total** | **131 published** | **109 approved editorial slots** | **109** | |
 
 ## How a lead earns a place
 
@@ -314,3 +314,6 @@ Case 129 (GVR-11) treats a requested specification change as a bundle of linked 
 ## Expansion wave 1 · SUS-11
 
 Case 130 (SUS-11) separates a certified product property from an event’s actual treatment route. A costed collection package can make recovery practicable without guaranteeing its outcome or a superior life-cycle footprint. Both fictional procurement choices remain lawful and affordable; public collection guidance is not a commercial entitlement. Five substantive sources, the HK$1,000 premium and the limits of the environmental claims received independent review.
+
+### ECO-11 · One more hour
+Independent editorial review checked the marginal decision against the approved expansion plan. The fictional print-shop comparison separates the usual day's average receipts from incremental contribution, an explicitly paid staffing block and other incremental cost. At 24 extra jobs the extension loses HK$20; 26 jobs are needed for a positive whole-job result. Forecasts are not guarantees, and the private cash calculation is not a social-welfare claim. Five source bodies were checked with their scope recorded. Watercolour-and-ink art follows the existing collection. Rendered and live checks are recorded separately from this editorial review.
