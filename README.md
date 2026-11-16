@@ -1098,3 +1098,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## ECO-23
 
 275. [Better wages. More than a higher cost?](better-wages-more-than-higher-cost.html)
+
+## HSP-23
+
+276. [A beautiful display. An easy meal to assemble?](see-the-dish-build-the-meal.html)

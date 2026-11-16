@@ -317,3 +317,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 273 | GVR-23 | [evidence-exists-history-shown.html](../evidence-exists-history-shown.html) | The evidence exists. Can its history be shown? |
 | 274 | SUS-23 | [small-raise-large-withdrawal.html](../small-raise-large-withdrawal.html) | Just above the threshold. No help at all? |
 | 275 | ECO-23 | [better-wages-more-than-higher-cost.html](../better-wages-more-than-higher-cost.html) | Better wages. More than a higher cost? |
+| 276 | HSP-23 | [see-the-dish-build-the-meal.html](../see-the-dish-build-the-meal.html) | A beautiful display. An easy meal to assemble? |
