@@ -1014,3 +1014,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## FIN-22
 
 254. [Commit now. Pay for the option to wait?](pay-for-time-to-decide.html)
+
+## MKT-22
+
+255. [The last click. The whole contribution?](last-click-whole-contribution.html)

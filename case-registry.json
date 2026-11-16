@@ -1840,6 +1840,13 @@
       "slug": "pay-for-time-to-decide",
       "area": "Finance, banking and insurance",
       "title": "Commit now. Pay for the option to wait?"
+    },
+    {
+      "legacy_id": 255,
+      "code": "MKT-22",
+      "slug": "last-click-whole-contribution",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "The last click. The whole contribution?"
     }
   ]
 }
