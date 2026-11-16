@@ -1812,6 +1812,13 @@
       "slug": "efficient-device-total-energy",
       "area": "Sustainability, social enterprise and public management",
       "title": "A more efficient device. Less total energy?"
+    },
+    {
+      "legacy_id": 251,
+      "code": "ECO-21",
+      "slug": "lower-price-groups-stay-separate",
+      "area": "Economics, competition and pricing",
+      "title": "A lower price for some. Can the groups stay separate?"
     }
   ]
 }

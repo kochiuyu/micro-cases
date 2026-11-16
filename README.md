@@ -998,3 +998,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## SUS-21
 
 250. [A more efficient device. Less total energy?](efficient-device-total-energy.html)
+
+## ECO-21
+
+251. [A lower price for some. Can the groups stay separate?](lower-price-groups-stay-separate.html)
