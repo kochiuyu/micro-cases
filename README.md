@@ -1066,3 +1066,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## MKT-23
 
 267. [Better taste. Or a different expectation?](better-taste-different-expectation.html)
+
+## OPS-23
+
+268. [One shared line. Who can serve the next ticket?](next-ticket-next-eligible-ticket.html)
