@@ -2043,6 +2043,13 @@
       "slug": "paid-work-paid-result",
       "area": "Entrepreneurship, innovation and family business",
       "title": "Paid for the work. Paid for the result?"
+    },
+    {
+      "legacy_id": 284,
+      "code": "IS-24",
+      "slug": "same-customer-different-records",
+      "area": "Information systems, AI and business analytics",
+      "title": "The same customer. Two different records?"
     }
   ]
 }

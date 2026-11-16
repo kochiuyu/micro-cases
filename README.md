@@ -1130,3 +1130,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## ENT-24
 
 283. [Paid for the work. Paid for the result?](paid-work-paid-result.html)
+
+## IS-24
+
+284. [The same customer. Two different records?](same-customer-different-records.html)

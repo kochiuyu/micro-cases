@@ -325,3 +325,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 281 | PPL-24 | [reward-suggestion-change-reason.html](../reward-suggestion-change-reason.html) | Reward the suggestion. Change the reason for suggesting? |
 | 282 | STR-24 | [common-training-separate-businesses.html](../common-training-separate-businesses.html) | Compete in sales. Cooperate in the foundation? |
 | 283 | ENT-24 | [paid-work-paid-result.html](../paid-work-paid-result.html) | Paid for the work. Paid for the result? |
+| 284 | IS-24 | [same-customer-different-records.html](../same-customer-different-records.html) | The same customer. Two different records? |
