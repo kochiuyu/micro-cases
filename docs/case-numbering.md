@@ -334,3 +334,11 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 290 | FIN-25 | [shipment-complete-documents-complying.html](../shipment-complete-documents-complying.html) | Payment promised. Documents accepted? |
 | 291 | MKT-25 | [every-week-present-moment.html](../every-week-present-moment.html) | Advertise every week. Or be present at the moment? |
 | 292 | OPS-25 | [units-sold-trips-walked.html](../units-sold-trips-walked.html) | The most units sold. The most trips walked? |
+| 293 | PPL-25 | [two-managers-one-workday.html](../two-managers-one-workday.html) | Two reasonable managers. One impossible instruction? |
+| 294 | STR-25 | [better-product-missing-installer.html](../better-product-missing-installer.html) | A better product. Who will install it? |
+| 295 | ENT-25 | [founder-at-the-right-moment.html](../founder-at-the-right-moment.html) | Every customer gets the founder. Can the business grow? |
+| 296 | IS-25 | [recorded-at-noon-happened-at-noon.html](../recorded-at-noon-happened-at-noon.html) | Recorded at noon. Happened at noon? |
+| 297 | GVR-25 | [different-team-same-firms-work.html](../different-team-same-firms-work.html) | A different team. Reviewing whose work? |
+| 298 | SUS-25 | [cheaper-now-through-the-service-life.html](../cheaper-now-through-the-service-life.html) | The cheapest green purchase. Over which lifetime? |
+| 299 | ECO-25 | [buy-today-wait-for-the-discount.html](../buy-today-wait-for-the-discount.html) | Buy today. Wait for tomorrow’s discount? |
+| 300 | HSP-25 | [festival-spending-stays-local.html](../festival-spending-stays-local.html) | The festival fills the town. Does the town benefit? |

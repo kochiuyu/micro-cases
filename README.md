@@ -1166,3 +1166,35 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## OPS-25
 
 292. [The most units sold. The most trips walked?](units-sold-trips-walked.html)
+
+## PPL-25
+
+293. [Two reasonable managers. One impossible instruction?](two-managers-one-workday.html)
+
+## STR-25
+
+294. [A better product. Who will install it?](better-product-missing-installer.html)
+
+## ENT-25
+
+295. [Every customer gets the founder. Can the business grow?](founder-at-the-right-moment.html)
+
+## IS-25
+
+296. [Recorded at noon. Happened at noon?](recorded-at-noon-happened-at-noon.html)
+
+## GVR-25
+
+297. [A different team. Reviewing whose work?](different-team-same-firms-work.html)
+
+## SUS-25
+
+298. [The cheapest green purchase. Over which lifetime?](cheaper-now-through-the-service-life.html)
+
+## ECO-25
+
+299. [Buy today. Wait for tomorrow’s discount?](buy-today-wait-for-the-discount.html)
+
+## HSP-25
+
+300. [The festival fills the town. Does the town benefit?](festival-spending-stays-local.html)

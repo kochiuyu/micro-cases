@@ -2106,6 +2106,62 @@
       "slug": "units-sold-trips-walked",
       "area": "Operations, supply chains and logistics",
       "title": "The most units sold. The most trips walked?"
+    },
+    {
+      "legacy_id": 293,
+      "code": "PPL-25",
+      "slug": "two-managers-one-workday",
+      "area": "People, leadership and organisational behaviour",
+      "title": "Two reasonable managers. One impossible instruction?"
+    },
+    {
+      "legacy_id": 294,
+      "code": "STR-25",
+      "slug": "better-product-missing-installer",
+      "area": "Strategy and international business",
+      "title": "A better product. Who will install it?"
+    },
+    {
+      "legacy_id": 295,
+      "code": "ENT-25",
+      "slug": "founder-at-the-right-moment",
+      "area": "Entrepreneurship, innovation and family business",
+      "title": "Every customer gets the founder. Can the business grow?"
+    },
+    {
+      "legacy_id": 296,
+      "code": "IS-25",
+      "slug": "recorded-at-noon-happened-at-noon",
+      "area": "Information systems, AI and business analytics",
+      "title": "Recorded at noon. Happened at noon?"
+    },
+    {
+      "legacy_id": 297,
+      "code": "GVR-25",
+      "slug": "different-team-same-firms-work",
+      "area": "Governance, law, ethics and risk",
+      "title": "A different team. Reviewing whose work?"
+    },
+    {
+      "legacy_id": 298,
+      "code": "SUS-25",
+      "slug": "cheaper-now-through-the-service-life",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "The cheapest green purchase. Over which lifetime?"
+    },
+    {
+      "legacy_id": 299,
+      "code": "ECO-25",
+      "slug": "buy-today-wait-for-the-discount",
+      "area": "Economics, competition and pricing",
+      "title": "Buy today. Wait for tomorrow’s discount?"
+    },
+    {
+      "legacy_id": 300,
+      "code": "HSP-25",
+      "slug": "festival-spending-stays-local",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "The festival fills the town. Does the town benefit?"
     }
   ]
 }
