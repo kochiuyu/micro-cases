@@ -333,3 +333,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 289 | ACC-25 | [depreciated-schedule-worth-carrying.html](../depreciated-schedule-worth-carrying.html) | Depreciated on schedule. Still worth carrying? |
 | 290 | FIN-25 | [shipment-complete-documents-complying.html](../shipment-complete-documents-complying.html) | Payment promised. Documents accepted? |
 | 291 | MKT-25 | [every-week-present-moment.html](../every-week-present-moment.html) | Advertise every week. Or be present at the moment? |
+| 292 | OPS-25 | [units-sold-trips-walked.html](../units-sold-trips-walked.html) | The most units sold. The most trips walked? |

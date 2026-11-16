@@ -2099,6 +2099,13 @@
       "slug": "every-week-present-moment",
       "area": "Marketing, retail and consumer behaviour",
       "title": "Advertise every week. Or be present at the moment?"
+    },
+    {
+      "legacy_id": 292,
+      "code": "OPS-25",
+      "slug": "units-sold-trips-walked",
+      "area": "Operations, supply chains and logistics",
+      "title": "The most units sold. The most trips walked?"
     }
   ]
 }

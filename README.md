@@ -1162,3 +1162,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## MKT-25
 
 291. [Advertise every week. Or be present at the moment?](every-week-present-moment.html)
+
+## OPS-25
+
+292. [The most units sold. The most trips walked?](units-sold-trips-walked.html)
