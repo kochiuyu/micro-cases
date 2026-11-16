@@ -1110,3 +1110,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## FIN-24
 
 278. [A lower premium. How much risk stays here?](lower-premium-repeated-deductible.html)
+
+## MKT-24
+
+279. [Preferred when compared. Never on the shortlist?](preferred-compared-never-shortlist.html)

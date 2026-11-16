@@ -2008,6 +2008,13 @@
       "slug": "lower-premium-repeated-deductible",
       "area": "Finance, banking and insurance",
       "title": "A lower premium. How much risk stays here?"
+    },
+    {
+      "legacy_id": 279,
+      "code": "MKT-24",
+      "slug": "preferred-compared-never-shortlist",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "Preferred when compared. Never on the shortlist?"
     }
   ]
 }
