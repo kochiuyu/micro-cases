@@ -1018,3 +1018,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## MKT-22
 
 255. [The last click. The whole contribution?](last-click-whole-contribution.html)
+
+## OPS-22
+
+256. [Shorten the longest task. Finish the project sooner?](shorten-the-task-or-the-project.html)

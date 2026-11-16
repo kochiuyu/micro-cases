@@ -1847,6 +1847,13 @@
       "slug": "last-click-whole-contribution",
       "area": "Marketing, retail and consumer behaviour",
       "title": "The last click. The whole contribution?"
+    },
+    {
+      "legacy_id": 256,
+      "code": "OPS-22",
+      "slug": "shorten-the-task-or-the-project",
+      "area": "Operations, supply chains and logistics",
+      "title": "Shorten the longest task. Finish the project sooner?"
     }
   ]
 }

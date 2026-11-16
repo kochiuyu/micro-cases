@@ -297,3 +297,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 253 | ACC-22 | [more-production-more-profit.html](../more-production-more-profit.html) | More production. More profit? |
 | 254 | FIN-22 | [pay-for-time-to-decide.html](../pay-for-time-to-decide.html) | Commit now. Pay for the option to wait? |
 | 255 | MKT-22 | [last-click-whole-contribution.html](../last-click-whole-contribution.html) | The last click. The whole contribution? |
+| 256 | OPS-22 | [shorten-the-task-or-the-project.html](../shorten-the-task-or-the-project.html) | Shorten the longest task. Finish the project sooner? |
