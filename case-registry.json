@@ -2022,6 +2022,13 @@
       "slug": "bulk-price-total-stock-cost",
       "area": "Operations, supply chains and logistics",
       "title": "A bulk discount. A lower total stocking cost?"
+    },
+    {
+      "legacy_id": 281,
+      "code": "PPL-24",
+      "slug": "reward-suggestion-change-reason",
+      "area": "People, leadership and organisational behaviour",
+      "title": "Reward the suggestion. Change the reason for suggesting?"
     }
   ]
 }

@@ -1118,3 +1118,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## OPS-24
 
 280. [A bulk discount. A lower total stocking cost?](bulk-price-total-stock-cost.html)
+
+## PPL-24
+
+281. [Reward the suggestion. Change the reason for suggesting?](reward-suggestion-change-reason.html)
