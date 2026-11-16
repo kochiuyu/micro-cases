@@ -1074,3 +1074,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## PPL-23
 
 269. [One team bonus. Whose contribution is visible?](one-team-bonus-visible-contribution.html)
+
+## STR-23
+
+270. [A profitable division. A useful parent?](profitable-division-useful-parent.html)

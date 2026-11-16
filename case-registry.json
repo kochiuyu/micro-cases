@@ -1945,6 +1945,13 @@
       "slug": "one-team-bonus-visible-contribution",
       "area": "People, leadership and organisational behaviour",
       "title": "One team bonus. Whose contribution is visible?"
+    },
+    {
+      "legacy_id": 270,
+      "code": "STR-23",
+      "slug": "profitable-division-useful-parent",
+      "area": "Strategy and international business",
+      "title": "A profitable division. A useful parent?"
     }
   ]
 }
