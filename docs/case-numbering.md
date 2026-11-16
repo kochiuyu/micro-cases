@@ -295,3 +295,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 251 | ECO-21 | [lower-price-groups-stay-separate.html](../lower-price-groups-stay-separate.html) | A lower price for some. Can the groups stay separate? |
 | 252 | HSP-21 | [room-features-usable-space.html](../room-features-usable-space.html) | The room is larger. Does it feel usable? |
 | 253 | ACC-22 | [more-production-more-profit.html](../more-production-more-profit.html) | More production. More profit? |
+| 254 | FIN-22 | [pay-for-time-to-decide.html](../pay-for-time-to-decide.html) | Commit now. Pay for the option to wait? |

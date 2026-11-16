@@ -1010,3 +1010,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## ACC-22
 
 253. [More production. More profit?](more-production-more-profit.html)
+
+## FIN-22
+
+254. [Commit now. Pay for the option to wait?](pay-for-time-to-decide.html)

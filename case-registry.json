@@ -1833,6 +1833,13 @@
       "slug": "more-production-more-profit",
       "area": "Accounting, audit and management control",
       "title": "More production. More profit?"
+    },
+    {
+      "legacy_id": 254,
+      "code": "FIN-22",
+      "slug": "pay-for-time-to-decide",
+      "area": "Finance, banking and insurance",
+      "title": "Commit now. Pay for the option to wait?"
     }
   ]
 }
