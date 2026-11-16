@@ -1966,6 +1966,13 @@
       "slug": "lowest-score-next-month",
       "area": "Information systems, AI and business analytics",
       "title": "The worst branches improved. Did coaching work?"
+    },
+    {
+      "legacy_id": 273,
+      "code": "GVR-23",
+      "slug": "evidence-exists-history-shown",
+      "area": "Governance, law, ethics and risk",
+      "title": "The evidence exists. Can its history be shown?"
     }
   ]
 }

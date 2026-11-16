@@ -314,3 +314,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 270 | STR-23 | [profitable-division-useful-parent.html](../profitable-division-useful-parent.html) | A profitable division. A useful parent? |
 | 271 | ENT-23 | [available-resources-repeatable-service.html](../available-resources-repeatable-service.html) | Use what is available. Build what is repeatable? |
 | 272 | IS-23 | [lowest-score-next-month.html](../lowest-score-next-month.html) | The worst branches improved. Did coaching work? |
+| 273 | GVR-23 | [evidence-exists-history-shown.html](../evidence-exists-history-shown.html) | The evidence exists. Can its history be shown? |

@@ -1086,3 +1086,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## IS-23
 
 272. [The worst branches improved. Did coaching work?](lowest-score-next-month.html)
+
+## GVR-23
+
+273. [The evidence exists. Can its history be shown?](evidence-exists-history-shown.html)
