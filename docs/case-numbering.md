@@ -316,3 +316,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 272 | IS-23 | [lowest-score-next-month.html](../lowest-score-next-month.html) | The worst branches improved. Did coaching work? |
 | 273 | GVR-23 | [evidence-exists-history-shown.html](../evidence-exists-history-shown.html) | The evidence exists. Can its history be shown? |
 | 274 | SUS-23 | [small-raise-large-withdrawal.html](../small-raise-large-withdrawal.html) | Just above the threshold. No help at all? |
+| 275 | ECO-23 | [better-wages-more-than-higher-cost.html](../better-wages-more-than-higher-cost.html) | Better wages. More than a higher cost? |

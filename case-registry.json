@@ -1980,6 +1980,13 @@
       "slug": "small-raise-large-withdrawal",
       "area": "Sustainability, social enterprise and public management",
       "title": "Just above the threshold. No help at all?"
+    },
+    {
+      "legacy_id": 275,
+      "code": "ECO-23",
+      "slug": "better-wages-more-than-higher-cost",
+      "area": "Economics, competition and pricing",
+      "title": "Better wages. More than a higher cost?"
     }
   ]
 }

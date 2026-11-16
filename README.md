@@ -1094,3 +1094,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## SUS-23
 
 274. [Just above the threshold. No help at all?](small-raise-large-withdrawal.html)
+
+## ECO-23
+
+275. [Better wages. More than a higher cost?](better-wages-more-than-higher-cost.html)
