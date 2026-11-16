@@ -1126,3 +1126,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## STR-24
 
 282. [Compete in sales. Cooperate in the foundation?](common-training-separate-businesses.html)
+
+## ENT-24
+
+283. [Paid for the work. Paid for the result?](paid-work-paid-result.html)

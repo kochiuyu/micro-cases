@@ -2036,6 +2036,13 @@
       "slug": "common-training-separate-businesses",
       "area": "Strategy and international business",
       "title": "Compete in sales. Cooperate in the foundation?"
+    },
+    {
+      "legacy_id": 283,
+      "code": "ENT-24",
+      "slug": "paid-work-paid-result",
+      "area": "Entrepreneurship, innovation and family business",
+      "title": "Paid for the work. Paid for the result?"
     }
   ]
 }
