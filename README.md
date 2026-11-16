@@ -1150,3 +1150,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## HSP-24
 
 288. [More reviews. A more trustworthy picture?](review-history-current-offer.html)
+
+## ACC-25
+
+289. [Depreciated on schedule. Still worth carrying?](depreciated-schedule-worth-carrying.html)

@@ -330,3 +330,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 286 | SUS-24 | [outside-site-not-outside-impact.html](../outside-site-not-outside-impact.html) | Cleaner here. Dirtier somewhere else? |
 | 287 | ECO-24 | [split-surplus-compare-alternative.html](../split-surplus-compare-alternative.html) | Split the surplus. Compare which alternative? |
 | 288 | HSP-24 | [review-history-current-offer.html](../review-history-current-offer.html) | More reviews. A more trustworthy picture? |
+| 289 | ACC-25 | [depreciated-schedule-worth-carrying.html](../depreciated-schedule-worth-carrying.html) | Depreciated on schedule. Still worth carrying? |

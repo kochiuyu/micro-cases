@@ -2078,6 +2078,13 @@
       "slug": "review-history-current-offer",
       "area": "Hospitality, tourism, property and service management",
       "title": "More reviews. A more trustworthy picture?"
+    },
+    {
+      "legacy_id": 289,
+      "code": "ACC-25",
+      "slug": "depreciated-schedule-worth-carrying",
+      "area": "Accounting, audit and management control",
+      "title": "Depreciated on schedule. Still worth carrying?"
     }
   ]
 }
