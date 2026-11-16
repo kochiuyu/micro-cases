@@ -302,3 +302,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 258 | STR-22 | [copy-the-product-copy-the-advantage.html](../copy-the-product-copy-the-advantage.html) | A copied product. A copied advantage? |
 | 259 | ENT-22 | [enough-pledges-enough-capacity.html](../enough-pledges-enough-capacity.html) | Enough pledges. Enough capacity to fulfil? |
 | 260 | IS-22 | [one-winner-many-comparisons.html](../one-winner-many-comparisons.html) | One winning result. How many chances to win? |
+| 261 | GVR-22 | [complaint-upheld-protection-continues.html](../complaint-upheld-protection-continues.html) | A complaint upheld. Is retaliation prevented? |

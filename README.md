@@ -1038,3 +1038,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## IS-22
 
 260. [One winning result. How many chances to win?](one-winner-many-comparisons.html)
+
+## GVR-22
+
+261. [A complaint upheld. Is retaliation prevented?](complaint-upheld-protection-continues.html)

@@ -1882,6 +1882,13 @@
       "slug": "one-winner-many-comparisons",
       "area": "Information systems, AI and business analytics",
       "title": "One winning result. How many chances to win?"
+    },
+    {
+      "legacy_id": 261,
+      "code": "GVR-22",
+      "slug": "complaint-upheld-protection-continues",
+      "area": "Governance, law, ethics and risk",
+      "title": "A complaint upheld. Is retaliation prevented?"
     }
   ]
 }
