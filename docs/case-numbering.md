@@ -283,3 +283,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 239 | ECO-20 | [the-rival-customers-would-choose.html](../the-rival-customers-would-choose.html) | Two sellers merge. Which competition disappears? |
 | 240 | HSP-20 | [one-booking-different-visits.html](../one-booking-different-visits.html) | One booking. Several different visits? |
 | 241 | ACC-21 | [two-products-which-cost-changes.html](../two-products-which-cost-changes.html) | Two products. Which cost changes? |
+| 242 | FIN-21 | [same-yield-different-duration.html](../same-yield-different-duration.html) | Same yield. Same interest-rate risk? |

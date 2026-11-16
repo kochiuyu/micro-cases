@@ -1749,6 +1749,13 @@
       "slug": "two-products-which-cost-changes",
       "area": "Accounting, audit and management control",
       "title": "Two products. Which cost changes?"
+    },
+    {
+      "legacy_id": 242,
+      "code": "FIN-21",
+      "slug": "same-yield-different-duration",
+      "area": "Finance, banking and insurance",
+      "title": "Same yield. Same interest-rate risk?"
     }
   ]
 }

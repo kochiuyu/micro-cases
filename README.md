@@ -962,3 +962,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## ACC-21
 
 241. [Two products. Which cost changes?](two-products-which-cost-changes.html)
+
+## FIN-21
+
+242. [Same yield. Same interest-rate risk?](same-yield-different-duration.html)
