@@ -1763,6 +1763,13 @@
       "slug": "one-customer-which-channel",
       "area": "Marketing, retail and consumer behaviour",
       "title": "One customer. Which channel earns the sale?"
+    },
+    {
+      "legacy_id": 244,
+      "code": "OPS-21",
+      "slug": "components-ready-in-the-right-week",
+      "area": "Operations, supply chains and logistics",
+      "title": "Enough components. Ready in the right week?"
     }
   ]
 }

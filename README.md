@@ -970,3 +970,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## MKT-21
 
 243. [One customer. Which channel earns the sale?](one-customer-which-channel.html)
+
+## OPS-21
+
+244. [Enough components. Ready in the right week?](components-ready-in-the-right-week.html)
