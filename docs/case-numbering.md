@@ -326,3 +326,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 282 | STR-24 | [common-training-separate-businesses.html](../common-training-separate-businesses.html) | Compete in sales. Cooperate in the foundation? |
 | 283 | ENT-24 | [paid-work-paid-result.html](../paid-work-paid-result.html) | Paid for the work. Paid for the result? |
 | 284 | IS-24 | [same-customer-different-records.html](../same-customer-different-records.html) | The same customer. Two different records? |
+| 285 | GVR-24 | [permission-service-permission-research.html](../permission-service-permission-research.html) | Permission for service. Permission for research? |

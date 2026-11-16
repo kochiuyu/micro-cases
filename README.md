@@ -1134,3 +1134,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## IS-24
 
 284. [The same customer. Two different records?](same-customer-different-records.html)
+
+## GVR-24
+
+285. [Permission for service. Permission for research?](permission-service-permission-research.html)

@@ -2050,6 +2050,13 @@
       "slug": "same-customer-different-records",
       "area": "Information systems, AI and business analytics",
       "title": "The same customer. Two different records?"
+    },
+    {
+      "legacy_id": 285,
+      "code": "GVR-24",
+      "slug": "permission-service-permission-research",
+      "area": "Governance, law, ethics and risk",
+      "title": "Permission for service. Permission for research?"
     }
   ]
 }
