@@ -1006,3 +1006,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## HSP-21
 
 252. [The room is larger. Does it feel usable?](room-features-usable-space.html)
+
+## ACC-22
+
+253. [More production. More profit?](more-production-more-profit.html)

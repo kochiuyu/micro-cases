@@ -1826,6 +1826,13 @@
       "slug": "room-features-usable-space",
       "area": "Hospitality, tourism, property and service management",
       "title": "The room is larger. Does it feel usable?"
+    },
+    {
+      "legacy_id": 253,
+      "code": "ACC-22",
+      "slug": "more-production-more-profit",
+      "area": "Accounting, audit and management control",
+      "title": "More production. More profit?"
     }
   ]
 }

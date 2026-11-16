@@ -294,3 +294,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 250 | SUS-21 | [efficient-device-total-energy.html](../efficient-device-total-energy.html) | A more efficient device. Less total energy? |
 | 251 | ECO-21 | [lower-price-groups-stay-separate.html](../lower-price-groups-stay-separate.html) | A lower price for some. Can the groups stay separate? |
 | 252 | HSP-21 | [room-features-usable-space.html](../room-features-usable-space.html) | The room is larger. Does it feel usable? |
+| 253 | ACC-22 | [more-production-more-profit.html](../more-production-more-profit.html) | More production. More profit? |
