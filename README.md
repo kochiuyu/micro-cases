@@ -1138,3 +1138,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## GVR-24
 
 285. [Permission for service. Permission for research?](permission-service-permission-research.html)
+
+## SUS-24
+
+286. [Cleaner here. Dirtier somewhere else?](outside-site-not-outside-impact.html)

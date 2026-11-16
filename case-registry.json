@@ -2057,6 +2057,13 @@
       "slug": "permission-service-permission-research",
       "area": "Governance, law, ethics and risk",
       "title": "Permission for service. Permission for research?"
+    },
+    {
+      "legacy_id": 286,
+      "code": "SUS-24",
+      "slug": "outside-site-not-outside-impact",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "Cleaner here. Dirtier somewhere else?"
     }
   ]
 }
