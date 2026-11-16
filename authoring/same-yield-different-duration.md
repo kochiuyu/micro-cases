@@ -4,7 +4,7 @@
 
 FIN-21 · Hong Kong · fictional company · 12–15 minutes · Bond duration · Interest-rate risk · Cash-flow timing
 
-![Two finance colleagues compare two plain investment folders and a long planning strip at a quiet office table.](../same-yield-different-duration-scene.jpg)
+![Two finance colleagues compare two plain investment folders at a quiet office table.](../same-yield-different-duration-scene.jpg)
 
 ## Why a yield quote is only a starting point
 

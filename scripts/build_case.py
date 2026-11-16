@@ -43,6 +43,14 @@ def markdown(fragment):
         return text
     return re.sub(r"\n{3,}","\n\n",inner(root)).strip()
 
+def duration_minutes(value):
+    """Use the displayed duration's upper bound for the available-time filter."""
+    match = re.fullmatch(r"\s*(\d+)(?:\s*[-–—]\s*(\d+))?\s+minutes?\s*", value, re.I) if isinstance(value, str) else None
+    require(match is not None, "Duration must be a positive minute count or range, e.g. 15–20 minutes")
+    lower = int(match[1]); upper = int(match[2] or match[1])
+    require(0 < lower <= upper, "Duration must have positive, ascending minute bounds")
+    return upper
+
 def validate_payload(x):
     """Reject malformed metadata and active/external main-body content early."""
     required={"number","code","slug","title","discipline","topics","teaser","alt","news_heading","news","opening","q1","q2","round2","exhibit","exhibit_md","sections","notes","sources","slides"}
@@ -53,6 +61,7 @@ def validate_payload(x):
     for key in ("title","discipline","teaser","alt","news_heading","notes","location","duration"):
         if key in x:
             require(isinstance(x[key],str) and x[key].strip() and not re.search(r"[<>]|https?://",x[key],re.I), "Expected plain text: "+key)
+    duration_minutes(x.get("duration", "10–15 minutes"))
     require(type(x["number"]) is int, "Number must be an integer")
     require(isinstance(x["topics"],list) and x["topics"] and all(isinstance(t,str) and t.strip() and not re.search(r"[<>|]|https?://",t,re.I) for t in x["topics"]), "Topics must be nonempty plain-text strings")
     require(len(set(x["topics"]))==len(x["topics"]), "Duplicate topics")
@@ -137,7 +146,7 @@ def main(argv=None):
     require(n==1,"Template title missing")
     prefix,n=re.subn(r"(<strong>MICRO CASE · )"+re.escape(oldcode)+r"(</strong>)",lambda m:m[1]+code+m[2],prefix)
     require(n==1,"Template header code missing")
-    location=x.get("location","Hong Kong");duration=x.get("duration","10–15 minutes")
+    location=x.get("location","Hong Kong");duration=x.get("duration","10–15 minutes");minutes=duration_minutes(duration)
     meta=code+" · "+location+" · "+duration+" · "+" · ".join(x["topics"])
     img='<img class="scene" src="'+slug+'-scene.jpg" alt="'+esc(x["alt"],quote=True)+'">'
     def prompt(q):return '<div class="student-prompt"><strong>Your decision</strong><p>'+esc(q)+'</p></div>'
@@ -174,7 +183,7 @@ def main(argv=None):
     require(len(cards)==len(oldreg["cases"]),"Existing card count differs from registry")
     lookup={re.search(r'href="([^"]+)"',c)[1]:c for c in cards}
     require(len(lookup)==len(cards) and set(lookup)=={c["slug"]+".html" for c in oldreg["cases"]},"Card identities mismatch")
-    lookup[slug+".html"]='<a class="card" href="'+slug+'.html" data-case-id="'+str(number)+'" data-case-code="'+code+'" data-discipline="'+esc(x["discipline"],quote=True)+'" data-concepts="'+esc("|".join(x["topics"]),quote=True)+'" data-minutes="15"><img width="760" height="389" loading="lazy" alt="" src="'+slug+'-scene.jpg"><div><span class="tag"><span class="case-code">'+code+'</span><span class="duration">'+esc(duration)+'</span></span><h3>'+esc(x["title"])+'</h3><p>'+esc(x["teaser"])+'</p><span class="discipline">'+esc(x["discipline"])+'</span><small>'+esc(" · ".join(x["topics"]))+'</small></div></a>'
+    lookup[slug+".html"]='<a class="card" href="'+slug+'.html" data-case-id="'+str(number)+'" data-case-code="'+code+'" data-discipline="'+esc(x["discipline"],quote=True)+'" data-concepts="'+esc("|".join(x["topics"]),quote=True)+'" data-minutes="'+str(minutes)+'"><img width="760" height="389" loading="lazy" alt="" src="'+slug+'-scene.jpg"><div><span class="tag"><span class="case-code">'+code+'</span><span class="duration">'+esc(duration)+'</span></span><h3>'+esc(x["title"])+'</h3><p>'+esc(x["teaser"])+'</p><span class="discipline">'+esc(x["discipline"])+'</span><small>'+esc(" · ".join(x["topics"]))+'</small></div></a>'
     order={a["name"]:i for i,a in enumerate(reg["areas"])}
     start=s.index(cards[0]);end=s.index(cards[-1])+len(cards[-1])
     require(not re.sub(r'<a class="card".*?</a>',"",s[start:end],flags=re.S).strip(),"Unexpected content among cards")

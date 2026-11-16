@@ -966,3 +966,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## FIN-21
 
 242. [Same yield. Same interest-rate risk?](same-yield-different-duration.html)
+
+## MKT-21
+
+243. [One customer. Which channel earns the sale?](one-customer-which-channel.html)

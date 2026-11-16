@@ -1756,6 +1756,13 @@
       "slug": "same-yield-different-duration",
       "area": "Finance, banking and insurance",
       "title": "Same yield. Same interest-rate risk?"
+    },
+    {
+      "legacy_id": 243,
+      "code": "MKT-21",
+      "slug": "one-customer-which-channel",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "One customer. Which channel earns the sale?"
     }
   ]
 }

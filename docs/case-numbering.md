@@ -284,3 +284,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 240 | HSP-20 | [one-booking-different-visits.html](../one-booking-different-visits.html) | One booking. Several different visits? |
 | 241 | ACC-21 | [two-products-which-cost-changes.html](../two-products-which-cost-changes.html) | Two products. Which cost changes? |
 | 242 | FIN-21 | [same-yield-different-duration.html](../same-yield-different-duration.html) | Same yield. Same interest-rate risk? |
+| 243 | MKT-21 | [one-customer-which-channel.html](../one-customer-which-channel.html) | One customer. Which channel earns the sale? |

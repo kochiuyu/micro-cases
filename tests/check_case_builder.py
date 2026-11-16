@@ -125,6 +125,25 @@ class BuilderTests(unittest.TestCase):
         (self.repo/'case-registry.json').write_text(json.dumps(reg))
         self.reject('Published identity changed')
 
+    def test_duration_upper_bound(self):
+        for value, expected in [('10–15 minutes',15),('12–15 minutes',15),('15–20 minutes',20),('20 minutes',20),('1 minute',1),('10-15 minutes',15),(' 10 — 20 minutes ',20)]:
+            with self.subTest(value=value):
+                self.assertEqual(builder.duration_minutes(value),expected)
+        for value in ('0 minutes','20–15 minutes','about 15 minutes','15–20 hours','15 / 20 minutes','-2 minutes',True,None):
+            with self.subTest(value=value):
+                with self.assertRaises(ValueError):builder.duration_minutes(value)
+        self.x['duration']='20–15 minutes'
+        self.reject('ascending')
+
+    def test_duration_card_matches_display(self):
+        self.x['duration']='15–20 minutes'
+        (self.repo/(self.x['slug']+'-scene.jpg')).write_bytes(b'fixture only')
+        self.run_builder(write=True)
+        index=(self.repo/'index.html').read_text()
+        card=next(c for c in re.findall(r'<a class="card".*?</a>',index,re.S) if 'href="'+self.x['slug']+'.html"' in c)
+        self.assertIn('data-minutes="20"',card)
+        self.assertIn('15–20 minutes',card)
+
     def test_instructor_note_required(self):
         self.x['sections']=[row for row in self.x['sections'] if row[0]!='Instructor note']
         self.reject('dedicated Instructor note')
@@ -161,6 +180,9 @@ class BuilderTests(unittest.TestCase):
         self.assertIn('aria-label="'+self.x['code']+' classroom presentation"',page)
         self.assertIn('**Student question:** '+self.x['q1'],(self.repo/'authoring'/(self.x['slug']+'.md')).read_text())
         self.assertEqual(json.loads((self.repo/'case-registry.json').read_text())['cases'][-1]['code'],self.x['code'])
+        index=(self.repo/'index.html').read_text()
+        card=next(c for c in re.findall(r'<a class="card".*?</a>',index,re.S) if 'href="'+self.x['slug']+'.html"' in c)
+        self.assertIn('data-minutes="15"',card)
         # Existing case content changes only inside its navigation.
         nav=builder.module(self.repo/'scripts/sync_case_navigation.py','test_nav')
         reg=json.loads(before['case-registry.json'])
