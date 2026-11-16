@@ -2029,6 +2029,13 @@
       "slug": "reward-suggestion-change-reason",
       "area": "People, leadership and organisational behaviour",
       "title": "Reward the suggestion. Change the reason for suggesting?"
+    },
+    {
+      "legacy_id": 282,
+      "code": "STR-24",
+      "slug": "common-training-separate-businesses",
+      "area": "Strategy and international business",
+      "title": "Compete in sales. Cooperate in the foundation?"
     }
   ]
 }

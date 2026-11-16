@@ -1122,3 +1122,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## PPL-24
 
 281. [Reward the suggestion. Change the reason for suggesting?](reward-suggestion-change-reason.html)
+
+## STR-24
+
+282. [Compete in sales. Cooperate in the foundation?](common-training-separate-businesses.html)

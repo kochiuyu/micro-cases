@@ -323,3 +323,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 279 | MKT-24 | [preferred-compared-never-shortlist.html](../preferred-compared-never-shortlist.html) | Preferred when compared. Never on the shortlist? |
 | 280 | OPS-24 | [bulk-price-total-stock-cost.html](../bulk-price-total-stock-cost.html) | A bulk discount. A lower total stocking cost? |
 | 281 | PPL-24 | [reward-suggestion-change-reason.html](../reward-suggestion-change-reason.html) | Reward the suggestion. Change the reason for suggesting? |
+| 282 | STR-24 | [common-training-separate-businesses.html](../common-training-separate-businesses.html) | Compete in sales. Cooperate in the foundation? |
