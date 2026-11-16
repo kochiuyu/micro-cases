@@ -1994,6 +1994,13 @@
       "slug": "see-the-dish-build-the-meal",
       "area": "Hospitality, tourism, property and service management",
       "title": "A beautiful display. An easy meal to assemble?"
+    },
+    {
+      "legacy_id": 277,
+      "code": "ACC-24",
+      "slug": "expected-repairs-already-liability",
+      "area": "Accounting, audit and management control",
+      "title": "Expected repairs. Already a liability?"
     }
   ]
 }

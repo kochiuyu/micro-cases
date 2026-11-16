@@ -318,3 +318,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 274 | SUS-23 | [small-raise-large-withdrawal.html](../small-raise-large-withdrawal.html) | Just above the threshold. No help at all? |
 | 275 | ECO-23 | [better-wages-more-than-higher-cost.html](../better-wages-more-than-higher-cost.html) | Better wages. More than a higher cost? |
 | 276 | HSP-23 | [see-the-dish-build-the-meal.html](../see-the-dish-build-the-meal.html) | A beautiful display. An easy meal to assemble? |
+| 277 | ACC-24 | [expected-repairs-already-liability.html](../expected-repairs-already-liability.html) | Expected repairs. Already a liability? |

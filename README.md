@@ -1102,3 +1102,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## HSP-23
 
 276. [A beautiful display. An easy meal to assemble?](see-the-dish-build-the-meal.html)
+
+## ACC-24
+
+277. [Expected repairs. Already a liability?](expected-repairs-already-liability.html)
