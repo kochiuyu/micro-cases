@@ -306,3 +306,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 262 | SUS-22 | [cash-choice-goods-available.html](../cash-choice-goods-available.html) | Cash support. Or the goods people need? |
 | 263 | ECO-22 | [two-markups-one-final-customer.html](../two-markups-one-final-customer.html) | Two markups. One final customer? |
 | 264 | HSP-22 | [same-nights-more-departures.html](../same-nights-more-departures.html) | The same occupied nights. The same cleaning workload? |
+| 265 | ACC-23 | [on-the-truck-in-whose-stock.html](../on-the-truck-in-whose-stock.html) | On the truck. In whose year-end stock? |

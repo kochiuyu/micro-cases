@@ -1054,3 +1054,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## HSP-22
 
 264. [The same occupied nights. The same cleaning workload?](same-nights-more-departures.html)
+
+## ACC-23
+
+265. [On the truck. In whose year-end stock?](on-the-truck-in-whose-stock.html)

@@ -1910,6 +1910,13 @@
       "slug": "same-nights-more-departures",
       "area": "Hospitality, tourism, property and service management",
       "title": "The same occupied nights. The same cleaning workload?"
+    },
+    {
+      "legacy_id": 265,
+      "code": "ACC-23",
+      "slug": "on-the-truck-in-whose-stock",
+      "area": "Accounting, audit and management control",
+      "title": "On the truck. In whose year-end stock?"
     }
   ]
 }
