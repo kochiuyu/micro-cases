@@ -1959,6 +1959,13 @@
       "slug": "available-resources-repeatable-service",
       "area": "Entrepreneurship, innovation and family business",
       "title": "Use what is available. Build what is repeatable?"
+    },
+    {
+      "legacy_id": 272,
+      "code": "IS-23",
+      "slug": "lowest-score-next-month",
+      "area": "Information systems, AI and business analytics",
+      "title": "The worst branches improved. Did coaching work?"
     }
   ]
 }

@@ -1082,3 +1082,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## ENT-23
 
 271. [Use what is available. Build what is repeatable?](available-resources-repeatable-service.html)
+
+## IS-23
+
+272. [The worst branches improved. Did coaching work?](lowest-score-next-month.html)
