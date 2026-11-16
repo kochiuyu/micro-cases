@@ -1058,3 +1058,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## ACC-23
 
 265. [On the truck. In whose year-end stock?](on-the-truck-in-whose-stock.html)
+
+## FIN-23
+
+266. [No price today. No dilution tomorrow?](unpriced-not-ownership-free.html)

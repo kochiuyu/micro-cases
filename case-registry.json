@@ -1917,6 +1917,13 @@
       "slug": "on-the-truck-in-whose-stock",
       "area": "Accounting, audit and management control",
       "title": "On the truck. In whose year-end stock?"
+    },
+    {
+      "legacy_id": 266,
+      "code": "FIN-23",
+      "slug": "unpriced-not-ownership-free",
+      "area": "Finance, banking and insurance",
+      "title": "No price today. No dilution tomorrow?"
     }
   ]
 }
