@@ -2015,6 +2015,13 @@
       "slug": "preferred-compared-never-shortlist",
       "area": "Marketing, retail and consumer behaviour",
       "title": "Preferred when compared. Never on the shortlist?"
+    },
+    {
+      "legacy_id": 280,
+      "code": "OPS-24",
+      "slug": "bulk-price-total-stock-cost",
+      "area": "Operations, supply chains and logistics",
+      "title": "A bulk discount. A lower total stocking cost?"
     }
   ]
 }

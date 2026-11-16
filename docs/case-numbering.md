@@ -321,3 +321,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 277 | ACC-24 | [expected-repairs-already-liability.html](../expected-repairs-already-liability.html) | Expected repairs. Already a liability? |
 | 278 | FIN-24 | [lower-premium-repeated-deductible.html](../lower-premium-repeated-deductible.html) | A lower premium. How much risk stays here? |
 | 279 | MKT-24 | [preferred-compared-never-shortlist.html](../preferred-compared-never-shortlist.html) | Preferred when compared. Never on the shortlist? |
+| 280 | OPS-24 | [bulk-price-total-stock-cost.html](../bulk-price-total-stock-cost.html) | A bulk discount. A lower total stocking cost? |

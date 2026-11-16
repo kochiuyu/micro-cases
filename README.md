@@ -1114,3 +1114,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## MKT-24
 
 279. [Preferred when compared. Never on the shortlist?](preferred-compared-never-shortlist.html)
+
+## OPS-24
+
+280. [A bulk discount. A lower total stocking cost?](bulk-price-total-stock-cost.html)
