@@ -1026,3 +1026,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## PPL-22
 
 257. [A disagreement over pay. Or over the package?](different-priorities-better-package.html)
+
+## STR-22
+
+258. [A copied product. A copied advantage?](copy-the-product-copy-the-advantage.html)
