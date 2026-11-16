@@ -2330,6 +2330,258 @@
       "slug": "fewer-stops-clearer-story",
       "area": "Hospitality, tourism, property and service management",
       "title": "Three landmarks, or one connected story?"
+    },
+    {
+      "legacy_id": 325,
+      "code": "ACC-28",
+      "slug": "market-price-design-cost-gap",
+      "area": "Accounting, audit and management control",
+      "title": "A market price. A design cost gap?"
+    },
+    {
+      "legacy_id": 326,
+      "code": "FIN-28",
+      "slug": "hedge-moves-delivered-cost",
+      "area": "Finance, banking and insurance",
+      "title": "The hedge moves. Does it move with our cost?"
+    },
+    {
+      "legacy_id": 327,
+      "code": "MKT-28",
+      "slug": "understand-benefit-picture-setup",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "They understand the benefit. Can they picture doing it?"
+    },
+    {
+      "legacy_id": 328,
+      "code": "OPS-28",
+      "slug": "reserve-capacity-commit-units",
+      "area": "Operations, supply chains and logistics",
+      "title": "Reserve capacity. Commit to every unit?"
+    },
+    {
+      "legacy_id": 329,
+      "code": "PPL-28",
+      "slug": "cheerful-greeting-emotional-cost",
+      "area": "People, leadership and organisational behaviour",
+      "title": "A cheerful greeting. At what emotional cost?"
+    },
+    {
+      "legacy_id": 330,
+      "code": "STR-28",
+      "slug": "attractive-segment-mobility-barrier",
+      "area": "Strategy and international business",
+      "title": "Enter the attractive segment. Cross which barrier?"
+    },
+    {
+      "legacy_id": 331,
+      "code": "ENT-28",
+      "slug": "family-successor-fair-path",
+      "area": "Entrepreneurship, innovation and family business",
+      "title": "A family successor. A fair path into responsibility?"
+    },
+    {
+      "legacy_id": 332,
+      "code": "IS-28",
+      "slug": "dramatic-line-axis-context",
+      "area": "Information systems, AI and business analytics",
+      "title": "The line looks dramatic. What does the axis say?"
+    },
+    {
+      "legacy_id": 333,
+      "code": "GVR-28",
+      "slug": "stopped-until-cleared",
+      "area": "Governance, law, ethics and risk",
+      "title": "Stop the work. Who may restart it?"
+    },
+    {
+      "legacy_id": 334,
+      "code": "SUS-28",
+      "slug": "better-place-same-people",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "A neighbourhood improved. Who can still stay?"
+    },
+    {
+      "legacy_id": 335,
+      "code": "ECO-28",
+      "slug": "chosen-lock-unexpected-need",
+      "area": "Economics, competition and pricing",
+      "title": "Choose freely now. Restrict a future choice?"
+    },
+    {
+      "legacy_id": 336,
+      "code": "HSP-28",
+      "slug": "booked-time-shared-room",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "A full appointment book. A workable morning?"
+    },
+    {
+      "legacy_id": 337,
+      "code": "ACC-29",
+      "slug": "one-package-three-promises",
+      "area": "Accounting, audit and management control",
+      "title": "One package price. Three promises?"
+    },
+    {
+      "legacy_id": 338,
+      "code": "FIN-29",
+      "slug": "same-ownership-different-exit",
+      "area": "Finance, banking and insurance",
+      "title": "The same ownership. The same exit proceeds?"
+    },
+    {
+      "legacy_id": 339,
+      "code": "MKT-29",
+      "slug": "private-remedy-public-reassurance",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "Resolve one complaint. Reassure which audience?"
+    },
+    {
+      "legacy_id": 340,
+      "code": "OPS-29",
+      "slug": "service-percentage-which-denominator",
+      "area": "Operations, supply chains and logistics",
+      "title": "Ninety-five per cent service. Of what?"
+    },
+    {
+      "legacy_id": 341,
+      "code": "PPL-29",
+      "slug": "project-ends-team-learning",
+      "area": "People, leadership and organisational behaviour",
+      "title": "A project ends. What does the team learn?"
+    },
+    {
+      "legacy_id": 342,
+      "code": "STR-29",
+      "slug": "current-model-different-unit",
+      "area": "Strategy and international business",
+      "title": "Improve the current model. Protect a different one?"
+    },
+    {
+      "legacy_id": 343,
+      "code": "ENT-29",
+      "slug": "internal-idea-independent-venture",
+      "area": "Entrepreneurship, innovation and family business",
+      "title": "An internal idea. An independent venture?"
+    },
+    {
+      "legacy_id": 344,
+      "code": "IS-29",
+      "slug": "assigned-pilot-actual-use",
+      "area": "Information systems, AI and business analytics",
+      "title": "Assigned to the pilot. Actually using it?"
+    },
+    {
+      "legacy_id": 345,
+      "code": "GVR-29",
+      "slug": "accurate-for-whom",
+      "area": "Governance, law, ethics and risk",
+      "title": "A high average accuracy. An uneven burden?"
+    },
+    {
+      "legacy_id": 346,
+      "code": "SUS-29",
+      "slug": "later-benefit-present-choice",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "A benefit far away. Less valuable to whom?"
+    },
+    {
+      "legacy_id": 347,
+      "code": "ECO-29",
+      "slug": "still-enrolled-still-preferred",
+      "area": "Economics, competition and pricing",
+      "title": "The default stays. Is it the preferred choice?"
+    },
+    {
+      "legacy_id": 348,
+      "code": "HSP-29",
+      "slug": "same-entitlement-different-remedy",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "A fair recovery. Must it be identical?"
+    },
+    {
+      "legacy_id": 349,
+      "code": "ACC-30",
+      "slug": "ratio-rises-cash-falls",
+      "area": "Accounting, audit and management control",
+      "title": "A healthier ratio. A healthier business?"
+    },
+    {
+      "legacy_id": 350,
+      "code": "FIN-30",
+      "slug": "interest-paid-principal-due",
+      "area": "Finance, banking and insurance",
+      "title": "Affordable interest. A repayable principal?"
+    },
+    {
+      "legacy_id": 351,
+      "code": "MKT-30",
+      "slug": "same-shoppers-different-missions",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "One customer profile. Two shopping missions?"
+    },
+    {
+      "legacy_id": 352,
+      "code": "OPS-30",
+      "slug": "one-lot-shared-ingredient",
+      "area": "Operations, supply chains and logistics",
+      "title": "One production lot. One recall boundary?"
+    },
+    {
+      "legacy_id": 353,
+      "code": "PPL-30",
+      "slug": "contract-unchanged-promise-changed",
+      "area": "People, leadership and organisational behaviour",
+      "title": "Nothing in the contract changed. Did the promise?"
+    },
+    {
+      "legacy_id": 354,
+      "code": "STR-30",
+      "slug": "stronger-position-for-how-long",
+      "area": "Strategy and international business",
+      "title": "A stronger position. For how long?"
+    },
+    {
+      "legacy_id": 355,
+      "code": "ENT-30",
+      "slug": "venture-story-testable-assumptions",
+      "area": "Entrepreneurship, innovation and family business",
+      "title": "One venture story. Several testable assumptions?"
+    },
+    {
+      "legacy_id": 356,
+      "code": "IS-30",
+      "slug": "summary-or-bounded-retrieval",
+      "area": "Information systems, AI and business analytics",
+      "title": "A summary alone. Or bounded retrieval?"
+    },
+    {
+      "legacy_id": 357,
+      "code": "GVR-30",
+      "slug": "delegated-work-retained-accountability",
+      "area": "Governance, law, ethics and risk",
+      "title": "The supplier promises compliance. Who remains accountable?"
+    },
+    {
+      "legacy_id": 358,
+      "code": "SUS-30",
+      "slug": "trigger-to-review-not-to-build",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "A new safeguard. Who helps decide when it changes?"
+    },
+    {
+      "legacy_id": 359,
+      "code": "ECO-30",
+      "slug": "outside-the-quiet-deal",
+      "area": "Economics, competition and pricing",
+      "title": "A better private deal. A cost outside the contract?"
+    },
+    {
+      "legacy_id": 360,
+      "code": "HSP-30",
+      "slug": "rooms-without-a-destination",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "A busy season. A destination all year?"
     }
   ]
 }

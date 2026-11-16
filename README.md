@@ -1294,3 +1294,147 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## HSP-27
 
 324. [Three landmarks, or one connected story?](fewer-stops-clearer-story.html)
+
+## ACC-28
+
+325. [A market price. A design cost gap?](market-price-design-cost-gap.html)
+
+## FIN-28
+
+326. [The hedge moves. Does it move with our cost?](hedge-moves-delivered-cost.html)
+
+## MKT-28
+
+327. [They understand the benefit. Can they picture doing it?](understand-benefit-picture-setup.html)
+
+## OPS-28
+
+328. [Reserve capacity. Commit to every unit?](reserve-capacity-commit-units.html)
+
+## PPL-28
+
+329. [A cheerful greeting. At what emotional cost?](cheerful-greeting-emotional-cost.html)
+
+## STR-28
+
+330. [Enter the attractive segment. Cross which barrier?](attractive-segment-mobility-barrier.html)
+
+## ENT-28
+
+331. [A family successor. A fair path into responsibility?](family-successor-fair-path.html)
+
+## IS-28
+
+332. [The line looks dramatic. What does the axis say?](dramatic-line-axis-context.html)
+
+## GVR-28
+
+333. [Stop the work. Who may restart it?](stopped-until-cleared.html)
+
+## SUS-28
+
+334. [A neighbourhood improved. Who can still stay?](better-place-same-people.html)
+
+## ECO-28
+
+335. [Choose freely now. Restrict a future choice?](chosen-lock-unexpected-need.html)
+
+## HSP-28
+
+336. [A full appointment book. A workable morning?](booked-time-shared-room.html)
+
+## ACC-29
+
+337. [One package price. Three promises?](one-package-three-promises.html)
+
+## FIN-29
+
+338. [The same ownership. The same exit proceeds?](same-ownership-different-exit.html)
+
+## MKT-29
+
+339. [Resolve one complaint. Reassure which audience?](private-remedy-public-reassurance.html)
+
+## OPS-29
+
+340. [Ninety-five per cent service. Of what?](service-percentage-which-denominator.html)
+
+## PPL-29
+
+341. [A project ends. What does the team learn?](project-ends-team-learning.html)
+
+## STR-29
+
+342. [Improve the current model. Protect a different one?](current-model-different-unit.html)
+
+## ENT-29
+
+343. [An internal idea. An independent venture?](internal-idea-independent-venture.html)
+
+## IS-29
+
+344. [Assigned to the pilot. Actually using it?](assigned-pilot-actual-use.html)
+
+## GVR-29
+
+345. [A high average accuracy. An uneven burden?](accurate-for-whom.html)
+
+## SUS-29
+
+346. [A benefit far away. Less valuable to whom?](later-benefit-present-choice.html)
+
+## ECO-29
+
+347. [The default stays. Is it the preferred choice?](still-enrolled-still-preferred.html)
+
+## HSP-29
+
+348. [A fair recovery. Must it be identical?](same-entitlement-different-remedy.html)
+
+## ACC-30
+
+349. [A healthier ratio. A healthier business?](ratio-rises-cash-falls.html)
+
+## FIN-30
+
+350. [Affordable interest. A repayable principal?](interest-paid-principal-due.html)
+
+## MKT-30
+
+351. [One customer profile. Two shopping missions?](same-shoppers-different-missions.html)
+
+## OPS-30
+
+352. [One production lot. One recall boundary?](one-lot-shared-ingredient.html)
+
+## PPL-30
+
+353. [Nothing in the contract changed. Did the promise?](contract-unchanged-promise-changed.html)
+
+## STR-30
+
+354. [A stronger position. For how long?](stronger-position-for-how-long.html)
+
+## ENT-30
+
+355. [One venture story. Several testable assumptions?](venture-story-testable-assumptions.html)
+
+## IS-30
+
+356. [A summary alone. Or bounded retrieval?](summary-or-bounded-retrieval.html)
+
+## GVR-30
+
+357. [The supplier promises compliance. Who remains accountable?](delegated-work-retained-accountability.html)
+
+## SUS-30
+
+358. [A new safeguard. Who helps decide when it changes?](trigger-to-review-not-to-build.html)
+
+## ECO-30
+
+359. [A better private deal. A cost outside the contract?](outside-the-quiet-deal.html)
+
+## HSP-30
+
+360. [A busy season. A destination all year?](rooms-without-a-destination.html)

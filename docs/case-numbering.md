@@ -366,3 +366,39 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 322 | SUS-27 | [restore-later-not-reversible.html](../restore-later-not-reversible.html) | Restore later. Lose something now? |
 | 323 | ECO-27 | [winning-effort-vanishing-prize.html](../winning-effort-vanishing-prize.html) | More effort. No larger prize. |
 | 324 | HSP-27 | [fewer-stops-clearer-story.html](../fewer-stops-clearer-story.html) | Three landmarks, or one connected story? |
+| 325 | ACC-28 | [market-price-design-cost-gap.html](../market-price-design-cost-gap.html) | A market price. A design cost gap? |
+| 326 | FIN-28 | [hedge-moves-delivered-cost.html](../hedge-moves-delivered-cost.html) | The hedge moves. Does it move with our cost? |
+| 327 | MKT-28 | [understand-benefit-picture-setup.html](../understand-benefit-picture-setup.html) | They understand the benefit. Can they picture doing it? |
+| 328 | OPS-28 | [reserve-capacity-commit-units.html](../reserve-capacity-commit-units.html) | Reserve capacity. Commit to every unit? |
+| 329 | PPL-28 | [cheerful-greeting-emotional-cost.html](../cheerful-greeting-emotional-cost.html) | A cheerful greeting. At what emotional cost? |
+| 330 | STR-28 | [attractive-segment-mobility-barrier.html](../attractive-segment-mobility-barrier.html) | Enter the attractive segment. Cross which barrier? |
+| 331 | ENT-28 | [family-successor-fair-path.html](../family-successor-fair-path.html) | A family successor. A fair path into responsibility? |
+| 332 | IS-28 | [dramatic-line-axis-context.html](../dramatic-line-axis-context.html) | The line looks dramatic. What does the axis say? |
+| 333 | GVR-28 | [stopped-until-cleared.html](../stopped-until-cleared.html) | Stop the work. Who may restart it? |
+| 334 | SUS-28 | [better-place-same-people.html](../better-place-same-people.html) | A neighbourhood improved. Who can still stay? |
+| 335 | ECO-28 | [chosen-lock-unexpected-need.html](../chosen-lock-unexpected-need.html) | Choose freely now. Restrict a future choice? |
+| 336 | HSP-28 | [booked-time-shared-room.html](../booked-time-shared-room.html) | A full appointment book. A workable morning? |
+| 337 | ACC-29 | [one-package-three-promises.html](../one-package-three-promises.html) | One package price. Three promises? |
+| 338 | FIN-29 | [same-ownership-different-exit.html](../same-ownership-different-exit.html) | The same ownership. The same exit proceeds? |
+| 339 | MKT-29 | [private-remedy-public-reassurance.html](../private-remedy-public-reassurance.html) | Resolve one complaint. Reassure which audience? |
+| 340 | OPS-29 | [service-percentage-which-denominator.html](../service-percentage-which-denominator.html) | Ninety-five per cent service. Of what? |
+| 341 | PPL-29 | [project-ends-team-learning.html](../project-ends-team-learning.html) | A project ends. What does the team learn? |
+| 342 | STR-29 | [current-model-different-unit.html](../current-model-different-unit.html) | Improve the current model. Protect a different one? |
+| 343 | ENT-29 | [internal-idea-independent-venture.html](../internal-idea-independent-venture.html) | An internal idea. An independent venture? |
+| 344 | IS-29 | [assigned-pilot-actual-use.html](../assigned-pilot-actual-use.html) | Assigned to the pilot. Actually using it? |
+| 345 | GVR-29 | [accurate-for-whom.html](../accurate-for-whom.html) | A high average accuracy. An uneven burden? |
+| 346 | SUS-29 | [later-benefit-present-choice.html](../later-benefit-present-choice.html) | A benefit far away. Less valuable to whom? |
+| 347 | ECO-29 | [still-enrolled-still-preferred.html](../still-enrolled-still-preferred.html) | The default stays. Is it the preferred choice? |
+| 348 | HSP-29 | [same-entitlement-different-remedy.html](../same-entitlement-different-remedy.html) | A fair recovery. Must it be identical? |
+| 349 | ACC-30 | [ratio-rises-cash-falls.html](../ratio-rises-cash-falls.html) | A healthier ratio. A healthier business? |
+| 350 | FIN-30 | [interest-paid-principal-due.html](../interest-paid-principal-due.html) | Affordable interest. A repayable principal? |
+| 351 | MKT-30 | [same-shoppers-different-missions.html](../same-shoppers-different-missions.html) | One customer profile. Two shopping missions? |
+| 352 | OPS-30 | [one-lot-shared-ingredient.html](../one-lot-shared-ingredient.html) | One production lot. One recall boundary? |
+| 353 | PPL-30 | [contract-unchanged-promise-changed.html](../contract-unchanged-promise-changed.html) | Nothing in the contract changed. Did the promise? |
+| 354 | STR-30 | [stronger-position-for-how-long.html](../stronger-position-for-how-long.html) | A stronger position. For how long? |
+| 355 | ENT-30 | [venture-story-testable-assumptions.html](../venture-story-testable-assumptions.html) | One venture story. Several testable assumptions? |
+| 356 | IS-30 | [summary-or-bounded-retrieval.html](../summary-or-bounded-retrieval.html) | A summary alone. Or bounded retrieval? |
+| 357 | GVR-30 | [delegated-work-retained-accountability.html](../delegated-work-retained-accountability.html) | The supplier promises compliance. Who remains accountable? |
+| 358 | SUS-30 | [trigger-to-review-not-to-build.html](../trigger-to-review-not-to-build.html) | A new safeguard. Who helps decide when it changes? |
+| 359 | ECO-30 | [outside-the-quiet-deal.html](../outside-the-quiet-deal.html) | A better private deal. A cost outside the contract? |
+| 360 | HSP-30 | [rooms-without-a-destination.html](../rooms-without-a-destination.html) | A busy season. A destination all year? |
