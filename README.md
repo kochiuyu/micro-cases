@@ -1078,3 +1078,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## STR-23
 
 270. [A profitable division. A useful parent?](profitable-division-useful-parent.html)
+
+## ENT-23
+
+271. [Use what is available. Build what is repeatable?](available-resources-repeatable-service.html)

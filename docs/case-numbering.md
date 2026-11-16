@@ -312,3 +312,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 268 | OPS-23 | [next-ticket-next-eligible-ticket.html](../next-ticket-next-eligible-ticket.html) | One shared line. Who can serve the next ticket? |
 | 269 | PPL-23 | [one-team-bonus-visible-contribution.html](../one-team-bonus-visible-contribution.html) | One team bonus. Whose contribution is visible? |
 | 270 | STR-23 | [profitable-division-useful-parent.html](../profitable-division-useful-parent.html) | A profitable division. A useful parent? |
+| 271 | ENT-23 | [available-resources-repeatable-service.html](../available-resources-repeatable-service.html) | Use what is available. Build what is repeatable? |
