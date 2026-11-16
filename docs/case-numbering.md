@@ -310,3 +310,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 266 | FIN-23 | [unpriced-not-ownership-free.html](../unpriced-not-ownership-free.html) | No price today. No dilution tomorrow? |
 | 267 | MKT-23 | [better-taste-different-expectation.html](../better-taste-different-expectation.html) | Better taste. Or a different expectation? |
 | 268 | OPS-23 | [next-ticket-next-eligible-ticket.html](../next-ticket-next-eligible-ticket.html) | One shared line. Who can serve the next ticket? |
+| 269 | PPL-23 | [one-team-bonus-visible-contribution.html](../one-team-bonus-visible-contribution.html) | One team bonus. Whose contribution is visible? |

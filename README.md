@@ -1070,3 +1070,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## OPS-23
 
 268. [One shared line. Who can serve the next ticket?](next-ticket-next-eligible-ticket.html)
+
+## PPL-23
+
+269. [One team bonus. Whose contribution is visible?](one-team-bonus-visible-contribution.html)

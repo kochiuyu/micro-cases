@@ -1938,6 +1938,13 @@
       "slug": "next-ticket-next-eligible-ticket",
       "area": "Operations, supply chains and logistics",
       "title": "One shared line. Who can serve the next ticket?"
+    },
+    {
+      "legacy_id": 269,
+      "code": "PPL-23",
+      "slug": "one-team-bonus-visible-contribution",
+      "area": "People, leadership and organisational behaviour",
+      "title": "One team bonus. Whose contribution is visible?"
     }
   ]
 }
