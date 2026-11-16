@@ -1924,6 +1924,13 @@
       "slug": "unpriced-not-ownership-free",
       "area": "Finance, banking and insurance",
       "title": "No price today. No dilution tomorrow?"
+    },
+    {
+      "legacy_id": 267,
+      "code": "MKT-23",
+      "slug": "better-taste-different-expectation",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "Better taste. Or a different expectation?"
     }
   ]
 }

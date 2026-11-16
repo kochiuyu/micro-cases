@@ -1062,3 +1062,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## FIN-23
 
 266. [No price today. No dilution tomorrow?](unpriced-not-ownership-free.html)
+
+## MKT-23
+
+267. [Better taste. Or a different expectation?](better-taste-different-expectation.html)

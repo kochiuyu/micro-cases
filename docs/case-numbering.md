@@ -308,3 +308,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 264 | HSP-22 | [same-nights-more-departures.html](../same-nights-more-departures.html) | The same occupied nights. The same cleaning workload? |
 | 265 | ACC-23 | [on-the-truck-in-whose-stock.html](../on-the-truck-in-whose-stock.html) | On the truck. In whose year-end stock? |
 | 266 | FIN-23 | [unpriced-not-ownership-free.html](../unpriced-not-ownership-free.html) | No price today. No dilution tomorrow? |
+| 267 | MKT-23 | [better-taste-different-expectation.html](../better-taste-different-expectation.html) | Better taste. Or a different expectation? |
