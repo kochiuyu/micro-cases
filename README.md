@@ -1042,3 +1042,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## GVR-22
 
 261. [A complaint upheld. Is retaliation prevented?](complaint-upheld-protection-continues.html)
+
+## SUS-22
+
+262. [Cash support. Or the goods people need?](cash-choice-goods-available.html)

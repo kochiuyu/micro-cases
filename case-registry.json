@@ -1889,6 +1889,13 @@
       "slug": "complaint-upheld-protection-continues",
       "area": "Governance, law, ethics and risk",
       "title": "A complaint upheld. Is retaliation prevented?"
+    },
+    {
+      "legacy_id": 262,
+      "code": "SUS-22",
+      "slug": "cash-choice-goods-available",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "Cash support. Or the goods people need?"
     }
   ]
 }
