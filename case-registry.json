@@ -1770,6 +1770,13 @@
       "slug": "components-ready-in-the-right-week",
       "area": "Operations, supply chains and logistics",
       "title": "Enough components. Ready in the right week?"
+    },
+    {
+      "legacy_id": 245,
+      "code": "PPL-21",
+      "slug": "useful-feedback-useful-to-do-what",
+      "area": "People, leadership and organisational behaviour",
+      "title": "Useful feedback. Useful to do what?"
     }
   ]
 }

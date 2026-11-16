@@ -286,3 +286,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 242 | FIN-21 | [same-yield-different-duration.html](../same-yield-different-duration.html) | Same yield. Same interest-rate risk? |
 | 243 | MKT-21 | [one-customer-which-channel.html](../one-customer-which-channel.html) | One customer. Which channel earns the sale? |
 | 244 | OPS-21 | [components-ready-in-the-right-week.html](../components-ready-in-the-right-week.html) | Enough components. Ready in the right week? |
+| 245 | PPL-21 | [useful-feedback-useful-to-do-what.html](../useful-feedback-useful-to-do-what.html) | Useful feedback. Useful to do what? |
