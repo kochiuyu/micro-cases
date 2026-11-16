@@ -300,3 +300,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 256 | OPS-22 | [shorten-the-task-or-the-project.html](../shorten-the-task-or-the-project.html) | Shorten the longest task. Finish the project sooner? |
 | 257 | PPL-22 | [different-priorities-better-package.html](../different-priorities-better-package.html) | A disagreement over pay. Or over the package? |
 | 258 | STR-22 | [copy-the-product-copy-the-advantage.html](../copy-the-product-copy-the-advantage.html) | A copied product. A copied advantage? |
+| 259 | ENT-22 | [enough-pledges-enough-capacity.html](../enough-pledges-enough-capacity.html) | Enough pledges. Enough capacity to fulfil? |

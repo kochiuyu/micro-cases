@@ -1030,3 +1030,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## STR-22
 
 258. [A copied product. A copied advantage?](copy-the-product-copy-the-advantage.html)
+
+## ENT-22
+
+259. [Enough pledges. Enough capacity to fulfil?](enough-pledges-enough-capacity.html)
