@@ -1106,3 +1106,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## ACC-24
 
 277. [Expected repairs. Already a liability?](expected-repairs-already-liability.html)
+
+## FIN-24
+
+278. [A lower premium. How much risk stays here?](lower-premium-repeated-deductible.html)

@@ -2001,6 +2001,13 @@
       "slug": "expected-repairs-already-liability",
       "area": "Accounting, audit and management control",
       "title": "Expected repairs. Already a liability?"
+    },
+    {
+      "legacy_id": 278,
+      "code": "FIN-24",
+      "slug": "lower-premium-repeated-deductible",
+      "area": "Finance, banking and insurance",
+      "title": "A lower premium. How much risk stays here?"
     }
   ]
 }
