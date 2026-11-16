@@ -1896,6 +1896,13 @@
       "slug": "cash-choice-goods-available",
       "area": "Sustainability, social enterprise and public management",
       "title": "Cash support. Or the goods people need?"
+    },
+    {
+      "legacy_id": 263,
+      "code": "ECO-22",
+      "slug": "two-markups-one-final-customer",
+      "area": "Economics, competition and pricing",
+      "title": "Two markups. One final customer?"
     }
   ]
 }
