@@ -1875,6 +1875,13 @@
       "slug": "enough-pledges-enough-capacity",
       "area": "Entrepreneurship, innovation and family business",
       "title": "Enough pledges. Enough capacity to fulfil?"
+    },
+    {
+      "legacy_id": 260,
+      "code": "IS-22",
+      "slug": "one-winner-many-comparisons",
+      "area": "Information systems, AI and business analytics",
+      "title": "One winning result. How many chances to win?"
     }
   ]
 }

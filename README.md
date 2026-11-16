@@ -1034,3 +1034,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## ENT-22
 
 259. [Enough pledges. Enough capacity to fulfil?](enough-pledges-enough-capacity.html)
+
+## IS-22
+
+260. [One winning result. How many chances to win?](one-winner-many-comparisons.html)
