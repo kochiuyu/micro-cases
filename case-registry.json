@@ -2092,6 +2092,13 @@
       "slug": "shipment-complete-documents-complying",
       "area": "Finance, banking and insurance",
       "title": "Payment promised. Documents accepted?"
+    },
+    {
+      "legacy_id": 291,
+      "code": "MKT-25",
+      "slug": "every-week-present-moment",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "Advertise every week. Or be present at the moment?"
     }
   ]
 }

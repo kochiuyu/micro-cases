@@ -1158,3 +1158,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## FIN-25
 
 290. [Payment promised. Documents accepted?](shipment-complete-documents-complying.html)
+
+## MKT-25
+
+291. [Advertise every week. Or be present at the moment?](every-week-present-moment.html)
