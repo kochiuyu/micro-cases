@@ -328,3 +328,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 284 | IS-24 | [same-customer-different-records.html](../same-customer-different-records.html) | The same customer. Two different records? |
 | 285 | GVR-24 | [permission-service-permission-research.html](../permission-service-permission-research.html) | Permission for service. Permission for research? |
 | 286 | SUS-24 | [outside-site-not-outside-impact.html](../outside-site-not-outside-impact.html) | Cleaner here. Dirtier somewhere else? |
+| 287 | ECO-24 | [split-surplus-compare-alternative.html](../split-surplus-compare-alternative.html) | Split the surplus. Compare which alternative? |

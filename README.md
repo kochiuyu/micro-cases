@@ -1142,3 +1142,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## SUS-24
 
 286. [Cleaner here. Dirtier somewhere else?](outside-site-not-outside-impact.html)
+
+## ECO-24
+
+287. [Split the surplus. Compare which alternative?](split-surplus-compare-alternative.html)

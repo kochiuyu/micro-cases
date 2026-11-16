@@ -2064,6 +2064,13 @@
       "slug": "outside-site-not-outside-impact",
       "area": "Sustainability, social enterprise and public management",
       "title": "Cleaner here. Dirtier somewhere else?"
+    },
+    {
+      "legacy_id": 287,
+      "code": "ECO-24",
+      "slug": "split-surplus-compare-alternative",
+      "area": "Economics, competition and pricing",
+      "title": "Split the surplus. Compare which alternative?"
     }
   ]
 }
