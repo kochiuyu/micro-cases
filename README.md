@@ -986,3 +986,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## ENT-21
 
 247. [The clever solution. The costly problem?](clever-solution-costly-problem.html)
+
+## IS-21
+
+248. [The number improved. Beyond ordinary variation?](improvement-beyond-ordinary-variation.html)
