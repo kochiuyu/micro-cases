@@ -982,3 +982,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## STR-21
 
 246. [Follow the plan. Recognise a better pattern?](follow-the-plan-recognise-the-pattern.html)
+
+## ENT-21
+
+247. [The clever solution. The costly problem?](clever-solution-costly-problem.html)

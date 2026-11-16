@@ -288,3 +288,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 244 | OPS-21 | [components-ready-in-the-right-week.html](../components-ready-in-the-right-week.html) | Enough components. Ready in the right week? |
 | 245 | PPL-21 | [useful-feedback-useful-to-do-what.html](../useful-feedback-useful-to-do-what.html) | Useful feedback. Useful to do what? |
 | 246 | STR-21 | [follow-the-plan-recognise-the-pattern.html](../follow-the-plan-recognise-the-pattern.html) | Follow the plan. Recognise a better pattern? |
+| 247 | ENT-21 | [clever-solution-costly-problem.html](../clever-solution-costly-problem.html) | The clever solution. The costly problem? |
