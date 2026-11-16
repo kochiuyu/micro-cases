@@ -978,3 +978,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## PPL-21
 
 245. [Useful feedback. Useful to do what?](useful-feedback-useful-to-do-what.html)
+
+## STR-21
+
+246. [Follow the plan. Recognise a better pattern?](follow-the-plan-recognise-the-pattern.html)

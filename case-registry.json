@@ -1777,6 +1777,13 @@
       "slug": "useful-feedback-useful-to-do-what",
       "area": "People, leadership and organisational behaviour",
       "title": "Useful feedback. Useful to do what?"
+    },
+    {
+      "legacy_id": 246,
+      "code": "STR-21",
+      "slug": "follow-the-plan-recognise-the-pattern",
+      "area": "Strategy and international business",
+      "title": "Follow the plan. Recognise a better pattern?"
     }
   ]
 }
