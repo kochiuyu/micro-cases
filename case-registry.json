@@ -2085,6 +2085,13 @@
       "slug": "depreciated-schedule-worth-carrying",
       "area": "Accounting, audit and management control",
       "title": "Depreciated on schedule. Still worth carrying?"
+    },
+    {
+      "legacy_id": 290,
+      "code": "FIN-25",
+      "slug": "shipment-complete-documents-complying",
+      "area": "Finance, banking and insurance",
+      "title": "Payment promised. Documents accepted?"
     }
   ]
 }

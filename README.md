@@ -1154,3 +1154,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## ACC-25
 
 289. [Depreciated on schedule. Still worth carrying?](depreciated-schedule-worth-carrying.html)
+
+## FIN-25
+
+290. [Payment promised. Documents accepted?](shipment-complete-documents-complying.html)
