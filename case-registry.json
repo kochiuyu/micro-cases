@@ -2162,6 +2162,174 @@
       "slug": "festival-spending-stays-local",
       "area": "Hospitality, tourism, property and service management",
       "title": "The festival fills the town. Does the town benefit?"
+    },
+    {
+      "legacy_id": 301,
+      "code": "ACC-26",
+      "slug": "a-group-sale-a-group-profit",
+      "area": "Accounting, audit and management control",
+      "title": "A group sale. A group profit?"
+    },
+    {
+      "legacy_id": 302,
+      "code": "FIN-26",
+      "slug": "cash-flows-continue-ending-worth",
+      "area": "Finance, banking and insurance",
+      "title": "Cash flows continue. How much is the ending worth?"
+    },
+    {
+      "legacy_id": 303,
+      "code": "MKT-26",
+      "slug": "same-price-clearer-customer-value",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "A lower price. A clearer customer business case?"
+    },
+    {
+      "legacy_id": 304,
+      "code": "OPS-26",
+      "slug": "same-pass-rate-different-flow",
+      "area": "Operations, supply chains and logistics",
+      "title": "Ninety-eight per cent at every stage. What leaves the line?"
+    },
+    {
+      "legacy_id": 305,
+      "code": "PPL-26",
+      "slug": "slower-colleague-harder-queue",
+      "area": "People, leadership and organisational behaviour",
+      "title": "A slower colleague. Or a harder queue?"
+    },
+    {
+      "legacy_id": 306,
+      "code": "STR-26",
+      "slug": "local-design-global-learning",
+      "area": "Strategy and international business",
+      "title": "One global product. One global learning direction?"
+    },
+    {
+      "legacy_id": 307,
+      "code": "ENT-26",
+      "slug": "endorsed-by-whom-credible-to-whom",
+      "area": "Entrepreneurship, innovation and family business",
+      "title": "Endorsed by whom. Credible to whom?"
+    },
+    {
+      "legacy_id": 308,
+      "code": "IS-26",
+      "slug": "two-confirmations-one-order",
+      "area": "Information systems, AI and business analytics",
+      "title": "Two confirmations. One order?"
+    },
+    {
+      "legacy_id": 309,
+      "code": "GVR-26",
+      "slug": "dispute-pending-service-continuing",
+      "area": "Governance, law, ethics and risk",
+      "title": "A dispute pending. What can still continue?"
+    },
+    {
+      "legacy_id": 310,
+      "code": "SUS-26",
+      "slug": "transition-jobs-between-dates",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "A better transition. For whom, and when?"
+    },
+    {
+      "legacy_id": 311,
+      "code": "ECO-26",
+      "slug": "same-cap-different-reductions",
+      "area": "Economics, competition and pricing",
+      "title": "Same target. Same reduction at every plant?"
+    },
+    {
+      "legacy_id": 312,
+      "code": "HSP-26",
+      "slug": "confirmed-here-missed-there",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "The check-in works. Does the handoff work?"
+    },
+    {
+      "legacy_id": 313,
+      "code": "ACC-27",
+      "slug": "result-improved-warning-missed",
+      "area": "Accounting, audit and management control",
+      "title": "The result improved. Which warning was missed?"
+    },
+    {
+      "legacy_id": 314,
+      "code": "FIN-27",
+      "slug": "credit-limit-available-draw",
+      "area": "Finance, banking and insurance",
+      "title": "A credit limit. How much can we draw?"
+    },
+    {
+      "legacy_id": 315,
+      "code": "MKT-27",
+      "slug": "smaller-pack-cheaper-quantity",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "A smaller price tag. A cheaper quantity?"
+    },
+    {
+      "legacy_id": 316,
+      "code": "OPS-27",
+      "slug": "short-shipment-which-allocation",
+      "area": "Operations, supply chains and logistics",
+      "title": "Short supply. Which allocation keeps promises?"
+    },
+    {
+      "legacy_id": 317,
+      "code": "PPL-27",
+      "slug": "flexible-business-predictable-team",
+      "area": "People, leadership and organisational behaviour",
+      "title": "Flexible for the business. Predictable for the team?"
+    },
+    {
+      "legacy_id": 318,
+      "code": "STR-27",
+      "slug": "one-acquisition-one-operating-system",
+      "area": "Strategy and international business",
+      "title": "One acquisition. One operating system?"
+    },
+    {
+      "legacy_id": 319,
+      "code": "ENT-27",
+      "slug": "one-experiment-comparable-learning",
+      "area": "Entrepreneurship, innovation and family business",
+      "title": "Learn from one experiment. Keep the learning comparable?"
+    },
+    {
+      "legacy_id": 320,
+      "code": "IS-27",
+      "slug": "consistent-sensor-correct-measurement",
+      "area": "Information systems, AI and business analytics",
+      "title": "The sensor is consistent. Is it measuring correctly?"
+    },
+    {
+      "legacy_id": 321,
+      "code": "GVR-27",
+      "slug": "local-limits-shared-exposure",
+      "area": "Governance, law, ethics and risk",
+      "title": "Within every limit. Outside the overall boundary?"
+    },
+    {
+      "legacy_id": 322,
+      "code": "SUS-27",
+      "slug": "restore-later-not-reversible",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "Restore later. Lose something now?"
+    },
+    {
+      "legacy_id": 323,
+      "code": "ECO-27",
+      "slug": "winning-effort-vanishing-prize",
+      "area": "Economics, competition and pricing",
+      "title": "More effort. No larger prize."
+    },
+    {
+      "legacy_id": 324,
+      "code": "HSP-27",
+      "slug": "fewer-stops-clearer-story",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "Three landmarks, or one connected story?"
     }
   ]
 }

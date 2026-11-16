@@ -4,25 +4,25 @@ The first 240 cases are complete. The approved [next expansion plan](expansion-t
 
 ## Coverage ledger
 
-300 cases are published: the original 120 plus 180 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+324 cases are published: the original 120 plus 204 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
 | Primary teaching area | Published case numbers | Planned case numbers | Remaining cases to reach thirty | Example decision to scout |
 |---|---|---|---:|---|
-| Accounting, audit and management control | 9, 24, 30, 40, 52, 61, 73, 85, 97, 109, 121, 133, 145, 157, 169, 181, 193, 205, 217, 229, 241, 253, 265, 277, 289 | — | 5 | A division misses its target after a shared cost is reassigned. Cut its budget or change the measure? |
-| Finance, banking and insurance | 2, 7, 18, 38, 50, 62, 74, 86, 98, 110, 122, 134, 146, 158, 170, 182, 194, 206, 218, 230, 242, 254, 266, 278, 290 | — | 5 | A major customer asks for longer payment terms. What would you ask for in return? |
-| Marketing, retail and consumer behaviour | 11, 19, 31, 41, 57, 63, 75, 87, 99, 111, 123, 135, 147, 159, 171, 183, 195, 207, 219, 231, 243, 255, 267, 279, 291 | — | 5 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
-| Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88, 100, 112, 124, 136, 148, 160, 172, 184, 196, 208, 220, 232, 244, 256, 268, 280, 292 | — | 5 | Ship the whole order late or pay to send half by air? |
-| People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77, 89, 101, 113, 125, 137, 149, 161, 173, 185, 197, 209, 221, 233, 245, 257, 269, 281, 293 | — | 5 | A high-performing team refuses a promotion for its best member. Who should lead? |
-| Strategy and international business | 13, 21, 33, 43, 60, 66, 78, 90, 102, 114, 126, 138, 150, 162, 174, 186, 198, 210, 222, 234, 246, 258, 270, 282, 294 | — | 5 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
-| Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79, 91, 103, 115, 127, 139, 151, 163, 175, 187, 199, 211, 223, 235, 247, 259, 271, 283, 295 | — | 5 | A buyer wants the family brand and its name. Which terms would the founders accept? |
-| Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71, 81, 92, 104, 116, 128, 140, 152, 164, 176, 188, 200, 212, 224, 236, 248, 260, 272, 284, 296 | — | 5 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
-| Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93, 105, 117, 129, 141, 153, 165, 177, 189, 201, 213, 225, 237, 249, 261, 273, 285, 297 | — | 5 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
-| Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142, 154, 166, 178, 190, 202, 214, 226, 238, 250, 262, 274, 286, 298 | — | 5 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
-| Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143, 155, 167, 179, 191, 203, 215, 227, 239, 251, 263, 275, 287, 299 | — | 5 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
-| Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144, 156, 168, 180, 192, 204, 216, 228, 240, 252, 264, 276, 288, 300 | — | 5 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **300 published** | **60 approved editorial slots** | **60** | |
+| Accounting, audit and management control | 9, 24, 30, 40, 52, 61, 73, 85, 97, 109, 121, 133, 145, 157, 169, 181, 193, 205, 217, 229, 241, 253, 265, 277, 289, 301, 313 | — | 3 | A division misses its target after a shared cost is reassigned. Cut its budget or change the measure? |
+| Finance, banking and insurance | 2, 7, 18, 38, 50, 62, 74, 86, 98, 110, 122, 134, 146, 158, 170, 182, 194, 206, 218, 230, 242, 254, 266, 278, 290, 302, 314 | — | 3 | A major customer asks for longer payment terms. What would you ask for in return? |
+| Marketing, retail and consumer behaviour | 11, 19, 31, 41, 57, 63, 75, 87, 99, 111, 123, 135, 147, 159, 171, 183, 195, 207, 219, 231, 243, 255, 267, 279, 291, 303, 315 | — | 3 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
+| Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88, 100, 112, 124, 136, 148, 160, 172, 184, 196, 208, 220, 232, 244, 256, 268, 280, 292, 304, 316 | — | 3 | Ship the whole order late or pay to send half by air? |
+| People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77, 89, 101, 113, 125, 137, 149, 161, 173, 185, 197, 209, 221, 233, 245, 257, 269, 281, 293, 305, 317 | — | 3 | A high-performing team refuses a promotion for its best member. Who should lead? |
+| Strategy and international business | 13, 21, 33, 43, 60, 66, 78, 90, 102, 114, 126, 138, 150, 162, 174, 186, 198, 210, 222, 234, 246, 258, 270, 282, 294, 306, 318 | — | 3 | A distributor guarantees sales in a new market but demands exclusivity. Sign? |
+| Entrepreneurship, innovation and family business | 23, 28, 36, 48, 58, 68, 79, 91, 103, 115, 127, 139, 151, 163, 175, 187, 199, 211, 223, 235, 247, 259, 271, 283, 295, 307, 319 | — | 3 | A buyer wants the family brand and its name. Which terms would the founders accept? |
+| Information systems, AI and business analytics | 3, 26, 35, 44, 53, 71, 81, 92, 104, 116, 128, 140, 152, 164, 176, 188, 200, 212, 224, 236, 248, 260, 272, 284, 296, 308, 320 | — | 3 | A forecasting tool beats staff on average but misses festival demand. Who can override it? |
+| Governance, law, ethics and risk | 12, 22, 32, 45, 56, 72, 82, 93, 105, 117, 129, 141, 153, 165, 177, 189, 201, 213, 225, 237, 249, 261, 273, 285, 297, 309, 321 | — | 3 | A supplier passes an audit, then workers dispute its findings. Release the next order? |
+| Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142, 154, 166, 178, 190, 202, 214, 226, 238, 250, 262, 274, 286, 298, 310, 322 | — | 3 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
+| Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143, 155, 167, 179, 191, 203, 215, 227, 239, 251, 263, 275, 287, 299, 311, 323 | — | 3 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
+| Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144, 156, 168, 180, 192, 204, 216, 228, 240, 252, 264, 276, 288, 300, 312, 324 | — | 3 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
+| **Total** | **324 published** | **36 approved editorial slots** | **36** | |
 
 ## How a lead earns a place
 

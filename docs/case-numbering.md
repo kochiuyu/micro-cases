@@ -342,3 +342,27 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 298 | SUS-25 | [cheaper-now-through-the-service-life.html](../cheaper-now-through-the-service-life.html) | The cheapest green purchase. Over which lifetime? |
 | 299 | ECO-25 | [buy-today-wait-for-the-discount.html](../buy-today-wait-for-the-discount.html) | Buy today. Wait for tomorrow’s discount? |
 | 300 | HSP-25 | [festival-spending-stays-local.html](../festival-spending-stays-local.html) | The festival fills the town. Does the town benefit? |
+| 301 | ACC-26 | [a-group-sale-a-group-profit.html](../a-group-sale-a-group-profit.html) | A group sale. A group profit? |
+| 302 | FIN-26 | [cash-flows-continue-ending-worth.html](../cash-flows-continue-ending-worth.html) | Cash flows continue. How much is the ending worth? |
+| 303 | MKT-26 | [same-price-clearer-customer-value.html](../same-price-clearer-customer-value.html) | A lower price. A clearer customer business case? |
+| 304 | OPS-26 | [same-pass-rate-different-flow.html](../same-pass-rate-different-flow.html) | Ninety-eight per cent at every stage. What leaves the line? |
+| 305 | PPL-26 | [slower-colleague-harder-queue.html](../slower-colleague-harder-queue.html) | A slower colleague. Or a harder queue? |
+| 306 | STR-26 | [local-design-global-learning.html](../local-design-global-learning.html) | One global product. One global learning direction? |
+| 307 | ENT-26 | [endorsed-by-whom-credible-to-whom.html](../endorsed-by-whom-credible-to-whom.html) | Endorsed by whom. Credible to whom? |
+| 308 | IS-26 | [two-confirmations-one-order.html](../two-confirmations-one-order.html) | Two confirmations. One order? |
+| 309 | GVR-26 | [dispute-pending-service-continuing.html](../dispute-pending-service-continuing.html) | A dispute pending. What can still continue? |
+| 310 | SUS-26 | [transition-jobs-between-dates.html](../transition-jobs-between-dates.html) | A better transition. For whom, and when? |
+| 311 | ECO-26 | [same-cap-different-reductions.html](../same-cap-different-reductions.html) | Same target. Same reduction at every plant? |
+| 312 | HSP-26 | [confirmed-here-missed-there.html](../confirmed-here-missed-there.html) | The check-in works. Does the handoff work? |
+| 313 | ACC-27 | [result-improved-warning-missed.html](../result-improved-warning-missed.html) | The result improved. Which warning was missed? |
+| 314 | FIN-27 | [credit-limit-available-draw.html](../credit-limit-available-draw.html) | A credit limit. How much can we draw? |
+| 315 | MKT-27 | [smaller-pack-cheaper-quantity.html](../smaller-pack-cheaper-quantity.html) | A smaller price tag. A cheaper quantity? |
+| 316 | OPS-27 | [short-shipment-which-allocation.html](../short-shipment-which-allocation.html) | Short supply. Which allocation keeps promises? |
+| 317 | PPL-27 | [flexible-business-predictable-team.html](../flexible-business-predictable-team.html) | Flexible for the business. Predictable for the team? |
+| 318 | STR-27 | [one-acquisition-one-operating-system.html](../one-acquisition-one-operating-system.html) | One acquisition. One operating system? |
+| 319 | ENT-27 | [one-experiment-comparable-learning.html](../one-experiment-comparable-learning.html) | Learn from one experiment. Keep the learning comparable? |
+| 320 | IS-27 | [consistent-sensor-correct-measurement.html](../consistent-sensor-correct-measurement.html) | The sensor is consistent. Is it measuring correctly? |
+| 321 | GVR-27 | [local-limits-shared-exposure.html](../local-limits-shared-exposure.html) | Within every limit. Outside the overall boundary? |
+| 322 | SUS-27 | [restore-later-not-reversible.html](../restore-later-not-reversible.html) | Restore later. Lose something now? |
+| 323 | ECO-27 | [winning-effort-vanishing-prize.html](../winning-effort-vanishing-prize.html) | More effort. No larger prize. |
+| 324 | HSP-27 | [fewer-stops-clearer-story.html](../fewer-stops-clearer-story.html) | Three landmarks, or one connected story? |

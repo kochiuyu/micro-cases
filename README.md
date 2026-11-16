@@ -1198,3 +1198,99 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## HSP-25
 
 300. [The festival fills the town. Does the town benefit?](festival-spending-stays-local.html)
+
+## ACC-26
+
+301. [A group sale. A group profit?](a-group-sale-a-group-profit.html)
+
+## FIN-26
+
+302. [Cash flows continue. How much is the ending worth?](cash-flows-continue-ending-worth.html)
+
+## MKT-26
+
+303. [A lower price. A clearer customer business case?](same-price-clearer-customer-value.html)
+
+## OPS-26
+
+304. [Ninety-eight per cent at every stage. What leaves the line?](same-pass-rate-different-flow.html)
+
+## PPL-26
+
+305. [A slower colleague. Or a harder queue?](slower-colleague-harder-queue.html)
+
+## STR-26
+
+306. [One global product. One global learning direction?](local-design-global-learning.html)
+
+## ENT-26
+
+307. [Endorsed by whom. Credible to whom?](endorsed-by-whom-credible-to-whom.html)
+
+## IS-26
+
+308. [Two confirmations. One order?](two-confirmations-one-order.html)
+
+## GVR-26
+
+309. [A dispute pending. What can still continue?](dispute-pending-service-continuing.html)
+
+## SUS-26
+
+310. [A better transition. For whom, and when?](transition-jobs-between-dates.html)
+
+## ECO-26
+
+311. [Same target. Same reduction at every plant?](same-cap-different-reductions.html)
+
+## HSP-26
+
+312. [The check-in works. Does the handoff work?](confirmed-here-missed-there.html)
+
+## ACC-27
+
+313. [The result improved. Which warning was missed?](result-improved-warning-missed.html)
+
+## FIN-27
+
+314. [A credit limit. How much can we draw?](credit-limit-available-draw.html)
+
+## MKT-27
+
+315. [A smaller price tag. A cheaper quantity?](smaller-pack-cheaper-quantity.html)
+
+## OPS-27
+
+316. [Short supply. Which allocation keeps promises?](short-shipment-which-allocation.html)
+
+## PPL-27
+
+317. [Flexible for the business. Predictable for the team?](flexible-business-predictable-team.html)
+
+## STR-27
+
+318. [One acquisition. One operating system?](one-acquisition-one-operating-system.html)
+
+## ENT-27
+
+319. [Learn from one experiment. Keep the learning comparable?](one-experiment-comparable-learning.html)
+
+## IS-27
+
+320. [The sensor is consistent. Is it measuring correctly?](consistent-sensor-correct-measurement.html)
+
+## GVR-27
+
+321. [Within every limit. Outside the overall boundary?](local-limits-shared-exposure.html)
+
+## SUS-27
+
+322. [Restore later. Lose something now?](restore-later-not-reversible.html)
+
+## ECO-27
+
+323. [More effort. No larger prize.](winning-effort-vanishing-prize.html)
+
+## HSP-27
+
+324. [Three landmarks, or one connected story?](fewer-stops-clearer-story.html)
