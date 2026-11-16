@@ -1805,6 +1805,13 @@
       "slug": "cheap-contract-uncapped-exposure",
       "area": "Governance, law, ethics and risk",
       "title": "A cheap contract. An uncapped exposure?"
+    },
+    {
+      "legacy_id": 250,
+      "code": "SUS-21",
+      "slug": "efficient-device-total-energy",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "A more efficient device. Less total energy?"
     }
   ]
 }

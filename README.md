@@ -994,3 +994,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## GVR-21
 
 249. [A cheap contract. An uncapped exposure?](cheap-contract-uncapped-exposure.html)
+
+## SUS-21
+
+250. [A more efficient device. Less total energy?](efficient-device-total-energy.html)
