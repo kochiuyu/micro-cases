@@ -1146,3 +1146,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## ECO-24
 
 287. [Split the surplus. Compare which alternative?](split-surplus-compare-alternative.html)
+
+## HSP-24
+
+288. [More reviews. A more trustworthy picture?](review-history-current-offer.html)

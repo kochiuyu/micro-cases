@@ -2071,6 +2071,13 @@
       "slug": "split-surplus-compare-alternative",
       "area": "Economics, competition and pricing",
       "title": "Split the surplus. Compare which alternative?"
+    },
+    {
+      "legacy_id": 288,
+      "code": "HSP-24",
+      "slug": "review-history-current-offer",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "More reviews. A more trustworthy picture?"
     }
   ]
 }
