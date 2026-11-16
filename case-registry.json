@@ -1854,6 +1854,13 @@
       "slug": "shorten-the-task-or-the-project",
       "area": "Operations, supply chains and logistics",
       "title": "Shorten the longest task. Finish the project sooner?"
+    },
+    {
+      "legacy_id": 257,
+      "code": "PPL-22",
+      "slug": "different-priorities-better-package",
+      "area": "People, leadership and organisational behaviour",
+      "title": "A disagreement over pay. Or over the package?"
     }
   ]
 }

@@ -1022,3 +1022,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## OPS-22
 
 256. [Shorten the longest task. Finish the project sooner?](shorten-the-task-or-the-project.html)
+
+## PPL-22
+
+257. [A disagreement over pay. Or over the package?](different-priorities-better-package.html)
