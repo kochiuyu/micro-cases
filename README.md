@@ -1002,3 +1002,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## ECO-21
 
 251. [A lower price for some. Can the groups stay separate?](lower-price-groups-stay-separate.html)
+
+## HSP-21
+
+252. [The room is larger. Does it feel usable?](room-features-usable-space.html)

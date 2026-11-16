@@ -1819,6 +1819,13 @@
       "slug": "lower-price-groups-stay-separate",
       "area": "Economics, competition and pricing",
       "title": "A lower price for some. Can the groups stay separate?"
+    },
+    {
+      "legacy_id": 252,
+      "code": "HSP-21",
+      "slug": "room-features-usable-space",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "The room is larger. Does it feel usable?"
     }
   ]
 }
