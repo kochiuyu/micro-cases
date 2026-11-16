@@ -290,3 +290,4 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 246 | STR-21 | [follow-the-plan-recognise-the-pattern.html](../follow-the-plan-recognise-the-pattern.html) | Follow the plan. Recognise a better pattern? |
 | 247 | ENT-21 | [clever-solution-costly-problem.html](../clever-solution-costly-problem.html) | The clever solution. The costly problem? |
 | 248 | IS-21 | [improvement-beyond-ordinary-variation.html](../improvement-beyond-ordinary-variation.html) | The number improved. Beyond ordinary variation? |
+| 249 | GVR-21 | [cheap-contract-uncapped-exposure.html](../cheap-contract-uncapped-exposure.html) | A cheap contract. An uncapped exposure? |

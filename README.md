@@ -990,3 +990,7 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## IS-21
 
 248. [The number improved. Beyond ordinary variation?](improvement-beyond-ordinary-variation.html)
+
+## GVR-21
+
+249. [A cheap contract. An uncapped exposure?](cheap-contract-uncapped-exposure.html)
