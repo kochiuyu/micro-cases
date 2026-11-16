@@ -1903,6 +1903,13 @@
       "slug": "two-markups-one-final-customer",
       "area": "Economics, competition and pricing",
       "title": "Two markups. One final customer?"
+    },
+    {
+      "legacy_id": 264,
+      "code": "HSP-22",
+      "slug": "same-nights-more-departures",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "The same occupied nights. The same cleaning workload?"
     }
   ]
 }

@@ -26,7 +26,7 @@ Initial conversations suggest varied needs. Local shops are open, but the team h
 | --- | --- | --- |
 | Each transfer | HK$200 unrestricted | Detergent 40 + paper goods 60 + staples 100 |
 | Transfer/procurement total | HK$20,000 | HK$20,000 |
-| Complete delivery/administration | HK$2,000 | HK$2,000 |
+| Complete delivery / administration | HK$2,000 | HK$2,000 |
 | Total | HK$22,000 | HK$22,000 |
 
 All amounts HK dollars. Equal programme cost is not equal personal benefit. Package is not a complete diet or sufficiency standard.
