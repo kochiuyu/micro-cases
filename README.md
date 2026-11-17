@@ -1486,3 +1486,51 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## HSP-31
 
 372. [Fewer bookings today. Behind the booking curve?](fewer-bookings-behind-the-curve.html)
+
+## ACC-32
+
+373. [Rejects. Which loss belongs in stock?](rejects-which-loss-belongs-in-stock.html)
+
+## FIN-32
+
+374. [More return on equity. More risk to equity?](more-return-more-equity-risk.html)
+
+## MKT-32
+
+375. [A generous referral. A trustworthy recommendation?](same-reward-different-recipient.html)
+
+## OPS-32
+
+376. [First in. First to expire?](first-in-first-to-expire.html)
+
+## PPL-32
+
+377. [Someone knows. Who knows who?](someone-knows-who-knows-who.html)
+
+## STR-32
+
+378. [On both platforms. Loyal to neither?](on-both-platforms.html)
+
+## ENT-32
+
+379. [The investor brings customers. Which customers may we serve?](investor-access-commercial-freedom.html)
+
+## IS-32
+
+380. [A positive average. The same rollout for everyone?](positive-average-same-rollout.html)
+
+## GVR-32
+
+381. [A donation is generous. Whose interests does it serve?](generous-donation-whose-benefit.html)
+
+## SUS-32
+
+382. [A clean recycling stream. One contaminated load?](one-contaminated-load.html)
+
+## ECO-32
+
+383. [Two plans. Who chooses which one?](two-plans-who-chooses.html)
+
+## HSP-32
+
+384. [The rooms stay open. Can the stay still work?](open-rooms-unavailable-purpose.html)

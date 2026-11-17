@@ -2666,6 +2666,90 @@
       "slug": "fewer-bookings-behind-the-curve",
       "area": "Hospitality, tourism, property and service management",
       "title": "Fewer bookings today. Behind the booking curve?"
+    },
+    {
+      "legacy_id": 373,
+      "code": "ACC-32",
+      "slug": "rejects-which-loss-belongs-in-stock",
+      "area": "Accounting, audit and management control",
+      "title": "Rejects. Which loss belongs in stock?"
+    },
+    {
+      "legacy_id": 374,
+      "code": "FIN-32",
+      "slug": "more-return-more-equity-risk",
+      "area": "Finance, banking and insurance",
+      "title": "More return on equity. More risk to equity?"
+    },
+    {
+      "legacy_id": 375,
+      "code": "MKT-32",
+      "slug": "same-reward-different-recipient",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "A generous referral. A trustworthy recommendation?"
+    },
+    {
+      "legacy_id": 376,
+      "code": "OPS-32",
+      "slug": "first-in-first-to-expire",
+      "area": "Operations, supply chains and logistics",
+      "title": "First in. First to expire?"
+    },
+    {
+      "legacy_id": 377,
+      "code": "PPL-32",
+      "slug": "someone-knows-who-knows-who",
+      "area": "People, leadership and organisational behaviour",
+      "title": "Someone knows. Who knows who?"
+    },
+    {
+      "legacy_id": 378,
+      "code": "STR-32",
+      "slug": "on-both-platforms",
+      "area": "Strategy and international business",
+      "title": "On both platforms. Loyal to neither?"
+    },
+    {
+      "legacy_id": 379,
+      "code": "ENT-32",
+      "slug": "investor-access-commercial-freedom",
+      "area": "Entrepreneurship, innovation and family business",
+      "title": "The investor brings customers. Which customers may we serve?"
+    },
+    {
+      "legacy_id": 380,
+      "code": "IS-32",
+      "slug": "positive-average-same-rollout",
+      "area": "Information systems, AI and business analytics",
+      "title": "A positive average. The same rollout for everyone?"
+    },
+    {
+      "legacy_id": 381,
+      "code": "GVR-32",
+      "slug": "generous-donation-whose-benefit",
+      "area": "Governance, law, ethics and risk",
+      "title": "A donation is generous. Whose interests does it serve?"
+    },
+    {
+      "legacy_id": 382,
+      "code": "SUS-32",
+      "slug": "one-contaminated-load",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "A clean recycling stream. One contaminated load?"
+    },
+    {
+      "legacy_id": 383,
+      "code": "ECO-32",
+      "slug": "two-plans-who-chooses",
+      "area": "Economics, competition and pricing",
+      "title": "Two plans. Who chooses which one?"
+    },
+    {
+      "legacy_id": 384,
+      "code": "HSP-32",
+      "slug": "open-rooms-unavailable-purpose",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "The rooms stay open. Can the stay still work?"
     }
   ]
 }

@@ -1,0 +1,86 @@
+# First in. First to expire?
+
+<!-- legacy-case-id: 376 -->
+
+OPS-32 · Singapore · 15–20 minutes · FIFO and FEFO · Remaining shelf life · Order eligibility
+
+![Two fictional adult warehouse colleagues compare plain dated lot cards beside two trays of sealed pantry food packs in an orderly stockroom.](../first-in-first-to-expire-scene.jpg)
+
+## Two dates, different picking priorities
+
+Singapore’s NEA and AVA supermarket guide, published 13 October 2017, distinguishes rotation by receipt date from rotation by expiry date. It also recommends checking incoming goods and recording both dates. The guide provides operational context, not a shelf-life assessment of the fictional food below.
+
+## Opening decision
+
+It is 1 December 2026. You plan dispatches at fictional Singapore pantry distributor Bay Cupboard. Two sealed lots of the same non-medical food product are available. Choose a picking rule for two accepted orders: oldest receipt first (FIFO), or earliest expiry first (FEFO), after checking each order’s eligibility.
+
+Aster needs 40 packs delivered on 1 December. Birch needs 20 on 2 December. Dispatch and receipt occur on the stated day with verified appropriate handling. Both orders must be filled completely and on time. Handling costs and selling terms are identical under either rule; no delivery has been released.
+
+Lot L contains 60 packs received on 25 November; lot S contains 30 packs received on 28 November. Their expiry dates and customer minimum remaining-life requirements await the final checked worksheet. The receipt sequence alone does not establish which lot will expire first.
+
+All packs have passed required checks and remain correctly stored, sealed and traceable. The expiry dates are hard last-use limits for this exercise, not best-before quality dates. Expired stock must be isolated and disposed of under the approved procedure, never sold, used or donated. Dates cannot be extended or relabelled.
+
+The comparison ends at opening on 7 December. There are no other orders, replenishments, supplier returns or feasible redistribution channels before then. Do not invent extra demand or assume later sales. Each pack has S$4 inventory carrying value, not retail price. Disposal arrangements are already funded and unchanged by this choice.
+
+## Evidence
+
+| Lot | Packs | Received in 2026 |
+| --- | --- | --- |
+| L | 60 | 25 November |
+| S | 30 | 28 November |
+
+**Student question:** Would you approve receipt-order picking now, or require the missing dates and customer rules before allocation? Explain why 90 available packs do not by themselves settle the picking sequence for 60 ordered packs.
+
+## Round two
+
+The verified worksheet shows lot L expires at the end of 20 December 2026; lot S expires at the end of 6 December 2026. The later-received lot therefore expires sooner. All other condition and storage checks remain satisfied.
+
+Aster requires at least 14 calendar days of remaining life at receipt; Birch requires at least two. For this exercise, remaining days equal expiry calendar date minus customer receipt date, without adding an inclusive day. These are binding order terms, not optional preferences or universal food-safety limits.
+
+Both FIFO and FEFO must first exclude any lot that fails the receiving customer’s requirement. Among eligible lots, FIFO picks the earliest warehouse receipt; FEFO picks the earliest expiry. Process Aster’s order first, then Birch’s. No order quantities, dates, costs or required controls change.
+
+**Student question:** Allocate each order under eligible FIFO and eligible FEFO. How many packs expire by 7 December, and what carrying-value write-off does each rule produce? Explain why blind earliest-expiry picking is not acceptable.
+
+## Debrief · Eligibility comes first
+
+For Aster on 1 December, L has 20 − 1 = 19 days remaining; S has 6 − 1 = 5. Only L meets the 14-day requirement. Both rules therefore send Aster 40 L packs, leaving 20 L and 30 S. Sending S merely because it expires first would break the order terms.
+
+For Birch on 2 December, L has 18 days and S has four. Both exceed the two-day minimum. This is where the rotation rules diverge: FIFO prefers L’s earlier receipt, while FEFO prefers S’s earlier expiry. Eligibility is checked at the customer’s receipt date, not the warehouse’s receipt date.
+
+## Debrief · Follow eligible FIFO
+
+FIFO supplies Birch’s 20 packs from L. All 60 L packs have now been delivered, while all 30 S packs remain. With no further permitted outlet before expiry, S is removed from usable stock after 6 December. The write-off at 7 December is 30 × S$4 = **S$120**.
+
+## Debrief · Follow eligible FEFO
+
+FEFO supplies Birch’s 20 packs from S. Remaining stock is 20 L and 10 S. The 10 S packs expire after 6 December and are isolated for disposal. The write-off is 10 × S$4 = **S$40**. L’s 20 packs remain unexpired on 7 December, carrying S$80 under the supplied assumptions.
+
+## Debrief · Compare like with like
+
+Both rules fulfil all 60 ordered packs. FEFO avoids 20 expired packs and **S$80** of carrying-value write-off within this horizon: S$120 − S$40. It does not create 20 extra sales, S$80 cash receipts or an S$80 disposal saving. Future demand and the eventual fate of retained L stock are not established.
+
+The stock accounts reconcile separately. FIFO: 90 opening = 60 delivered + 30 expired. FEFO: 90 = 60 delivered + 10 expired + 20 unexpired. Ten S packs still expire under the better rule because only Birch’s 20-pack order is eligible to use S. Rotation cannot manufacture suitable demand.
+
+## Debrief · Make the rule executable
+
+Recommend FEFO after eligibility checks for this plan. Keep lot identifiers, available quantities, warehouse receipt dates, verified expiry dates, customer receipt dates and minimum-life terms visible together. Record each lot allocation and flag rejected candidates. A scanned date helps only if its meaning and accuracy are checked.
+
+Receipt order is a useful shortcut only when it aligns with the relevant expiry sequence and customer requirements. Different transport times, storage failures or customer terms can change eligibility. This exercise supplies safe conditions; a date calculation never overrides a failed safety check or authorises use after expiry.
+
+## Instructor note
+
+Minutes 0–4: vote on whether receipt dates suffice. Minutes 4–9: reveal the worksheet and build a two-customer eligibility grid. Minutes 9–14: trace each rule’s remaining stock. Minutes 14–18: reconcile quantities and explain the S$80 boundary. Require students to name both the date and denominator used.
+
+Contrast OPS-27: no order is rationed here. Contrast OPS-15: this is normal forward distribution, not returned-goods repair routing. Contrast OPS-30: there is no contamination or mock recall. OPS-31 tests loading space; this case tests eligible shelf life. Never improve the answer by relaxing expiry controls or customer commitments.
+
+## Sources and case assumptions · optional reference
+
+All information needed for classroom decisions is provided above. Sources are optional reading.
+
+Original fictional distributor, lots, dates, orders and values. Dates are in 2026; the horizon ends at opening on 7 December. The product is non-medical food; expiry dates are stipulated hard last-use limits, not general claims about all date labels. Verified safe storage, sealed packs and release checks remain mandatory. No freezing, relabelling, expiry extension, late sale, use or donation is allowed. No extra orders, replenishment, returns or redistribution are feasible within the horizon. Both customer minimum-life rules apply at receipt using calendar-date subtraction. S$4 is inventory carrying value, not sales revenue; unexpired L remains at that value in this bounded comparison. Handling and funded disposal arrangements are unchanged. Retained stock is not a guaranteed later sale. Sources support rotation, data fields and safety boundaries, not these fictional dates, product life or customer terms.
+
+- [NEA and AVA · Food Waste Minimisation Guidebook for Supermarkets · 13 October 2017](https://www.nea.gov.sg/docs/default-source/our-services/waste-management/fwm-guidebook-for-supermarkets-%28resized%29.pdf). Printed page 8 distinguishes receipt-date FIFO from expiry-date FEFO and describes receiving checks and date labels. Historical operational guidance, not a product-specific shelf-life determination.
+- [Microsoft Learn · Master planning for products with limited shelf life](https://learn.microsoft.com/en-us/dynamics365/supply-chain/master-planning/planning-optimization/shelf-life). The sellable-days section describes customer-specific remaining-life requirements based on receipt date; example 3 excludes stock that expires too soon. Software documentation illustrates a planning concept, not a mandate to use this software.
+- [GS1 Denmark · Application Identifiers](https://www.gs1.dk/en/about-gs1/overview-of-gs1-standards/application-identifiers). Separates batch/lot identity, best-before, last-sale and expiry fields. These data meanings support accurate records; a barcode does not certify a product as safe or determine a customer’s contract.
+- [FAO · How to reduce your food waste](https://www.fao.org/platform-food-loss-waste/food-waste/food-waste-reduction/how-to-reduce-your-food-waste/). Household guidance describes moving older, sooner-expiring products forward. This illustrates the aligned-date setting; the fictional distributor deliberately has receipt and expiry sequences that differ.
+- [Food Standards Scotland · Use-by and best-before dates](https://www.foodstandards.gov.scot/consumer-advice/food-labels/use-by-and-best-before-dates). Distinguishes safety-based use-by dates from quality-based best-before dates and stresses correct storage. Used for the conceptual safety distinction, not as Singapore legal advice or permission to extend these fictional expiry dates.

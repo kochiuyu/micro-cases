@@ -414,3 +414,15 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 370 | SUS-31 | [lower-carbon-heavier-water-footprint.html](../lower-carbon-heavier-water-footprint.html) | Lower carbon. A heavier water footprint? |
 | 371 | ECO-31 | [average-quality-who-sells.html](../average-quality-who-sells.html) | The average quality. Who still sells? |
 | 372 | HSP-31 | [fewer-bookings-behind-the-curve.html](../fewer-bookings-behind-the-curve.html) | Fewer bookings today. Behind the booking curve? |
+| 373 | ACC-32 | [rejects-which-loss-belongs-in-stock.html](../rejects-which-loss-belongs-in-stock.html) | Rejects. Which loss belongs in stock? |
+| 374 | FIN-32 | [more-return-more-equity-risk.html](../more-return-more-equity-risk.html) | More return on equity. More risk to equity? |
+| 375 | MKT-32 | [same-reward-different-recipient.html](../same-reward-different-recipient.html) | A generous referral. A trustworthy recommendation? |
+| 376 | OPS-32 | [first-in-first-to-expire.html](../first-in-first-to-expire.html) | First in. First to expire? |
+| 377 | PPL-32 | [someone-knows-who-knows-who.html](../someone-knows-who-knows-who.html) | Someone knows. Who knows who? |
+| 378 | STR-32 | [on-both-platforms.html](../on-both-platforms.html) | On both platforms. Loyal to neither? |
+| 379 | ENT-32 | [investor-access-commercial-freedom.html](../investor-access-commercial-freedom.html) | The investor brings customers. Which customers may we serve? |
+| 380 | IS-32 | [positive-average-same-rollout.html](../positive-average-same-rollout.html) | A positive average. The same rollout for everyone? |
+| 381 | GVR-32 | [generous-donation-whose-benefit.html](../generous-donation-whose-benefit.html) | A donation is generous. Whose interests does it serve? |
+| 382 | SUS-32 | [one-contaminated-load.html](../one-contaminated-load.html) | A clean recycling stream. One contaminated load? |
+| 383 | ECO-32 | [two-plans-who-chooses.html](../two-plans-who-chooses.html) | Two plans. Who chooses which one? |
+| 384 | HSP-32 | [open-rooms-unavailable-purpose.html](../open-rooms-unavailable-purpose.html) | The rooms stay open. Can the stay still work? |
