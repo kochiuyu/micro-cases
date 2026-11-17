@@ -1,0 +1,184 @@
+{
+  "number": 418,
+  "code": "SUS-35",
+  "slug": "pay-success-who-served",
+  "title": "Pay for success. Which clients get served?",
+  "discipline": "Sustainability, social enterprise and public management",
+  "topics": [
+    "Outcomes-based funding",
+    "Selection incentives",
+    "Service safeguards"
+  ],
+  "teaser": "Two contracts fund the same coaching capacity. An unadjusted success payment rewards the easiest placements, but what happens when added gains and minimum coverage become explicit?",
+  "alt": "A fictional Hong Kong social-service purchaser and adult employment coaches discuss two funding worksheets beside a community-centre intake desk; no personal records or identifiable clients are shown.",
+  "location": "Hong Kong",
+  "duration": "15–20 minutes",
+  "news_heading": "A payment target can change whom a service reaches",
+  "news": "<p>Paying for verified employment outcomes can focus a provider on results. It can also make some eligible clients financially more attractive than others. Outcome-contract guidance therefore considers referral rules, service safeguards and starting circumstances. This fictional exercise compares payment incentives, not the worth of any person or the legality of a real programme.</p>",
+  "opening": "<p>You commission fictional Harbour Steps, a Hong Kong employment-support pilot. Forty eligible adults want an additional coaching package; only 20 places are funded. Their existing services and entitlements remain unchanged. Participation is voluntary. Eligibility, employment standards and the application channel are identical under both funding options.</p><p>An independent intake team identifies 20 applicants needing relatively little additional job-search support and 20 needing more. Call these groups L and H. The labels describe the supplied support circumstances, not personal worth, protected characteristics or fixed ability. Everyone meets the same eligibility rules; no individual prediction is used in this exercise.</p><p>Every admitted participant receives the full agreed package, tailored within its resources. It costs HK$1,000 per participant, including follow-up and verification, in either group. The payable outcome is a suitable, lawful, voluntary job sustained for 13 weeks within six months. An independent verifier checks it; each participant can trigger payment once.</p><p>G pays a fixed HK$24,000 for delivering all 20 packages to the agreed standard. O pays HK$2,000 per verified outcome and no service fee. Both require complete delivery; neither permits abandoning admitted participants who appear unlikely to achieve the outcome. Adequate working capital is stipulated; the purchaser reserves O’s maximum HK$40,000 liability.</p><p>Initially either contract allows any mix of the two groups across the 20 places. Recruitment must follow published, accessible programme rules, with a fair lottery within each selected group and an explanation and review route for unsuccessful applicants. There is no pre-existing group quota or entitlement to this additional pilot place.</p><p>For this classroom model, the expected outcome rate with the full package is 80% for L and 40% for H, regardless of the admitted mix. These are invented planning probabilities, not observed results or personal forecasts. Costs are fixed by completed service; outcomes and O’s actual payment can vary.</p>",
+  "exhibit": "<table><caption>Expected outcomes per admitted participant</caption><thead><tr><th>Group</th><th>Available</th><th>With package</th><th>Cost</th></tr></thead><tbody><tr><td>L</td><td>20</td><td>80%</td><td>HK$1,000</td></tr><tr><td>H</td><td>20</td><td>40%</td><td>HK$1,000</td></tr></tbody></table>",
+  "exhibit_md": "| Group | Available | With package | Cost |\n| --- | --- | --- | --- |\n| L | 20 | 80% | HK$1,000 |\n| H | 20 | 40% | HK$1,000 |",
+  "q1": "Compare G and O for 20 L participants, a ten-and-ten mix and 20 H participants. Calculate expected outcomes, purchaser payment and provider surplus after service cost. Which recruitment mix does O financially reward, and is that enough to choose the contract?",
+  "round2": "<p>Before contracting, the purchaser supplies a second fictional assumption: without this additional package, L’s expected outcome rate is 70% and H’s is 10%, with ordinary services unchanged. Treat these as valid counterfactual expectations solely for this exercise. They are not baseline observations from a pilot or evidence obtained from the cited programmes.</p><p>The purchaser’s mission values additional sustained employment, while preserving access for people needing more support. It now requires at least ten of the 20 admitted participants to come from H under either contract. Enough applicants in both groups accept places. Eligibility and service standards do not change; no participant has yet been selected.</p><p>The new coverage requirement is enforceable and independently checked against intake records and actual service delivery. O still pays the same HK$2,000 per verified outcome; no risk adjustment or extra fee is silently added. G remains HK$24,000. The purchaser can choose either revised contract, or request a separately costed redesign before committing.</p>",
+  "q2": "How do expected additional outcomes differ from paid successes? Under the new minimum-H requirement, reassess G and O and explain the remaining incentive. What would you monitor so that a compliant admissions list does not hide inadequate support?",
+  "sections": [
+    [
+      "Debrief · Reconcile costs and payments",
+      "<p>All three mixes cost the provider 20 × HK$1,000 = HK$20,000. Under G the purchaser pays HK$24,000 and the provider retains HK$4,000 above that cost, whatever the mix. This removes the stated payment preference between groups; it does not guarantee good service or mission-led recruitment.</p><p>Under O, 20 L participants generate 16 expected paid outcomes, HK$32,000 expected revenue and HK$12,000 expected surplus. Ten from each group generate 8 + 4 = 12 outcomes, HK$24,000 revenue and HK$4,000 surplus. Twenty H participants generate eight outcomes, HK$16,000 revenue and an expected HK$4,000 shortfall.</p>"
+    ],
+    [
+      "Debrief · A paid success is not necessarily an added success",
+      "<p>For L, the model’s incremental probability is 80% − 70% = ten percentage points. For H it is 40% − 10% = 30 percentage points. Twenty L places therefore generate two expected additional outcomes; twenty H places generate six. The mixed group generates one plus three, or four.</p><p>O rewards the larger total success count even though the model assigns a larger additional gain to H. Its 16 expected paid successes for L include outcomes many participants would achieve without this package. That is an incentive misalignment, not proof of fraud or a claim that any individual’s success was undeserved.</p>"
+    ],
+    [
+      "Debrief · The quota changes the feasible choice",
+      "<p>The new rule excludes the all-L mix under both contracts. Because O earns more expected revenue per L place, its financially strongest permitted mix is ten L and ten H. Expected revenue falls from HK$32,000 to HK$24,000, and expected surplus from HK$12,000 to HK$4,000. It must still fully serve every admitted participant.</p><p>The mixed group produces 12 expected observed outcomes versus eight without the package: four additional outcomes. All-H remains permitted and offers six expected additional outcomes, but O’s expected HK$4,000 shortfall makes that mix financially unattractive. G provides the same HK$4,000 surplus for either permitted mix, without itself requiring the mission-maximising mix.</p>"
+    ],
+    [
+      "Debrief · Choose a contract, not a slogan",
+      "<p>I would favour G with explicit coverage and service checks for this pilot, because the mission includes additional gains and the unadjusted outcome price still pulls away from H. O remains defensible if the purchaser deliberately accepts that incentive, requires the mixed coverage and can verify full service and sustained outcomes.</p><p>For the ten-and-ten mix both contracts have expected purchaser cost HK$24,000, but G’s payment is fixed while O’s varies with realised outcomes. Expected equality does not make their risk allocation identical. Neither is proven cost-effective overall: the case supplies no valuation of benefits, alternative programme costs or uncertainty around the planning assumptions.</p>"
+    ],
+    [
+      "Debrief · Check service after admission",
+      "<p>Monitor the eligible applicant pool, offered and accepted places, group coverage, completed support, complaints and verified sustained employment. Use proportionate, authorised records and protect confidentiality. A compliant ten-H admissions list is not enough if those participants are then neglected. Do not pressure people into unsuitable jobs merely to trigger payment.</p><p>A redesigned contract might combine a service payment with carefully calibrated outcome prices or independent referrals. Price differences require evidence about needs, costs and likely outcomes; a higher rate is not automatically sufficient. Keep coverage, actual support and participant choice visible even after changing incentives. This exercise does not calculate a defensible replacement rate.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>Minutes 0–5: reconcile all three mixes under both funding options. Minutes 5–9: reveal the counterfactual expectations and distinguish paid outcomes from additional outcomes. Minutes 9–14: impose the coverage requirement without changing the price. Minutes 14–18: choose a contract and specify one admission check and one delivery check.</p><p>SUS-07 compares service reach and repeated support using limited observational evidence. Here the core issue is how a payment formula rewards recruitment choices. The counterfactual probabilities are deliberately stipulated for arithmetic, not inferred from before-and-after counts. Keep all conclusions about people and contracts within this fictional model.</p>"
+    ]
+  ],
+  "notes": "Entire provider, client pool, service costs, rates and contracts fictional. Twenty places, forty willing eligible adults, existing services protected. Groups describe support circumstances, not protected traits or individual worth. Full delivery mandatory under both contracts, voluntary suitable sustained work and independent outcome verification. G fixed24000; O2000per outcome maximum40000 purchaserreserve; fullservicecost20000 anymix; workingcapital stipulated. Withpackage L0.8/H0.4; without0.7/0.1 valid counterfactual expectations stipulated only, not empirical estimates. Expected outcomes16/12/8; incremental2/4/6. G surplus4000 each; O surplus12000/4000/−4000. New minimumtenH imposed before selection; O preferredpermittedmix10/10, not proofactualbehaviour. Coverage doesnot excuse parking. No actual eligibility/employment decision or legal conclusion; riskadjustedprice not invented.",
+  "sources": [
+    [
+      "https://golab.bsg.ox.ac.uk/toolkit/technical-guidance/setting-measuring-outcomes/",
+      "Oxford Government Outcomes Lab · Setting and measuring outcomes",
+      "Primary technical guidance explains referral incentives, differing starting points and the risk of neglect after admission. It does not supply the fictional rates or establish that safeguards always work."
+    ],
+    [
+      "https://www.nao.org.uk/reports/the-work-programme/",
+      "UK National Audit Office · The Work Programme · 2014",
+      "Original audit findings describe weaker support for harder-to-help groups and problems with performance rewards. Historical UK findings are not claims about this Hong Kong provider."
+    ],
+    [
+      "https://www.oecd.org/en/publications/a-new-model-for-strengthening-public-private-partnerships-in-employment-services-in-italy_35b815ef-en/full-report/key-success-factors-and-challenges-in-current-system-based-on-lessons-from-other-countries_cf2e9577.html",
+      "OECD · Employment-service contracting in Italy · 2026 · Chapter 2",
+      "Institutional analysis discusses outcome incentives, minimum service standards, monitoring and client-centred provision. Its cross-country examples do not determine local legal obligations or validate the classroom probabilities."
+    ],
+    [
+      "https://publications.iadb.org/publications/english/document/Toward-More-Effective-Employment-Policies-Opportunities-of-Results-Based-Financing.pdf",
+      "Inter-American Development Bank · Toward More Effective Employment Policies",
+      "Primary policy guide, sections 4.2–4.4, addresses differential pricing, selection, minimum service standards and verification. Latin American programme examples are not transferred into this fictional pilot."
+    ],
+    [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4211436/",
+      "Rees, Whitworth and Carter · Support for All in the UK Work Programme? · 2014",
+      "Original qualitative provider study and published-data analysis examines incentives within broad payment groups. This historical evidence is not a causal estimate for Harbour Steps; some contextual material overlaps the other readings."
+    ]
+  ],
+  "slides": [
+    [
+      "A payment target can change whom a service reaches",
+      "<p>Paying for verified employment outcomes can focus a provider on results. It can also make some eligible clients financially more attractive than others. Outcome-contract guidance therefore considers referral rules, service safeguards and starting circumstances. This fictional exercise compares payment incentives, not the worth of any person or the legality of a real programme.</p>"
+    ],
+    [
+      "The scene",
+      "<p></p>"
+    ],
+    [
+      "A voluntary additional service",
+      "<p>You commission fictional Harbour Steps, a Hong Kong employment-support pilot. Forty eligible adults want an additional coaching package; only 20 places are funded. Their existing services and entitlements remain unchanged. Participation is voluntary. Eligibility, employment standards and the application channel are identical under both funding options.</p>"
+    ],
+    [
+      "Two planning groups",
+      "<p>An independent intake team identifies 20 applicants needing relatively little additional job-search support and 20 needing more. Call these groups L and H. The labels describe the supplied support circumstances, not personal worth, protected characteristics or fixed ability. Everyone meets the same eligibility rules; no individual prediction is used in this exercise.</p>"
+    ],
+    [
+      "The service and the paid outcome",
+      "<p>Every admitted participant receives the full agreed package, tailored within its resources. It costs HK$1,000 per participant, including follow-up and verification, in either group. The payable outcome is a suitable, lawful, voluntary job sustained for 13 weeks within six months. An independent verifier checks it; each participant can trigger payment once.</p>"
+    ],
+    [
+      "Two funding options",
+      "<p>G pays a fixed HK$24,000 for delivering all 20 packages to the agreed standard. O pays HK$2,000 per verified outcome and no service fee. Both require complete delivery; neither permits abandoning admitted participants who appear unlikely to achieve the outcome. Adequate working capital is stipulated; the purchaser reserves O’s maximum HK$40,000 liability.</p>"
+    ],
+    [
+      "The current recruitment discretion",
+      "<p>Initially either contract allows any mix of the two groups across the 20 places. Recruitment must follow published, accessible programme rules, with a fair lottery within each selected group and an explanation and review route for unsuccessful applicants. There is no pre-existing group quota or entitlement to this additional pilot place.</p>"
+    ],
+    [
+      "Planning, not guaranteed performance",
+      "<p>For this classroom model, the expected outcome rate with the full package is 80% for L and 40% for H, regardless of the admitted mix. These are invented planning probabilities, not observed results or personal forecasts. Costs are fixed by completed service; outcomes and O’s actual payment can vary.</p>"
+    ],
+    [
+      "Planning assumptions",
+      "<table><caption>Expected outcomes per admitted participant</caption><thead><tr><th>Group</th><th>Available</th><th>With package</th><th>Cost</th></tr></thead><tbody><tr><td>L</td><td>20</td><td>80%</td><td>HK$1,000</td></tr><tr><td>H</td><td>20</td><td>40%</td><td>HK$1,000</td></tr></tbody></table>"
+    ],
+    [
+      "First decision",
+      "<p>Compare G and O for 20 L participants, a ten-and-ten mix and 20 H participants. Calculate expected outcomes, purchaser payment and provider surplus after service cost. Which recruitment mix does O financially reward, and is that enough to choose the contract?</p>"
+    ],
+    [
+      "Success without the extra package",
+      "<p>Before contracting, the purchaser supplies a second fictional assumption: without this additional package, L’s expected outcome rate is 70% and H’s is 10%, with ordinary services unchanged. Treat these as valid counterfactual expectations solely for this exercise. They are not baseline observations from a pilot or evidence obtained from the cited programmes.</p>"
+    ],
+    [
+      "An explicit mission safeguard",
+      "<p>The purchaser’s mission values additional sustained employment, while preserving access for people needing more support. It now requires at least ten of the 20 admitted participants to come from H under either contract. Enough applicants in both groups accept places. Eligibility and service standards do not change; no participant has yet been selected.</p>"
+    ],
+    [
+      "Keep the payment rule visible",
+      "<p>The new coverage requirement is enforceable and independently checked against intake records and actual service delivery. O still pays the same HK$2,000 per verified outcome; no risk adjustment or extra fee is silently added. G remains HK$24,000. The purchaser can choose either revised contract, or request a separately costed redesign before committing.</p>"
+    ],
+    [
+      "Second decision",
+      "<p>How do expected additional outcomes differ from paid successes? Under the new minimum-H requirement, reassess G and O and explain the remaining incentive. What would you monitor so that a compliant admissions list does not hide inadequate support?</p>"
+    ],
+    [
+      "Debrief · Reconcile costs and payments · 1",
+      "<p>All three mixes cost the provider 20 × HK$1,000 = HK$20,000. Under G the purchaser pays HK$24,000 and the provider retains HK$4,000 above that cost, whatever the mix. This removes the stated payment preference between groups; it does not guarantee good service or mission-led recruitment.</p>"
+    ],
+    [
+      "Debrief · Reconcile costs and payments · 2",
+      "<p>Under O, 20 L participants generate 16 expected paid outcomes, HK$32,000 expected revenue and HK$12,000 expected surplus. Ten from each group generate 8 + 4 = 12 outcomes, HK$24,000 revenue and HK$4,000 surplus. Twenty H participants generate eight outcomes, HK$16,000 revenue and an expected HK$4,000 shortfall.</p>"
+    ],
+    [
+      "Debrief · A paid success is not necessarily an added success · 1",
+      "<p>For L, the model’s incremental probability is 80% − 70% = ten percentage points. For H it is 40% − 10% = 30 percentage points. Twenty L places therefore generate two expected additional outcomes; twenty H places generate six. The mixed group generates one plus three, or four.</p>"
+    ],
+    [
+      "Debrief · A paid success is not necessarily an added success · 2",
+      "<p>O rewards the larger total success count even though the model assigns a larger additional gain to H. Its 16 expected paid successes for L include outcomes many participants would achieve without this package. That is an incentive misalignment, not proof of fraud or a claim that any individual’s success was undeserved.</p>"
+    ],
+    [
+      "Debrief · The quota changes the feasible choice · 1",
+      "<p>The new rule excludes the all-L mix under both contracts. Because O earns more expected revenue per L place, its financially strongest permitted mix is ten L and ten H. Expected revenue falls from HK$32,000 to HK$24,000, and expected surplus from HK$12,000 to HK$4,000. It must still fully serve every admitted participant.</p>"
+    ],
+    [
+      "Debrief · The quota changes the feasible choice · 2",
+      "<p>The mixed group produces 12 expected observed outcomes versus eight without the package: four additional outcomes. All-H remains permitted and offers six expected additional outcomes, but O’s expected HK$4,000 shortfall makes that mix financially unattractive. G provides the same HK$4,000 surplus for either permitted mix, without itself requiring the mission-maximising mix.</p>"
+    ],
+    [
+      "Debrief · Choose a contract, not a slogan · 1",
+      "<p>I would favour G with explicit coverage and service checks for this pilot, because the mission includes additional gains and the unadjusted outcome price still pulls away from H. O remains defensible if the purchaser deliberately accepts that incentive, requires the mixed coverage and can verify full service and sustained outcomes.</p>"
+    ],
+    [
+      "Debrief · Choose a contract, not a slogan · 2",
+      "<p>For the ten-and-ten mix both contracts have expected purchaser cost HK$24,000, but G’s payment is fixed while O’s varies with realised outcomes. Expected equality does not make their risk allocation identical. Neither is proven cost-effective overall: the case supplies no valuation of benefits, alternative programme costs or uncertainty around the planning assumptions.</p>"
+    ],
+    [
+      "Debrief · Check service after admission · 1",
+      "<p>Monitor the eligible applicant pool, offered and accepted places, group coverage, completed support, complaints and verified sustained employment. Use proportionate, authorised records and protect confidentiality. A compliant ten-H admissions list is not enough if those participants are then neglected. Do not pressure people into unsuitable jobs merely to trigger payment.</p>"
+    ],
+    [
+      "Debrief · Check service after admission · 2",
+      "<p>A redesigned contract might combine a service payment with carefully calibrated outcome prices or independent referrals. Price differences require evidence about needs, costs and likely outcomes; a higher rate is not automatically sufficient. Keep coverage, actual support and participant choice visible even after changing incentives. This exercise does not calculate a defensible replacement rate.</p>"
+    ],
+    [
+      "Instructor note · 1",
+      "<p>Minutes 0–5: reconcile all three mixes under both funding options. Minutes 5–9: reveal the counterfactual expectations and distinguish paid outcomes from additional outcomes. Minutes 9–14: impose the coverage requirement without changing the price. Minutes 14–18: choose a contract and specify one admission check and one delivery check.</p>"
+    ],
+    [
+      "Instructor note · 2",
+      "<p>SUS-07 compares service reach and repeated support using limited observational evidence. Here the core issue is how a payment formula rewards recruitment choices. The counterfactual probabilities are deliberately stipulated for arithmetic, not inferred from before-and-after counts. Keep all conclusions about people and contracts within this fictional model.</p>"
+    ]
+  ]
+}
