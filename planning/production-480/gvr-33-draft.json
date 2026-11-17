@@ -1,0 +1,192 @@
+{
+  "number": 393,
+  "code": "GVR-33",
+  "slug": "terms-disclosed-terms-understood",
+  "title": "The terms are disclosed. Are they understood?",
+  "discipline": "Governance, law, ethics and risk",
+  "topics": [
+    "Contract comprehension",
+    "Meaningful disclosure",
+    "Consistent representations"
+  ],
+  "teaser": "Both contracts preserve the same rights. Which presentation helps customers understand the cancellation trigger, and can the sales promise actually be delivered?",
+  "alt": "Fictional adult service and sales colleagues review a short summary beside a full contract and a simple clock in a Hong Kong office, without readable personal information.",
+  "location": "Hong Kong",
+  "duration": "15–20 minutes",
+  "news_heading": "Disclosure is not the same as understanding",
+  "news": "<p>Clear contractual wording and actual customer understanding are different tests. Plain-language and disclosure research supports testing what people can explain, not merely whether they clicked or signed. A summary can also divert attention from omitted terms. The service, contracts and test results below are fictional, not legal advice.</p>",
+  "opening": "<p>You manage fictional Hong Kong home-cleaning provider Clear Harbour. Before launching a new single-visit offer, choose A: one dense contract, or B: a short question-and-answer summary followed by the full contract. Neither has been offered or signed. The goal is informed agreement and a service the company can actually deliver.</p><p>For this exercise, qualified advisers have reviewed both complete packages and confirmed identical substantive rights and obligations. B accurately highlights key terms and points to the complete terms, available before agreement and as a retained copy. This stipulated review is not proof that customers understand either format or that sales representations are accurate.</p><p>The offer costs HK$800, paid on booking, for one scheduled visit. Under the supplied cancellation term, cancellation received at least 48 hours before the scheduled start receives an HK$800 refund. Later cancellation receives HK$600 after a fixed HK$200 cancellation charge. These are fictional offer terms, not a statutory cooling-off rule.</p><p>Receipt occurs when the cancellation reaches the designated online form or email address, both available continuously. The system records a timestamp. Staff acknowledgement comes within two working days and does not determine when cancellation takes effect. Hong Kong local time applies. No renewal, extra cancellation fee or changed statutory right is proposed.</p><p>A contains the same receipt rule within its full text. B foregrounds the question: Does cancellation count when my message arrives or when staff reply? Its answer states the receipt rule and links directly to the full clause. Both provide readable print, customer-selected Chinese or English, accessible assistance and time for questions.</p><p>Both format packages and their maintenance fit the same approved budget. Sales scripts and operational procedures still require a joint launch check. Management favours A because every term appears in one place; the service lead favours B because important consequences are easier to locate. Neither team has yet seen the comprehension results.</p>",
+  "exhibit": "<table><caption>Same rights, different presentation</caption><thead><tr><th>Package</th><th>Presentation</th></tr></thead><tbody><tr><td>A</td><td>One dense full contract</td></tr><tr><td>B</td><td>Question-and-answer summary plus full contract</td></tr></tbody></table>",
+  "exhibit_md": "| Package | Presentation |\n| --- | --- |\n| A | One dense full contract |\n| B | Question-and-answer summary plus full contract |",
+  "q1": "Which format would you provisionally choose? Explain what legal review does and does not establish, and propose a question that tests the cancellation trigger rather than whether customers like the design.",
+  "round2": "<p>A small pre-launch diagnostic uses two separately recruited groups of 20 consenting adult volunteers from the intended audience. One sees A and one B in their preferred supported language, with equal reading time and the same scenario question. The groups were not randomly assigned; these are descriptive checks, not a causal trial.</p><p>The question concerns a Friday 14:00 visit and a cancellation received on Wednesday at 13:59, with acknowledgement on Thursday. Eight of 20 A readers and 16 of 20 B readers correctly identify the full HK$800 refund. Every incorrect response treats staff acknowledgement, rather than receipt, as the relevant trigger.</p><p>Four B readers still misunderstand. The diagnostic tests only this scenario, not understanding of every term, actual cancellation behaviour or agreement quality. No volunteer signed, paid or received a real service. The test summaries contain no identities or private personal details.</p><p>The joint check then finds a proposed sales script promising that staff confirm every cancellation within one hour, at any time. Operations has no overnight or weekend response team and cannot support that promise. Both draft contracts instead allow two working days for acknowledgement; their continuous receipt systems are operational.</p><p>The one-hour statement has not been used with customers. Managers can correct the script and rehearse the explanation within the existing launch budget. B makes the receipt-versus-reply distinction easier to discuss, but changing layout alone cannot make an unsupported response promise true. Launch can wait for this correction without breaching existing commitments.</p>",
+  "q2": "What must change before launch, and which format would you take into a further check? Apply the receipt rule to the Wednesday example, separate cancellation effectiveness from acknowledgement, and name a comprehension check that the existing test missed.",
+  "sections": [
+    [
+      "Debrief · Read the clock, not the reply",
+      "<p>The 48-hour boundary for Friday 14:00 is Wednesday 14:00. Receipt at Wednesday 13:59 is 48 hours and one minute ahead, so the supplied term gives the full HK$800 refund. Thursday acknowledgement does not turn that timely cancellation into a late one.</p><p>A useful contrasting question uses receipt at Wednesday 14:01: 47 hours and 59 minutes before the visit, so this fictional term gives HK$600 after the HK$200 charge. Exactly Wednesday 14:00 qualifies for the full refund because the rule says at least 48 hours. Apply only the supplied terms, not a presumed general law.</p>"
+    ],
+    [
+      "Debrief · Improve understanding without overstating the test",
+      "<p>The correct-response shares are 8/20 = 40% for A and 16/20 = 80% for B, a descriptive 40-percentage-point difference. B is a sensible candidate for further checking, not a proven universal winner. Separate recruitment, small groups and one question limit what this comparison establishes.</p><p>A legally reviewed text can still be misunderstood. Equally, a signature, reading-time score or positive design rating does not demonstrate comprehension. Ask customers to apply the rule in their own words to a new example; do not merely ask them to repeat a sentence or tick that they understand.</p>"
+    ],
+    [
+      "Debrief · Correct the representation",
+      "<p>Do not launch either package with the unsupported one-hour promise. Correct the unused script before customer contact and align staff explanations with the reviewed terms: receipt fixes the cancellation time; staff acknowledgement follows within two working days. Do not hide the contradiction in smaller print or call the summary the problem.</p><p>Keep the continuous form and email receipt mechanism working, with reliable timestamps and a clear help route for delivery failures. Test the funded acknowledgement process before launch. If the business wants faster replies, first fund and verify that capability and obtain review of the revised offer; do not announce an unfunded service improvement.</p>"
+    ],
+    [
+      "Debrief · Preserve the full agreement",
+      "<p>Prefer B for the next check while retaining easy access to all terms and a durable copy. Highlight the trigger, timing, charges and contact channels without deleting qualifications or substantive protections. Let customers ask questions without sales pressure. Any later change to rights needs its own proper review; this exercise does not authorise one.</p><p>Test comprehension of important terms outside the summary too, such as the included cleaning scope and appointment access arrangements in the full draft. Those details are not supplied here for calculation; the manager must include them in the next test. A summary is a navigation aid, not evidence that untested provisions are understood.</p>"
+    ],
+    [
+      "Debrief · A launch gate, not a signature target",
+      "<p>Assign a joint owner for the contract, summary, sales explanation and operating process. Before launch, verify their consistency and rehearse receipt and reply scenarios, including the exact deadline. Retest the misunderstanding with fresh volunteers and check accessible formats. Record unresolved issues rather than treating a higher signing rate as success.</p><p>If customers still confuse receipt with acknowledgement, revise the explanation and test again. Do not deny access to the service merely for failing a quiz or use the test to waive rights. For any real contractual problem, obtain advice on the actual documents, representations and applicable law.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>Minutes 0–4: choose a format and write a comprehension question. Minutes 4–8: calculate the refund and compare the diagnostic shares. Minutes 8–13: repair the script and draw separate receipt and acknowledgement timelines. Minutes 13–18: propose a broader check without changing customer rights or declaring B legally safer.</p><p>GVR-02 communicates an urgent changing safety warning; GVR-11 resolves authority and versions after a change request. Here there is no emergency, competing contract version or signed agreement to amend. The task is comprehension and truthful service representation before agreement formation, with legal review and operational review serving different purposes.</p>"
+    ]
+  ],
+  "notes": "All providers, offer terms, reviews, systems, response capacities and diagnostic counts are original fiction. Both packages preserve identical reviewed rights; no actual legal adequacy finding is made. No contract signed, charge collected or misleading script used. Single visit HK$800, cancellation effective upon designated-system receipt at least48 hours before start refunds800; later cancellation refunds600 after200 charge. Staff acknowledgement within two working days does not set the effective timestamp. Hong Kong local time; at least includes equality. These are supplied classroom terms, not statutory cancellation rights or a legal recommendation. Non-random separately recruited groups20each; correct responses8and16 support descriptive40%/80%, not causal proof. Test only one clause; no identities or private data. Budget covers format, maintenance, script correction and rehearsal; faster response capacity not funded. Comparative overseas and sector-specific sources support bounded design concepts, not local legal conclusions.",
+  "sources": [
+    [
+      "https://www.consumer.org.hk/en/advocacy/study-report/2005031501",
+      "Hong Kong Consumer Council · Good Corporate Citizen’s Guide · 15 March 2005",
+      "Historical primary guidance promotes plain language, prominent important terms and explanations in the customer’s chosen language. It is a practice guide, not legal certification of the fictional cancellation charge or deadline."
+    ],
+    [
+      "https://www.ofca.gov.hk/en/consumer_focus/guide/help_for_consumers/services_contracts/tsc/cpic/clarity/index.html",
+      "OFCA · Enhanced Clarity in Contracts and Transparency and User-friendliness of Contract Documents",
+      "Primary explanation of a voluntary telecommunications industry code stresses accessible language and prominent termination information. Its sector-specific provisions are not asserted to govern this cleaning service."
+    ],
+    [
+      "https://www.pure.ed.ac.uk/ws/portalfiles/portal/243164541/martinez2021what.pdf",
+      "Martínez, Mollica, Liu, Podrug and Gibson · What did I sign? · Cognitive Science Society proceedings · 2021",
+      "Original English-language experiment compares comprehension and recall across legal and simpler registers. Participant screening and the specific excerpts limit transfer; no source effect size or universal comprehension guarantee is used."
+    ],
+    [
+      "https://assets.publishing.service.gov.uk/media/5d7a441ee5274a20381543f5/improving-consumer-understanding-contractual-terms-privacy-policies.pdf",
+      "Behavioural Insights Team for the UK government · Improving consumer understanding of contractual terms and privacy policies · 2019",
+      "Original online testing supports measuring understanding directly and reports that summary formats can help selected points while reducing attention elsewhere. The case’s small non-random diagnostic is not presented as equivalent evidence."
+    ],
+    [
+      "https://www.asa.org.uk/type/non_broadcast/code_section/03.html",
+      "UK CAP Code · Section 3: Misleading advertising · substantiation and qualification",
+      "Primary comparative advertising guidance distinguishes supported claims from misleading qualifications and exaggerated performance. Used as a representation-design principle, not a ruling or statement that UK advertising rules govern Hong Kong contracts."
+    ]
+  ],
+  "slides": [
+    [
+      "Disclosure is not the same as understanding",
+      "<p>Clear contractual wording and actual customer understanding are different tests. Plain-language and disclosure research supports testing what people can explain, not merely whether they clicked or signed. A summary can also divert attention from omitted terms. The service, contracts and test results below are fictional, not legal advice.</p>"
+    ],
+    [
+      "Before the new offer launches",
+      "<p></p>"
+    ],
+    [
+      "The format decision",
+      "<p>You manage fictional Hong Kong home-cleaning provider Clear Harbour. Before launching a new single-visit offer, choose A: one dense contract, or B: a short question-and-answer summary followed by the full contract. Neither has been offered or signed. The goal is informed agreement and a service the company can actually deliver.</p>"
+    ],
+    [
+      "Same substantive terms",
+      "<p>For this exercise, qualified advisers have reviewed both complete packages and confirmed identical substantive rights and obligations. B accurately highlights key terms and points to the complete terms, available before agreement and as a retained copy. This stipulated review is not proof that customers understand either format or that sales representations are accurate.</p>"
+    ],
+    [
+      "The fictional cancellation rule",
+      "<p>The offer costs HK$800, paid on booking, for one scheduled visit. Under the supplied cancellation term, cancellation received at least 48 hours before the scheduled start receives an HK$800 refund. Later cancellation receives HK$600 after a fixed HK$200 cancellation charge. These are fictional offer terms, not a statutory cooling-off rule.</p>"
+    ],
+    [
+      "Receipt is not acknowledgement",
+      "<p>Receipt occurs when the cancellation reaches the designated online form or email address, both available continuously. The system records a timestamp. Staff acknowledgement comes within two working days and does not determine when cancellation takes effect. Hong Kong local time applies. No renewal, extra cancellation fee or changed statutory right is proposed.</p>"
+    ],
+    [
+      "Make the trigger findable",
+      "<p>A contains the same receipt rule within its full text. B foregrounds the question: Does cancellation count when my message arrives or when staff reply? Its answer states the receipt rule and links directly to the full clause. Both provide readable print, customer-selected Chinese or English, accessible assistance and time for questions.</p>"
+    ],
+    [
+      "One funded choice",
+      "<p>Both format packages and their maintenance fit the same approved budget. Sales scripts and operational procedures still require a joint launch check. Management favours A because every term appears in one place; the service lead favours B because important consequences are easier to locate. Neither team has yet seen the comprehension results.</p>"
+    ],
+    [
+      "Two presentations",
+      "<table><caption>Same rights, different presentation</caption><thead><tr><th>Package</th><th>Presentation</th></tr></thead><tbody><tr><td>A</td><td>One dense full contract</td></tr><tr><td>B</td><td>Question-and-answer summary plus full contract</td></tr></tbody></table>"
+    ],
+    [
+      "First decision",
+      "<p>Which format would you provisionally choose? Explain what legal review does and does not establish, and propose a question that tests the cancellation trigger rather than whether customers like the design.</p>"
+    ],
+    [
+      "The small diagnostic",
+      "<p>A small pre-launch diagnostic uses two separately recruited groups of 20 consenting adult volunteers from the intended audience. One sees A and one B in their preferred supported language, with equal reading time and the same scenario question. The groups were not randomly assigned; these are descriptive checks, not a causal trial.</p>"
+    ],
+    [
+      "Apply the deadline",
+      "<p>The question concerns a Friday 14:00 visit and a cancellation received on Wednesday at 13:59, with acknowledgement on Thursday. Eight of 20 A readers and 16 of 20 B readers correctly identify the full HK$800 refund. Every incorrect response treats staff acknowledgement, rather than receipt, as the relevant trigger.</p>"
+    ],
+    [
+      "What the test misses",
+      "<p>Four B readers still misunderstand. The diagnostic tests only this scenario, not understanding of every term, actual cancellation behaviour or agreement quality. No volunteer signed, paid or received a real service. The test summaries contain no identities or private personal details.</p>"
+    ],
+    [
+      "The unsupported script",
+      "<p>The joint check then finds a proposed sales script promising that staff confirm every cancellation within one hour, at any time. Operations has no overnight or weekend response team and cannot support that promise. Both draft contracts instead allow two working days for acknowledgement; their continuous receipt systems are operational.</p>"
+    ],
+    [
+      "A correction before customer contact",
+      "<p>The one-hour statement has not been used with customers. Managers can correct the script and rehearse the explanation within the existing launch budget. B makes the receipt-versus-reply distinction easier to discuss, but changing layout alone cannot make an unsupported response promise true. Launch can wait for this correction without breaching existing commitments.</p>"
+    ],
+    [
+      "Second decision",
+      "<p>What must change before launch, and which format would you take into a further check? Apply the receipt rule to the Wednesday example, separate cancellation effectiveness from acknowledgement, and name a comprehension check that the existing test missed.</p>"
+    ],
+    [
+      "Debrief · Read the clock, not the reply",
+      "<p>The 48-hour boundary for Friday 14:00 is Wednesday 14:00. Receipt at Wednesday 13:59 is 48 hours and one minute ahead, so the supplied term gives the full HK$800 refund. Thursday acknowledgement does not turn that timely cancellation into a late one.</p>"
+    ],
+    [
+      "Debrief · Read the clock, not the reply · continued",
+      "<p>A useful contrasting question uses receipt at Wednesday 14:01: 47 hours and 59 minutes before the visit, so this fictional term gives HK$600 after the HK$200 charge. Exactly Wednesday 14:00 qualifies for the full refund because the rule says at least 48 hours. Apply only the supplied terms, not a presumed general law.</p>"
+    ],
+    [
+      "Debrief · Improve understanding without overstating the test",
+      "<p>The correct-response shares are 8/20 = 40% for A and 16/20 = 80% for B, a descriptive 40-percentage-point difference. B is a sensible candidate for further checking, not a proven universal winner. Separate recruitment, small groups and one question limit what this comparison establishes.</p>"
+    ],
+    [
+      "Debrief · Improve understanding without overstating the test · continued",
+      "<p>A legally reviewed text can still be misunderstood. Equally, a signature, reading-time score or positive design rating does not demonstrate comprehension. Ask customers to apply the rule in their own words to a new example; do not merely ask them to repeat a sentence or tick that they understand.</p>"
+    ],
+    [
+      "Debrief · Correct the representation",
+      "<p>Do not launch either package with the unsupported one-hour promise. Correct the unused script before customer contact and align staff explanations with the reviewed terms: receipt fixes the cancellation time; staff acknowledgement follows within two working days. Do not hide the contradiction in smaller print or call the summary the problem.</p>"
+    ],
+    [
+      "Debrief · Correct the representation · continued",
+      "<p>Keep the continuous form and email receipt mechanism working, with reliable timestamps and a clear help route for delivery failures. Test the funded acknowledgement process before launch. If the business wants faster replies, first fund and verify that capability and obtain review of the revised offer; do not announce an unfunded service improvement.</p>"
+    ],
+    [
+      "Debrief · Preserve the full agreement",
+      "<p>Prefer B for the next check while retaining easy access to all terms and a durable copy. Highlight the trigger, timing, charges and contact channels without deleting qualifications or substantive protections. Let customers ask questions without sales pressure. Any later change to rights needs its own proper review; this exercise does not authorise one.</p>"
+    ],
+    [
+      "Debrief · Preserve the full agreement · continued",
+      "<p>Test comprehension of important terms outside the summary too, such as the included cleaning scope and appointment access arrangements in the full draft. Those details are not supplied here for calculation; the manager must include them in the next test. A summary is a navigation aid, not evidence that untested provisions are understood.</p>"
+    ],
+    [
+      "Debrief · A launch gate, not a signature target",
+      "<p>Assign a joint owner for the contract, summary, sales explanation and operating process. Before launch, verify their consistency and rehearse receipt and reply scenarios, including the exact deadline. Retest the misunderstanding with fresh volunteers and check accessible formats. Record unresolved issues rather than treating a higher signing rate as success.</p>"
+    ],
+    [
+      "Debrief · A launch gate, not a signature target · continued",
+      "<p>If customers still confuse receipt with acknowledgement, revise the explanation and test again. Do not deny access to the service merely for failing a quiz or use the test to waive rights. For any real contractual problem, obtain advice on the actual documents, representations and applicable law.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>Minutes 0–4: choose a format and write a comprehension question. Minutes 4–8: calculate the refund and compare the diagnostic shares. Minutes 8–13: repair the script and draw separate receipt and acknowledgement timelines. Minutes 13–18: propose a broader check without changing customer rights or declaring B legally safer.</p>"
+    ],
+    [
+      "Instructor note · continued",
+      "<p>GVR-02 communicates an urgent changing safety warning; GVR-11 resolves authority and versions after a change request. Here there is no emergency, competing contract version or signed agreement to amend. The task is comprehension and truthful service representation before agreement formation, with legal review and operational review serving different purposes.</p>"
+    ]
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "number": 388,
+  "code": "OPS-33",
+  "slug": "sample-passed-shipment-passed",
+  "title": "A sample passed. Did the shipment pass?",
+  "discipline": "Operations, supply chains and logistics",
+  "topics": [
+    "Acceptance sampling",
+    "Precommitted disposition rules",
+    "Producer and consumer risk"
+  ],
+  "teaser": "Two sampled sleeves fail the agreed cosmetic check. May the buyer switch to the template that accepts them?",
+  "alt": "Two adult quality colleagues examine printed fabric sleeves beside a plain inspection sheet and measuring tool at a tidy Shenzhen inspection bench.",
+  "location": "Shenzhen",
+  "duration": "15–20 minutes",
+  "news_heading": "One lot, one defined rule",
+  "news": "<p>Quality guidance distinguishes a decision about one delivered lot from monitoring a production process. Acceptance sampling uses a defined sample and decision rule; accepting a lot is not a certificate that every unit conforms. The buyer, supplier, plans and results below are fictional, not a named standard or real inspection record.</p>",
+  "opening": "<p>You buy 1,000 printed fabric sleeves for adult desk accessories at fictional Shenzhen retailer Desk Lane. Only cosmetic print alignment is being assessed. Safety, lawful sale and all other product requirements have separately passed their required checks. No medical, electrical, protective or food-contact goods are involved.</p><p>A sleeve is nonconforming if its print is displaced by more than 2 mm from the agreed position. Exactly 2 mm conforms. Count affected sleeves, not the number of marks on each sleeve. The nondestructive measurement procedure, trained inspectors and classification accuracy are verified for this exercise.</p><p>The buyer and supplier have negotiated two sampling templates for future orders. Each selects 50 different sleeves uniformly at random, without replacement, from the complete identified 1,000-unit lot. Every sleeve is accessible. Neither supplier-picked examples nor convenient top-carton samples qualify. A lot-specific signed instruction must select one template before inspection.</p><p>Template S accepts the lot when at most one sampled sleeve is nonconforming; template R accepts at most two. More than the selected limit rejects the lot. Under either template, every known nonconforming sampled sleeve is withheld and replaced with an individually checked conforming sleeve before any accepted lot can ship.</p><p>Both templates take the same inspection time and cost. No defect-related loss value or target risk tolerance is supplied. Inspection and any required correction are funded by the supplier under the agreed procedure. The buyer has buffer stock, so holding this lot does not force a missed customer promise.</p><p>No goods have been released. Your meeting pack contains both templates but not the signed lot instruction or inspection result. A provisional preference for future orders cannot change this lot’s existing instruction. That record and the complete inspection log will be opened in round two.</p>",
+  "exhibit": "<table><caption>Fictional single-sample templates</caption><thead><tr><th>Template</th><th>Sample</th><th>Accept lot if</th><th>Reject lot if</th></tr></thead><tbody><tr><td>S</td><td>50 sleeves</td><td>0 or 1 nonconforming</td><td>2 or more</td></tr><tr><td>R</td><td>50 sleeves</td><td>0, 1 or 2 nonconforming</td><td>3 or more</td></tr></tbody></table>",
+  "exhibit_md": "| Template | Sample | Accept lot if | Reject lot if |\n| --- | --- | --- | --- |\n| S | 50 sleeves | 0 or 1 nonconforming | 2 or more |\n| R | 50 sleeves | 0, 1 or 2 nonconforming | 3 or more |",
+  "q1": "Which template would you provisionally prefer for a future comparable order, and what risk trade-off matters? What must you check before deciding this lot’s release? Does either template promise zero nonconforming sleeves in the shipment?",
+  "round2": "<p>The signed lot instruction selected S before sampling. The verified random sample contains two nonconforming sleeves and 48 conforming sleeves. No ambiguity, measurement error or selection failure has been found. The supplier proposes recording R instead because the same sample would then pass. No authorised amendment has been agreed.</p><p>Under the signed procedure, rejection means hold this identified lot, not discard every sleeve. The supplier must screen all 1,000 sleeves, correct or replace every detected nonconforming unit, and document the work. The two known failures remain isolated until corrected or replaced. A lot cannot be relabelled to erase its rejection history.</p><p>After documented correction, the buyer takes one fresh uniform random sample of 50 from the complete corrected 1,000-unit lot, using S again. Any detected failures are withheld. A second rejection keeps the lot on hold for a separately approved corrective plan; no repeated sampling until a pass is allowed.</p><p>For perspective, the next table gives exact sampling probabilities for two hypothetical incoming lots: one contains exactly 20 nonconforming sleeves; the other exactly 100. These are comparison scenarios, not estimates of this lot’s unknown total. Probabilities describe the initial lot decision before any screening, correction or replacement of sampled failures.</p><table><caption>Chance of initial lot acceptance · exact random sampling</caption><thead><tr><th>Incoming lot</th><th>S: at most 1</th><th>R: at most 2</th></tr></thead><tbody><tr><td>20 of 1,000 nonconforming</td><td>73.60%</td><td>92.64%</td></tr><tr><td>100 of 1,000 nonconforming</td><td>3.08%</td><td>10.56%</td></tr></tbody></table>",
+  "q2": "Accept under R, or record rejection under S and follow the correction route? Use the two hypothetical lots to explain the producer–buyer risk trade-off, and state what the observed two failures do and do not establish about the shipment.",
+  "sections": [
+    [
+      "Debrief · Apply the selected rule",
+      "<p>Two exceeds S’s acceptance number of one, so record rejection and hold the lot. Two is within R’s limit, but R was not selected for this inspection. A future reviewed change is possible before future results exist. Quietly substituting the passing template now would misstate which procedure this lot satisfied.</p><p>Removing only the two observed failures is insufficient after rejection: S requires the documented whole-lot correction route. Reinspection follows a changed, recorded lot, not repeated draws from the unchanged lot. Keep the original selection, sample identities, measurements, disposition and correction history together.</p>"
+    ],
+    [
+      "Debrief · A sample rate is not a census",
+      "<p>The observed nonconforming proportion is 2 ÷ 50 = 4%. It does not establish exactly 40 nonconforming sleeves among 1,000. Two failures prove that the original lot was not defect-free, but rejection does not prove every sleeve fails or that its true nonconforming proportion exceeds a particular limit.</p><p>Likewise, a sample meeting an acceptance number would not prove every uninspected sleeve conforms. An acceptance number is a sample decision threshold, not permission to ship known failures or a guaranteed maximum defect percentage in every accepted lot. The stated rule and residual uncertainty must both be reported.</p>"
+    ],
+    [
+      "Debrief · Whose risk changes?",
+      "<p>At the hypothetical 20-in-1,000 quality level, S rejects 100% − 73.60% = 26.40% of such lots; R rejects 7.36%. If that quality level were agreed acceptable, these illustrate producer’s risk: rejection of a lot at the acceptable reference level. No such acceptable-quality designation is imposed by this case.</p><p>At the hypothetical 100-in-1,000 level, S accepts 3.08% of such lots and R accepts 10.56%. If that level were designated unacceptable, these illustrate consumer’s risk: acceptance at the poor reference level. They are not the probability that this inspected lot is poor, nor the chance a particular shipped sleeve fails.</p>"
+    ],
+    [
+      "Debrief · Understand the comparison",
+      "<p>With the same random sample size, every outcome accepted by S is also accepted by R. R additionally accepts samples containing exactly two nonconforming sleeves. It therefore reduces rejection at both hypothetical quality levels, helping the producer at the better level while increasing the buyer’s exposure at the poorer level.</p><p>The displayed probabilities use sampling without replacement from a finite lot. Students may use the supplied table; no distribution derivation is required. They concern initial acceptance only, not the outgoing quality after screened failures are corrected. The actual lot’s composition and the frequency of different quality levels remain unknown.</p>"
+    ],
+    [
+      "Debrief · Do not redesign from one outcome",
+      "<p>For future orders, agree relevant quality reference levels, tolerable risks, inspection effort and correction responsibilities before selecting a plan. Neither template is established as universally optimal or compliant with a named standard. A more permissive threshold does not improve the supplier’s manufacturing quality; it changes which sample outcomes trigger acceptance.</p><p>Choosing R only when S would fail cannot be described as S with a harmless administrative adjustment. For the same sample, choosing whichever of these two templates passes produces R’s acceptance rule. It does not preserve S’s buyer protection, and it is not a separate independent confirmation.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>Allow three minutes for the initial preference and missing record, four for the signed-rule reveal, five for the risk table and three for a defensible disposition record. Distinguish nonconforming units, sample proportion, lot disposition and actual outgoing quality. Do not invent a disposal cost, process improvement or posterior probability.</p><p>OPS-10 concerns time-ordered process monitoring; OPS-26 reconciles stage yields and rework. This case instead decides one lot’s disposition under a preselected sampling plan. IS-22 examines exploratory experiment selection; here the central task is applying a supplier–buyer acceptance rule with an explicit correction and reinspection route.</p>"
+    ]
+  ],
+  "notes": "All organisations, product details, lot and sample sizes, thresholds, results and procedures are fictional. S and R are teaching templates, not ANSI/ASQ or ISO plans. No safety-critical quality characteristic is sampled in this exercise. Uniform random sampling without replacement and accurate nondestructive classification are stipulated. The probability table uses exact hypergeometric probabilities: for N=1,000, n=50 and K=20 or 100 nonconforming units, sum C(K,d)C(1,000−K,50−d)/C(1,000,50) over d=0 through the acceptance number. Values are rounded to two decimal percentage points. This is initial acceptance, not outgoing quality or a posterior assessment of the actual lot. Known failures cannot ship; rejection and one corrected-lot reinspection follow the supplied procedure. Sources explain concepts, not legal obligations or certification.",
+  "sources": [
+    [
+      "https://www.itl.nist.gov/div898/handbook/pmc/section2/pmc22.htm",
+      "NIST/SEMATECH, What kinds of Lot Acceptance Sampling Plans are there?",
+      "Defines single-sample decision rules, producer and consumer risk, and rectifying inspection. No standard-plan designation or outgoing-quality formula is applied."
+    ],
+    [
+      "https://asq.org/quality-resources/sampling/attributes-variables-sampling",
+      "ASQ, Attribute and Variable Sampling Plans and Inspection Procedures",
+      "Explains attribute counting and predefined acceptance criteria. The explanatory page, not a purchased standard or its tables, supplies background."
+    ],
+    [
+      "https://support.minitab.com/en-us/minitab/help-and-how-to/quality-and-process-improvement/acceptance-sampling/how-to/attributes-acceptance-sampling/before-you-start/data-considerations/",
+      "Minitab, Data considerations for Attributes Acceptance Sampling",
+      "Explains random selection, counted units and exact hypergeometric probabilities for isolated finite lots. No software-generated or standards-certified plan is claimed."
+    ],
+    [
+      "https://www.fao.org/4/j2291e/j2291e04.htm",
+      "FAO/Codex, ALINORM 04/27/23 Appendix III, proposed draft sampling guidelines, 2004",
+      "Historical primary draft, sections 1.1, 1.3 and 2.1.2: sampling limits, agreed plans and recorded procedures. Food-specific provisions and legacy standard references do not govern these sleeves."
+    ],
+    [
+      "https://staff.fysik.su.se/~walck/suf9601.pdf",
+      "Christian Walck, Hand-book on Statistical Distributions for Experimentalists, section 21, University of Stockholm",
+      "Author-hosted university report, last modified 10 September 2007. Section 21 gives the finite-population, without-replacement probability law used for the original case calculations."
+    ]
+  ],
+  "slides": [
+    [
+      "One lot, one defined rule",
+      "<p>Quality guidance distinguishes a decision about one delivered lot from monitoring a production process. Acceptance sampling uses a defined sample and decision rule; accepting a lot is not a certificate that every unit conforms. The buyer, supplier, plans and results below are fictional, not a named standard or real inspection record.</p>"
+    ],
+    [
+      "The scene",
+      "<p></p>"
+    ],
+    [
+      "A cosmetic-quality purchase",
+      "<p>You buy 1,000 printed fabric sleeves for adult desk accessories at fictional Shenzhen retailer Desk Lane. Only cosmetic print alignment is being assessed. Safety, lawful sale and all other product requirements have separately passed their required checks. No medical, electrical, protective or food-contact goods are involved.</p>"
+    ],
+    [
+      "Define the unit and defect",
+      "<p>A sleeve is nonconforming if its print is displaced by more than 2 mm from the agreed position. Exactly 2 mm conforms. Count affected sleeves, not the number of marks on each sleeve. The nondestructive measurement procedure, trained inspectors and classification accuracy are verified for this exercise.</p>"
+    ],
+    [
+      "Two templates, one operative instruction",
+      "<p>The buyer and supplier have negotiated two sampling templates for future orders. Each selects 50 different sleeves uniformly at random, without replacement, from the complete identified 1,000-unit lot. Every sleeve is accessible. Neither supplier-picked examples nor convenient top-carton samples qualify. A lot-specific signed instruction must select one template before inspection.</p>"
+    ],
+    [
+      "What acceptance means",
+      "<p>Template S accepts the lot when at most one sampled sleeve is nonconforming; template R accepts at most two. More than the selected limit rejects the lot. Under either template, every known nonconforming sampled sleeve is withheld and replaced with an individually checked conforming sleeve before any accepted lot can ship.</p>"
+    ],
+    [
+      "A disposition, not a sales promise",
+      "<p>Both templates take the same inspection time and cost. No defect-related loss value or target risk tolerance is supplied. Inspection and any required correction are funded by the supplier under the agreed procedure. The buyer has buffer stock, so holding this lot does not force a missed customer promise.</p>"
+    ],
+    [
+      "Read the lot record",
+      "<p>No goods have been released. Your meeting pack contains both templates but not the signed lot instruction or inspection result. A provisional preference for future orders cannot change this lot’s existing instruction. That record and the complete inspection log will be opened in round two.</p>"
+    ],
+    [
+      "Two templates",
+      "<table><caption>Fictional single-sample templates</caption><thead><tr><th>Template</th><th>Sample</th><th>Accept lot if</th><th>Reject lot if</th></tr></thead><tbody><tr><td>S</td><td>50 sleeves</td><td>0 or 1 nonconforming</td><td>2 or more</td></tr><tr><td>R</td><td>50 sleeves</td><td>0, 1 or 2 nonconforming</td><td>3 or more</td></tr></tbody></table>"
+    ],
+    [
+      "First decision",
+      "<p>Which template would you provisionally prefer for a future comparable order, and what risk trade-off matters? What must you check before deciding this lot’s release? Does either template promise zero nonconforming sleeves in the shipment?</p>"
+    ],
+    [
+      "The instruction predates the sample",
+      "<p>The signed lot instruction selected S before sampling. The verified random sample contains two nonconforming sleeves and 48 conforming sleeves. No ambiguity, measurement error or selection failure has been found. The supplier proposes recording R instead because the same sample would then pass. No authorised amendment has been agreed.</p>"
+    ],
+    [
+      "The agreed rejection route",
+      "<p>Under the signed procedure, rejection means hold this identified lot, not discard every sleeve. The supplier must screen all 1,000 sleeves, correct or replace every detected nonconforming unit, and document the work. The two known failures remain isolated until corrected or replaced. A lot cannot be relabelled to erase its rejection history.</p>"
+    ],
+    [
+      "Reinspection is not another lucky draw",
+      "<p>After documented correction, the buyer takes one fresh uniform random sample of 50 from the complete corrected 1,000-unit lot, using S again. Any detected failures are withheld. A second rejection keeps the lot on hold for a separately approved corrective plan; no repeated sampling until a pass is allowed.</p>"
+    ],
+    [
+      "Two hypothetical quality levels",
+      "<p>For perspective, the next table gives exact sampling probabilities for two hypothetical incoming lots: one contains exactly 20 nonconforming sleeves; the other exactly 100. These are comparison scenarios, not estimates of this lot’s unknown total. Probabilities describe the initial lot decision before any screening, correction or replacement of sampled failures.</p>"
+    ],
+    [
+      "What a plan accepts",
+      "<table><caption>Chance of initial lot acceptance · exact random sampling</caption><thead><tr><th>Incoming lot</th><th>S: at most 1</th><th>R: at most 2</th></tr></thead><tbody><tr><td>20 of 1,000 nonconforming</td><td>73.60%</td><td>92.64%</td></tr><tr><td>100 of 1,000 nonconforming</td><td>3.08%</td><td>10.56%</td></tr></tbody></table>"
+    ],
+    [
+      "Second decision",
+      "<p>Accept under R, or record rejection under S and follow the correction route? Use the two hypothetical lots to explain the producer–buyer risk trade-off, and state what the observed two failures do and do not establish about the shipment.</p>"
+    ],
+    [
+      "Debrief · Apply the selected rule",
+      "<p>Two exceeds S’s acceptance number of one, so record rejection and hold the lot. Two is within R’s limit, but R was not selected for this inspection. A future reviewed change is possible before future results exist. Quietly substituting the passing template now would misstate which procedure this lot satisfied.</p>"
+    ],
+    [
+      "Debrief · Apply the selected rule · continued",
+      "<p>Removing only the two observed failures is insufficient after rejection: S requires the documented whole-lot correction route. Reinspection follows a changed, recorded lot, not repeated draws from the unchanged lot. Keep the original selection, sample identities, measurements, disposition and correction history together.</p>"
+    ],
+    [
+      "Debrief · A sample rate is not a census",
+      "<p>The observed nonconforming proportion is 2 ÷ 50 = 4%. It does not establish exactly 40 nonconforming sleeves among 1,000. Two failures prove that the original lot was not defect-free, but rejection does not prove every sleeve fails or that its true nonconforming proportion exceeds a particular limit.</p>"
+    ],
+    [
+      "Debrief · A sample rate is not a census · continued",
+      "<p>Likewise, a sample meeting an acceptance number would not prove every uninspected sleeve conforms. An acceptance number is a sample decision threshold, not permission to ship known failures or a guaranteed maximum defect percentage in every accepted lot. The stated rule and residual uncertainty must both be reported.</p>"
+    ],
+    [
+      "Debrief · Whose risk changes?",
+      "<p>At the hypothetical 20-in-1,000 quality level, S rejects 100% − 73.60% = 26.40% of such lots; R rejects 7.36%. If that quality level were agreed acceptable, these illustrate producer’s risk: rejection of a lot at the acceptable reference level. No such acceptable-quality designation is imposed by this case.</p>"
+    ],
+    [
+      "Debrief · Whose risk changes? · continued",
+      "<p>At the hypothetical 100-in-1,000 level, S accepts 3.08% of such lots and R accepts 10.56%. If that level were designated unacceptable, these illustrate consumer’s risk: acceptance at the poor reference level. They are not the probability that this inspected lot is poor, nor the chance a particular shipped sleeve fails.</p>"
+    ],
+    [
+      "Debrief · Understand the comparison",
+      "<p>With the same random sample size, every outcome accepted by S is also accepted by R. R additionally accepts samples containing exactly two nonconforming sleeves. It therefore reduces rejection at both hypothetical quality levels, helping the producer at the better level while increasing the buyer’s exposure at the poorer level.</p>"
+    ],
+    [
+      "Debrief · Understand the comparison · continued",
+      "<p>The displayed probabilities use sampling without replacement from a finite lot. Students may use the supplied table; no distribution derivation is required. They concern initial acceptance only, not the outgoing quality after screened failures are corrected. The actual lot’s composition and the frequency of different quality levels remain unknown.</p>"
+    ],
+    [
+      "Debrief · Do not redesign from one outcome",
+      "<p>For future orders, agree relevant quality reference levels, tolerable risks, inspection effort and correction responsibilities before selecting a plan. Neither template is established as universally optimal or compliant with a named standard. A more permissive threshold does not improve the supplier’s manufacturing quality; it changes which sample outcomes trigger acceptance.</p>"
+    ],
+    [
+      "Debrief · Do not redesign from one outcome · continued",
+      "<p>Choosing R only when S would fail cannot be described as S with a harmless administrative adjustment. For the same sample, choosing whichever of these two templates passes produces R’s acceptance rule. It does not preserve S’s buyer protection, and it is not a separate independent confirmation.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>Allow three minutes for the initial preference and missing record, four for the signed-rule reveal, five for the risk table and three for a defensible disposition record. Distinguish nonconforming units, sample proportion, lot disposition and actual outgoing quality. Do not invent a disposal cost, process improvement or posterior probability.</p>"
+    ],
+    [
+      "Instructor note · continued",
+      "<p>OPS-10 concerns time-ordered process monitoring; OPS-26 reconciles stage yields and rework. This case instead decides one lot’s disposition under a preselected sampling plan. IS-22 examines exploratory experiment selection; here the central task is applying a supplier–buyer acceptance rule with an explicit correction and reinspection route.</p>"
+    ]
+  ]
+}
