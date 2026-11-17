@@ -1,0 +1,120 @@
+{
+  "number": 368,
+  "code": "IS-31",
+  "slug": "trained-on-yesterday-useful-for-tomorrow",
+  "title": "Trained on yesterday. Useful for tomorrow?",
+  "discipline": "Information systems, AI and business analytics",
+  "topics": [
+    "Temporal validation",
+    "Distribution shift",
+    "Forecast evaluation"
+  ],
+  "alt": "Two retail colleagues compare a calendar and plain forecasting sheets beside neatly arranged gift parcels.",
+  "location": "Hong Kong · fictional online retailer",
+  "duration": "12–15 minutes",
+  "news_heading": "A forecast test should face forward",
+  "news": "<p>Forecasting guidance evaluates predictions using observations later than the data used to fit the model. Google’s engineering guidance similarly recommends testing on later data, and research on temporal distribution shifts studies how performance changes when a model meets a later environment.</p><p>These sources do not measure the fictional Hong Kong retailer below. Every shop, promotion, forecast and result in this exercise is invented. The question is how well a test represents future use, not which algorithm is universally best.</p>",
+  "opening": "<p>A fictional Hong Kong online gift retailer forecasts each day’s completed paid orders at 8am to inform packing-work preparation. The target is orders, not visitors or unconstrained demand. No employee is hired, dismissed or automatically scheduled by either forecast.</p><p>Two candidate methods, A and B, have the same operating cost and use only information genuinely available by 8am: calendar variables, promotions already scheduled and completed prior-day order records. No end-of-day revenue, revised future field or target-day order count enters either forecast. Parameters and preprocessing are fitted only on the designated training rows; test outcomes are not used to tune them.</p><p>The first report randomly selects 80 of the most recent 100 consecutive daily records for fitting and holds out the other 20 for scoring. Both methods use the same split and training allowance. The report shows the sum of absolute daily errors and the average obtained by dividing by 20. An absolute error of five means a forecast is five orders above or below the actual count.</p><p>The manager must provisionally choose a method for the next planning period. A chronological evaluation has also been prepared but has not yet been presented.</p>",
+  "exhibit": "<table><thead><tr><th>Random holdout: same 20 test days</th><th>A</th><th>B</th></tr></thead><tbody><tr><td>Total absolute error</td><td>80 orders</td><td>120 orders</td></tr><tr><td>Mean absolute error: total ÷ 20</td><td>4 orders per day</td><td>6 orders per day</td></tr></tbody></table><p>Training days and test days are interspersed across the 100-day history. No raw day-level errors or uncertainty intervals are supplied.</p>",
+  "exhibit_md": "| Random holdout: same 20 test days | A | B |\n| --- | --- | --- |\n| Total absolute error | 80 orders | 120 orders |\n| Mean absolute error: total ÷ 20 | 4 orders per day | 6 orders per day |\n\nTraining days and test days are interspersed across the 100-day history. No raw day-level errors or uncertainty intervals are supplied.",
+  "q1": "Based on this report, which forecasting method would you favour, A or B? What should the test reproduce before you use it for future mornings?",
+  "q2": "Which of the two frozen forecasting versions would you use for the next planning period? Explain which test is more relevant and one claim these results cannot support.",
+  "round2": "<p>On day 81 the retailer changed from a fixed weekly promotion calendar to a different schedule aimed at a different mix of shopping occasions. The new pattern is planned to continue for the next twenty days. The order definition, recording system and 8am input-availability rules did not change.</p><p>The random split contained 64 earlier and 16 later days in training, and 16 earlier and four later days in testing. It therefore exposed both models to some later-pattern examples while testing a mixture of periods.</p><p>The second evaluation instead fits both methods on days 1–80 and scores their frozen versions on the same twenty subsequent days, 81–100. Each morning’s legitimate lagged inputs are refreshed, but no model parameters are refitted during those twenty test days. Preprocessing, target and error measure remain unchanged. Both methods receive 80 training rows in either evaluation.</p><table><thead><tr><th>Forward test: fit days 1–80; test days 81–100</th><th>A</th><th>B</th></tr></thead><tbody><tr><td>Total absolute error</td><td>220 orders</td><td>140 orders</td></tr><tr><td>Mean absolute error: total ÷ 20</td><td>11 orders per day</td><td>7 orders per day</td></tr></tbody></table><p>At the close of day 100, these two chronological-test versions are the only versions ready for operational use. They would remain frozen for the next twenty-day planning period, with ordinary monitoring and human oversight. No model refitted using days 81–100 has been evaluated or made available. There is no costed third option for today’s model choice.</p><p>The promotion change is a plausible explanation for a different environment, not proof that it caused the error difference. The scores alone do not establish the size or statistical significance of any future advantage.</p>",
+  "sections": [
+    [
+      "A holdout is not automatically a rehearsal",
+      "<p>In the random holdout, A has the lower mean error: 80 ÷ 20 = 4, compared with B’s 120 ÷ 20 = 6. But that test mixes earlier and later business conditions and lets training include later dates than some scored days. It asks about held-out observations within a mixed history, not purely about forecasting a later period from an earlier one.</p><p>The forward test has the same training count and metric, but preserves the direction in which time unfolds. B’s error is 140 ÷ 20 = 7, below A’s 220 ÷ 20 = 11 on those later days. The test changes which observations are used, not just their order on a report.</p>"
+    ],
+    [
+      "Choose B on the relevant evidence, without promising seven",
+      "<p>B is the better-supported choice among the two ready frozen versions for the stated next period. It performed better on the later period under the continuing promotion pattern, with the same operational restrictions. A’s stronger mixed-history score does not outweigh that more relevant comparison by itself.</p><p>This does not promise an error of seven orders next period, establish a statistically certain ranking, or prove that simple methods beat complex ones. The case supplies no model-class details, repeated forward windows or daily error distribution. Future weather, customers or campaigns could change the comparison again.</p>"
+    ],
+    [
+      "Available inputs can still meet a changed world",
+      "<p>Every prediction input here existed at its stated decision time. That avoids the unavailable same-day revenue problem in IS-06. The concern is instead whether the fitted relationships and evaluation population match the later business setting. Correct timestamps do not make changing conditions stationary.</p><p>The calendar change motivates investigating shift but does not isolate a causal mechanism. Different training/test compositions and sampling variation also affect scores. Do not subtract A’s 4 from 11 and call the seven-order difference “the effect of the promotion”.</p>"
+    ],
+    [
+      "What a later update would need",
+      "<p>A refitted version using more recent days is a new candidate, not the tested frozen version. Evaluate its complete retraining policy on later, untouched periods using only the information then available, or collect prospective outcomes under the intended use. Use more than one relevant forward window when the data permit; match the prediction horizon and update schedule to operations.</p><p>Continue tracking input patterns and realised errors. Equal computational cost and mean error do not provide a conversion into staffing savings, customer harm or profit. Those require separate evidence and decisions.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>Allow three minutes for the first vote, four for the split and promotion reveal, and five for the second decision. Ask students to sketch days 1–80 followed by 81–100, then mark where the random training observations came from.</p><p>Require a choice of ready A or B rather than an untested “retrain both now”. Discuss a future update separately. Reward distinguishing legitimate prediction inputs from time-representative evaluation. Ask what raw errors, additional periods or operational outcomes would be needed for a stronger conclusion.</p>"
+    ]
+  ],
+  "notes": "The retailer, records, promotions, methods, error totals and deployment choices are fictional. No real algorithm was run and no actual company result is reported. All decision-time features are available; no test outcomes tune the models. The random and chronological tests use different observations, with the same 80 training and 20 scoring counts. Chronological models remain frozen; legitimate prior-day features refresh. Only those frozen versions are ready for the next period. Results are descriptive and contain no significance estimate, causal attribution or financial conversion. Sources were substantively read on 17 November 2026. The two scikit-learn documents share project authorship and methodological context, not independent empirical confirmation.",
+  "sources": [
+    [
+      "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.TimeSeriesSplit.html",
+      "scikit-learn · TimeSeriesSplit documentation",
+      "Official reference explains chronological training/test splits and why fitting on later observations while evaluating earlier ones can be inappropriate. The classroom exercise uses one fixed 80/20 split, not a claim to run the library’s complete cross-validation routine."
+    ],
+    [
+      "https://otexts.com/fpp3/toolbox.html#time-series-cross-validation",
+      "Hyndman and Athanasopoulos · Forecasting: Principles and Practice, section 5.10",
+      "Authors’ textbook explains rolling forecasting origins, preceding training observations and matching forecast horizons. It supports forward evaluation; no source data or published error estimates are reused."
+    ],
+    [
+      "https://developers.google.com/machine-learning/guides/rules-of-ml",
+      "Martin Zinkevich / Google · Rules of Machine Learning, training-serving skew and Rule 33",
+      "Original engineering guidance distinguishes data changes from pipeline differences and recommends evaluation after the training period. Its advice is not a guarantee that a later sample perfectly predicts future performance."
+    ],
+    [
+      "https://arxiv.org/html/2211.14238v2",
+      "Yao and colleagues · Wild-Time: A Benchmark of in-the-Wild Distribution Shift over Time · 2023 revision",
+      "Original research separates fixed and streaming temporal evaluation and compares standard with mixed-time splits. Its benchmark focuses on gradual shifts and different tasks; neither its numerical results nor a causal effect are imported into this abrupt fictional promotion change."
+    ],
+    [
+      "https://scikit-learn.org/stable/auto_examples/applications/plot_time_series_lagged_features.html",
+      "scikit-learn · Lagged features for time series forecasting",
+      "Official worked bike-demand example contrasts shuffled and time-based evaluation and illustrates overly optimistic shuffled results in that example. Related to the TimeSeriesSplit documentation, not an independent general proof that random splits always fail."
+    ]
+  ],
+  "slides": [
+    [
+      "Trained on yesterday. Useful for tomorrow?",
+      "<p>IS-31 · Fictional Hong Kong online gift retailer</p><p>Choose a forecast for future mornings, not the prettiest historical score.</p>"
+    ],
+    [
+      "The decision and safeguards",
+      "<p></p>"
+    ],
+    [
+      "The decision and safeguards",
+      "<p>Predict completed paid orders at 8am. A and B cost the same. All inputs existed by 8am; no target-day closing figures. Both methods use the same training allowance, target and error measure.</p><p>Forecasts inform packing preparation. Human oversight and existing employment arrangements remain unchanged.</p>"
+    ],
+    [
+      "First report",
+      "<table><thead><tr><th>Random holdout: same 20 test days</th><th>A</th><th>B</th></tr></thead><tbody><tr><td>Total absolute error</td><td>80 orders</td><td>120 orders</td></tr><tr><td>Mean absolute error: total ÷ 20</td><td>4 orders per day</td><td>6 orders per day</td></tr></tbody></table>"
+    ],
+    [
+      "First report · continued",
+      "<p>Training days and test days are interspersed across the 100-day history. No raw day-level errors or uncertainty intervals are supplied.</p><p>Randomly fit 80 rows; hold out 20. Fit parameters and preprocessing on training rows only, with no test-based tuning. Absolute error is the size of a daily miss, whether above or below actual orders.</p>"
+    ],
+    [
+      "First decision",
+      "<p>Based on this report, which forecasting method would you favour, A or B? What should the test reproduce before you use it for future mornings?</p>"
+    ],
+    [
+      "The business pattern changed",
+      "<p>New promotion calendar and shopping-occasion mix from day 81, planned to continue. No change in target definition or recording.</p><p>Random split: training 64 earlier + 16 later days; testing 16 earlier + four later days. Both periods are mixed.</p>"
+    ],
+    [
+      "A forward rehearsal",
+      "<table><thead><tr><th>Forward test: fit days 1–80; test days 81–100</th><th>A</th><th>B</th></tr></thead><tbody><tr><td>Total absolute error</td><td>220 orders</td><td>140 orders</td></tr><tr><td>Mean absolute error: total ÷ 20</td><td>11 orders per day</td><td>7 orders per day</td></tr></tbody></table>"
+    ],
+    [
+      "A forward rehearsal · continued",
+      "<p>Both versions fit days 1–80 and stay frozen. Daily legitimate lagged inputs refresh. They are the only versions ready for the next twenty days; no refitted version has been evaluated.</p>"
+    ],
+    [
+      "Second decision",
+      "<p>Which of the two frozen forecasting versions would you use for the next planning period? Explain which test is more relevant and one claim these results cannot support.</p>"
+    ],
+    [
+      "The relevant score, not a guarantee",
+      "<p>Choose B among the ready versions: later-period mean error 7 versus 11. Mixed-history scores of 6 versus 4 answer a different evaluation question.</p><p>No promise of seven next period, no proven promotion effect, no statistical certainty. Monitor results; evaluate any refit separately on later untouched periods.</p>"
+    ]
+  ],
+  "teaser": "Two forecast methods have different scores in a random holdout. Which ready method should the retailer use for future mornings?"
+}

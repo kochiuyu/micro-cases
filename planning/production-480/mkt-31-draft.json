@@ -82,7 +82,15 @@
     ],
     [
       "Aggregate dashboard",
-      "<table><caption>Fictional records; same universe, pack size and period length</caption><thead><tr><th>Measure</th><th>Earlier 12 weeks</th><th>Later 12 weeks</th></tr></thead><tbody><tr><td>Households monitored</td><td>10,000</td><td>10,000</td></tr><tr><td>Category-buying households</td><td>8,000</td><td>8,000</td></tr><tr><td>Bay Jar packs purchased</td><td>8,000</td><td>8,000</td></tr><tr><td>Price per identical pack</td><td>HK$30</td><td>HK$30</td></tr><tr><td>Bay Jar sales value</td><td>HK$240,000</td><td>HK$240,000</td></tr></tbody></table><p>A category buyer bought at least one pantry-sauce brand in the period; a Bay Jar buyer bought Bay Jar at least once. Each household counts once in a buyer count, however often it shops. No other information on individual buying is yet supplied.</p>"
+      "<table><caption>Fictional records; same universe, pack size and period length</caption><thead><tr><th>Measure</th><th>Earlier 12 weeks</th><th>Later 12 weeks</th></tr></thead><tbody><tr><td>Households monitored</td><td>10,000</td><td>10,000</td></tr><tr><td>Category-buying households</td><td>8,000</td><td>8,000</td></tr><tr><td>Bay Jar packs purchased</td><td>8,000</td><td>8,000</td></tr></tbody></table>"
+    ],
+    [
+      "Aggregate dashboard · price and value",
+      "<table><thead><tr><th>Measure</th><th>Earlier 12 weeks</th><th>Later 12 weeks</th></tr></thead><tbody><tr><td>Price per identical pack</td><td>HK$30</td><td>HK$30</td></tr><tr><td>Bay Jar sales value</td><td>HK$240,000</td><td>HK$240,000</td></tr></tbody></table>"
+    ],
+    [
+      "How buyers are counted",
+      "<p>A category buyer bought at least one pantry-sauce brand in the period; a Bay Jar buyer bought Bay Jar at least once. Each household counts once in a buyer count, however often it shops. No other information on individual buying is yet supplied.</p>"
     ],
     [
       "First decision",
@@ -102,15 +110,31 @@
     ],
     [
       "Debrief · One total, different components",
-      "<p>Require the buyer breakdown in round one. The dashboard establishes stable recorded volume and value, not stable distinct buyer reach. Several combinations of buyers, occasions and quantities can produce the same total.</p><p>Earlier volume is 2,000 × 4 × 1 = <strong>8,000 packs</strong>. Later volume is 1,600 × 5 × 1 = <strong>8,000 packs</strong>. The buyer count falls 20% while frequency rises 25%: 0.80 × 1.25 = 1.00. These percentage changes cannot be added. Pack quantity per purchase and price are unchanged.</p>"
+      "<p>Require the buyer breakdown in round one. The dashboard establishes stable recorded volume and value, not stable distinct buyer reach. Several combinations of buyers, occasions and quantities can produce the same total.</p>"
+    ],
+    [
+      "Debrief · One total, different components · continued",
+      "<p>Earlier volume is 2,000 × 4 × 1 = <strong>8,000 packs</strong>. Later volume is 1,600 × 5 × 1 = <strong>8,000 packs</strong>. The buyer count falls 20% while frequency rises 25%: 0.80 × 1.25 = 1.00. These percentage changes cannot be added. Pack quantity per purchase and price are unchanged.</p>"
     ],
     [
       "Debrief · Name the denominator",
-      "<p>Brand penetration among all monitored households falls from 2,000 ÷ 10,000 = <strong>20%</strong> to 1,600 ÷ 10,000 = <strong>16%</strong>: a fall of four percentage points, or 20% relative to the original level.</p><p>Among category buyers, the brand’s buyer reach falls from 2,000 ÷ 8,000 = <strong>25%</strong> to 1,600 ÷ 8,000 = <strong>20%</strong>. That is five percentage points. Neither percentage is a volume market share: the case does not provide total category packs.</p>"
+      "<p>Brand penetration among all monitored households falls from 2,000 ÷ 10,000 = <strong>20%</strong> to 1,600 ÷ 10,000 = <strong>16%</strong>: a fall of four percentage points, or 20% relative to the original level.</p>"
+    ],
+    [
+      "Debrief · Name the denominator · continued",
+      "<p>Among category buyers, the brand’s buyer reach falls from 2,000 ÷ 8,000 = <strong>25%</strong> to 1,600 ÷ 8,000 = <strong>20%</strong>. That is five percentage points. Neither percentage is a volume market share: the case does not provide total category packs.</p>"
     ],
     [
       "Debrief · Diagnose before promising growth",
-      "<p><strong>R is the better-supported diagnostic priority</strong> because the records expose narrower buyer reach while average purchase frequency has already increased. Ask which category buyers do not buy Bay Jar and why: availability, relevance, recognition and preferences are competing explanations, not established findings.</p><p>F remains a possible growth route, but these totals do not establish that more frequency is achievable, cheaper or more profitable than wider reach. Nor do they prove an acquisition campaign will succeed. A narrower buyer base is a diagnostic signal, not by itself a complete marketing investment case.</p><p>There are 400 fewer buyers in net terms. We cannot say exactly 400 households left: entrants and departures may offset. Nor can we say each continuing buyer increased purchases. Group averages can change because the buyer mix changes. This is not a retention-rate or lifetime-value calculation.</p>"
+      "<p><strong>R is the better-supported diagnostic priority</strong> because the records expose narrower buyer reach while average purchase frequency has already increased. Ask which category buyers do not buy Bay Jar and why: availability, relevance, recognition and preferences are competing explanations, not established findings.</p>"
+    ],
+    [
+      "Debrief · Diagnose before promising growth · continued",
+      "<p>F remains a possible growth route, but these totals do not establish that more frequency is achievable, cheaper or more profitable than wider reach. Nor do they prove an acquisition campaign will succeed. A narrower buyer base is a diagnostic signal, not by itself a complete marketing investment case.</p>"
+    ],
+    [
+      "Debrief · Diagnose before promising growth · continued",
+      "<p>There are 400 fewer buyers in net terms. We cannot say exactly 400 households left: entrants and departures may offset. Nor can we say each continuing buyer increased purchases. Group averages can change because the buyer mix changes. This is not a retention-rate or lifetime-value calculation.</p>"
     ]
   ]
 }

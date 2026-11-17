@@ -77,8 +77,16 @@
       "<p>Controller at fictional Harbour Skin. Sign the month-end cost report for one production stage, using the supplied policy.</p>"
     ],
     [
-      "The reporting facts",
-      "<p>You are the controller of fictional Harbour Skin, a small Hong Kong skincare producer. At month-end, 1,000 identical bottles have entered one production stage: 800 are complete and transferred out; 200 remain unfinished. There is no opening work in progress, loss or spoilage.</p><p>All direct materials are added at the start. Conversion means labour and production overhead, incurred evenly as this stage progresses. The supervisor initially certifies the unfinished bottles as 70% converted. Company policy allocates each cost pool using equivalent completed work, not an equal cost per physical bottle.</p><p>A draft report instead divides the HK$19,400 total cost by all 1,000 bottles and assigns HK$3,880 to unfinished stock. Before signing it, decide whether that allocation fits the supplied policy.</p>"
+      "The production facts",
+      "<p>You are the controller of fictional Harbour Skin, a small Hong Kong skincare producer. At month-end, 1,000 identical bottles have entered one production stage: 800 are complete and transferred out; 200 remain unfinished. There is no opening work in progress, loss or spoilage.</p>"
+    ],
+    [
+      "The costing policy",
+      "<p>All direct materials are added at the start. Conversion means labour and production overhead, incurred evenly as this stage progresses. The supervisor initially certifies the unfinished bottles as 70% converted. Company policy allocates each cost pool using equivalent completed work, not an equal cost per physical bottle.</p>"
+    ],
+    [
+      "The report to sign",
+      "<p>A draft report instead divides the HK$19,400 total cost by all 1,000 bottles and assigns HK$3,880 to unfinished stock. Before signing it, decide whether that allocation fits the supplied policy.</p>"
     ],
     [
       "Evidence",
@@ -101,8 +109,16 @@
       "<p>Replace the equal-per-bottle allocation. Materials equivalent units are 800 + 200 = 1,000; the materials rate is HK$10 per equivalent unit. Conversion equivalent units are 800 + 200 × 70% = 940; the conversion rate is HK$10.</p><p>Unfinished stock carries HK$2,000 of materials and HK$1,400 of conversion: <strong>HK$3,400</strong>. Transferred-out cost is 800 × (10 + 10) = <strong>HK$16,000</strong>. Together they reconcile to HK$19,400. Physical counts also reconcile: 800 + 200 = 1,000.</p>"
     ],
     [
-      "Debrief · Recalculate the denominator",
-      "<p>At 40% completion, conversion equivalent units become 800 + 80 = 880. The revised conversion rate is 9,400 ÷ 880 = HK$10.681818…; retain precision until final totals.</p><p>Unfinished cost is 2,000 + 80 × 10.681818… = <strong>HK$2,854.55</strong>. Transferred-out cost is 8,000 + 800 × 10.681818… = <strong>HK$16,545.45</strong>. These rounded totals still sum to HK$19,400.</p><p>The unfinished value falls by HK$545.45, not HK$600: the conversion rate also changes. No spending disappeared. A smaller measured amount of work now bears the same conversion cost pool. This alone does not establish inefficiency, misconduct or a change in cash.</p>"
+      "Debrief · Revised work and rate",
+      "<p>At 40% completion, conversion equivalent units become 800 + 80 = 880. The revised conversion rate is 9,400 ÷ 880 = HK$10.681818…; retain precision until final totals.</p>"
+    ],
+    [
+      "Debrief · Revised allocation",
+      "<p>Unfinished cost is 2,000 + 80 × 10.681818… = <strong>HK$2,854.55</strong>. Transferred-out cost is 8,000 + 800 × 10.681818… = <strong>HK$16,545.45</strong>. These rounded totals still sum to HK$19,400.</p>"
+    ],
+    [
+      "Debrief · No spending disappeared",
+      "<p>The unfinished value falls by HK$545.45, not HK$600: the conversion rate also changes. No spending disappeared. A smaller measured amount of work now bears the same conversion cost pool. This alone does not establish inefficiency, misconduct or a change in cash.</p>"
     ],
     [
       "What the report can and cannot establish",
