@@ -1,0 +1,112 @@
+{
+  "number": 370,
+  "code": "SUS-31",
+  "slug": "lower-carbon-heavier-water-footprint",
+  "title": "Lower carbon. A heavier water footprint?",
+  "discipline": "Sustainability, social enterprise and public management",
+  "location": "Hong Kong · fictional community centre",
+  "duration": "15–20 minutes",
+  "topics": [
+    "Life-cycle assessment",
+    "Cross-category trade-offs",
+    "Water-scarcity context"
+  ],
+  "teaser": "Two uniforms deliver the same service. One has a lower climate indicator but consumes more freshwater.",
+  "alt": "A community-centre buyer and colleague compare two plain uniform shirts and supplier folders on a wooden table.",
+  "news_heading": "One environmental indicator is not the whole comparison",
+  "news": "<p>Textile supply chains create several kinds of environmental pressure. The European Environment Agency discusses water, land, materials and greenhouse emissions separately. The European Commission likewise treats climate and water as different assessment categories, not interchangeable units.</p><p>Life Cycle Initiative guidance asks comparisons to deliver the same function across consistent boundaries. US Department of Energy teaching material explains why improving one impact can worsen another. Those principles inform this fictional procurement decision; none of the sources measures the uniforms below.</p>",
+  "opening": "<p>Lin buys new uniforms for a fictional Hong Kong community centre. Existing uniforms are no longer fit for service. Two qualified suppliers offer different, unnamed fabric systems. Both meet the same safety, comfort, worker-rights and chemical requirements. Neither is alleged to breach a water restriction. Prices, delivery and necessary repairs are covered and affordable.</p><p>Each offer supplies 20 shirts, each providing 50 clean wear-days: the same <strong>1,000 clean wear-days</strong>. Neither needs an extra replacement during that service. An invented assessment includes raw materials, production, transport, laundering and end-of-life treatment on the same basis. Its two results are below. Do not infer a ranking of actual cotton, polyester or any real fibre from these fictional systems.</p><p>The buyer has no mandatory climate or water threshold and has not assigned exchange weights between them. Other environmental categories have not been compared; this is a deliberately limited decision exercise, not a complete product assessment. Choose provisionally and identify the limits of your recommendation.</p>",
+  "q1": "Which uniform offer would you choose provisionally, A or B? State the environmental priority behind your choice and one claim the table does not justify.",
+  "q2": "Keep or change your choice after the basin evidence? Explain the climate–water trade-off and write one accurate sentence about the option you recommend.",
+  "round2": "<p>The analyst adds location and season to the same water inventory. All figures remain fictional. Of A’s 6 m³, 5 m³ is consumed upstream in a basin during its high-scarcity season and 1 m³ in lower-scarcity conditions. B’s 4 m³ is consumed in lower-scarcity conditions. “High” and “lower” are supported qualitative classifications within this exercise, not numerical multipliers.</p><p>Water consumed means water not returned to the same basin, rather than all water withdrawn and later returned. A location-sensitive assessment considers potential pressure on other users and ecosystems; a litre count alone cannot express that pressure. The case supplies no quantified scarcity-impact factors, monetary damage values or evidence of a specific person losing water.</p><p>The climate totals and equal service remain unchanged. No third supplier, redesign or mitigation measure is costed or available for this order. You must recommend A or B now, while recording a next-procurement improvement request separately. Neither a carbon saving nor a water concern can be silently erased.</p>",
+  "exhibit": "<table><thead><tr><th>Whole-order model, same 1,000 clean wear-days</th><th>A</th><th>B</th></tr></thead><tbody><tr><td>Total price</td><td>HK$8,000</td><td>HK$8,000</td></tr><tr><td>Climate indicator</td><td>120 kg CO₂e</td><td>160 kg CO₂e</td></tr><tr><td>Freshwater consumed</td><td>6 m³</td><td>4 m³</td></tr></tbody></table>",
+  "exhibit_md": "| Whole-order model, same 1,000 clean wear-days | A | B |\n| --- | --- | --- |\n| Total price | HK$8,000 | HK$8,000 |\n| Climate indicator | 120 kg CO₂e | 160 kg CO₂e |\n| Freshwater consumed | 6 m³ | 4 m³ |",
+  "sections": [
+    [
+      "Compare the same service",
+      "<p>Twenty shirts × 50 clean wear-days = 1,000 clean wear-days under each offer. Comparing one kilogram of fabric or one shirt without its useful service could answer a different question. Here equal durability and laundering needs are stipulated, so they do not hide a replacement advantage.</p><p>A’s modelled climate indicator is 40 kg CO₂e lower than B’s, a 25% reduction relative to B: 40 ÷ 160. Its freshwater consumption is 2 m³ higher, or 50% higher relative to B: 2 ÷ 4. These are differences between two invented order assessments, not measured reductions caused by a real purchase.</p>"
+    ],
+    [
+      "The reveal adds context, not a conversion rate",
+      "<p>The basin information strengthens the reason to examine A’s water burden. It does not turn 5 m³ into a known quantity of ecological damage or provide a valid number to add to kilograms of CO₂e. Do not multiply by an invented “high scarcity” factor.</p><p>Water-footprint methods such as WULCA’s AWARE link consumption to relevant location and time. Their characterisation factors require a specified method and matching inventory. This case borrows that question, not a factor dataset or a certified footprint. A proper follow-up assessment would examine basin and seasonal data, method choice and uncertainty.</p>"
+    ],
+    [
+      "Choose a priority without claiming a universal winner",
+      "<p>B is defensible if Lin gives priority to avoiding additional consumption concentrated in a high-scarcity season, accepting the 40 kg CO₂e higher modelled climate result. A is defensible if climate performance is the stated priority within these feasible choices, while acknowledging the water trade-off and the missing broader assessment. Neither choice proves overall environmental superiority.</p><p>A truthful sentence for B is: “For the same modelled service, we chose the option using 2 m³ less freshwater, all in the lower-scarcity conditions described, although its climate indicator is 40 kg CO₂e higher.” For A: “We chose a 25% lower modelled climate indicator than B, while accepting higher freshwater consumption, mostly in the high-scarcity setting described.”</p>"
+    ],
+    [
+      "Make the next specification more useful",
+      "<p>Record the selected priority, the comparison boundary and the uncertainty. For the next order, request better water-impact evidence and assess an alternative that could improve both categories. Do not assume a proposed redesign is affordable, available or effective before it is evaluated.</p><p>The remaining environmental categories still matter. This limited exhibit cannot substantiate “the sustainable uniform” or settle every procurement obligation. In an actual purchase, review the complete relevant evidence and applicable requirements rather than adopt the classroom assumptions as facts.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>Allow three minutes for a first vote, three for the arithmetic, three for the basin reveal and five for competing recommendations. Keep the second-round evidence hidden until the first choice. Ask an A supporter to state the strongest water objection and a B supporter to acknowledge the climate cost.</p><p>Students need not reverse their first vote. Reward an explicit priority and bounded claim, not a universal winner or an uncosted “do both”. Ask why 25% lower climate impact and 50% higher water consumption cannot be netted to “25% worse”. They have different denominators, dimensions and environmental meanings.</p><p>This is cross-category burden shifting. SUS-13 instead compares water interventions across catchments; SUS-25 compares life-cycle financial costs. The case supplies no method for converting carbon into water damage.</p>"
+    ]
+  ],
+  "notes": "The centre, suppliers, fabrics, prices, service life, impact figures and basin classifications are invented teaching assumptions. No real fabric or supplier is ranked. This two-indicator exercise is not a complete LCA, an AWARE calculation or a legal procurement assessment. Sources were substantively read on 17 November 2026; they support concepts, not the invented values. The baseline and numerical claims compare A with B, not a prior real order. Content, source and arithmetic review has been completed; illustration, rendered-output and publication checks remain pending at this draft stage.",
+  "sources": [
+    [
+      "https://www.eea.europa.eu/en/analysis/publications/textiles-and-the-environment-the-role-of-design-in-europes-circular-economy-1",
+      "European Environment Agency: Textiles and the environment: the role of design in Europe’s circular economy",
+      "Separate water, land, material and climate pressures motivate a textile comparison with more than one indicator. EU consumption findings are not Hong Kong supplier measurements."
+    ],
+    [
+      "https://www.lifecycleinitiative.org/criteria-good-lca-practice/",
+      "Life Cycle Initiative: Criteria for Good LCA Practice",
+      "Supports consistent function, boundaries, relevant categories and transparent exclusions. No claim that this classroom exercise is a complete or independently reviewed LCA."
+    ],
+    [
+      "https://green-forum.ec.europa.eu/green-business/environmental-footprint-methods/lca-ef-methods_en",
+      "European Commission: Life Cycle Assessment & the EF methods",
+      "Explains distinct environmental categories, climate units and local scarcity context for water. Its framework does not choose the buyer’s trade-off."
+    ],
+    [
+      "https://www.energy.gov/sites/default/files/2022-07/2022-07-14%20-%20Intro%20to%20LCA%20-%20Slides%20and%20Transcript_compliant_0.pdf",
+      "US Department of Energy, Advanced Manufacturing Office: Introduction to Life Cycle Assessment (2022), pages 3 and 9–12",
+      "Explains cross-impact burden shifting and distinguishes attributed product burdens from consequential changes. No numerical example from it is reused."
+    ],
+    [
+      "https://wulca-waterlca.org/what-is-aware/faq/",
+      "WULCA: AWARE frequently asked questions",
+      "Explains consumption versus withdrawal/return, local inventory and characterisation factors, and spatial/temporal aggregation. No AWARE factors or scores are asserted or calculated for the fictional suppliers."
+    ]
+  ],
+  "slides": [
+    [
+      "Lower carbon. A heavier water footprint?",
+      "<p>SUS-31 · Fictional Hong Kong community centre</p><p>Choose one uniform order. Compare the same service, not a green label.</p>"
+    ],
+    [
+      "A real assessment question",
+      "<p>Textiles can create climate and water pressures. Public LCA guidance warns against improving one category while ignoring another.</p><p>All suppliers, quantities and outcomes in this case are fictional.</p>"
+    ],
+    [
+      "One order, equal service",
+      "<p>20 shirts × 50 clean wear-days = 1,000 clean wear-days under each offer. Same acceptable safety, comfort, rights and delivery; no extra replacement.</p><p>Models include production, transport, laundering and end of life. Other environmental categories are unassessed. No climate–water exchange weight is set.</p>"
+    ],
+    [
+      "Two indicators",
+      "<table><thead><tr><th>Whole-order model, same 1,000 clean wear-days</th><th>A</th><th>B</th></tr></thead><tbody><tr><td>Total price</td><td>HK$8,000</td><td>HK$8,000</td></tr><tr><td>Climate indicator</td><td>120 kg CO₂e</td><td>160 kg CO₂e</td></tr><tr><td>Freshwater consumed</td><td>6 m³</td><td>4 m³</td></tr></tbody></table><p>Whole-order figures are invented. Both offers cost the same and are feasible.</p>"
+    ],
+    [
+      "First vote",
+      "<p>Which uniform offer would you choose provisionally, A or B? State the environmental priority behind your choice and one claim the table does not justify.</p>"
+    ],
+    [
+      "Round two: where and when?",
+      "<p>A: 5 of 6 m³ consumed upstream during a high-scarcity basin season; 1 m³ in lower-scarcity conditions.</p><p>B: all 4 m³ in lower-scarcity conditions. Climate figures unchanged. No quantified scarcity factors or damage values are provided.</p><p>Water consumed is not simply all water withdrawn. No costed third option is available for this order.</p>"
+    ],
+    [
+      "Second vote",
+      "<p>Keep or change your choice after the basin evidence? Explain the climate–water trade-off and write one accurate sentence about the option you recommend.</p>"
+    ],
+    [
+      "The trade-off stays visible",
+      "<p>A has a 40 kg CO₂e lower climate indicator: 25% below B. It consumes 2 m³ more freshwater: 50% above B.</p><p>Scarcity context matters, but percentages in different categories cannot be netted. No universal environmental winner is established.</p>"
+    ],
+    [
+      "A bounded recommendation",
+      "<p>B prioritises lower water consumption and its location, accepting higher modelled climate impact. A prioritises lower climate impact while acknowledging the water burden.</p><p>Record the priority, missing categories and next-order evidence needs. An uncosted redesign is not today’s third choice.</p>"
+    ]
+  ]
+}

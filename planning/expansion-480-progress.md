@@ -10,6 +10,8 @@ Owner authorized 120 additional cases on 17 November 2026: ten per area, codes 3
 - Infrastructure: staged capacity to480/40, immutable360 snapshot and all test suites passed.
 - New cases published: **0**.
 - ACC-31: draft, five-source independent review, exact arithmetic, and original revised art complete. Builder and integrated361-case static checks passed locally. Build was removed from live registry pending visual gate; regenerate from saved JSON.
+- Six drafts now researched: ACC, FIN, MKT, OPS, ENT and SUS31. All six received independent source/concept/arithmetic review; ENT/SUS corrections applied. Five have inspected illustrations.
+- Five labeled public draft previews prepared in `production-480/previews/` for remote visual review; they are not in the collection registry.
 - Visual blocker: Chromium launch fails with platform socket EPERM (also after approved sandbox escalation); parent cloud browser cannot reach local8128 preview. Desktop/mobile presentation and print tests NOT RUN. Do not publish ACC-31 until a reachable preview passes. Source/drafting work on next cases can continue.
 - Next production wave: ACC-31, FIN-31, MKT-31, OPS-31, PPL-31, STR-31, ENT-31, IS-31, GVR-31, SUS-31, ECO-31, HSP-31.
 
