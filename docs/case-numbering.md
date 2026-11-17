@@ -438,3 +438,15 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 394 | SUS-33 | [useful-heat-dependable-supply.html](../useful-heat-dependable-supply.html) | A useful by-product. A dependable input? |
 | 395 | ECO-33 | [seller-tax-who-bears-it.html](../seller-tax-who-bears-it.html) | A tax on the seller. Who pays in the end? |
 | 396 | HSP-33 | [upgrade-accepted-right-room-unsold.html](../upgrade-accepted-right-room-unsold.html) | An upgrade accepted. The right room left unsold? |
+| 397 | ACC-34 | [useful-prototype-recognition-date.html](../useful-prototype-recognition-date.html) | A useful prototype. An asset already? |
+| 398 | FIN-34 | [guaranteed-loan-future-cash.html](../guaranteed-loan-future-cash.html) | A guaranteed loan. Whose future cash? |
+| 399 | MKT-34 | [same-message-who-must-agree.html](../same-message-who-must-agree.html) | The same message. Who must agree? |
+| 400 | OPS-34 | [equal-work-balanced-line.html](../equal-work-balanced-line.html) | Equal work. A balanced line? |
+| 401 | PPL-34 | [one-company-two-identities.html](../one-company-two-identities.html) | One company. Two identities. |
+| 402 | STR-34 | [strong-threat-costly-commitment.html](../strong-threat-costly-commitment.html) | A strong threat. A costly commitment? |
+| 403 | ENT-34 | [large-market-reachable-business.html](../large-market-reachable-business.html) | A large market. A reachable first business? |
+| 404 | IS-34 | [model-improved-target-changed.html](../model-improved-target-changed.html) | A model improved. Is the target still the same? |
+| 405 | GVR-34 | [optional-consent-blocked-service.html](../optional-consent-blocked-service.html) | The customer is unhappy. Is consent still voluntary? |
+| 406 | SUS-34 | [help-available-document-barrier.html](../help-available-document-barrier.html) | Help is available. Can people claim it? |
+| 407 | ECO-34 | [more-demand-more-supply-when.html](../more-demand-more-supply-when.html) | More demand today. More supply when? |
+| 408 | HSP-34 | [minimum-spend-exclusive-time.html](../minimum-spend-exclusive-time.html) | A minimum spend. A banquet worth accepting? |

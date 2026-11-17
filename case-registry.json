@@ -2834,6 +2834,90 @@
       "slug": "upgrade-accepted-right-room-unsold",
       "area": "Hospitality, tourism, property and service management",
       "title": "An upgrade accepted. The right room left unsold?"
+    },
+    {
+      "legacy_id": 397,
+      "code": "ACC-34",
+      "slug": "useful-prototype-recognition-date",
+      "area": "Accounting, audit and management control",
+      "title": "A useful prototype. An asset already?"
+    },
+    {
+      "legacy_id": 398,
+      "code": "FIN-34",
+      "slug": "guaranteed-loan-future-cash",
+      "area": "Finance, banking and insurance",
+      "title": "A guaranteed loan. Whose future cash?"
+    },
+    {
+      "legacy_id": 399,
+      "code": "MKT-34",
+      "slug": "same-message-who-must-agree",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "The same message. Who must agree?"
+    },
+    {
+      "legacy_id": 400,
+      "code": "OPS-34",
+      "slug": "equal-work-balanced-line",
+      "area": "Operations, supply chains and logistics",
+      "title": "Equal work. A balanced line?"
+    },
+    {
+      "legacy_id": 401,
+      "code": "PPL-34",
+      "slug": "one-company-two-identities",
+      "area": "People, leadership and organisational behaviour",
+      "title": "One company. Two identities."
+    },
+    {
+      "legacy_id": 402,
+      "code": "STR-34",
+      "slug": "strong-threat-costly-commitment",
+      "area": "Strategy and international business",
+      "title": "A strong threat. A costly commitment?"
+    },
+    {
+      "legacy_id": 403,
+      "code": "ENT-34",
+      "slug": "large-market-reachable-business",
+      "area": "Entrepreneurship, innovation and family business",
+      "title": "A large market. A reachable first business?"
+    },
+    {
+      "legacy_id": 404,
+      "code": "IS-34",
+      "slug": "model-improved-target-changed",
+      "area": "Information systems, AI and business analytics",
+      "title": "A model improved. Is the target still the same?"
+    },
+    {
+      "legacy_id": 405,
+      "code": "GVR-34",
+      "slug": "optional-consent-blocked-service",
+      "area": "Governance, law, ethics and risk",
+      "title": "The customer is unhappy. Is consent still voluntary?"
+    },
+    {
+      "legacy_id": 406,
+      "code": "SUS-34",
+      "slug": "help-available-document-barrier",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "Help is available. Can people claim it?"
+    },
+    {
+      "legacy_id": 407,
+      "code": "ECO-34",
+      "slug": "more-demand-more-supply-when",
+      "area": "Economics, competition and pricing",
+      "title": "More demand today. More supply when?"
+    },
+    {
+      "legacy_id": 408,
+      "code": "HSP-34",
+      "slug": "minimum-spend-exclusive-time",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "A minimum spend. A banquet worth accepting?"
     }
   ]
 }

@@ -1582,3 +1582,51 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## HSP-33
 
 396. [An upgrade accepted. The right room left unsold?](upgrade-accepted-right-room-unsold.html)
+
+## ACC-34
+
+397. [A useful prototype. An asset already?](useful-prototype-recognition-date.html)
+
+## FIN-34
+
+398. [A guaranteed loan. Whose future cash?](guaranteed-loan-future-cash.html)
+
+## MKT-34
+
+399. [The same message. Who must agree?](same-message-who-must-agree.html)
+
+## OPS-34
+
+400. [Equal work. A balanced line?](equal-work-balanced-line.html)
+
+## PPL-34
+
+401. [One company. Two identities.](one-company-two-identities.html)
+
+## STR-34
+
+402. [A strong threat. A costly commitment?](strong-threat-costly-commitment.html)
+
+## ENT-34
+
+403. [A large market. A reachable first business?](large-market-reachable-business.html)
+
+## IS-34
+
+404. [A model improved. Is the target still the same?](model-improved-target-changed.html)
+
+## GVR-34
+
+405. [The customer is unhappy. Is consent still voluntary?](optional-consent-blocked-service.html)
+
+## SUS-34
+
+406. [Help is available. Can people claim it?](help-available-document-barrier.html)
+
+## ECO-34
+
+407. [More demand today. More supply when?](more-demand-more-supply-when.html)
+
+## HSP-34
+
+408. [A minimum spend. A banquet worth accepting?](minimum-spend-exclusive-time.html)
