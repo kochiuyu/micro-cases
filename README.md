@@ -1438,3 +1438,51 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## HSP-30
 
 360. [A busy season. A destination all year?](rooms-without-a-destination.html)
+
+## ACC-31
+
+361. [Half finished. How many units of work?](half-finished-units-of-work.html)
+
+## FIN-31
+
+362. [A higher percentage. More value created?](higher-percentage-more-value.html)
+
+## MKT-31
+
+363. [The same sales. A smaller buyer base?](same-sales-smaller-buyer-base.html)
+
+## OPS-31
+
+364. [The truck is half empty. Is there room?](half-empty-is-there-room.html)
+
+## PPL-31
+
+365. [We trained them. Can they use it?](trained-them-can-they-use-it.html)
+
+## STR-31
+
+366. [Control the core. Design every extension?](control-the-core-design-every-extension.html)
+
+## ENT-31
+
+367. [Enthusiasts love it. Can ordinary buyers adopt it?](enthusiasts-love-it-ordinary-buyers-adopt-it.html)
+
+## IS-31
+
+368. [Trained on yesterday. Useful for tomorrow?](trained-on-yesterday-useful-for-tomorrow.html)
+
+## GVR-31
+
+369. [The board has information. Does it have time to challenge?](information-without-challenge.html)
+
+## SUS-31
+
+370. [Lower carbon. A heavier water footprint?](lower-carbon-heavier-water-footprint.html)
+
+## ECO-31
+
+371. [The average quality. Who still sells?](average-quality-who-sells.html)
+
+## HSP-31
+
+372. [Fewer bookings today. Behind the booking curve?](fewer-bookings-behind-the-curve.html)

@@ -1,0 +1,176 @@
+{
+  "number": 378,
+  "code": "STR-32",
+  "slug": "on-both-platforms",
+  "title": "On both platforms. Loyal to neither?",
+  "discipline": "Strategy and international business",
+  "topics": [
+    "Platform strategy",
+    "Multi-homing",
+    "Service differentiation"
+  ],
+  "teaser": "Providers and buyers use rival platforms. Should the new catalogue seek exclusive offers or become more useful without demanding exclusivity?",
+  "alt": "Two adult craft-workshop providers and a marketplace manager compare plain catalogue cards beside ceramic tools in a Hong Kong studio, with two unbranded booking screens on a table.",
+  "location": "Hong Kong",
+  "duration": "15–20 minutes",
+  "news_heading": "Participation on more than one platform",
+  "news": "<p>Airbnb’s help centre explains how hosts can connect calendars with other booking websites, including limitations on refresh timing. This illustrates serving customers through more than one channel, not evidence about the performance or market power of the fictional workshop marketplace below.</p>",
+  "opening": "<p>You manage fictional Hong Kong marketplace Workshop Lane, connecting adult learners with independent craft-workshop providers. You can fund one eight-week pilot for a new optional catalogue. Your team argues that recruiting providers into an exclusive catalogue will secure their customers too. Your objective is a useful booking service, not merely a larger membership count.</p><p>A offers each participating provider HK$750 to place specified new workshop-session offers only in Workshop Lane’s new catalogue during the pilot, not on rival booking platforms. The restriction covers only those identified offers. Setup costs HK$5,000; incentives are capped at 20 consenting providers. Providers remain independent and control their teaching and prices.</p><p>B spends HK$20,000 fixed on nonexclusive catalogue tools: clearer comparisons of workshop content, provider-confirmed availability with update timestamps, and booking-request tracking. Providers may place the same offers elsewhere. These tools do not read rival accounts or promise automatic synchronisation. Providers can update their own available places, but must still prevent double bookings.</p><p>The overall pilot ceiling is HK$20,000. Both proposals include all pilot administration and support; there is no reliable booking, revenue or profit forecast. A’s quoted incentive is payable for participation on agreed terms, not per booking. B has no provider incentive. Existing ordinary listings, confirmed bookings, customer rights and supplier contracts remain unchanged.</p><p>These are conditional planning choices, not instructions to sign or enforce restrictions. Before either pilot starts, independent legal review must clear its terms and providers must give informed consent. A’s restricted offers and dates must be explicit, with no automatic renewal. Declining the optional catalogue never removes or disadvantages an ordinary listing.</p>",
+  "exhibit": "<table><caption>Fictional eight-week pilot costs</caption><thead><tr><th>Option</th><th>Fixed cost</th><th>Provider payment</th><th>Ceiling</th></tr></thead><tbody><tr><td>A · Exclusive offers</td><td>HK$5,000</td><td>HK$750 × at most 20</td><td>HK$20,000</td></tr><tr><td>B · Nonexclusive tools</td><td>HK$20,000</td><td>None</td><td>HK$20,000</td></tr></tbody></table>",
+  "exhibit_md": "| Option | Fixed cost | Provider payment | Ceiling |\n| --- | --- | --- | --- |\n| A · Exclusive offers | HK$5,000 | HK$750 × at most 20 | HK$20,000 |\n| B · Nonexclusive tools | HK$20,000 | None | HK$20,000 |",
+  "q1": "Which proposal would you investigate first, A or B, subject to legal review and consent? Does obtaining a provider’s participation justify expecting their buyers to use only this platform? State what evidence is missing.",
+  "round2": "<p>With consent, a small research cohort reports its activity over the last four weeks. Fourteen of 20 providers offered bookable workshops on both Workshop Lane and a rival platform. Twenty-four of 40 adult buyers checked both platforms for at least one workshop-booking decision. These are selected cohorts, not representative samples of the whole market.</p><p>Providers mention reaching different audiences; buyers mention comparing dates and workshop content. The same person can use both platforms without completing a purchase on both. No transaction shares, total market size, revenue split or switching-cost estimates are supplied. Multiple-platform activity does not establish equal preference or absence of loyalty.</p><p>After reading A’s proposed terms, fourteen of the twenty providers say they would not join the new catalogue under those terms. Six would consider it after legal review and a final agreement; none has committed. Their response is not predicted uptake. The study does not cross-tabulate these answers with the earlier multi-platform counts.</p><p>Four of the declining providers offer specialist workshop formats that several interviewed buyers explicitly want to compare in the new catalogue. Those formats would be missing there if these providers stayed out. Their existing ordinary listings remain accessible. Under B, all twenty may apply without exclusivity, but none has promised participation or bookings.</p><p>Some providers welcome B’s clearer availability display; others doubt they will maintain another listing. The prototype has no measured effect on completed bookings. A could give buyers distinct offers if providers accept; B could improve service while retaining choice. Neither possibility is established as a profitable outcome.</p>",
+  "q2": "Would you retain or change your investigation priority? Calculate the two cohort multi-platform percentages and A’s cost if exactly six providers later join. Explain the catalogue trade-off without treating those figures as market shares, commitments or a profit forecast.",
+  "sections": [
+    [
+      "Debrief · Membership is not captivity",
+      "<p>Multi-homing means using more than one platform. Here it is reported listing activity for providers and comparison activity for buyers, not merely installed apps. Fourteen ÷ 20 = 70% of sampled providers; 24 ÷ 40 = 60% of sampled buyers. The denominators and activities differ, so do not combine the percentages.</p><p>The counts challenge the assumption that a provider brings captive buyers. A provider can reach different audiences through different platforms; a buyer can choose where to book each time. These cohort percentages are not transaction shares or market shares. They also do not prove that platforms have identical services or that no participant has a favourite.</p>"
+    ],
+    [
+      "Debrief · Distinct offers or broader choice",
+      "<p>B is a defensible first investigation because it accommodates reported multi-platform use and avoids the stated participation barrier for the specialist providers. But an invitation is not acceptance, and better tools are not automatically better bookings. Test whether maintaining the catalogue is worthwhile for providers and whether buyers actually find relevant offers.</p><p>A could create a differentiated catalogue of genuinely distinctive offers. Its cost is narrower participation when providers value other channels. The reveal identifies missing formats within the new catalogue, not a loss of all ordinary supply. Exclusive offers do not imply exclusive providers, exclusive buyers, market tipping or guaranteed pricing power.</p>"
+    ],
+    [
+      "Debrief · Compare commitments, not ceilings",
+      "<p>At 20 participants, A costs HK$5,000 + 20 × HK$750 = HK$20,000. If exactly six later join on those terms, it costs HK$5,000 + 6 × HK$750 = HK$9,500. This conditional amount is HK$10,500 below B’s fixed HK$20,000. Six expressions of interest are not six contracts.</p><p>A lower spend is not a higher return. Useful choice, provider effort, completed bookings and contribution after costs remain unmeasured. Do not silently spend A’s unused allowance on extra promotion or raise its incentive: either would be a different proposal. No probability of acceptance is supplied, so an expected-cost calculation is unavailable.</p>"
+    ],
+    [
+      "Debrief · Learn without removing choice",
+      "<p>Before launch, verify informed provider willingness, catalogue coverage by workshop type, manageable update effort and legal feasibility. Then track maintained availability, suitable searches, completed bookings, cancellations, participant experience and contribution after all pilot costs. Use consented, minimal data; do not demand rival account access or infer rival sales from app ownership.</p><p>Set a review date and criteria before testing. Compare relevant groups and account for ordinary-listing bookings displaced into the catalogue, rather than counting every catalogue booking as new business. If legal review or consent fails, do not launch that design. Optional participation alone does not establish legality; the classroom comparison supplies no legal conclusion.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>Minutes 0–4: vote and test the captive-buyer assumption. Minutes 4–8: reveal both cohorts and distinguish listing, searching and transacting. Minutes 8–12: calculate the percentages and conditional cost. Minutes 12–18: debate narrower exclusive offers against nonexclusive usefulness. Require a reason why the chosen service would be used, not just joined.</p><p>STR-31 concerns independent developers’ permission to innovate within a platform. STR-02 concerns distributor control of customer relationships. ECO-05 concerns feasible local matches. This case instead examines participation across rival platforms and competition for activity after joining. Do not diagnose unlawful conduct, assume a monopoly outcome or treat a voluntary cohort as the entire market.</p>"
+    ]
+  ],
+  "notes": "The marketplace, catalogue, costs, participant cohorts and responses are fictional. The 20 providers and 40 buyers are separate consented convenience cohorts reporting activity over the same four-week period. Their multi-platform activities use different definitions and are not market or transaction shares. No cross-tabulation of provider activity and pilot willingness is given. Six may consider A but none has consented; the HK$9,500 calculation is conditional. Both proposals require legal review and informed participation before launch. Existing ordinary listings and bookings remain unchanged. No causal booking forecast, market-power finding or legal opinion is supplied.",
+  "sources": [
+    [
+      "https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/05/the-evolving-concept-of-market-power-in-the-digital-economy_c384e80f/2cfcb4a8-en.pdf",
+      "OECD, The Evolving Concept of Market Power in the Digital Economy, 2022, section 2.2.3",
+      "Distinguishes participation from activity and explains why multi-homing requires context. Does not supply market shares or a legal conclusion for this fictional marketplace."
+    ],
+    [
+      "https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/08/practical-approaches-to-assessing-digital-platform-markets-for-competition-law-enforcement_a5768dd6/938ffd20-en.pdf",
+      "OECD Secretariat, Practical approaches to assessing digital platform markets, 2019, section 2.4",
+      "Distinguishes use for a single decision from use for different purposes. Background analysis, not proof of competitive conditions or legality in Hong Kong."
+    ],
+    [
+      "https://www.gov.uk/government/publications/merger-assessment-guidelines/merger-assessment-guidelines-html-version",
+      "UK Competition and Markets Authority, Merger assessment guidelines, two-sided platforms section, updated 3 September 2026",
+      "Explains linked sides and context-dependent network effects. Merger-analysis context only; neither a merger nor a Hong Kong legal assessment is supplied here."
+    ],
+    [
+      "https://www.oecd.org/en/publications/oecd-digital-economy-outlook-2020_bb167041-en/full-report/component-13.html",
+      "OECD Digital Economy Outlook 2020, Evolving business models",
+      "Discusses switching costs, platform differentiation and conditions associated with winner-take-most outcomes. Does not imply all platforms must tip."
+    ],
+    [
+      "https://www.airbnb.com/help/article/99",
+      "Airbnb Help Centre, Sync your home host calendar to other websites, accessed 17 November 2026",
+      "Official description of cross-site calendar functionality and update limits. Illustrates multi-channel operation, not the fictional tools or their effectiveness."
+    ]
+  ],
+  "slides": [
+    [
+      "Participation on more than one platform",
+      "<p>Airbnb’s help centre explains how hosts can connect calendars with other booking websites, including limitations on refresh timing. This illustrates serving customers through more than one channel, not evidence about the performance or market power of the fictional workshop marketplace below.</p>"
+    ],
+    [
+      "The scene",
+      "<p></p>"
+    ],
+    [
+      "Your decision",
+      "<p>You manage fictional Hong Kong marketplace Workshop Lane, connecting adult learners with independent craft-workshop providers. You can fund one eight-week pilot for a new optional catalogue. Your team argues that recruiting providers into an exclusive catalogue will secure their customers too. Your objective is a useful booking service, not merely a larger membership count.</p>"
+    ],
+    [
+      "A · Distinct offers",
+      "<p>A offers each participating provider HK$750 to place specified new workshop-session offers only in Workshop Lane’s new catalogue during the pilot, not on rival booking platforms. The restriction covers only those identified offers. Setup costs HK$5,000; incentives are capped at 20 consenting providers. Providers remain independent and control their teaching and prices.</p>"
+    ],
+    [
+      "B · Useful tools",
+      "<p>B spends HK$20,000 fixed on nonexclusive catalogue tools: clearer comparisons of workshop content, provider-confirmed availability with update timestamps, and booking-request tracking. Providers may place the same offers elsewhere. These tools do not read rival accounts or promise automatic synchronisation. Providers can update their own available places, but must still prevent double bookings.</p>"
+    ],
+    [
+      "Budget and boundaries",
+      "<p>The overall pilot ceiling is HK$20,000. Both proposals include all pilot administration and support; there is no reliable booking, revenue or profit forecast. A’s quoted incentive is payable for participation on agreed terms, not per booking. B has no provider incentive. Existing ordinary listings, confirmed bookings, customer rights and supplier contracts remain unchanged.</p>"
+    ],
+    [
+      "Before either pilot",
+      "<p>These are conditional planning choices, not instructions to sign or enforce restrictions. Before either pilot starts, independent legal review must clear its terms and providers must give informed consent. A’s restricted offers and dates must be explicit, with no automatic renewal. Declining the optional catalogue never removes or disadvantages an ordinary listing.</p>"
+    ],
+    [
+      "Pilot cost comparison",
+      "<table><caption>Fictional eight-week pilot costs</caption><thead><tr><th>Option</th><th>Fixed cost</th><th>Provider payment</th><th>Ceiling</th></tr></thead><tbody><tr><td>A · Exclusive offers</td><td>HK$5,000</td><td>HK$750 × at most 20</td><td>HK$20,000</td></tr><tr><td>B · Nonexclusive tools</td><td>HK$20,000</td><td>None</td><td>HK$20,000</td></tr></tbody></table>"
+    ],
+    [
+      "First decision",
+      "<p>Which proposal would you investigate first, A or B, subject to legal review and consent? Does obtaining a provider’s participation justify expecting their buyers to use only this platform? State what evidence is missing.</p>"
+    ],
+    [
+      "Reported multi-platform activity",
+      "<p>With consent, a small research cohort reports its activity over the last four weeks. Fourteen of 20 providers offered bookable workshops on both Workshop Lane and a rival platform. Twenty-four of 40 adult buyers checked both platforms for at least one workshop-booking decision. These are selected cohorts, not representative samples of the whole market.</p>"
+    ],
+    [
+      "Activity is not transaction share",
+      "<p>Providers mention reaching different audiences; buyers mention comparing dates and workshop content. The same person can use both platforms without completing a purchase on both. No transaction shares, total market size, revenue split or switching-cost estimates are supplied. Multiple-platform activity does not establish equal preference or absence of loyalty.</p>"
+    ],
+    [
+      "Interest is not consent",
+      "<p>After reading A’s proposed terms, fourteen of the twenty providers say they would not join the new catalogue under those terms. Six would consider it after legal review and a final agreement; none has committed. Their response is not predicted uptake. The study does not cross-tabulate these answers with the earlier multi-platform counts.</p>"
+    ],
+    [
+      "What the catalogue would miss",
+      "<p>Four of the declining providers offer specialist workshop formats that several interviewed buyers explicitly want to compare in the new catalogue. Those formats would be missing there if these providers stayed out. Their existing ordinary listings remain accessible. Under B, all twenty may apply without exclusivity, but none has promised participation or bookings.</p>"
+    ],
+    [
+      "Unproven alternatives",
+      "<p>Some providers welcome B’s clearer availability display; others doubt they will maintain another listing. The prototype has no measured effect on completed bookings. A could give buyers distinct offers if providers accept; B could improve service while retaining choice. Neither possibility is established as a profitable outcome.</p>"
+    ],
+    [
+      "Second decision",
+      "<p>Would you retain or change your investigation priority? Calculate the two cohort multi-platform percentages and A’s cost if exactly six providers later join. Explain the catalogue trade-off without treating those figures as market shares, commitments or a profit forecast.</p>"
+    ],
+    [
+      "Debrief · Membership is not captivity",
+      "<p>Multi-homing means using more than one platform. Here it is reported listing activity for providers and comparison activity for buyers, not merely installed apps. Fourteen ÷ 20 = 70% of sampled providers; 24 ÷ 40 = 60% of sampled buyers. The denominators and activities differ, so do not combine the percentages.</p>"
+    ],
+    [
+      "Debrief · Membership is not captivity · continued",
+      "<p>The counts challenge the assumption that a provider brings captive buyers. A provider can reach different audiences through different platforms; a buyer can choose where to book each time. These cohort percentages are not transaction shares or market shares. They also do not prove that platforms have identical services or that no participant has a favourite.</p>"
+    ],
+    [
+      "Debrief · Distinct offers or broader choice",
+      "<p>B is a defensible first investigation because it accommodates reported multi-platform use and avoids the stated participation barrier for the specialist providers. But an invitation is not acceptance, and better tools are not automatically better bookings. Test whether maintaining the catalogue is worthwhile for providers and whether buyers actually find relevant offers.</p>"
+    ],
+    [
+      "Debrief · Distinct offers or broader choice · continued",
+      "<p>A could create a differentiated catalogue of genuinely distinctive offers. Its cost is narrower participation when providers value other channels. The reveal identifies missing formats within the new catalogue, not a loss of all ordinary supply. Exclusive offers do not imply exclusive providers, exclusive buyers, market tipping or guaranteed pricing power.</p>"
+    ],
+    [
+      "Debrief · Compare commitments, not ceilings",
+      "<p>At 20 participants, A costs HK$5,000 + 20 × HK$750 = HK$20,000. If exactly six later join on those terms, it costs HK$5,000 + 6 × HK$750 = HK$9,500. This conditional amount is HK$10,500 below B’s fixed HK$20,000. Six expressions of interest are not six contracts.</p>"
+    ],
+    [
+      "Debrief · Compare commitments, not ceilings · continued",
+      "<p>A lower spend is not a higher return. Useful choice, provider effort, completed bookings and contribution after costs remain unmeasured. Do not silently spend A’s unused allowance on extra promotion or raise its incentive: either would be a different proposal. No probability of acceptance is supplied, so an expected-cost calculation is unavailable.</p>"
+    ],
+    [
+      "Debrief · Learn without removing choice",
+      "<p>Before launch, verify informed provider willingness, catalogue coverage by workshop type, manageable update effort and legal feasibility. Then track maintained availability, suitable searches, completed bookings, cancellations, participant experience and contribution after all pilot costs. Use consented, minimal data; do not demand rival account access or infer rival sales from app ownership.</p>"
+    ],
+    [
+      "Debrief · Learn without removing choice · continued",
+      "<p>Set a review date and criteria before testing. Compare relevant groups and account for ordinary-listing bookings displaced into the catalogue, rather than counting every catalogue booking as new business. If legal review or consent fails, do not launch that design. Optional participation alone does not establish legality; the classroom comparison supplies no legal conclusion.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>Minutes 0–4: vote and test the captive-buyer assumption. Minutes 4–8: reveal both cohorts and distinguish listing, searching and transacting. Minutes 8–12: calculate the percentages and conditional cost. Minutes 12–18: debate narrower exclusive offers against nonexclusive usefulness. Require a reason why the chosen service would be used, not just joined.</p>"
+    ],
+    [
+      "Instructor note · continued",
+      "<p>STR-31 concerns independent developers’ permission to innovate within a platform. STR-02 concerns distributor control of customer relationships. ECO-05 concerns feasible local matches. This case instead examines participation across rival platforms and competition for activity after joining. Do not diagnose unlawful conduct, assume a monopoly outcome or treat a voluntary cohort as the entire market.</p>"
+    ]
+  ]
+}

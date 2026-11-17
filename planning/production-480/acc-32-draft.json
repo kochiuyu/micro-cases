@@ -1,0 +1,160 @@
+{
+  "number": 373,
+  "code": "ACC-32",
+  "slug": "rejects-which-loss-belongs-in-stock",
+  "title": "Rejects. Which loss belongs in stock?",
+  "discipline": "Accounting, audit and management control",
+  "topics": [
+    "Normal and abnormal loss",
+    "Process costing",
+    "Inventory cost"
+  ],
+  "teaser": "A completed run has 100 rejects. Should every production dollar remain in the 900 good units?",
+  "alt": "Two fictional adult factory colleagues compare plain inspection sheets beside trays of finished plastic stationery clips and a separate reject tray.",
+  "location": "Hong Kong",
+  "duration": "15–20 minutes",
+  "news_heading": "A reject count is not a cost classification",
+  "news": "<p>Production rejects do not all receive the same cost treatment. Professional process-costing guidance distinguishes expected process loss from excess loss; inventory standards exclude abnormal production waste from inventory cost.</p><p>Harbour Clips, its production records and every amount below are fictional. The exercise supplies a simplified costing policy, not a technical reject benchmark or a determination of any real company’s reporting obligations.</p>",
+  "opening": "<p>You are controller of fictional Harbour Clips, a Hong Kong maker of identical plastic stationery clips. One run has finished. All 1,000 units received the full production process before final inspection: 900 are good and unsold; 100 are valueless rejects. Nothing is missing or unfinished.</p><p>The run cost HK$19,000. This is the complete properly measured production cost pool, including all necessary disposal costs, with no separate abnormal disposal charge. There are no scrap receipts, rework, opening inventory, work in progress or unallocated overheads. The good units’ net realisable value exceeds their cost.</p><p>The draft report assigns all HK$19,000 to the 900 good units because they are the only saleable output. You have time to obtain the approved normal-loss allowance and inspection report before signing. Neither document has yet reached you; do not invent a loss percentage.</p><p>Use this classroom policy: normal loss is the expected loss under usual conditions. Its cost is absorbed in the process rate. Abnormal loss is the excess over that allowance and is expensed now. With all units fully processed and no scrap value, divide total process cost by input units minus normal-loss units; apply that rate to good output and abnormal loss.</p>",
+  "q1": "Approve HK$19,000 as finished inventory, expense all 100 rejects immediately, or obtain the missing loss evidence before signing? Explain what the physical count alone cannot settle.",
+  "q2": "What inventory amount and abnormal-loss expense would you now sign? Show normal loss, expected output, the cost rate and a reconciliation to HK$19,000.",
+  "round2": "<p>The approved allowance, supported by normal operating records, is 5% of input units. Inspection confirms 50 normal rejects and another 50 attributable to a one-off equipment-setting incident. For this exercise those additional rejects are abnormal. All rejects were identified only after receiving the full process.</p><p>The allowance remains appropriate for this run; do not reset it to the observed 10% to absorb the incident. Costs, physical quantities and the absence of scrap value remain unchanged. No further cash payment is created by correcting the allocation.</p>",
+  "exhibit": "<table><caption>Completed run · fictional figures</caption><thead><tr><th>Item</th><th>Evidence</th></tr></thead><tbody><tr><td>Units fully processed</td><td>1,000</td></tr><tr><td>Good, unsold output</td><td>900</td></tr><tr><td>Valueless rejects</td><td>100</td></tr><tr><td>Complete process cost</td><td>HK$19,000</td></tr></tbody></table>",
+  "exhibit_md": "| Item | Evidence |\n| --- | --- |\n| Units fully processed | 1,000 |\n| Good, unsold output | 900 |\n| Valueless rejects | 100 |\n| Complete process cost | HK$19,000 |",
+  "sections": [
+    [
+      "Debrief · A count is not a classification",
+      "<p>Obtain the missing evidence before signing. The count establishes 900 good units and 100 rejects, not how much loss is normal. Neither capitalising every cost nor expensing all rejects is justified merely by that count. The supplied policy makes the normal allowance consequential.</p>"
+    ],
+    [
+      "Debrief · Find the denominator",
+      "<p>Normal loss is 1,000 × 5% = 50 units. Expected good output is 1,000 − 50 = 950 units. Actual good output is 900, so abnormal loss is 950 − 900 = 50 units. The cost rate is HK$19,000 ÷ 950 = <strong>HK$20</strong>.</p><p>Expected output is a costing denominator, not a claim that 950 good clips physically exist. The 50 abnormal rejects receive the same full-process rate as good output because both received all production work. Partial losses or unfinished units would require additional analysis.</p>"
+    ],
+    [
+      "Debrief · Reconcile the report",
+      "<p>Finished inventory is 900 × HK$20 = <strong>HK$18,000</strong>. Abnormal-loss expense is 50 × HK$20 = <strong>HK$1,000</strong>. Costs reconcile: HK$18,000 + HK$1,000 = HK$19,000. Units reconcile separately: 900 good + 50 normal rejects + 50 abnormal rejects = 1,000.</p><p>The normal rejects carry no separate inventory balance or loss expense here; their production cost has not disappeared. It is absorbed through the expected-output rate. The abnormal allocation is removed from inventory rather than being spread over saleable clips.</p>"
+    ],
+    [
+      "Debrief · Avoid three tempting shortcuts",
+      "<p>Dividing HK$19,000 by 900 and capitalising everything hides the HK$1,000 abnormal loss in inventory. Dividing by 1,000 gives HK$19 but fails to absorb normal loss correctly. Expensing all 100 rejects at that rate gives HK$1,900, wrongly treating normal and abnormal loss alike.</p><p>Relative to the draft, inventory and this period’s pre-tax profit each fall HK$1,000, all else equal. This is not a cash saving or a new payment. Nor does a correct calculation prove the allowance or incident classification: those require supporting operational evidence.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>Minutes 0–4: vote before revealing the allowance. Ask what information is missing. Minutes 4–9: reveal the report and calculate in pairs. Minutes 9–14: reconcile quantities and costs separately. Minutes 14–18: compare the three shortcut denominators and ask what evidence supports normal operating conditions.</p><p>Keep the boundary clear: ACC-31 measures unfinished work; this case has fully processed output and separates normal from abnormal loss. ACC-04 concerns stock location and net realisable value; neither is disputed here. ACC-21 concerns sell-or-process-further choices, not loss classification. Do not infer worker misconduct from an incident label.</p>"
+    ]
+  ],
+  "notes": "Original fictional company and figures. All 1,000 units receive full processing before inspection; 900 good units remain unsold, 100 rejects have no value. No missing stock, work in progress, scrap receipts, rework, opening inventory, net-realisable-value reduction or unallocated overhead. HK$19,000 includes all necessary production and disposal costs; no separate abnormal disposal charge. The 5% allowance applies to input and is supplied as valid for this run. Normal and abnormal reject classifications are stipulated after the reveal, not inferred from a universal industry benchmark. Sources support concepts, not these amounts. HKAS 2 and NZ IAS 2 share an IAS 2 lineage and are not independent empirical evidence.",
+  "sources": [
+    [
+      "https://www.accaglobal.com/middle-east/en/student/exam-support-resources/fundamentals-exams-study-resources/f2/technical-articles/process-costing.html",
+      "ACCA · Process costing · Student Accountant archive",
+      "Defines normal loss, excess abnormal loss, scrap value and work in progress. Its worked normal-loss example uses an input-based allowance. No source exercise or illustration is reproduced."
+    ],
+    [
+      "https://www.hkicpa.org.hk/ebook/HKSA_Members_Handbook_Master/volumeII/hkas02.pdf",
+      "HKICPA · HKAS 2 Inventories · paragraphs 15–16 and 21",
+      "The accessed 2018-marked handbook PDF excludes abnormal production waste from inventory and discusses normal levels in standard costing. It does not prescribe this fictional 5% allowance or certify the classroom calculation as a complete reporting determination."
+    ],
+    [
+      "https://standards.xrb.govt.nz/standards-navigator/nz-ias-2/",
+      "External Reporting Board · NZ IAS 2 Inventories · paragraphs 15–16 and 21",
+      "Corroborates the inventory-cost boundary and normal-level principle. The displayed compilation incorporates amendments through February 2018. This is a New Zealand standard with the same IAS 2 lineage, not an additional Hong Kong obligation."
+    ],
+    [
+      "https://mis.alagappauniversity.ac.in/siteAdmin/dde-admin/uploads/2/PG_M.Com_Commerce%20%28English%29_310%2023%20-%20Advanced%20Cost%20Accounting%281%29.pdf",
+      "Alagappa University · M. N. Arora, Advanced Cost Accounting · printed pages 73 and 179–180",
+      "Explains advance normal-loss benchmarks, the input-minus-normal-loss denominator, and separate abnormal-loss treatment. The university-hosted textbook supplies educational method, not an industry loss benchmark or evidence of employee blame."
+    ],
+    [
+      "https://cdn.taxmann.com/BookshopFiles/bookfiles/1719315510829_9789357787925_sample.pdf",
+      "Taxmann · Material Cost · publisher sample, printed page 2.12",
+      "Distinguishes waste and spoilage and their normal versus abnormal cost treatment. Only the freely available 12-page publisher sample was read, not the full book."
+    ]
+  ],
+  "slides": [
+    [
+      "Why reject classification matters",
+      "<p>Production rejects do not all receive the same cost treatment. Professional process-costing guidance distinguishes expected process loss from excess loss; inventory standards exclude abnormal production waste from inventory cost.</p>"
+    ],
+    [
+      "The completed run",
+      "<p></p>"
+    ],
+    [
+      "Classroom setting",
+      "<p>Harbour Clips, its production records and every amount below are fictional. The exercise supplies a simplified costing policy, not a technical reject benchmark or a determination of any real company’s reporting obligations.</p>"
+    ],
+    [
+      "Your role",
+      "<p>You are controller of fictional Harbour Clips, a Hong Kong maker of identical plastic stationery clips. One run has finished. All 1,000 units received the full production process before final inspection: 900 are good and unsold; 100 are valueless rejects. Nothing is missing or unfinished.</p>"
+    ],
+    [
+      "Cost boundary",
+      "<p>The run cost HK$19,000. This is the complete properly measured production cost pool, including all necessary disposal costs, with no separate abnormal disposal charge. There are no scrap receipts, rework, opening inventory, work in progress or unallocated overheads. The good units’ net realisable value exceeds their cost.</p>"
+    ],
+    [
+      "Report awaiting signature",
+      "<p>The draft report assigns all HK$19,000 to the 900 good units because they are the only saleable output. You have time to obtain the approved normal-loss allowance and inspection report before signing. Neither document has yet reached you; do not invent a loss percentage.</p>"
+    ],
+    [
+      "The costing policy",
+      "<p>Use this classroom policy: normal loss is the expected loss under usual conditions. Its cost is absorbed in the process rate. Abnormal loss is the excess over that allowance and is expensed now. With all units fully processed and no scrap value, divide total process cost by input units minus normal-loss units; apply that rate to good output and abnormal loss.</p>"
+    ],
+    [
+      "Evidence",
+      "<table><caption>Completed run · fictional figures</caption><thead><tr><th>Item</th><th>Evidence</th></tr></thead><tbody><tr><td>Units fully processed</td><td>1,000</td></tr><tr><td>Good, unsold output</td><td>900</td></tr><tr><td>Valueless rejects</td><td>100</td></tr><tr><td>Complete process cost</td><td>HK$19,000</td></tr></tbody></table>"
+    ],
+    [
+      "First decision",
+      "<p>Approve HK$19,000 as finished inventory, expense all 100 rejects immediately, or obtain the missing loss evidence before signing? Explain what the physical count alone cannot settle.</p>"
+    ],
+    [
+      "Round two · inspection evidence",
+      "<p>The approved allowance, supported by normal operating records, is 5% of input units. Inspection confirms 50 normal rejects and another 50 attributable to a one-off equipment-setting incident. For this exercise those additional rejects are abnormal. All rejects were identified only after receiving the full process.</p>"
+    ],
+    [
+      "Round two · unchanged conditions",
+      "<p>The allowance remains appropriate for this run; do not reset it to the observed 10% to absorb the incident. Costs, physical quantities and the absence of scrap value remain unchanged. No further cash payment is created by correcting the allocation.</p>"
+    ],
+    [
+      "Second decision",
+      "<p>What inventory amount and abnormal-loss expense would you now sign? Show normal loss, expected output, the cost rate and a reconciliation to HK$19,000.</p>"
+    ],
+    [
+      "Debrief · A count is not a classification",
+      "<p>Obtain the missing evidence before signing. The count establishes 900 good units and 100 rejects, not how much loss is normal. Neither capitalising every cost nor expensing all rejects is justified merely by that count. The supplied policy makes the normal allowance consequential.</p>"
+    ],
+    [
+      "Debrief · Find the denominator",
+      "<p>Normal loss is 1,000 × 5% = 50 units. Expected good output is 1,000 − 50 = 950 units. Actual good output is 900, so abnormal loss is 950 − 900 = 50 units. The cost rate is HK$19,000 ÷ 950 = <strong>HK$20</strong>.</p>"
+    ],
+    [
+      "Debrief · Find the denominator · continued",
+      "<p>Expected output is a costing denominator, not a claim that 950 good clips physically exist. The 50 abnormal rejects receive the same full-process rate as good output because both received all production work. Partial losses or unfinished units would require additional analysis.</p>"
+    ],
+    [
+      "Debrief · Reconcile the report",
+      "<p>Finished inventory is 900 × HK$20 = <strong>HK$18,000</strong>. Abnormal-loss expense is 50 × HK$20 = <strong>HK$1,000</strong>. Costs reconcile: HK$18,000 + HK$1,000 = HK$19,000. Units reconcile separately: 900 good + 50 normal rejects + 50 abnormal rejects = 1,000.</p>"
+    ],
+    [
+      "Debrief · Reconcile the report · continued",
+      "<p>The normal rejects carry no separate inventory balance or loss expense here; their production cost has not disappeared. It is absorbed through the expected-output rate. The abnormal allocation is removed from inventory rather than being spread over saleable clips.</p>"
+    ],
+    [
+      "Debrief · Avoid three tempting shortcuts",
+      "<p>Dividing HK$19,000 by 900 and capitalising everything hides the HK$1,000 abnormal loss in inventory. Dividing by 1,000 gives HK$19 but fails to absorb normal loss correctly. Expensing all 100 rejects at that rate gives HK$1,900, wrongly treating normal and abnormal loss alike.</p>"
+    ],
+    [
+      "Debrief · Avoid three tempting shortcuts · continued",
+      "<p>Relative to the draft, inventory and this period’s pre-tax profit each fall HK$1,000, all else equal. This is not a cash saving or a new payment. Nor does a correct calculation prove the allowance or incident classification: those require supporting operational evidence.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>Minutes 0–4: vote before revealing the allowance. Ask what information is missing. Minutes 4–9: reveal the report and calculate in pairs. Minutes 9–14: reconcile quantities and costs separately. Minutes 14–18: compare the three shortcut denominators and ask what evidence supports normal operating conditions.</p>"
+    ],
+    [
+      "Instructor note · continued",
+      "<p>Keep the boundary clear: ACC-31 measures unfinished work; this case has fully processed output and separates normal from abnormal loss. ACC-04 concerns stock location and net realisable value; neither is disputed here. ACC-21 concerns sell-or-process-further choices, not loss classification. Do not infer worker misconduct from an incident label.</p>"
+    ]
+  ]
+}

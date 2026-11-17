@@ -53,12 +53,12 @@ Progress is recorded in `planning/expansion-480-progress.md`; the registry is au
 - **Difference:** ACC-22 concerns absorption profit from inventory growth; this concerns measuring partially completed work, not incentives to overproduce.
 - **Research leads, unverified:** OpenStax process costing; ACCA equivalent-unit guidance; a dated Asian manufacturer production disclosure. No claim about a real company’s completion estimates.
 
-### ACC-32 · One catch. Two saleable products?
-- **Opening decision:** A fictional seafood processor must decide whether to process one separated output further or sell it at the split-off point. Management presents a loss after allocated joint costs.
-- **Reveal:** The optional further-processing route consumes a separately saleable co-product as an input; its foregone sale value was omitted. Show the physical flow explicitly, rather than suggesting a by-product disappears without cause.
-- **Learning objective:** Distinguish joint-cost allocation from incremental processing revenue and opportunity cost.
-- **Difference:** ACC-21 compares avoidable product costs; this makes the joint-production boundary and split-off valuation explicit. ACC-01 uses a finished tray, not inseparable upstream costs.
-- **Research leads, unverified:** ACCA joint-product costing; OpenStax sell-or-process-further treatment; FAO seafood processing context.
+### ACC-32 · Fewer good units. A higher inventory cost?
+- **Opening decision:** A fictional ceramic-coaster maker must allocate a completed batch's production cost between acceptable inventory and rejected output. There is no work in progress, salvage value or separate impairment issue.
+- **Reveal:** A supported normal-loss allowance explains part of the rejects; a separately verified incident explains the abnormal remainder.
+- **Learning objective:** Apply the supplied normal-versus-abnormal loss policy and reconcile inventory plus current-period loss expense to total process cost.
+- **Difference:** ACC-31 measures equivalent work in unfinished units; this classifies losses after full processing. ACC-21 already covers split-off and further-processing opportunity costs, which are not repeated here.
+- **Research leads:** ACCA process costing; inventory standards and abnormal waste guidance; educational normal/abnormal process-loss treatments. All batch figures are fictional.
 
 ### ACC-33 · Sales rise. The break-even point moves?
 - **Opening decision:** A fictional Kowloon stationery kiosk considers a sales target expressed only in total revenue for two products with different contribution margins.
@@ -190,9 +190,9 @@ Progress is recorded in `planning/expansion-480-progress.md`; the registry is au
 
 ## Marketing (MKT): cases 31–40
 
-### MKT-31 · The same sales decline. Fewer buyers or fewer purchases?
+### MKT-31 · The same sales. A smaller buyer base?
 - **Opening decision:** A fictional Hong Kong pantry brand must choose whether its next brief prioritises reaching non-buyers or making another purchase occasion useful. The supplied market panel distinguishes category buyers, brand buyers and purchases per brand buyer.
-- **Reveal:** A stable aggregate sales total conceals falling brand penetration and rising purchase frequency among remaining buyers; management had interpreted the total as broad-based strength.
+- **Reveal:** A stable aggregate sales total conceals falling brand penetration and rising purchase frequency among each period’s observed buyers; management had interpreted the total as broad-based strength.
 - **Learning objective:** Decompose brand sales into buyer penetration, purchase frequency and quantity per purchase over consistent periods; distinguish a descriptive growth source from proof of an effective intervention.
 - **Difference:** MKT-13 models cohort value and conditional retention; this measures market-level buyer reach and purchase intensity without valuing retained customer cash flows. MKT-09 measures advertising reach, not actual brand buying.
 - **Research leads, unverified:** Ehrenberg-Bass published buyer-penetration/frequency research; consumer-panel measurement methodology; OpenStax market-share metrics. All panel numbers and market-size assumptions fictional.
@@ -407,18 +407,18 @@ These are fictional editorial briefs, not researched accounts. All named researc
 
 ## STR · Strategy and international business
 
-### STR-31 · More users. More reasons to stay?
-- **Opening:** A fictional Asian marketplace allocates its launch budget to total sign-ups or transactions within one compatible buyer-seller community.
-- **Reveal:** Many sign-ups cannot transact with one another because their product categories and service locations differ.
-- **Learning:** Identify the relevant network and cross-side value rather than treating aggregate users as network effects.
-- **Novelty:** STR-13 concerns entry timing before a network is ready; this concerns the unit and composition of network value after launch. It is not a generic customer-acquisition conversion case.
-- **Research leads (unverified):** Platform strategy research; OECD digital-platform analyses; open economics texts on network effects; public marketplace case studies. No invented observed growth effects.
+### STR-31 · Control the core. Design every extension?
+- **Opening:** A fictional software-platform owner chooses between requiring new commercial feature categories to fit its roadmap and allowing independent developers to innovate within published technical boundaries.
+- **Reveal:** Independent prototypes meet the same mandatory safeguards, but some serve purposes outside the owner's planned categories. User requests are exploratory, not proven purchases.
+- **Learning:** Separate commercial-purpose control from security, privacy and reliability safeguards; evaluate the resources that enable independent complementary innovation.
+- **Novelty:** STR-20 delegates within one organisation; these developers own and fund separate products. STR-16 concerns joining an industry interface; here the owner governs contributions around its own core. Local matching density and aggregate network counts are not the mechanism.
+- **Research leads:** Platform boundary-resource research, complementor studies and official extension/review documentation. Preserve mandatory safeguards and consent under either option.
 
 ### STR-32 · On both platforms. Loyal to neither?
 - **Opening:** A Hong Kong booking marketplace chooses an exclusive supplier incentive or nonexclusive tools that improve its own service.
 - **Reveal:** Suppliers and buyers commonly use two platforms, and the proposed exclusive term removes some supply users value; legality and supplier consent must be cleared before either option is feasible.
 - **Learning:** Distinguish single-homing assumptions from actual multihoming and reason about platform differentiation when membership is not exclusive.
-- **Novelty:** STR-31 identifies network density; this focuses on participation across rival platforms and whether a membership count implies captivity. Unlike STR-02, no distributor owns customer records.
+- **Novelty:** STR-31 governs independent complementary innovation; this focuses on participation across rival platforms and whether a membership count implies captivity. Unlike STR-02, no distributor owns customer records.
 - **Research leads (unverified):** Multihoming platform research; competition-authority platform studies; OECD materials; publicly accessible marketplace participation evidence. Do not endorse exclusionary agreements as automatically lawful.
 
 ### STR-33 · Larger factory. Lower cost from what?

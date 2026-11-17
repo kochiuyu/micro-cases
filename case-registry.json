@@ -2582,6 +2582,90 @@
       "slug": "rooms-without-a-destination",
       "area": "Hospitality, tourism, property and service management",
       "title": "A busy season. A destination all year?"
+    },
+    {
+      "legacy_id": 361,
+      "code": "ACC-31",
+      "slug": "half-finished-units-of-work",
+      "area": "Accounting, audit and management control",
+      "title": "Half finished. How many units of work?"
+    },
+    {
+      "legacy_id": 362,
+      "code": "FIN-31",
+      "slug": "higher-percentage-more-value",
+      "area": "Finance, banking and insurance",
+      "title": "A higher percentage. More value created?"
+    },
+    {
+      "legacy_id": 363,
+      "code": "MKT-31",
+      "slug": "same-sales-smaller-buyer-base",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "The same sales. A smaller buyer base?"
+    },
+    {
+      "legacy_id": 364,
+      "code": "OPS-31",
+      "slug": "half-empty-is-there-room",
+      "area": "Operations, supply chains and logistics",
+      "title": "The truck is half empty. Is there room?"
+    },
+    {
+      "legacy_id": 365,
+      "code": "PPL-31",
+      "slug": "trained-them-can-they-use-it",
+      "area": "People, leadership and organisational behaviour",
+      "title": "We trained them. Can they use it?"
+    },
+    {
+      "legacy_id": 366,
+      "code": "STR-31",
+      "slug": "control-the-core-design-every-extension",
+      "area": "Strategy and international business",
+      "title": "Control the core. Design every extension?"
+    },
+    {
+      "legacy_id": 367,
+      "code": "ENT-31",
+      "slug": "enthusiasts-love-it-ordinary-buyers-adopt-it",
+      "area": "Entrepreneurship, innovation and family business",
+      "title": "Enthusiasts love it. Can ordinary buyers adopt it?"
+    },
+    {
+      "legacy_id": 368,
+      "code": "IS-31",
+      "slug": "trained-on-yesterday-useful-for-tomorrow",
+      "area": "Information systems, AI and business analytics",
+      "title": "Trained on yesterday. Useful for tomorrow?"
+    },
+    {
+      "legacy_id": 369,
+      "code": "GVR-31",
+      "slug": "information-without-challenge",
+      "area": "Governance, law, ethics and risk",
+      "title": "The board has information. Does it have time to challenge?"
+    },
+    {
+      "legacy_id": 370,
+      "code": "SUS-31",
+      "slug": "lower-carbon-heavier-water-footprint",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "Lower carbon. A heavier water footprint?"
+    },
+    {
+      "legacy_id": 371,
+      "code": "ECO-31",
+      "slug": "average-quality-who-sells",
+      "area": "Economics, competition and pricing",
+      "title": "The average quality. Who still sells?"
+    },
+    {
+      "legacy_id": 372,
+      "code": "HSP-31",
+      "slug": "fewer-bookings-behind-the-curve",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "Fewer bookings today. Behind the booking curve?"
     }
   ]
 }

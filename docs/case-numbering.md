@@ -402,3 +402,15 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 358 | SUS-30 | [trigger-to-review-not-to-build.html](../trigger-to-review-not-to-build.html) | A new safeguard. Who helps decide when it changes? |
 | 359 | ECO-30 | [outside-the-quiet-deal.html](../outside-the-quiet-deal.html) | A better private deal. A cost outside the contract? |
 | 360 | HSP-30 | [rooms-without-a-destination.html](../rooms-without-a-destination.html) | A busy season. A destination all year? |
+| 361 | ACC-31 | [half-finished-units-of-work.html](../half-finished-units-of-work.html) | Half finished. How many units of work? |
+| 362 | FIN-31 | [higher-percentage-more-value.html](../higher-percentage-more-value.html) | A higher percentage. More value created? |
+| 363 | MKT-31 | [same-sales-smaller-buyer-base.html](../same-sales-smaller-buyer-base.html) | The same sales. A smaller buyer base? |
+| 364 | OPS-31 | [half-empty-is-there-room.html](../half-empty-is-there-room.html) | The truck is half empty. Is there room? |
+| 365 | PPL-31 | [trained-them-can-they-use-it.html](../trained-them-can-they-use-it.html) | We trained them. Can they use it? |
+| 366 | STR-31 | [control-the-core-design-every-extension.html](../control-the-core-design-every-extension.html) | Control the core. Design every extension? |
+| 367 | ENT-31 | [enthusiasts-love-it-ordinary-buyers-adopt-it.html](../enthusiasts-love-it-ordinary-buyers-adopt-it.html) | Enthusiasts love it. Can ordinary buyers adopt it? |
+| 368 | IS-31 | [trained-on-yesterday-useful-for-tomorrow.html](../trained-on-yesterday-useful-for-tomorrow.html) | Trained on yesterday. Useful for tomorrow? |
+| 369 | GVR-31 | [information-without-challenge.html](../information-without-challenge.html) | The board has information. Does it have time to challenge? |
+| 370 | SUS-31 | [lower-carbon-heavier-water-footprint.html](../lower-carbon-heavier-water-footprint.html) | Lower carbon. A heavier water footprint? |
+| 371 | ECO-31 | [average-quality-who-sells.html](../average-quality-who-sells.html) | The average quality. Who still sells? |
+| 372 | HSP-31 | [fewer-bookings-behind-the-curve.html](../fewer-bookings-behind-the-curve.html) | Fewer bookings today. Behind the booking curve? |

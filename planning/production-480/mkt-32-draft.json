@@ -1,0 +1,164 @@
+{
+  "number": 375,
+  "code": "MKT-32",
+  "slug": "same-reward-different-recipient",
+  "title": "A generous referral. A trustworthy recommendation?",
+  "discipline": "Marketing, retail and consumer behaviour",
+  "topics": [
+    "Referral incentives",
+    "Reward allocation",
+    "Recipient trust"
+  ],
+  "teaser": "The budget is unchanged, but the person receiving the reward changes. Will a friend hear helpful advice or a paid pitch?",
+  "alt": "Two adult friends consider an unbranded ceramic bowl in a modest Hong Kong homeware shop, while a staff member presents two plain reward-allocation cards.",
+  "location": "Hong Kong",
+  "duration": "15–20 minutes",
+  "news_heading": "A reward has two audiences",
+  "news": "<p>Dropbox’s help page, updated 30 September 2026, describes referral benefits for both an existing user and a qualifying new user. It also distinguishes invitations from completed referrals. This is an example of programme design, not proof that sharing rewards always works better.</p>",
+  "opening": "<p>You manage fictional Hong Kong homeware shop Harbour Shelf. Choose one four-week referral pilot for adult customers recommending products to adult friends. The objective is useful, willingly received recommendations that lead to suitable purchases, not the largest number of messages.</p><p>A pays the advocate HK$60 per completed referral. B pays the advocate HK$30 and the referred buyer HK$30. Both have a HK$7,000 ceiling: HK$1,000 setup plus HK$6,000 reserved for rewards. This covers at most 100 completed referrals, not a forecast of 100 sales.</p><p>A completed referral means a new adult buyer uses a valid invitation, purchases at least HK$300 of eligible homeware, and keeps the purchase beyond the same 30-day return period. Rewards are cash rebates paid afterwards. Prices, product range, returns, eligibility and payment timing are identical. No payment is made merely for sending a message.</p><p>Before invitations are issued, the shop reserves one reward slot for each eligible new recipient, up to 100, with duplicate checks. All qualified purchases using those invitations are honoured. Invitations state the four-week purchase deadline and later payment timing; unused slots cost no reward money. No oversubscription or surprise withdrawal is allowed.</p><p>Both designs require a prominent explanation, inside each recommendation, of exactly who receives how much and when. Participation is optional; recommendations must reflect genuine experience. No address-book uploads, bulk unsolicited messaging or pressure to buy are permitted. The shop claims no proven conversion or profit advantage for either design.</p>",
+  "exhibit": "<table><caption>Fictional rewards per completed referral</caption><thead><tr><th>Design</th><th>Advocate</th><th>Buyer</th><th>Total</th></tr></thead><tbody><tr><td>A</td><td>HK$60</td><td>HK$0</td><td>HK$60</td></tr><tr><td>B</td><td>HK$30</td><td>HK$30</td><td>HK$60</td></tr></tbody></table>",
+  "exhibit_md": "| Design | Advocate | Buyer | Total |\n| --- | --- | --- | --- |\n| A | HK$60 | HK$0 | HK$60 |\n| B | HK$30 | HK$30 | HK$60 |",
+  "q1": "Which design would you pilot first, A or B? Explain why equal total rewards need not produce equally useful recommendations. Name one response you need from the recipient, not just the advocate.",
+  "round2": "<p>Before launch, twelve adult customer–friend pairs volunteer for hypothetical interviews. Each sees both complete offers; presentation order is alternated. Every participant correctly explains both reward allocations, eligibility and payment timing. They understand the disclosures. No invitation is sent, purchase made or reward paid in this exercise.</p><p>Several recipients say A makes them question whether the recommendation serves their needs or mainly earns their friend money. Several describe B as sharing the benefit, while others say any rewarded recommendation deserves scrutiny. Some advocates prefer A’s larger personal payment; others feel more comfortable recommending B. These are fictional interview themes, not counted votes.</p><p>The convenience sample cannot establish a population preference or a sales effect. Seeing both offers may shape answers. B also gives buyers a financial benefit, so any later difference in purchases could reflect price incentives as well as social interpretation. Clear disclosure is held constant; nobody is proposing to hide the reward.</p>",
+  "q2": "Would you keep or change your first choice after these interviews? Specify what the reveal supports, what it cannot prove, and how you would judge a pilot without rewarding message volume or concealing incentives.",
+  "sections": [
+    [
+      "Debrief · Two people make decisions",
+      "<p>An advocate decides whether and whom to recommend; a recipient decides whether the advice is useful and whether to buy. Paying the advocate more may encourage effort, but can also change how the recipient interprets that effort. Equal retailer expenditure is not equal perceived benefit for the two people.</p><p>B is a defensible first pilot because it directly addresses the concern raised in these interviews: the recipient sees a benefit, not only a payment to the friend. A remains defensible if stronger advocate motivation brings genuinely suitable recommendations. Neither choice is a demonstrated winner; shared rewards do not guarantee trust.</p>"
+    ],
+    [
+      "Debrief · Disclosure is not persuasion",
+      "<p>Disclosure lets recipients evaluate an incentive; it does not require them to regard the recommendation as impartial. Here everyone understands both offers, yet their interpretations differ. A larger label would not remove the allocation difference. Preserve transparent terms whichever design is chosen, and never solve discomfort by hiding who is paid.</p>"
+    ],
+    [
+      "Debrief · A ceiling is not an outcome",
+      "<p>For either design, 100 × HK$60 = HK$6,000 maximum rewards; adding HK$1,000 setup gives HK$7,000. Under B, the maximum is HK$3,000 to advocates plus HK$3,000 to buyers. With n completed referrals, spending is HK$1,000 + HK$60n, for 0 ≤ n ≤ 100.</p><p>Equal caps do not imply equal actual spending, completed purchases or profit. Margins, additional purchases and later customer value are unknown. A completed purchase is not automatically caused by the programme: the friend might have bought anyway. Interview comments cannot supply those missing quantities.</p>"
+    ],
+    [
+      "Debrief · Test useful recommendations",
+      "<p>Track eligible invitations, willingly received recommendations, completed purchases, returns, recipient-reported usefulness, pressure complaints and actual programme cost separately. Obtain consent for feedback, minimise personal data and let people decline without penalty. Do not set targets that encourage indiscriminate forwarding. A referral link count alone cannot establish customer value.</p><p>Before scaling, compare A and B in a separately budgeted, pre-specified trial with comparable adult groups, consistent disclosure and checks for overlapping friendship networks. Measure purchases and contribution after all relevant costs. Include a suitable no-programme comparison if estimating incremental value. An A–B purchase difference alone cannot isolate trust from the buyer’s cash incentive.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>Minutes 0–4: vote and identify the two decision-makers. Minutes 4–8: reveal the interviews and ask whether misunderstanding explains the concern. Minutes 8–12: check the budget ceiling. Minutes 12–18: design a useful-outcome measure and challenge claims of guaranteed conversion. Keep disclosure mandatory and distinguish voluntary recommendations from spam.</p><p>Ask B supporters what smaller advocate rewards might cost. Ask A supporters how recipients could interpret the payment despite understanding it perfectly. Neither preference earns full credit without an evidence limit. The case concerns reward allocation and interpersonal meaning, not loyalty-point comprehension, borrowed character attention or a measured coupon-return calculation.</p>"
+    ]
+  ],
+  "notes": "The shop, adult participants, programmes, budgets and interview themes are fictional. The twelve pairs are a convenience sample, not a randomized conversion experiment. Both disclosures are fully understood; reward allocation remains different. Setup includes all programme administration; cash rewards have their face-value cost, and there are no other programme fees. Product margins and causal sales effects are not supplied. All qualifying reserved invitations are honoured. The exercise compares pilot hypotheses, not a proven profit-maximising or legally prescribed programme. Real sources supply conceptual context only.",
+  "sources": [
+    [
+      "https://www.hbs.edu/ris/Publication%20Files/GershonCryderJohn%20-%20Why%20Prosocial%20Incentives%20Work_3a65737a-0749-4008-86f6-70aa9945db97.pdf",
+      "Gershon, Cryder and John, Why Prosocial Referral Incentives Work, author-hosted manuscript",
+      "Separates sending from uptake and examines recipient benefits, reputation and action costs. Different settings and designs; not a forecast for this fictional shop."
+    ],
+    [
+      "https://link.springer.com/article/10.1007/s11747-019-00635-z",
+      "Dose, Walsh, Beatty and Elsner, Unintended reward costs, 2019",
+      "Study 5 compares reward allocation and reports differences by product innovativeness. Context-dependent findings do not establish universal superiority of shared rewards. Concealment is not an option in this case."
+    ],
+    [
+      "https://www.rsm.nl/nl/discovery/2026/acceptable-social-referral-campaigns/",
+      "RSM Discovery, How to create social referral campaigns that are worth accepting, 2026",
+      "Institutional account of research on reward uncertainty highlights different sender and recipient responses. The case uses certain rewards and imports no reported effect size."
+    ],
+    [
+      "https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers",
+      "US Federal Trade Commission, Disclosures 101 for Social Media Influencers, November 2019",
+      "US guidance illustrates prominent, understandable disclosure and honest recommendations. Used as transparency context, not a statement of Hong Kong legal requirements."
+    ],
+    [
+      "https://help.dropbox.com/storage-space/earn-space-referring-friends",
+      "Dropbox Help, How to refer friends to Dropbox, updated 30 September 2026",
+      "Official programme description distinguishes invited and completed referrals and describes benefits for both parties. Contextual design example, not causal effectiveness evidence."
+    ]
+  ],
+  "slides": [
+    [
+      "A reward has two audiences",
+      "<p>Dropbox’s help page, updated 30 September 2026, describes referral benefits for both an existing user and a qualifying new user. It also distinguishes invitations from completed referrals. This is an example of programme design, not proof that sharing rewards always works better.</p>"
+    ],
+    [
+      "The scene",
+      "<p></p>"
+    ],
+    [
+      "Your decision",
+      "<p>You manage fictional Hong Kong homeware shop Harbour Shelf. Choose one four-week referral pilot for adult customers recommending products to adult friends. The objective is useful, willingly received recommendations that lead to suitable purchases, not the largest number of messages.</p>"
+    ],
+    [
+      "Equal budget, different recipients",
+      "<p>A pays the advocate HK$60 per completed referral. B pays the advocate HK$30 and the referred buyer HK$30. Both have a HK$7,000 ceiling: HK$1,000 setup plus HK$6,000 reserved for rewards. This covers at most 100 completed referrals, not a forecast of 100 sales.</p>"
+    ],
+    [
+      "What qualifies",
+      "<p>A completed referral means a new adult buyer uses a valid invitation, purchases at least HK$300 of eligible homeware, and keeps the purchase beyond the same 30-day return period. Rewards are cash rebates paid afterwards. Prices, product range, returns, eligibility and payment timing are identical. No payment is made merely for sending a message.</p>"
+    ],
+    [
+      "Protect the promised reward",
+      "<p>Before invitations are issued, the shop reserves one reward slot for each eligible new recipient, up to 100, with duplicate checks. All qualified purchases using those invitations are honoured. Invitations state the four-week purchase deadline and later payment timing; unused slots cost no reward money. No oversubscription or surprise withdrawal is allowed.</p>"
+    ],
+    [
+      "Transparent and voluntary",
+      "<p>Both designs require a prominent explanation, inside each recommendation, of exactly who receives how much and when. Participation is optional; recommendations must reflect genuine experience. No address-book uploads, bulk unsolicited messaging or pressure to buy are permitted. The shop claims no proven conversion or profit advantage for either design.</p>"
+    ],
+    [
+      "Reward allocation",
+      "<table><caption>Fictional rewards per completed referral</caption><thead><tr><th>Design</th><th>Advocate</th><th>Buyer</th><th>Total</th></tr></thead><tbody><tr><td>A</td><td>HK$60</td><td>HK$0</td><td>HK$60</td></tr><tr><td>B</td><td>HK$30</td><td>HK$30</td><td>HK$60</td></tr></tbody></table>"
+    ],
+    [
+      "First decision",
+      "<p>Which design would you pilot first, A or B? Explain why equal total rewards need not produce equally useful recommendations. Name one response you need from the recipient, not just the advocate.</p>"
+    ],
+    [
+      "An understood offer",
+      "<p>Before launch, twelve adult customer–friend pairs volunteer for hypothetical interviews. Each sees both complete offers; presentation order is alternated. Every participant correctly explains both reward allocations, eligibility and payment timing. They understand the disclosures. No invitation is sent, purchase made or reward paid in this exercise.</p>"
+    ],
+    [
+      "Different interpretations",
+      "<p>Several recipients say A makes them question whether the recommendation serves their needs or mainly earns their friend money. Several describe B as sharing the benefit, while others say any rewarded recommendation deserves scrutiny. Some advocates prefer A’s larger personal payment; others feel more comfortable recommending B. These are fictional interview themes, not counted votes.</p>"
+    ],
+    [
+      "What interviews cannot establish",
+      "<p>The convenience sample cannot establish a population preference or a sales effect. Seeing both offers may shape answers. B also gives buyers a financial benefit, so any later difference in purchases could reflect price incentives as well as social interpretation. Clear disclosure is held constant; nobody is proposing to hide the reward.</p>"
+    ],
+    [
+      "Second decision",
+      "<p>Would you keep or change your first choice after these interviews? Specify what the reveal supports, what it cannot prove, and how you would judge a pilot without rewarding message volume or concealing incentives.</p>"
+    ],
+    [
+      "Debrief · Two people make decisions",
+      "<p>An advocate decides whether and whom to recommend; a recipient decides whether the advice is useful and whether to buy. Paying the advocate more may encourage effort, but can also change how the recipient interprets that effort. Equal retailer expenditure is not equal perceived benefit for the two people.</p>"
+    ],
+    [
+      "Debrief · Two people make decisions · continued",
+      "<p>B is a defensible first pilot because it directly addresses the concern raised in these interviews: the recipient sees a benefit, not only a payment to the friend. A remains defensible if stronger advocate motivation brings genuinely suitable recommendations. Neither choice is a demonstrated winner; shared rewards do not guarantee trust.</p>"
+    ],
+    [
+      "Debrief · Disclosure is not persuasion",
+      "<p>Disclosure lets recipients evaluate an incentive; it does not require them to regard the recommendation as impartial. Here everyone understands both offers, yet their interpretations differ. A larger label would not remove the allocation difference. Preserve transparent terms whichever design is chosen, and never solve discomfort by hiding who is paid.</p>"
+    ],
+    [
+      "Debrief · A ceiling is not an outcome",
+      "<p>For either design, 100 × HK$60 = HK$6,000 maximum rewards; adding HK$1,000 setup gives HK$7,000. Under B, the maximum is HK$3,000 to advocates plus HK$3,000 to buyers. With n completed referrals, spending is HK$1,000 + HK$60n, for 0 ≤ n ≤ 100.</p>"
+    ],
+    [
+      "Debrief · A ceiling is not an outcome · continued",
+      "<p>Equal caps do not imply equal actual spending, completed purchases or profit. Margins, additional purchases and later customer value are unknown. A completed purchase is not automatically caused by the programme: the friend might have bought anyway. Interview comments cannot supply those missing quantities.</p>"
+    ],
+    [
+      "Debrief · Test useful recommendations",
+      "<p>Track eligible invitations, willingly received recommendations, completed purchases, returns, recipient-reported usefulness, pressure complaints and actual programme cost separately. Obtain consent for feedback, minimise personal data and let people decline without penalty. Do not set targets that encourage indiscriminate forwarding. A referral link count alone cannot establish customer value.</p>"
+    ],
+    [
+      "Debrief · Test useful recommendations · continued",
+      "<p>Before scaling, compare A and B in a separately budgeted, pre-specified trial with comparable adult groups, consistent disclosure and checks for overlapping friendship networks. Measure purchases and contribution after all relevant costs. Include a suitable no-programme comparison if estimating incremental value. An A–B purchase difference alone cannot isolate trust from the buyer’s cash incentive.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>Minutes 0–4: vote and identify the two decision-makers. Minutes 4–8: reveal the interviews and ask whether misunderstanding explains the concern. Minutes 8–12: check the budget ceiling. Minutes 12–18: design a useful-outcome measure and challenge claims of guaranteed conversion. Keep disclosure mandatory and distinguish voluntary recommendations from spam.</p>"
+    ],
+    [
+      "Instructor note · continued",
+      "<p>Ask B supporters what smaller advocate rewards might cost. Ask A supporters how recipients could interpret the payment despite understanding it perfectly. Neither preference earns full credit without an evidence limit. The case concerns reward allocation and interpersonal meaning, not loyalty-point comprehension, borrowed character attention or a measured coupon-return calculation.</p>"
+    ]
+  ]
+}
