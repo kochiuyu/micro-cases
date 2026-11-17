@@ -118,14 +118,14 @@ def main(argv=None):
     except (AssertionError,KeyError) as error:raise ValueError("Invalid existing registry: "+str(error)) from error
     slug=x["slug"]; number=x["number"]; code=x["code"]
     require(re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*",slug),"Unsafe slug")
-    require(isinstance(number,int) and 121<=number<=360,"Expansion builder supports IDs 121–360")
+    require(isinstance(number,int) and 121<=number<=480,"Expansion builder supports IDs 121–480")
     require(number==max(c["legacy_id"] for c in reg["cases"])+1,"ID must follow existing registry")
     require(not any(c["slug"]==slug or c["legacy_id"]==number or c["code"]==code for c in reg["cases"]),"Existing slug, ID or code: refusing overwrite")
     for p in [r/(slug+".html"),r/"authoring"/(slug+".md")]:require(not p.exists(),"Existing output: "+str(p))
     area=next((a for a in reg["areas"] if a["name"]==x["discipline"]),None)
     require(area is not None,"Unknown primary discipline")
     peers=[c for c in reg["cases"] if c["area"]==x["discipline"]]
-    require(code==area["code"]+"-"+str(len(peers)+1).zfill(2) and len(peers)<30,"Wrong next area code")
+    require(code==area["code"]+"-"+str(len(peers)+1).zfill(2) and len(peers)<40,"Wrong next area code")
     require(len(x["sources"])>=5 and len({s[0] for s in x["sources"]})==len(x["sources"]),"Need >=5 distinct source URLs")
     require(all(len(s)==3 and s[0].startswith("https://") for s in x["sources"]),"Malformed source")
     require(all(isinstance(t,str) and t for t in x["topics"]),"Empty topic")
@@ -204,10 +204,10 @@ def main(argv=None):
         pat=r"^\| "+re.escape(a["name"])+r" \|[^\n]*"
         def row(m):
             cells=m[0].split("|");require(len(cells)==7,"Unexpected coverage table row")
-            cells[2]=" "+", ".join(map(str,members))+" ";cells[4]=" "+str(30-len(members))+" "
+            cells[2]=" "+", ".join(map(str,members))+" ";cells[4]=" "+str(40-len(members))+" "
             return "|".join(cells)
         ledger,n=re.subn(pat,row,ledger,count=1,flags=re.M);require(n==1,"Missing coverage area "+a["name"])
-    total=len(reg["cases"]);remaining=360-total
+    total=len(reg["cases"]);remaining=480-total
     ledger,n=re.subn(r"^\| \*\*Total\*\* \|.*$",f"| **Total** | **{total} published** | **{remaining} approved editorial slots** | **{remaining}** | |",ledger,count=1,flags=re.M);require(n==1,"Coverage total row missing")
     outputs[r/"planning/collection-roadmap.md"]=ledger
     # Only navigation may change in existing case pages. No teaching-content re-render.

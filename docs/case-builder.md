@@ -18,8 +18,8 @@ The first command is a read-only dry run. `--dry-run` is an explicit synonym for
 
 Provide a UTF-8 JSON object with these required fields:
 
-- `number`: next consecutive integer legacy ID, 121–240. Original IDs are immutable.
-- `code`, `slug`, `title`, `discipline`: next available area code (for example `ACC-11`), new lowercase hyphenated URL slug, title and exact registry area name. No existing identity or page may be overwritten. Each area has at most 20 cases.
+- `number`: next consecutive integer legacy ID, 121–480. Original IDs are immutable.
+- `code`, `slug`, `title`, `discipline`: next available area code (for example `ACC-11`), new lowercase hyphenated URL slug, title and exact registry area name. No existing identity or page may be overwritten. Each area has at most 40 cases.
 - `topics`: nonempty, unique plain-text strings. `teaser`, `alt`, `news_heading`, `notes`: nonempty plain text. Optional `location` and `duration` default to Hong Kong and 10–15 minutes.
 - `news`, `opening`, `exhibit`, `round2`: HTML fragments. `sections` and `slides`: nonempty arrays of `[heading, HTML fragment]` pairs. Supported fragment tags are `p`, `strong`, `b`, `em`, `i`, `br`, `ul`, `ol`, `li`, `table`, `thead`, `tbody`, `tfoot`, `tr`, `th`, `td`, `caption`. Attributes, links, embedded media, scripts and body URLs are rejected. The builder owns presentation styling and artwork placement.
 - `sections` must contain exactly one dedicated `Instructor note` entry, with concise 10–15 minute pacing, discussion prompts and case-specific conceptual limits. Pacing buried in source notes does not replace this accordion.
@@ -44,4 +44,4 @@ Before writing it checks snapshotted text files for concurrent changes. If a cau
 
 ## Focused regression coverage
 
-`tests/check_case_builder.py` uses disposable text-only copies, not production case generation. Each copy is reduced to the immutable original 120-case baseline, so tests remain usable after all 240 slots are filled; an explicit simulated-full-capacity regression verifies this reduction and a subsequent build. It covers read-only dry mode, portable default location, metadata, question duplication/order, prohibited HTML/links, ID gaps and overwrite refusal, artwork presence, generated metadata, Markdown tables, unchanged existing teaching bodies, caught-failure rollback and concurrent-change rejection. Fixtures are fictional and are not source or artwork certifications.
+`tests/check_case_builder.py` uses disposable text-only copies, not production case generation. Each copy is reduced to the immutable published 360-case baseline, so tests remain usable after all 480 slots are filled. Staged tests build case 361 and case 480, reject case 481 and a 41st case within an area, and protect the original, 240-case and 360-case identity snapshots. It covers read-only dry mode, portable default location, metadata, question duplication/order, prohibited HTML/links, ID gaps and overwrite refusal, artwork presence, generated metadata, Markdown tables, unchanged existing teaching bodies, caught-failure rollback and concurrent-change rejection. Fixtures are fictional and are not source or artwork certifications.

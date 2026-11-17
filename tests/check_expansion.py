@@ -1,4 +1,4 @@
-"""Staged 121–360 registry and static-count regressions; never writes fixtures."""
+"""Staged 121–480 registry and static-count regressions; never writes fixtures."""
 import copy
 import html
 import re
@@ -16,11 +16,11 @@ def expanded(base, total):
     data=copy.deepcopy(base)
     while len(data['cases']) < total:
         n=len(data['cases'])+1
-        if n<=240:
-            frozen=json.loads((ROOT/'tests/fixtures/published-240-case-identities.json').read_text())
+        if n<=360:
+            frozen=json.loads((ROOT/'tests/fixtures/published-360-case-identities.json').read_text())
             data['cases'].append(dict(frozen[n-1],title=f'Fixture {n}'))
             continue
-        area=next(a for a in data['areas'] if sum(c['area']==a['name'] for c in data['cases'])<30)
+        area=next(a for a in data['areas'] if sum(c['area']==a['name'] for c in data['cases'])<40)
         seq=sum(c['area']==area['name'] for c in data['cases'])+1
         data['cases'].append(dict(legacy_id=n,code=f"{area['code']}-{seq:02}",slug=f'fixture-{n}',area=area['name'],title=f'Fixture {n}'))
     return data
@@ -30,7 +30,7 @@ def check(root=ROOT):
     data=json.loads((root/'case-registry.json').read_text())
     # Use the original baseline even once production has grown past 121.
     base=copy.deepcopy(data);base['cases']=[c for c in base['cases'] if c['legacy_id']<=120]
-    for total in (120,121,129,130,131,239,240,241,250,251,359,360):
+    for total in (120,121,129,130,131,239,240,241,250,251,359,360,361,370,371,479,480):
         fixture=expanded(base,total)
         validate_registry(fixture)
         rendered=render((root/'index.html').read_text(),fixture)
@@ -49,23 +49,24 @@ def check(root=ROOT):
         elif kind=='gap':bad['cases'][-1]['code']='ACC-12'
         elif kind=='duplicate':bad['cases'][-1]['legacy_id']=120
         else:
-            bad=expanded(base,360)
-            bad['cases'].append(dict(legacy_id=361,code='ACC-31',slug='overflow',area=bad['areas'][0]['name'],title='Overflow'))
+            bad=expanded(base,480)
+            bad['cases'].append(dict(legacy_id=481,code='ACC-41',slug='overflow',area=bad['areas'][0]['name'],title='Overflow'))
         try:validate_registry(bad)
         except (AssertionError,KeyError):pass
         else:raise AssertionError('Expansion mutation escaped: '+kind)
-    for key,value in [('code','ACC-99'),('slug','changed-240-url'),('area','Wrong')]:
-        bad=expanded(base,241);bad['cases'][239][key]=value
-        try:validate_registry(bad)
-        except AssertionError:pass
-        else:raise AssertionError('Published 240 identity mutation escaped: '+key)
-    bad=expanded(base,250)
-    bad['cases'].append(dict(legacy_id=251,code='ACC-31',slug='area-overflow',area=bad['areas'][0]['name'],title='Overflow'))
+    for protected in (120, 240, 360):
+        for key,value in [('code','ACC-99'),('slug','changed-published-url'),('area','Wrong')]:
+            bad=expanded(base,361);bad['cases'][protected-1][key]=value
+            try:validate_registry(bad)
+            except AssertionError:pass
+            else:raise AssertionError(f'Published {protected} identity mutation escaped: '+key)
+    bad=expanded(base,370)
+    bad['cases'].append(dict(legacy_id=371,code='ACC-41',slug='area-overflow',area=bad['areas'][0]['name'],title='Overflow'))
     try:validate_registry(bad)
     except AssertionError:pass
-    else:raise AssertionError('Area 31 accepted below total cap')
+    else:raise AssertionError('Area 41 accepted below total cap')
     # Exercise every area's first, middle and last navigation at uneven/full sizes.
-    for total in (120, 121, 131, 239, 240, 241, 251, 359, 360):
+    for total in (120, 121, 131, 239, 240, 241, 251, 359, 360, 361, 370, 371, 479, 480):
         fixture = expanded(base, total)
         for area in fixture['areas']:
             group = sorted((c for c in fixture['cases'] if c['area'] == area['name']), key=lambda c: c['legacy_id'])
@@ -82,7 +83,7 @@ def check(root=ROOT):
                 assert ('href="'+group[i+1]['slug']+'.html"' in updated) if i+1 < len(group) else True
     check_navigation(root, check=True)
     check_counts(root)
-    print('PASS: staged 120–360 registries, immutable baseline, area limits and derived static counts.')
+    print('PASS: staged 120–480 registries, immutable baseline, area limits and derived static counts.')
 
 
 if __name__=='__main__':check()

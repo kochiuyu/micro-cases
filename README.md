@@ -2,9 +2,9 @@
 
 Short classroom cases with an opening decision, a second-round prompt, a debrief, presentation slides, and a printable student handout. Open index.html to browse the collection. Cases now use area codes such as ACC-01 and HSP-01, with unchanged page URLs. Search by title, topic, code or original number; filter links retain the chosen view. See [numbering and the complete crosswalk](docs/case-numbering.md). Editable case materials and the authoring template are in authoring/.
 
-The [original roadmap](planning/collection-roadmap.md) records the first 120 cases. The approved [expansion plan to 240](planning/expansion-to-240.md) adds cases 11–20 in each area, in ten balanced waves with research and review gates. The next approved [expansion plan to 360](planning/expansion-to-360.md) adds cases 21–30 in each area. Planned cases are not counted as published.
+The [original roadmap](planning/collection-roadmap.md) records the first 120 cases. The approved [expansion plan to 240](planning/expansion-to-240.md) adds cases 11–20 in each area, in ten balanced waves with research and review gates. The next approved [expansion plan to 360](planning/expansion-to-360.md) adds cases 21–30 in each area. The approved [expansion plan to 480](planning/expansion-to-480.md) adds cases 31–40 in each area. Planned cases are not counted as published.
 
-Identity fixtures protect all 240 existing permanent IDs, area codes and URLs. The original 120-case fixture is retained unchanged. The builder accepts sequential staged additions through ID 360 and at most 30 cases per area.
+Identity fixtures protect all 360 existing permanent IDs, area codes and URLs. Earlier snapshots are retained unchanged. The builder accepts sequential staged additions through ID 480 and at most 40 cases per area.
 
 ## Acknowledgement
 

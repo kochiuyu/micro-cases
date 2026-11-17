@@ -118,18 +118,18 @@ def check_collection(root=ROOT):
     ledger = (root / 'planning/collection-roadmap.md').read_text()
     published = int(re.search(r'\*\*(\d+) published\*\*', ledger)[1])
     assert published == len(cases), 'Coverage total differs from live case count'
-    rows = re.findall(r'^\| [^|]+ \| ([\d, ]+) \| — \| \d+ \|', ledger, re.M)
+    rows = re.findall(r'^\| [^|]+ \| ([\d, ]+) \| [^|]+ \| \d+ \|', ledger, re.M)
     numbers = [int(n) for row in rows for n in row.split(',')]
     assert len(numbers) == len(set(numbers)) == published, 'Coverage counts repeat or omit cases'
     assert set(numbers) == set(page_ids), 'Coverage numbers differ from actual case pages'
     assert set(numbers) == set(range(1, published + 1)), 'Coverage numbering has gaps'
-    assert f'**{360-published} approved editorial slots** | **{360-published}**' in ledger, 'Remaining total differs from approved capacity'
+    assert f'**{480-published} approved editorial slots** | **{480-published}**' in ledger, 'Remaining total differs from approved capacity'
     for area in registry['areas']:
         row=re.search(r'^\| '+re.escape(area['name'])+r' \|[^\n]+',ledger,re.M)
         assert row, 'Missing coverage area'
         remaining=int(row[0].split('|')[4].strip())
         count=sum(c['area']==area['name'] for c in registry['cases'])
-        assert remaining==30-count, 'Remaining area capacity mismatch: '+area['name']
+        assert remaining==40-count, 'Remaining area capacity mismatch: '+area['name']
     print(f'PASS: {published} unique cases, images, editable files and coverage entries agree.')
 
 
