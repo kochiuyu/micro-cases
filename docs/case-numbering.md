@@ -450,3 +450,15 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 406 | SUS-34 | [help-available-document-barrier.html](../help-available-document-barrier.html) | Help is available. Can people claim it? |
 | 407 | ECO-34 | [more-demand-more-supply-when.html](../more-demand-more-supply-when.html) | More demand today. More supply when? |
 | 408 | HSP-34 | [minimum-spend-exclusive-time.html](../minimum-spend-exclusive-time.html) | A minimum spend. A banquet worth accepting? |
+| 409 | ACC-35 | [new-information-old-mistake.html](../new-information-old-mistake.html) | New information. Or an old mistake? |
+| 410 | FIN-35 | [cheaper-forward-flexible-protection.html](../cheaper-forward-flexible-protection.html) | A cheaper forward. A more flexible protection? |
+| 411 | MKT-35 | [added-sales-or-moved-sales.html](../added-sales-or-moved-sales.html) | A new product. Added sales or moved sales? |
+| 412 | OPS-35 | [mostly-zero-forecast-nothing.html](../mostly-zero-forecast-nothing.html) | Mostly zero. Forecast nothing? |
+| 413 | PPL-35 | [better-plan-whose-input.html](../better-plan-whose-input.html) | A better plan. Whose input shaped it? |
+| 414 | STR-35 | [global-brand-local-proof.html](../global-brand-local-proof.html) | Global brand. Local proof. |
+| 415 | ENT-35 | [one-technology-second-application.html](../one-technology-second-application.html) | One technology. Keep a second application possible? |
+| 416 | IS-35 | [new-transactions-new-customers.html](../new-transactions-new-customers.html) | New transactions. Or genuinely new customers? |
+| 417 | GVR-35 | [control-passed-exception-invisible.html](../control-passed-exception-invisible.html) | A control passed. Was the exception invisible? |
+| 418 | SUS-35 | [pay-success-who-served.html](../pay-success-who-served.html) | Pay for success. Which clients get served? |
+| 419 | ECO-35 | [rival-output-your-best-response.html](../rival-output-your-best-response.html) | A rival adds capacity. Does your best quantity change? |
+| 420 | HSP-35 | [guest-does-work-service-easier.html](../guest-does-work-service-easier.html) | The guest does the work. Is the service easier? |

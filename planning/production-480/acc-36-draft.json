@@ -1,0 +1,188 @@
+{
+  "number": 421,
+  "code": "ACC-36",
+  "slug": "after-year-end-which-condition",
+  "title": "After year-end. Evidence about which year?",
+  "discipline": "Accounting, audit and management control",
+  "topics": [
+    "Subsequent events",
+    "Reporting-date conditions",
+    "Receivable allowance"
+  ],
+  "teaser": "A customer announces insolvency after year-end. The same announcement date can lead to different reporting when the underlying cause changes.",
+  "alt": "Two adult accounting colleagues in a fictional Hong Kong paper wholesaler review a plain calendar and receivable folder beside stationery cartons, with no insolvency notice or answer visible.",
+  "location": "Hong Kong",
+  "duration": "15–20 minutes",
+  "news_heading": "The later announcement is not the whole timeline",
+  "news": "<p>An announcement after year-end can reveal an old condition or describe a genuinely new one. Subsequent-event reporting distinguishes those possibilities; the announcement date alone is not enough. The wholesaler, customer, dates and recoveries below are fictional. The exercise supplies its accounting rules and does not make allegations about any real borrower.</p>",
+  "opening": "<p>Fictional Hong Kong wholesaler Harbour Paper closes its accounts on 31 December Year 1. Management is preparing them for board authorisation on 20 February Year 2. On 25 January, a customer enters insolvency. The event is known before authorisation. No financial statements for Year 1 have yet been issued.</p><p>An accepted delivery made before year-end created an undisputed HK$120,000 receivable. No cash has been collected and no debt has been forgiven or written off. The preliminary 31 December loss allowance is HK$6,000, giving HK$114,000 net receivables. The sales amount and recognition are not disputed.</p><p>Before authorisation, adjust year-end amounts for later information that provides evidence about conditions already existing at year-end. Do not change those amounts for conditions arising only afterwards. For a material non-adjusting event, disclose its nature and estimated financial effect, or explain that a reasonable estimate cannot be made.</p><p>For this simplified receivable, the required allowance equals the gross claim less the supplied expected total recovery. Recovery estimates already include all reasonable scenarios and other recoveries; discounting is immaterial. Do not derive new probabilities. The task is which date the evidence belongs to, not a complete credit-loss methodology.</p><p>The insolvency administrator provides reliable records showing the customer had stopped paying multiple creditors by 15 December Year 1 and had exhausted its funding by 28 December. No new post-year-end shock caused the insolvency. The January announcement confirms this existing financial distress.</p><p>Finance concludes that HK$30,000 is the appropriate expected total recovery from this receivable based on conditions at 31 December, now clarified by the administrator’s evidence. This replaces the preliminary estimate; it is not an extra cash receipt. The amount is material. Harbour Paper itself remains a going concern under either history below.</p>",
+  "exhibit": "<table><caption>History A · preliminary year-end figures</caption><thead><tr><th>Item</th><th>HK$</th></tr></thead><tbody><tr><td>Gross receivable</td><td>120,000</td></tr><tr><td>Existing allowance</td><td>6,000</td></tr><tr><td>Net carrying amount</td><td>114,000</td></tr><tr><td>Revised expected recovery</td><td>30,000</td></tr></tbody></table>",
+  "exhibit_md": "| Item | HK$ |\n| --- | ---: |\n| Gross receivable | 120,000 |\n| Existing allowance | 6,000 |\n| Net carrying amount | 114,000 |\n| Revised expected recovery | 30,000 |",
+  "q1": "Under History A, adjust the Year 1 amounts or only disclose the January announcement? Calculate the required allowance, additional expense and net receivable. Which fact matters more than the announcement date?",
+  "round2": "<p>Now start again with an alternative history, not a correction to History A’s established facts. Keep the same receivable, preliminary allowance, 31 December reporting date, 25 January insolvency announcement and 20 February authorisation date. Replace the earlier-distress facts entirely with the following circumstances.</p><p>In History B the customer had no financial distress at 31 December. The HK$6,000 allowance was an appropriate estimate using all conditions and expectations at that date. An unprecedented, uninsured disaster on 12 January destroys its operating assets and alone causes the later insolvency. The disaster is stipulated to be a wholly new condition, not evidence of an earlier one.</p><p>After that disaster, expected total recovery is HK$30,000. The estimated reduction from the previously supported HK$114,000 recovery is therefore HK$84,000. This effect is material and reasonably estimable. No part of the new deterioration relates to conditions at 31 December; no cash, forgiveness or write-off has occurred.</p><p>Apply the same supplied subsequent-event policy. Harbour Paper’s going-concern basis remains appropriate, and the disaster affects the customer, not Harbour Paper’s own assets. There are no other subsequent events, insurance receipts, tax effects or contractual changes in this exercise. Evaluate Year 1 reporting separately from recording Year 2’s deterioration.</p>",
+  "q2": "Under History B, what remains in Year 1’s receivable and allowance, and what disclosure is needed? Contrast the two histories without combining their losses or treating January insolvency as automatically adjusting.",
+  "sections": [
+    [
+      "Debrief · History A updates the year-end estimate",
+      "<p>History A’s financial distress existed before 31 December. The 25 January announcement and supporting records provide later evidence about that earlier condition. Because they arrive before authorisation, use them when finalising Year 1. The event’s public date does not move the underlying deterioration into Year 2.</p><p>The required allowance is HK$120,000 − HK$30,000 = HK$90,000. Against the existing HK$6,000, recognise an additional HK$84,000 impairment expense in Year 1. Net receivables become HK$30,000. The HK$120,000 contractual claim and zero cash received remain unchanged; an allowance is not debt forgiveness.</p>"
+    ],
+    [
+      "Debrief · History B leaves the earlier estimate intact",
+      "<p>History B replaces the cause, not merely the wording of the announcement. The new 12 January disaster created the deterioration after year-end. Its HK$30,000 recovery estimate does not describe the conditions at 31 December. Year 1 therefore retains the HK$6,000 allowance and HK$114,000 net receivable under the supplied facts.</p><p>The material non-adjusting event still needs disclosure: describe the disaster and subsequent customer insolvency, and explain the estimated HK$84,000 reduction in recovery. “Non-adjusting” does not mean irrelevant or undisclosed. The later deterioration belongs in Year 2 measurement; it must not be charged to Year 1 merely because authorisation is later.</p>"
+    ],
+    [
+      "Debrief · Same announcement, different evidence",
+      "<p>Both histories have the same 25 January insolvency announcement before 20 February authorisation. In A, reliable records connect the distress to December. In B, the supported December estimate remains valid and a wholly new January event causes the change. The condition’s timing, not the headline date alone, determines the Year 1 treatment.</p><p>Do not combine A’s HK$84,000 Year 1 adjustment with B’s HK$84,000 later deterioration. These are mutually exclusive teaching histories of one receivable, not two losses in a single timeline. B’s disclosure explains a later financial effect; it is not another Year 1 expense or a second allowance.</p>"
+    ],
+    [
+      "Debrief · Explain what the numbers do not establish",
+      "<p>The HK$30,000 is an expected recovery estimate, not cash already collected or a guaranteed payout. In A, HK$90,000 is the total closing allowance, not an additional expense on top of HK$6,000. In B, the January total allowance would reach HK$90,000 under the same simplified measurement rule, with the increase belonging to Year 2.</p><p>The supplied recovery assessments isolate the reporting boundary. In practice, evidence quality, forward-looking expectations and the applicable measurement requirements still matter. A later bankruptcy often confirms earlier impairment, but not every such announcement proves it. Conversely, a new event does not justify ignoring information that genuinely describes an earlier condition.</p>"
+    ],
+    [
+      "Debrief · Keep the authorisation boundary visible",
+      "<p>The review window runs from the reporting date to authorisation for issue. Here the relevant evidence is available within that window, so neither history can be dismissed simply because the ledger closed on 31 December. Record who authorises the accounts and when, and keep the factual basis for the classification.</p><p>Going concern is a separate safeguard, not a loophole to ignore. A post-year-end event that makes the reporting entity’s going-concern basis inappropriate can require a different basis of preparation. That issue is expressly excluded here: the customer’s insolvency does not automatically mean Harbour Paper itself cannot continue.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>Minutes 0–5: draw the three dates and calculate History A’s allowance bridge. Minutes 5–10: replace, rather than add to, the original cause with History B. Minutes 10–15: write the non-adjusting-event disclosure and reconcile which year contains the additional expense.</p><p>ACC-14 updates recovery scenarios at successive internal review dates. Here the supplied recovery estimate is not the main calculation challenge: the question is whether later evidence concerns the reporting-date condition. Require students to identify the fact that changes classification while the announcement and authorisation dates stay fixed.</p>"
+    ]
+  ],
+  "notes": "Wholesaler,customer,dates,financialconditionsandallamounts fictional.31DecY1reporting,25JanY2insolvency,20Febauthorisation; noissuedY1statements.120kclaim6kallowance114knet. A reliable15/28Decdistress evidence confirms30krecoveryatyearend  implies 90kallowance84kadditionalY1expense30knet. B explicitlycounterfactual replacesA:adequate6kyearendallowance,whollynew12Jandisaster,30knewrecovery implies 84kmaterialnonadjustingfinancialeffect disclosed,Year1remains6k/114k,Y2increaseto90k. No combininghistories, forgiveness,writeoff,cash,tax,insurance,contractchangeorreportingentitygoingconcernproblem. Simplifiedexpectedlossruleandrecoveryassessments supplied; nofuturebankruptcyautomaticclassification. Authorisationdateandunderlyingconditionbothmatter.",
+  "sources": [
+    [
+      "https://www.ifrs.org/issued-standards/list-of-standards/ias-10-events-after-the-reporting-period/",
+      "IFRS Foundation · IAS 10 · official overview",
+      "Defines the post-reporting window and the distinction between evidence of existing conditions and newly arising conditions. The fictional case supplies its own dates and measurement assumptions."
+    ],
+    [
+      "https://kpmg.com/xx/en/our-insights/ifrg/2024/frut-period-end-8a.html",
+      "KPMG · Subsequent events: Assessing the impact",
+      "Original technical guidance addresses underlying causes, timing, material non-adjusting disclosures and the going-concern boundary. No real insolvency assessment is borrowed."
+    ],
+    [
+      "https://www.accaglobal.com/gb/en/student/exam-support-resources/fundamentals-exams-study-resources/f8/technical-articles/subsequent-events.html",
+      "ACCA · Subsequent events",
+      "Original education explains how later evidence can affect earlier reporting. Its historical examples and separate auditor-responsibility discussion are not this case’s authorisation timetable; bankruptcy is not treated as automatically adjusting regardless of cause."
+    ],
+    [
+      "https://www.moorebr.com/services/ifrs/ias-10-events-after-the-reporting-period/index.html",
+      "Moore Global · IAS 10 Events after the Reporting Period",
+      "Institutional technical summary distinguishes adjustment, material disclosure and going concern. The summary is contextual and not a complete application of every reporting requirement."
+    ],
+    [
+      "https://www.icaew.com/technical/corporate-reporting/ifrs/ifrs-faqs/how-to-distinguish-adjusting-from-non-adjusting-events-after-the-reporting-period-under-ias-10",
+      "ICAEW · Distinguishing adjusting from non-adjusting events · updated April 2025",
+      "The accessible introductory and recap text explains authorisation timing, existing conditions and material disclosure. Further site resources may require membership; no source reading is required to solve the case."
+    ]
+  ],
+  "slides": [
+    [
+      "The later announcement is not the whole timeline",
+      "<p>An announcement after year-end can reveal an old condition or describe a genuinely new one. Subsequent-event reporting distinguishes those possibilities; the announcement date alone is not enough. The wholesaler, customer, dates and recoveries below are fictional. The exercise supplies its accounting rules and does not make allegations about any real borrower.</p>"
+    ],
+    [
+      "The scene",
+      "<p></p>"
+    ],
+    [
+      "Three dates, one reporting question",
+      "<p>Fictional Hong Kong wholesaler Harbour Paper closes its accounts on 31 December Year 1. Management is preparing them for board authorisation on 20 February Year 2. On 25 January, a customer enters insolvency. The event is known before authorisation. No financial statements for Year 1 have yet been issued.</p>"
+    ],
+    [
+      "The receivable before this information",
+      "<p>An accepted delivery made before year-end created an undisputed HK$120,000 receivable. No cash has been collected and no debt has been forgiven or written off. The preliminary 31 December loss allowance is HK$6,000, giving HK$114,000 net receivables. The sales amount and recognition are not disputed.</p>"
+    ],
+    [
+      "The supplied reporting policy",
+      "<p>Before authorisation, adjust year-end amounts for later information that provides evidence about conditions already existing at year-end. Do not change those amounts for conditions arising only afterwards. For a material non-adjusting event, disclose its nature and estimated financial effect, or explain that a reasonable estimate cannot be made.</p>"
+    ],
+    [
+      "Keep measurement separate from the date question",
+      "<p>For this simplified receivable, the required allowance equals the gross claim less the supplied expected total recovery. Recovery estimates already include all reasonable scenarios and other recoveries; discounting is immaterial. Do not derive new probabilities. The task is which date the evidence belongs to, not a complete credit-loss methodology.</p>"
+    ],
+    [
+      "History A · Earlier financial distress",
+      "<p>The insolvency administrator provides reliable records showing the customer had stopped paying multiple creditors by 15 December Year 1 and had exhausted its funding by 28 December. No new post-year-end shock caused the insolvency. The January announcement confirms this existing financial distress.</p>"
+    ],
+    [
+      "The estimate supported by that history",
+      "<p>Finance concludes that HK$30,000 is the appropriate expected total recovery from this receivable based on conditions at 31 December, now clarified by the administrator’s evidence. This replaces the preliminary estimate; it is not an extra cash receipt. The amount is material. Harbour Paper itself remains a going concern under either history below.</p>"
+    ],
+    [
+      "Year-end numbers",
+      "<table><caption>History A · preliminary year-end figures</caption><thead><tr><th>Item</th><th>HK$</th></tr></thead><tbody><tr><td>Gross receivable</td><td>120,000</td></tr><tr><td>Existing allowance</td><td>6,000</td></tr><tr><td>Net carrying amount</td><td>114,000</td></tr><tr><td>Revised expected recovery</td><td>30,000</td></tr></tbody></table>"
+    ],
+    [
+      "First decision",
+      "<p>Under History A, adjust the Year 1 amounts or only disclose the January announcement? Calculate the required allowance, additional expense and net receivable. Which fact matters more than the announcement date?</p>"
+    ],
+    [
+      "History B · A separate counterfactual",
+      "<p>Now start again with an alternative history, not a correction to History A’s established facts. Keep the same receivable, preliminary allowance, 31 December reporting date, 25 January insolvency announcement and 20 February authorisation date. Replace the earlier-distress facts entirely with the following circumstances.</p>"
+    ],
+    [
+      "A wholly new condition",
+      "<p>In History B the customer had no financial distress at 31 December. The HK$6,000 allowance was an appropriate estimate using all conditions and expectations at that date. An unprecedented, uninsured disaster on 12 January destroys its operating assets and alone causes the later insolvency. The disaster is stipulated to be a wholly new condition, not evidence of an earlier one.</p>"
+    ],
+    [
+      "A later recovery estimate",
+      "<p>After that disaster, expected total recovery is HK$30,000. The estimated reduction from the previously supported HK$114,000 recovery is therefore HK$84,000. This effect is material and reasonably estimable. No part of the new deterioration relates to conditions at 31 December; no cash, forgiveness or write-off has occurred.</p>"
+    ],
+    [
+      "The decision remains about Year 1",
+      "<p>Apply the same supplied subsequent-event policy. Harbour Paper’s going-concern basis remains appropriate, and the disaster affects the customer, not Harbour Paper’s own assets. There are no other subsequent events, insurance receipts, tax effects or contractual changes in this exercise. Evaluate Year 1 reporting separately from recording Year 2’s deterioration.</p>"
+    ],
+    [
+      "Second decision",
+      "<p>Under History B, what remains in Year 1’s receivable and allowance, and what disclosure is needed? Contrast the two histories without combining their losses or treating January insolvency as automatically adjusting.</p>"
+    ],
+    [
+      "Debrief · History A updates the year-end estimate · 1",
+      "<p>History A’s financial distress existed before 31 December. The 25 January announcement and supporting records provide later evidence about that earlier condition. Because they arrive before authorisation, use them when finalising Year 1. The event’s public date does not move the underlying deterioration into Year 2.</p>"
+    ],
+    [
+      "Debrief · History A updates the year-end estimate · 2",
+      "<p>The required allowance is HK$120,000 − HK$30,000 = HK$90,000. Against the existing HK$6,000, recognise an additional HK$84,000 impairment expense in Year 1. Net receivables become HK$30,000. The HK$120,000 contractual claim and zero cash received remain unchanged; an allowance is not debt forgiveness.</p>"
+    ],
+    [
+      "Debrief · History B leaves the earlier estimate intact · 1",
+      "<p>History B replaces the cause, not merely the wording of the announcement. The new 12 January disaster created the deterioration after year-end. Its HK$30,000 recovery estimate does not describe the conditions at 31 December. Year 1 therefore retains the HK$6,000 allowance and HK$114,000 net receivable under the supplied facts.</p>"
+    ],
+    [
+      "Debrief · History B leaves the earlier estimate intact · 2",
+      "<p>The material non-adjusting event still needs disclosure: describe the disaster and subsequent customer insolvency, and explain the estimated HK$84,000 reduction in recovery. “Non-adjusting” does not mean irrelevant or undisclosed. The later deterioration belongs in Year 2 measurement; it must not be charged to Year 1 merely because authorisation is later.</p>"
+    ],
+    [
+      "Debrief · Same announcement, different evidence · 1",
+      "<p>Both histories have the same 25 January insolvency announcement before 20 February authorisation. In A, reliable records connect the distress to December. In B, the supported December estimate remains valid and a wholly new January event causes the change. The condition’s timing, not the headline date alone, determines the Year 1 treatment.</p>"
+    ],
+    [
+      "Debrief · Same announcement, different evidence · 2",
+      "<p>Do not combine A’s HK$84,000 Year 1 adjustment with B’s HK$84,000 later deterioration. These are mutually exclusive teaching histories of one receivable, not two losses in a single timeline. B’s disclosure explains a later financial effect; it is not another Year 1 expense or a second allowance.</p>"
+    ],
+    [
+      "Debrief · Explain what the numbers do not establish · 1",
+      "<p>The HK$30,000 is an expected recovery estimate, not cash already collected or a guaranteed payout. In A, HK$90,000 is the total closing allowance, not an additional expense on top of HK$6,000. In B, the January total allowance would reach HK$90,000 under the same simplified measurement rule, with the increase belonging to Year 2.</p>"
+    ],
+    [
+      "Debrief · Explain what the numbers do not establish · 2",
+      "<p>The supplied recovery assessments isolate the reporting boundary. In practice, evidence quality, forward-looking expectations and the applicable measurement requirements still matter. A later bankruptcy often confirms earlier impairment, but not every such announcement proves it. Conversely, a new event does not justify ignoring information that genuinely describes an earlier condition.</p>"
+    ],
+    [
+      "Debrief · Keep the authorisation boundary visible · 1",
+      "<p>The review window runs from the reporting date to authorisation for issue. Here the relevant evidence is available within that window, so neither history can be dismissed simply because the ledger closed on 31 December. Record who authorises the accounts and when, and keep the factual basis for the classification.</p>"
+    ],
+    [
+      "Debrief · Keep the authorisation boundary visible · 2",
+      "<p>Going concern is a separate safeguard, not a loophole to ignore. A post-year-end event that makes the reporting entity’s going-concern basis inappropriate can require a different basis of preparation. That issue is expressly excluded here: the customer’s insolvency does not automatically mean Harbour Paper itself cannot continue.</p>"
+    ],
+    [
+      "Instructor note · 1",
+      "<p>Minutes 0–5: draw the three dates and calculate History A’s allowance bridge. Minutes 5–10: replace, rather than add to, the original cause with History B. Minutes 10–15: write the non-adjusting-event disclosure and reconcile which year contains the additional expense.</p>"
+    ],
+    [
+      "Instructor note · 2",
+      "<p>ACC-14 updates recovery scenarios at successive internal review dates. Here the supplied recovery estimate is not the main calculation challenge: the question is whether later evidence concerns the reporting-date condition. Require students to identify the fact that changes classification while the announcement and authorisation dates stay fixed.</p>"
+    ]
+  ]
+}

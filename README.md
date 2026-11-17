@@ -1630,3 +1630,51 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## HSP-34
 
 408. [A minimum spend. A banquet worth accepting?](minimum-spend-exclusive-time.html)
+
+## ACC-35
+
+409. [New information. Or an old mistake?](new-information-old-mistake.html)
+
+## FIN-35
+
+410. [A cheaper forward. A more flexible protection?](cheaper-forward-flexible-protection.html)
+
+## MKT-35
+
+411. [A new product. Added sales or moved sales?](added-sales-or-moved-sales.html)
+
+## OPS-35
+
+412. [Mostly zero. Forecast nothing?](mostly-zero-forecast-nothing.html)
+
+## PPL-35
+
+413. [A better plan. Whose input shaped it?](better-plan-whose-input.html)
+
+## STR-35
+
+414. [Global brand. Local proof.](global-brand-local-proof.html)
+
+## ENT-35
+
+415. [One technology. Keep a second application possible?](one-technology-second-application.html)
+
+## IS-35
+
+416. [New transactions. Or genuinely new customers?](new-transactions-new-customers.html)
+
+## GVR-35
+
+417. [A control passed. Was the exception invisible?](control-passed-exception-invisible.html)
+
+## SUS-35
+
+418. [Pay for success. Which clients get served?](pay-success-who-served.html)
+
+## ECO-35
+
+419. [A rival adds capacity. Does your best quantity change?](rival-output-your-best-response.html)
+
+## HSP-35
+
+420. [The guest does the work. Is the service easier?](guest-does-work-service-easier.html)

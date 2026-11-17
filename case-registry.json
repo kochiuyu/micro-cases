@@ -2918,6 +2918,90 @@
       "slug": "minimum-spend-exclusive-time",
       "area": "Hospitality, tourism, property and service management",
       "title": "A minimum spend. A banquet worth accepting?"
+    },
+    {
+      "legacy_id": 409,
+      "code": "ACC-35",
+      "slug": "new-information-old-mistake",
+      "area": "Accounting, audit and management control",
+      "title": "New information. Or an old mistake?"
+    },
+    {
+      "legacy_id": 410,
+      "code": "FIN-35",
+      "slug": "cheaper-forward-flexible-protection",
+      "area": "Finance, banking and insurance",
+      "title": "A cheaper forward. A more flexible protection?"
+    },
+    {
+      "legacy_id": 411,
+      "code": "MKT-35",
+      "slug": "added-sales-or-moved-sales",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "A new product. Added sales or moved sales?"
+    },
+    {
+      "legacy_id": 412,
+      "code": "OPS-35",
+      "slug": "mostly-zero-forecast-nothing",
+      "area": "Operations, supply chains and logistics",
+      "title": "Mostly zero. Forecast nothing?"
+    },
+    {
+      "legacy_id": 413,
+      "code": "PPL-35",
+      "slug": "better-plan-whose-input",
+      "area": "People, leadership and organisational behaviour",
+      "title": "A better plan. Whose input shaped it?"
+    },
+    {
+      "legacy_id": 414,
+      "code": "STR-35",
+      "slug": "global-brand-local-proof",
+      "area": "Strategy and international business",
+      "title": "Global brand. Local proof."
+    },
+    {
+      "legacy_id": 415,
+      "code": "ENT-35",
+      "slug": "one-technology-second-application",
+      "area": "Entrepreneurship, innovation and family business",
+      "title": "One technology. Keep a second application possible?"
+    },
+    {
+      "legacy_id": 416,
+      "code": "IS-35",
+      "slug": "new-transactions-new-customers",
+      "area": "Information systems, AI and business analytics",
+      "title": "New transactions. Or genuinely new customers?"
+    },
+    {
+      "legacy_id": 417,
+      "code": "GVR-35",
+      "slug": "control-passed-exception-invisible",
+      "area": "Governance, law, ethics and risk",
+      "title": "A control passed. Was the exception invisible?"
+    },
+    {
+      "legacy_id": 418,
+      "code": "SUS-35",
+      "slug": "pay-success-who-served",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "Pay for success. Which clients get served?"
+    },
+    {
+      "legacy_id": 419,
+      "code": "ECO-35",
+      "slug": "rival-output-your-best-response",
+      "area": "Economics, competition and pricing",
+      "title": "A rival adds capacity. Does your best quantity change?"
+    },
+    {
+      "legacy_id": 420,
+      "code": "HSP-35",
+      "slug": "guest-does-work-service-easier",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "The guest does the work. Is the service easier?"
     }
   ]
 }

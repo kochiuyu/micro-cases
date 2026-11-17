@@ -1,0 +1,188 @@
+{
+  "number": 427,
+  "code": "ENT-36",
+  "slug": "free-app-who-funds-users",
+  "title": "The app is free. Who funds the free users?",
+  "discipline": "Entrepreneurship, innovation and family business",
+  "topics": [
+    "Freemium architecture",
+    "Referral contribution",
+    "Cross-subsidy"
+  ],
+  "teaser": "The most expensive free users rarely upgrade. Their additional paying referrals may matter, but the bounds do not settle every policy choice.",
+  "alt": "Two adult creative-tool founders compare plain free-access and trial planning sheets beside a laptop showing abstract design shapes, with no private user records or numerical answers visible.",
+  "location": "Hong Kong",
+  "duration": "15–20 minutes",
+  "news_heading": "Free access has more than one route to value",
+  "news": "<p>A free user can create costs without buying, yet also introduce someone who pays. Freemium research separates direct upgrades from referral value and warns that generous free access can also displace upgrades. The venture and figures below are fictional; no published conversion rate is used as a universal benchmark.</p>",
+  "opening": "<p>You advise DraftNest, a fictional Hong Kong creative-tool startup. It will test one access design with 100 consenting adult newcomers for 90 days. F offers unlimited use of basic design tools during this pilot; premium collaboration features remain paid. T offers the same basic tools for fourteen days and at most twenty exports.</p><p>Both disclose their limits before enrolment. T then stops free editing, while free viewing and export of existing work remain available. Payment requires an explicit purchase; neither collects a card for the trial nor charges automatically. Existing customers’ access and promises remain unchanged. No permanent free-access promise is made by this bounded pilot.</p><p>For the classroom comparison, each design produces ten direct paid upgrades among the original 100 people. Each upgrade contributes HK$60 within the same 90-day window after all paid-user variable service, payment and acquisition costs. These are supplied model assumptions, not demonstrated causal conversion forecasts or lifetime values.</p><p>F costs HK$800 to serve the original cohort while free; T costs HK$400. These totals include hosting, support and required free access after the trial, without overlap with paid-user costs. No further pilot setup cost differs. Ignore tax and discounting; unchanged development costs and overhead are outside this contribution comparison.</p><p>The opening model assigns no additional referral value because none has yet been assessed. Common referral business, if any, is excluded equally. Both pilots are fully funded, including promised support and secure work export. Management’s decision rule is to choose the higher minimum contribution supported by the supplied bounds, not to maximise registrations.</p>",
+  "exhibit": "<table><caption>Opening 90-day model · HK dollars</caption><thead><tr><th>Input</th><th>F</th><th>T</th></tr></thead><tbody><tr><td>Original newcomers</td><td>100</td><td>100</td></tr><tr><td>Direct paid upgrades</td><td>10</td><td>10</td></tr><tr><td>Net contribution per upgrade</td><td>60</td><td>60</td></tr><tr><td>Original-cohort free-serving cost</td><td>800</td><td>400</td></tr></tbody></table>",
+  "exhibit_md": "| Input | F | T |\n| --- | --- | --- |\n| Original newcomers | 100 | 100 |\n| Direct paid upgrades | 10 | 10 |\n| Net contribution per upgrade | 60 | 60 |\n| Original-cohort free-serving cost | 800 | 400 |",
+  "q1": "Which design would you choose from the opening model? Calculate contribution after free-serving costs and explain why ten upgrades or 100 registrations alone do not establish a viable free tier.",
+  "round2": "<p>F’s twenty high-support users account for HK$500 of its HK$800 free-serving cost, and only one of them upgrades directly. The other eighty account for HK$300 and nine direct upgrades. Grouping is by observed support use, not personal characteristics. These amounts partition the original totals; they are not extra costs.</p><p>A fictional evaluation supplies a bounded counterfactual estimate: compared with T, keeping F generates between six and ten additional paying customers through those twenty high-support users during the same 90 days. Each contributes the same net HK$60, after all its acquisition, free-stage and paid-service costs. No referral reward is paid.</p><p>The six-to-ten range is stipulated for this exercise, with no probability distribution. It is net additional paid accounts relative to T, not messages, clicks, signups or all purchases using a referral link. Duplicates, the original ten upgrades and purchases that would happen under T are already excluded. No second-generation referral value is included.</p><p>The bounds do not come from the cited studies and are not a confidence interval or guaranteed real-world outcome. Outside the classroom, referral tags alone would not justify causal attribution. The reveal changes only incremental referral contribution; original-cohort upgrades and serving costs stay fixed under both policies.</p><p>The team may choose F or T for the new pilot under the stated decision rule. It may not withdraw promised assistance, remove existing work, pressure users to invite friends or secretly restrict F halfway through. A redesigned allowance needs a separately specified cost and conversion model, not an assumed free fix.</p>",
+  "q2": "With referral value included, what is F’s contribution range relative to T? How many additional paying referrals make F strictly better? Apply management’s minimum-contribution rule, and explain why the expensive users are not automatically worthless or automatically profitable.",
+  "sections": [
+    [
+      "Debrief · Start with contribution, not conversion",
+      "<p>Both designs initially receive 10 × HK$60 = HK$600 of direct paid contribution. F then gives HK$600 − HK$800 = −HK$200; T gives HK$600 − HK$400 = HK$200. With no credited incremental referrals, choose T. The identical 10% direct conversion rate hides a HK$400 difference in serving costs.</p><p>These are 90-day cohort contributions after the specified attributable costs, not company profit or a valuation. Development, unchanged overhead and later receipts or obligations are not valued. Positive contribution in one pilot does not establish that an ongoing unlimited free tier can fund itself indefinitely.</p>"
+    ],
+    [
+      "Debrief · Add only additional paid referrals",
+      "<p>For F, add six to ten customers at HK$60 each: incremental referral contribution is HK$360–HK$600. F’s revised contribution is therefore −HK$200 + HK$360 to −HK$200 + HK$600, or HK$160–HK$400. T remains at the HK$200 comparison baseline.</p><p>F is HK$40 worse than T at six additional referrals and HK$200 better at ten. The range crosses the decision boundary. Averaging its endpoints to claim eight expected referrals is unjustified without probabilities. Neither a referral link nor a recommendation automatically creates a paid, incremental customer.</p>"
+    ],
+    [
+      "Debrief · Find the policy threshold",
+      "<p>Let R be the number of additional paid referrals attributable to F rather than T. F beats T when −200 + 60R > 200, or R > 6⅔. With whole customers, at least seven are needed: seven gives HK$220, which is HK$20 above T. Six gives only HK$160.</p><p>Under management’s supplied rule, choose T: its minimum contribution is HK$200 versus F’s HK$160. This is a cautious decision rule, not a finding that F always performs worse. Management could choose another explicit risk or learning objective, but it cannot claim that the supplied bounds prove F superior.</p>"
+    ],
+    [
+      "Debrief · Separate direct and referral value",
+      "<p>The high-support group’s direct contribution is 1 × HK$60 − HK$500 = −HK$440. Adding the attributed HK$360–HK$600 referral contribution gives −HK$80 to HK$160. Low direct conversion misses possible value, but even after referrals the group is not guaranteed to cover its attributed free-serving costs.</p><p>The other eighty contribute 9 × HK$60 − HK$300 = HK$240. Adding the two groups gives the same total HK$160–HK$400. This allocation helps explain cross-subsidy; it does not prove that deleting the expensive group would preserve everyone else’s behaviour, referrals or costs. That would be a different counterfactual.</p>"
+    ],
+    [
+      "Debrief · Design the next boundary honestly",
+      "<p>A later test could compare a clearly disclosed usage allowance with F’s current basic access while preserving required support and existing work. Measure direct upgrades, attributable paid referrals and the full free-serving cost together. Do not optimise the direct conversion percentage alone or count referred customers twice.</p><p>Validate the counterfactual with a suitable consented comparison, check referral spillovers and duplicate accounts, and follow the same contribution window. Cost the redesign and test paid-feature appeal before making continuing-access promises. No forecast of retention, later network growth or lifetime profitability is supplied by this case.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>First compare the two policies using HK$600 direct contribution and HK$800 or HK$400 free costs. Reveal the high-support group and referral bounds together. Ask students to reconcile group and cohort totals, find the seven-customer threshold, and distinguish an interval from an expected value.</p><p>MKT-02 compares coupon purchases with purchases that would occur anyway. MKT-13 evaluates existing customer relationships and a retention pilot. This case designs an early venture’s free-to-paid product boundary, including cross-subsidy through users who rarely buy. It is not permission to withdraw promised services or to call unpaid users financially worthless.</p>"
+    ]
+  ],
+  "notes": "Original fictional90day pilot,100adultnewcomers. F unlimitedbasicusagewithinpilot,paidpremiumfeatures;T14days/max20exports thenfreeview/exportexistingwork. No permanentfreepromise,card,automaticcharge,pressuredreferral or changedexistingrights. Same10directupgrades/net60afterallpaidvariablecosts,Ffree800/Tfree400,contributions−200/200. F20highsupportcost500/1upgrade,80otherscost300/9upgrades. Reveal R6–10 additionalpaidaccounts causedbyFversusT,notalltaggedsales;duplicate/direct/commonpurchasesexcluded,net60includesallreferredusercosts,noreward/secondgeneration. F160–400vsT200;delta−40..200. FstrictlybetterR greater than 6⅔,wholeminimum7. No probabilities/expectedmidpoint/confidenceinterval. Minimum-contributionrule choosesT. Highgroup−440+360..600=−80..160,others240. Allfiguresstipulatednotempiricalforecast. No freecostdoublecount,unchangedoverhead/development/tax/discounting/latercashoutsidecomparison. Bothfullyfunded;notcompanyprofit/lifetimeviability. Redesignrequiresnewcost/conversionevidence.",
+  "sources": [
+    [
+      "https://spinup-000d1a-wp-offload-media.s3.amazonaws.com/faculty/wp-content/uploads/sites/61/2019/06/Freemium_LeeKumarGupta_2017.pdf",
+      "Clarence Lee, Vineet Kumar and Sunil Gupta · Designing Freemium · July 2017 working paper",
+      "Original structural research separates direct upgrades and referrals and examines how free benefits can displace paid upgrades. Its cloud-storage counterfactuals are not this venture’s costs, conversion rates or referral bounds."
+    ],
+    [
+      "https://pure.eur.nl/files/93013766/Social_Referral_Programs_for_Freemium_Platforms.pdf",
+      "Rodrigo Belo and Ting Li · Social Referral Programs for Freemium Platforms · 2022",
+      "Original field-experiment research distinguishes acquisition, payment and engagement effects of referral requirements. Its dating-platform setting and reward design differ; no effect size or personal-profile practice is transferred to this creative-tool pilot."
+    ],
+    [
+      "https://investors.dropbox.com/static-files/cd989b9a-aeed-488b-b9ad-eecf2c63cc74",
+      "Dropbox · Quarterly report for the period ended 31 March 2019 · Our Business Model",
+      "Company’s own historical report describes free signup, referrals, paid conversion and plan upgrades separately. It supplies context, not proof that free users are always profitable or a current product offer."
+    ],
+    [
+      "https://www.canva.com/help/upgrade-to-canva-pro-or-business/",
+      "Canva Help Center · Upgrade to Canva Pro or Canva Business",
+      "Operator’s own substantive guidance distinguishes free access, paid features, trial eligibility and usage allowances. Its commercial payment and renewal terms are not adopted: DraftNest’s pilot expressly requires an affirmative purchase and no trial card."
+    ],
+    [
+      "https://stripe.com/resources/more/freemium-pricing-explained",
+      "Stripe · Freemium Pricing Strategy Explained",
+      "Provider-authored commercial guidance discusses feature boundaries and the costs of serving free users. Its broad conversion and growth claims are not empirical inputs here; a bounded test is not proof of a permanently sustainable free tier."
+    ]
+  ],
+  "slides": [
+    [
+      "Free access has more than one route to value",
+      "<p>A free user can create costs without buying, yet also introduce someone who pays. Freemium research separates direct upgrades from referral value and warns that generous free access can also displace upgrades. The venture and figures below are fictional; no published conversion rate is used as a universal benchmark.</p>"
+    ],
+    [
+      "A new venture’s boundary",
+      "<p></p>"
+    ],
+    [
+      "Choose the free-to-paid boundary",
+      "<p>You advise DraftNest, a fictional Hong Kong creative-tool startup. It will test one access design with 100 consenting adult newcomers for 90 days. F offers unlimited use of basic design tools during this pilot; premium collaboration features remain paid. T offers the same basic tools for fourteen days and at most twenty exports.</p>"
+    ],
+    [
+      "Clear terms, no surprise charge",
+      "<p>Both disclose their limits before enrolment. T then stops free editing, while free viewing and export of existing work remain available. Payment requires an explicit purchase; neither collects a card for the trial nor charges automatically. Existing customers’ access and promises remain unchanged. No permanent free-access promise is made by this bounded pilot.</p>"
+    ],
+    [
+      "Count the whole cohort",
+      "<p>For the classroom comparison, each design produces ten direct paid upgrades among the original 100 people. Each upgrade contributes HK$60 within the same 90-day window after all paid-user variable service, payment and acquisition costs. These are supplied model assumptions, not demonstrated causal conversion forecasts or lifetime values.</p>"
+    ],
+    [
+      "Free service still uses resources",
+      "<p>F costs HK$800 to serve the original cohort while free; T costs HK$400. These totals include hosting, support and required free access after the trial, without overlap with paid-user costs. No further pilot setup cost differs. Ignore tax and discounting; unchanged development costs and overhead are outside this contribution comparison.</p>"
+    ],
+    [
+      "What remains unmeasured",
+      "<p>The opening model assigns no additional referral value because none has yet been assessed. Common referral business, if any, is excluded equally. Both pilots are fully funded, including promised support and secure work export. Management’s decision rule is to choose the higher minimum contribution supported by the supplied bounds, not to maximise registrations.</p>"
+    ],
+    [
+      "Opening 90-day model · HK dollars",
+      "<table><caption>Opening 90-day model · HK dollars</caption><thead><tr><th>Input</th><th>F</th><th>T</th></tr></thead><tbody><tr><td>Original newcomers</td><td>100</td><td>100</td></tr><tr><td>Direct paid upgrades</td><td>10</td><td>10</td></tr><tr><td>Net contribution per upgrade</td><td>60</td><td>60</td></tr><tr><td>Original-cohort free-serving cost</td><td>800</td><td>400</td></tr></tbody></table>"
+    ],
+    [
+      "First decision",
+      "<p>Which design would you choose from the opening model? Calculate contribution after free-serving costs and explain why ten upgrades or 100 registrations alone do not establish a viable free tier.</p>"
+    ],
+    [
+      "Who creates the free costs?",
+      "<p>F’s twenty high-support users account for HK$500 of its HK$800 free-serving cost, and only one of them upgrades directly. The other eighty account for HK$300 and nine direct upgrades. Grouping is by observed support use, not personal characteristics. These amounts partition the original totals; they are not extra costs.</p>"
+    ],
+    [
+      "Referrals change the model",
+      "<p>A fictional evaluation supplies a bounded counterfactual estimate: compared with T, keeping F generates between six and ten additional paying customers through those twenty high-support users during the same 90 days. Each contributes the same net HK$60, after all its acquisition, free-stage and paid-service costs. No referral reward is paid.</p>"
+    ],
+    [
+      "What the bounds mean",
+      "<p>The six-to-ten range is stipulated for this exercise, with no probability distribution. It is net additional paid accounts relative to T, not messages, clicks, signups or all purchases using a referral link. Duplicates, the original ten upgrades and purchases that would happen under T are already excluded. No second-generation referral value is included.</p>"
+    ],
+    [
+      "Do not turn attribution into a forecast",
+      "<p>The bounds do not come from the cited studies and are not a confidence interval or guaranteed real-world outcome. Outside the classroom, referral tags alone would not justify causal attribution. The reveal changes only incremental referral contribution; original-cohort upgrades and serving costs stay fixed under both policies.</p>"
+    ],
+    [
+      "Choose a policy, not people to abandon",
+      "<p>The team may choose F or T for the new pilot under the stated decision rule. It may not withdraw promised assistance, remove existing work, pressure users to invite friends or secretly restrict F halfway through. A redesigned allowance needs a separately specified cost and conversion model, not an assumed free fix.</p>"
+    ],
+    [
+      "Second decision",
+      "<p>With referral value included, what is F’s contribution range relative to T? How many additional paying referrals make F strictly better? Apply management’s minimum-contribution rule, and explain why the expensive users are not automatically worthless or automatically profitable.</p>"
+    ],
+    [
+      "Debrief · Start with contribution, not conversion",
+      "<p>Both designs initially receive 10 × HK$60 = HK$600 of direct paid contribution. F then gives HK$600 − HK$800 = −HK$200; T gives HK$600 − HK$400 = HK$200. With no credited incremental referrals, choose T. The identical 10% direct conversion rate hides a HK$400 difference in serving costs.</p>"
+    ],
+    [
+      "Debrief · Start with contribution, not conversion · continued",
+      "<p>These are 90-day cohort contributions after the specified attributable costs, not company profit or a valuation. Development, unchanged overhead and later receipts or obligations are not valued. Positive contribution in one pilot does not establish that an ongoing unlimited free tier can fund itself indefinitely.</p>"
+    ],
+    [
+      "Debrief · Add only additional paid referrals",
+      "<p>For F, add six to ten customers at HK$60 each: incremental referral contribution is HK$360–HK$600. F’s revised contribution is therefore −HK$200 + HK$360 to −HK$200 + HK$600, or HK$160–HK$400. T remains at the HK$200 comparison baseline.</p>"
+    ],
+    [
+      "Debrief · Add only additional paid referrals · continued",
+      "<p>F is HK$40 worse than T at six additional referrals and HK$200 better at ten. The range crosses the decision boundary. Averaging its endpoints to claim eight expected referrals is unjustified without probabilities. Neither a referral link nor a recommendation automatically creates a paid, incremental customer.</p>"
+    ],
+    [
+      "Debrief · Find the policy threshold",
+      "<p>Let R be the number of additional paid referrals attributable to F rather than T. F beats T when −200 + 60R > 200, or R > 6⅔. With whole customers, at least seven are needed: seven gives HK$220, which is HK$20 above T. Six gives only HK$160.</p>"
+    ],
+    [
+      "Debrief · Find the policy threshold · continued",
+      "<p>Under management’s supplied rule, choose T: its minimum contribution is HK$200 versus F’s HK$160. This is a cautious decision rule, not a finding that F always performs worse. Management could choose another explicit risk or learning objective, but it cannot claim that the supplied bounds prove F superior.</p>"
+    ],
+    [
+      "Debrief · Separate direct and referral value",
+      "<p>The high-support group’s direct contribution is 1 × HK$60 − HK$500 = −HK$440. Adding the attributed HK$360–HK$600 referral contribution gives −HK$80 to HK$160. Low direct conversion misses possible value, but even after referrals the group is not guaranteed to cover its attributed free-serving costs.</p>"
+    ],
+    [
+      "Debrief · Separate direct and referral value · continued",
+      "<p>The other eighty contribute 9 × HK$60 − HK$300 = HK$240. Adding the two groups gives the same total HK$160–HK$400. This allocation helps explain cross-subsidy; it does not prove that deleting the expensive group would preserve everyone else’s behaviour, referrals or costs. That would be a different counterfactual.</p>"
+    ],
+    [
+      "Debrief · Design the next boundary honestly",
+      "<p>A later test could compare a clearly disclosed usage allowance with F’s current basic access while preserving required support and existing work. Measure direct upgrades, attributable paid referrals and the full free-serving cost together. Do not optimise the direct conversion percentage alone or count referred customers twice.</p>"
+    ],
+    [
+      "Debrief · Design the next boundary honestly · continued",
+      "<p>Validate the counterfactual with a suitable consented comparison, check referral spillovers and duplicate accounts, and follow the same contribution window. Cost the redesign and test paid-feature appeal before making continuing-access promises. No forecast of retention, later network growth or lifetime profitability is supplied by this case.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>First compare the two policies using HK$600 direct contribution and HK$800 or HK$400 free costs. Reveal the high-support group and referral bounds together. Ask students to reconcile group and cohort totals, find the seven-customer threshold, and distinguish an interval from an expected value.</p>"
+    ],
+    [
+      "Instructor note · continued",
+      "<p>MKT-02 compares coupon purchases with purchases that would occur anyway. MKT-13 evaluates existing customer relationships and a retention pilot. This case designs an early venture’s free-to-paid product boundary, including cross-subsidy through users who rarely buy. It is not permission to withdraw promised services or to call unpaid users financially worthless.</p>"
+    ]
+  ]
+}

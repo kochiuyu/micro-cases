@@ -1,0 +1,180 @@
+{
+  "number": 433,
+  "code": "ACC-37",
+  "slug": "cash-tax-tax-expense",
+  "title": "Cash tax paid. Tax expense matched?",
+  "discipline": "Accounting, audit and management control",
+  "topics": [
+    "Deferred tax liability",
+    "Tax base",
+    "Temporary difference reversal"
+  ],
+  "teaser": "A lawful early deduction lowers the first tax payment. Does it also lower the accounting tax expense, and what happens next year?",
+  "alt": "Two adult manufacturing accountants compare plain accounting and tax schedules beside a small workshop machine; blank worksheets show no rates, answer or real company records.",
+  "location": "Fictional jurisdiction",
+  "duration": "15–20 minutes",
+  "news_heading": "Tax paid and tax expense are not always equal",
+  "news": "<p>Current tax and deferred tax answer different questions. Current tax reflects taxable profit for the period; deferred tax recognises specified future tax consequences of differences between accounting amounts and tax bases. The invented tax system below isolates accelerated deductions and their reversal. It is not a description of Hong Kong tax rates or a tax-planning recommendation.</p>",
+  "opening": "<p>You review fictional Harbour Parts’ year-one accounts. All amounts are thousands of invented currency units, written CU000. At the start of year one, the manufacturer buys and immediately uses a machine costing 90. Accounting and tax values both start at 90. Accounting depreciation is 30 annually for three years, with no residual value.</p><p>The enacted tax rate is 20% throughout the machine’s life. Permitted tax depreciation is 60 in year one, 15 in year two and 15 in year three. Accounting depreciation is added back in calculating taxable profit; the permitted tax deduction is then subtracted. These deductions are lawful, settled assumptions, not disputed claims.</p><p>Annual profit before this machine’s depreciation and income tax is 100 for all three years. All output is sold in its year of production, so depreciation is fully expensed, not held in inventory. There are no other accounting–tax differences, losses, credits, rate changes, revaluations, impairments or recognition exceptions. All tax effects belong in profit or loss.</p><p>A draft year-one report equates total tax expense with current tax paid. The accountant proposes recording current tax plus the change in the deferred-tax liability. Current tax for each year is paid in that same year, with no opening or closing current-tax balance. Deferred tax starts at zero; the company recovers the machine through use.</p><p>For this model, tax base means the machine’s remaining deductible cost. Closing deferred-tax liability equals 20% × (carrying amount − tax base). Deferred-tax expense is closing liability minus opening liability; a negative movement is a credit. Total tax expense equals current tax plus that movement.</p>",
+  "exhibit": "<table><caption>Machine schedules · CU000</caption><thead><tr><th>Year</th><th>Accounting depreciation</th><th>Tax deduction</th></tr></thead><tbody><tr><td>1</td><td>30</td><td>60</td></tr><tr><td>2</td><td>30</td><td>15</td></tr><tr><td>3</td><td>30</td><td>15</td></tr></tbody></table>",
+  "exhibit_md": "| Year | Accounting depreciation | Tax deduction |\n| --- | --- | --- |\n| 1 | 30 | 60 |\n| 2 | 30 | 15 |\n| 3 | 30 | 15 |",
+  "q1": "For year one, calculate accounting profit before tax, taxable profit and current tax paid. Compare the machine’s closing carrying amount and remaining tax deductions. Which report would you approve, and what deferred-tax amount and total tax expense should it contain?",
+  "round2": "<p>Year two now ends exactly as planned: profit before depreciation and tax is 100, accounting depreciation is 30 and the permitted tax deduction is 15. The 20% enacted rate remains unchanged. No new machine is bought and no asset is sold. The year-one deferred-tax balance has been properly recorded.</p><p>The finance manager notices that current tax paid is higher in year two than in year one, despite identical accounting profit before tax. They propose adding the closing deferred-tax liability to current tax to obtain year-two tax expense. The accountant says to use the movement in that liability, including its direction, instead.</p><p>For this exercise, year three also occurs exactly as scheduled. The machine is fully used up at year-end, with zero accounting residual value and no remaining tax deduction. All three years are profitable and recoverability through use is established. Do not introduce disposal proceeds, new deductions or a second payment of the deferred-tax balance.</p>",
+  "q2": "Reconcile year two’s current tax, opening and closing deferred-tax liability, and total tax expense. Then check year three and the three-year totals. Why is the reversal a tax-expense credit rather than a separate cash refund?",
+  "sections": [
+    [
+      "Debrief · Start with two profit measures",
+      "<p>All calculations remain in CU000. Year-one accounting profit before tax is 100 − 30 = 70. Taxable profit is 70 + 30 − 60 = 40. Current tax is 40 × 20% = 8, paid during the year. Paying that amount settles current tax; it does not establish total accounting tax expense.</p><p>The closing carrying amount is 90 − 30 = 60. The tax base is the remaining deductible cost: 90 − 60 = 30. The taxable temporary difference is 60 − 30 = 30. Applying 20% gives a closing deferred-tax liability of 6. It reflects earlier tax deductions, not an overdue tax bill.</p>"
+    ],
+    [
+      "Debrief · Record the movement",
+      "<p>The deferred-tax liability rises from zero to 6 in year one, creating deferred-tax expense of 6. Total tax expense is current tax 8 + deferred tax 6 = 14. Profit after tax is 70 − 14 = 56. Approve the accountant’s report, not the draft that treats cash paid as total tax expense.</p><p>The deferred entry debits tax expense 6 and credits deferred-tax liability 6. It does not pay another 6 in cash. The current-tax charge and its cash settlement are separate entries. Current tax equals cash paid here only because the timing assumption explicitly makes them equal.</p>"
+    ],
+    [
+      "Debrief · Year two reverses part of the difference",
+      "<p>Year-two accounting profit before tax is again 70. Taxable profit is 70 + 30 − 15 = 85, giving current tax paid of 17. Closing carrying amount is 90 − 60 = 30; tax base is 90 − 75 = 15. The remaining taxable temporary difference is 15 and the closing liability is 3.</p><p>The liability falls from 6 to 3. The movement is −3, a deferred-tax credit, so total year-two tax expense is 17 − 3 = 14. Adding the closing balance instead would give 20, confusing a balance with an expense. Profit after tax remains 56.</p>"
+    ],
+    [
+      "Debrief · Complete the three-year check",
+      "<p>Year three again has accounting profit 70, taxable profit 85 and current tax paid 17. Both carrying amount and tax base close at zero, so the deferred-tax liability falls from 3 to zero. A further deferred-tax credit of 3 leaves tax expense 14 and profit after tax 56.</p><p>Across three years, accounting depreciation and tax deductions each total 90. Accounting profit and taxable profit each total 210. Current taxes paid total 8 + 17 + 17 = 42. Total accounting tax expense is 14 + 14 + 14 = 42; deferred-tax movements sum to 6 − 3 − 3 = zero.</p>"
+    ],
+    [
+      "Debrief · Timing is not exemption",
+      "<p>The first year’s larger tax deduction brings tax relief forward. Later deductions are smaller than accounting depreciation, and the difference reverses. The liability’s reduction recognises this reversal in tax expense; it is not a cash refund. Later cash payments already include the tax consequences, so paying the deferred balance again would double count them.</p><p>This result does not mean every entity’s tax expense equals accounting profit multiplied by one rate. Permanent differences, different rates, losses, exceptions and items outside profit or loss can change the reconciliation. They are deliberately absent here. Lawful accelerated depreciation does not itself establish evasion or a permanent reduction in total tax.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>Minutes 0–5: build separate accounting and taxable-profit columns. Minutes 5–9: calculate carrying amount, tax base and year-one liability. Minutes 9–14: reveal year two and distinguish the closing balance from its movement. Minutes 14–18: reconcile the three-year totals and identify which entries actually move cash.</p><p>ACC-15 traces working capital and investment to explain a bank-balance decline. Here cash timing is fixed, and the learning task is the asset’s remaining tax deductions and deferred-tax reversal. CU000 and the 20% rate are invented teaching inputs, not jurisdictional advice or a complete tax return.</p>"
+    ]
+  ],
+  "notes": "Entire manufacturer and tax system are fictional. All figures CU000; enacted20% throughout, cost90, annual accounting depreciation30, lawful tax deductions60/15/15. Initial carrying amount and tax base equal90; subsequent differences arise through depreciation. All annual predepreciation profit100, alloutputsold, alltaxeffectsprofit or loss. No other differences, losses, credits, exceptions, ratechanges, revaluation or impairment. Currenttaxfullypaid sameyear; deferredtaxdoesnot itself causecashmovement. Machine recoveredthroughuse,zeroendvalue,nonewasset/disposal. Complete three-year model, not tax advice.",
+  "sources": [
+    [
+      "https://www.ifrs.org/issued-standards/list-of-standards/ias-12-income-taxes/",
+      "IFRS Foundation · IAS 12 Income Taxes · overview",
+      "Standard-setter overview distinguishes current tax and temporary differences. It does not supply the fictional tax law or imply that all differences receive identical treatment."
+    ],
+    [
+      "https://www.accaglobal.com/middle-east/en/student/exam-support-resources/professional-exams-study-resources/strategic-business-reporting/technical-articles/deferred-tax.html",
+      "ACCA · Deferred tax",
+      "Professional-body teaching guidance explains accelerated deductions, tax bases and movements in deferred-tax balances. No source numerical example is reproduced."
+    ],
+    [
+      "https://www.bdo.global/en-gb/microsites/ifrs/ifrs-accounting-standards/ifrs-faqs/topic206",
+      "BDO · IFRS FAQs · Income taxes",
+      "Technical guidance explains an asset’s tax base as deductible amounts on recovery. The case excludes its more complex recognition and group-accounting issues."
+    ],
+    [
+      "https://standards.xrb.govt.nz/standards-navigator/nz-ias-12/",
+      "New Zealand XRB · NZ IAS 12 · paragraphs 15–17",
+      "National standard text explains taxable temporary differences from accelerated depreciation. It shares the IAS 12 basis, rather than offering independent empirical evidence; New Zealand legal applicability is not assumed."
+    ],
+    [
+      "https://www.moore-global.com/wp-content/uploads/2025/07/IAS-12-Income-taxes.pdf",
+      "Moore Global · IAS 12 Income Taxes · April 2025",
+      "Primary technical summary distinguishes current and deferred tax and enacted-rate measurement. The simplified exercise is not a complete assessment of every recognition exception."
+    ]
+  ],
+  "slides": [
+    [
+      "Tax paid and tax expense are not always equal",
+      "<p>Current tax and deferred tax answer different questions. Current tax reflects taxable profit for the period; deferred tax recognises specified future tax consequences of differences between accounting amounts and tax bases. The invented tax system below isolates accelerated deductions and their reversal. It is not a description of Hong Kong tax rates or a tax-planning recommendation.</p>"
+    ],
+    [
+      "The scene",
+      "<p></p>"
+    ],
+    [
+      "A machine with two schedules",
+      "<p>You review fictional Harbour Parts’ year-one accounts. All amounts are thousands of invented currency units, written CU000. At the start of year one, the manufacturer buys and immediately uses a machine costing 90. Accounting and tax values both start at 90. Accounting depreciation is 30 annually for three years, with no residual value.</p>"
+    ],
+    [
+      "The supplied tax system",
+      "<p>The enacted tax rate is 20% throughout the machine’s life. Permitted tax depreciation is 60 in year one, 15 in year two and 15 in year three. Accounting depreciation is added back in calculating taxable profit; the permitted tax deduction is then subtracted. These deductions are lawful, settled assumptions, not disputed claims.</p>"
+    ],
+    [
+      "A complete simplified model",
+      "<p>Annual profit before this machine’s depreciation and income tax is 100 for all three years. All output is sold in its year of production, so depreciation is fully expensed, not held in inventory. There are no other accounting–tax differences, losses, credits, rate changes, revaluations, impairments or recognition exceptions. All tax effects belong in profit or loss.</p>"
+    ],
+    [
+      "Two proposed explanations",
+      "<p>A draft year-one report equates total tax expense with current tax paid. The accountant proposes recording current tax plus the change in the deferred-tax liability. Current tax for each year is paid in that same year, with no opening or closing current-tax balance. Deferred tax starts at zero; the company recovers the machine through use.</p>"
+    ],
+    [
+      "The calculation rules",
+      "<p>For this model, tax base means the machine’s remaining deductible cost. Closing deferred-tax liability equals 20% × (carrying amount − tax base). Deferred-tax expense is closing liability minus opening liability; a negative movement is a credit. Total tax expense equals current tax plus that movement.</p>"
+    ],
+    [
+      "Two schedules",
+      "<table><caption>Machine schedules · CU000</caption><thead><tr><th>Year</th><th>Accounting depreciation</th><th>Tax deduction</th></tr></thead><tbody><tr><td>1</td><td>30</td><td>60</td></tr><tr><td>2</td><td>30</td><td>15</td></tr><tr><td>3</td><td>30</td><td>15</td></tr></tbody></table>"
+    ],
+    [
+      "First decision",
+      "<p>For year one, calculate accounting profit before tax, taxable profit and current tax paid. Compare the machine’s closing carrying amount and remaining tax deductions. Which report would you approve, and what deferred-tax amount and total tax expense should it contain?</p>"
+    ],
+    [
+      "Year two reaches the books",
+      "<p>Year two now ends exactly as planned: profit before depreciation and tax is 100, accounting depreciation is 30 and the permitted tax deduction is 15. The 20% enacted rate remains unchanged. No new machine is bought and no asset is sold. The year-one deferred-tax balance has been properly recorded.</p>"
+    ],
+    [
+      "A larger cash payment",
+      "<p>The finance manager notices that current tax paid is higher in year two than in year one, despite identical accounting profit before tax. They propose adding the closing deferred-tax liability to current tax to obtain year-two tax expense. The accountant says to use the movement in that liability, including its direction, instead.</p>"
+    ],
+    [
+      "Follow the difference to its end",
+      "<p>For this exercise, year three also occurs exactly as scheduled. The machine is fully used up at year-end, with zero accounting residual value and no remaining tax deduction. All three years are profitable and recoverability through use is established. Do not introduce disposal proceeds, new deductions or a second payment of the deferred-tax balance.</p>"
+    ],
+    [
+      "Second decision",
+      "<p>Reconcile year two’s current tax, opening and closing deferred-tax liability, and total tax expense. Then check year three and the three-year totals. Why is the reversal a tax-expense credit rather than a separate cash refund?</p>"
+    ],
+    [
+      "Debrief · Start with two profit measures · 1",
+      "<p>All calculations remain in CU000. Year-one accounting profit before tax is 100 − 30 = 70. Taxable profit is 70 + 30 − 60 = 40. Current tax is 40 × 20% = 8, paid during the year. Paying that amount settles current tax; it does not establish total accounting tax expense.</p>"
+    ],
+    [
+      "Debrief · Start with two profit measures · 2",
+      "<p>The closing carrying amount is 90 − 30 = 60. The tax base is the remaining deductible cost: 90 − 60 = 30. The taxable temporary difference is 60 − 30 = 30. Applying 20% gives a closing deferred-tax liability of 6. It reflects earlier tax deductions, not an overdue tax bill.</p>"
+    ],
+    [
+      "Debrief · Record the movement · 1",
+      "<p>The deferred-tax liability rises from zero to 6 in year one, creating deferred-tax expense of 6. Total tax expense is current tax 8 + deferred tax 6 = 14. Profit after tax is 70 − 14 = 56. Approve the accountant’s report, not the draft that treats cash paid as total tax expense.</p>"
+    ],
+    [
+      "Debrief · Record the movement · 2",
+      "<p>The deferred entry debits tax expense 6 and credits deferred-tax liability 6. It does not pay another 6 in cash. The current-tax charge and its cash settlement are separate entries. Current tax equals cash paid here only because the timing assumption explicitly makes them equal.</p>"
+    ],
+    [
+      "Debrief · Year two reverses part of the difference · 1",
+      "<p>Year-two accounting profit before tax is again 70. Taxable profit is 70 + 30 − 15 = 85, giving current tax paid of 17. Closing carrying amount is 90 − 60 = 30; tax base is 90 − 75 = 15. The remaining taxable temporary difference is 15 and the closing liability is 3.</p>"
+    ],
+    [
+      "Debrief · Year two reverses part of the difference · 2",
+      "<p>The liability falls from 6 to 3. The movement is −3, a deferred-tax credit, so total year-two tax expense is 17 − 3 = 14. Adding the closing balance instead would give 20, confusing a balance with an expense. Profit after tax remains 56.</p>"
+    ],
+    [
+      "Debrief · Complete the three-year check · 1",
+      "<p>Year three again has accounting profit 70, taxable profit 85 and current tax paid 17. Both carrying amount and tax base close at zero, so the deferred-tax liability falls from 3 to zero. A further deferred-tax credit of 3 leaves tax expense 14 and profit after tax 56.</p>"
+    ],
+    [
+      "Debrief · Complete the three-year check · 2",
+      "<p>Across three years, accounting depreciation and tax deductions each total 90. Accounting profit and taxable profit each total 210. Current taxes paid total 8 + 17 + 17 = 42. Total accounting tax expense is 14 + 14 + 14 = 42; deferred-tax movements sum to 6 − 3 − 3 = zero.</p>"
+    ],
+    [
+      "Debrief · Timing is not exemption · 1",
+      "<p>The first year’s larger tax deduction brings tax relief forward. Later deductions are smaller than accounting depreciation, and the difference reverses. The liability’s reduction recognises this reversal in tax expense; it is not a cash refund. Later cash payments already include the tax consequences, so paying the deferred balance again would double count them.</p>"
+    ],
+    [
+      "Debrief · Timing is not exemption · 2",
+      "<p>This result does not mean every entity’s tax expense equals accounting profit multiplied by one rate. Permanent differences, different rates, losses, exceptions and items outside profit or loss can change the reconciliation. They are deliberately absent here. Lawful accelerated depreciation does not itself establish evasion or a permanent reduction in total tax.</p>"
+    ],
+    [
+      "Instructor note · 1",
+      "<p>Minutes 0–5: build separate accounting and taxable-profit columns. Minutes 5–9: calculate carrying amount, tax base and year-one liability. Minutes 9–14: reveal year two and distinguish the closing balance from its movement. Minutes 14–18: reconcile the three-year totals and identify which entries actually move cash.</p>"
+    ],
+    [
+      "Instructor note · 2",
+      "<p>ACC-15 traces working capital and investment to explain a bank-balance decline. Here cash timing is fixed, and the learning task is the asset’s remaining tax deductions and deferred-tax reversal. CU000 and the 20% rate are invented teaching inputs, not jurisdictional advice or a complete tax return.</p>"
+    ]
+  ]
+}
