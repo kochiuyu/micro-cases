@@ -1534,3 +1534,51 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## HSP-32
 
 384. [The rooms stay open. Can the stay still work?](open-rooms-unavailable-purpose.html)
+
+## ACC-33
+
+385. [The sales target is met. Are the costs covered?](same-revenue-different-break-even.html)
+
+## FIN-33
+
+386. [A business price. A price for the shares?](business-price-share-price.html)
+
+## MKT-33
+
+387. [A free trial. Enough time to experience the benefit?](free-trial-time-to-experience.html)
+
+## OPS-33
+
+388. [A sample passed. Did the shipment pass?](sample-passed-shipment-passed.html)
+
+## PPL-33
+
+389. [Strong inside. Disconnected outside.](strong-inside-disconnected-outside.html)
+
+## STR-33
+
+390. [Larger factory. Lower cost from what?](larger-factory-lower-cost-from-what.html)
+
+## ENT-33
+
+391. [A patent to use. Freedom to sell?](patent-to-use-freedom-to-sell.html)
+
+## IS-33
+
+392. [Averages are stable. What happens on the worst days?](same-average-different-tail.html)
+
+## GVR-33
+
+393. [The terms are disclosed. Are they understood?](terms-disclosed-terms-understood.html)
+
+## SUS-33
+
+394. [A useful by-product. A dependable input?](useful-heat-dependable-supply.html)
+
+## ECO-33
+
+395. [A tax on the seller. Who pays in the end?](seller-tax-who-bears-it.html)
+
+## HSP-33
+
+396. [An upgrade accepted. The right room left unsold?](upgrade-accepted-right-room-unsold.html)

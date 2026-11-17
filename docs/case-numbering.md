@@ -426,3 +426,15 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 382 | SUS-32 | [one-contaminated-load.html](../one-contaminated-load.html) | A clean recycling stream. One contaminated load? |
 | 383 | ECO-32 | [two-plans-who-chooses.html](../two-plans-who-chooses.html) | Two plans. Who chooses which one? |
 | 384 | HSP-32 | [open-rooms-unavailable-purpose.html](../open-rooms-unavailable-purpose.html) | The rooms stay open. Can the stay still work? |
+| 385 | ACC-33 | [same-revenue-different-break-even.html](../same-revenue-different-break-even.html) | The sales target is met. Are the costs covered? |
+| 386 | FIN-33 | [business-price-share-price.html](../business-price-share-price.html) | A business price. A price for the shares? |
+| 387 | MKT-33 | [free-trial-time-to-experience.html](../free-trial-time-to-experience.html) | A free trial. Enough time to experience the benefit? |
+| 388 | OPS-33 | [sample-passed-shipment-passed.html](../sample-passed-shipment-passed.html) | A sample passed. Did the shipment pass? |
+| 389 | PPL-33 | [strong-inside-disconnected-outside.html](../strong-inside-disconnected-outside.html) | Strong inside. Disconnected outside. |
+| 390 | STR-33 | [larger-factory-lower-cost-from-what.html](../larger-factory-lower-cost-from-what.html) | Larger factory. Lower cost from what? |
+| 391 | ENT-33 | [patent-to-use-freedom-to-sell.html](../patent-to-use-freedom-to-sell.html) | A patent to use. Freedom to sell? |
+| 392 | IS-33 | [same-average-different-tail.html](../same-average-different-tail.html) | Averages are stable. What happens on the worst days? |
+| 393 | GVR-33 | [terms-disclosed-terms-understood.html](../terms-disclosed-terms-understood.html) | The terms are disclosed. Are they understood? |
+| 394 | SUS-33 | [useful-heat-dependable-supply.html](../useful-heat-dependable-supply.html) | A useful by-product. A dependable input? |
+| 395 | ECO-33 | [seller-tax-who-bears-it.html](../seller-tax-who-bears-it.html) | A tax on the seller. Who pays in the end? |
+| 396 | HSP-33 | [upgrade-accepted-right-room-unsold.html](../upgrade-accepted-right-room-unsold.html) | An upgrade accepted. The right room left unsold? |

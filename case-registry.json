@@ -2750,6 +2750,90 @@
       "slug": "open-rooms-unavailable-purpose",
       "area": "Hospitality, tourism, property and service management",
       "title": "The rooms stay open. Can the stay still work?"
+    },
+    {
+      "legacy_id": 385,
+      "code": "ACC-33",
+      "slug": "same-revenue-different-break-even",
+      "area": "Accounting, audit and management control",
+      "title": "The sales target is met. Are the costs covered?"
+    },
+    {
+      "legacy_id": 386,
+      "code": "FIN-33",
+      "slug": "business-price-share-price",
+      "area": "Finance, banking and insurance",
+      "title": "A business price. A price for the shares?"
+    },
+    {
+      "legacy_id": 387,
+      "code": "MKT-33",
+      "slug": "free-trial-time-to-experience",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "A free trial. Enough time to experience the benefit?"
+    },
+    {
+      "legacy_id": 388,
+      "code": "OPS-33",
+      "slug": "sample-passed-shipment-passed",
+      "area": "Operations, supply chains and logistics",
+      "title": "A sample passed. Did the shipment pass?"
+    },
+    {
+      "legacy_id": 389,
+      "code": "PPL-33",
+      "slug": "strong-inside-disconnected-outside",
+      "area": "People, leadership and organisational behaviour",
+      "title": "Strong inside. Disconnected outside."
+    },
+    {
+      "legacy_id": 390,
+      "code": "STR-33",
+      "slug": "larger-factory-lower-cost-from-what",
+      "area": "Strategy and international business",
+      "title": "Larger factory. Lower cost from what?"
+    },
+    {
+      "legacy_id": 391,
+      "code": "ENT-33",
+      "slug": "patent-to-use-freedom-to-sell",
+      "area": "Entrepreneurship, innovation and family business",
+      "title": "A patent to use. Freedom to sell?"
+    },
+    {
+      "legacy_id": 392,
+      "code": "IS-33",
+      "slug": "same-average-different-tail",
+      "area": "Information systems, AI and business analytics",
+      "title": "Averages are stable. What happens on the worst days?"
+    },
+    {
+      "legacy_id": 393,
+      "code": "GVR-33",
+      "slug": "terms-disclosed-terms-understood",
+      "area": "Governance, law, ethics and risk",
+      "title": "The terms are disclosed. Are they understood?"
+    },
+    {
+      "legacy_id": 394,
+      "code": "SUS-33",
+      "slug": "useful-heat-dependable-supply",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "A useful by-product. A dependable input?"
+    },
+    {
+      "legacy_id": 395,
+      "code": "ECO-33",
+      "slug": "seller-tax-who-bears-it",
+      "area": "Economics, competition and pricing",
+      "title": "A tax on the seller. Who pays in the end?"
+    },
+    {
+      "legacy_id": 396,
+      "code": "HSP-33",
+      "slug": "upgrade-accepted-right-room-unsold",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "An upgrade accepted. The right room left unsold?"
     }
   ]
 }
