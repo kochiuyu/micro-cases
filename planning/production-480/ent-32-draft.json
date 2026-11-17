@@ -1,0 +1,172 @@
+{
+  "number": 379,
+  "code": "ENT-32",
+  "slug": "investor-access-commercial-freedom",
+  "title": "The investor brings customers. Which customers may we serve?",
+  "discipline": "Entrepreneurship, innovation and family business",
+  "topics": [
+    "Corporate venture capital",
+    "Commercial freedom",
+    "Strategic investment terms"
+  ],
+  "teaser": "Two investors offer the same cash. One brings introductions and a restriction that reaches the venture’s strongest prospects.",
+  "alt": "Fictional software founders compare investment folders and customer-segment cards in a Singapore office, with no readable confidential data.",
+  "location": "Singapore",
+  "duration": "15–20 minutes",
+  "news_heading": "More than a cheque",
+  "news": "<p>Corporate venture funding can combine money with industry access while linking a young business to an investor’s commercial priorities. The relevant comparison includes what the venture may sell, disclose and finance later, not just today’s cheque.</p><p>The Singapore venture, investors and terms below are fictional. No term is presented as standard, enforceable or suitable legal drafting.</p>",
+  "opening": "<p>You co-found Singapore software venture RouteLedger, which sells delivery-exception reporting tools to logistics operators. You are choosing a planning route, not signing documents. Independent investor I and corporate investor C each offer S$1,000,000 for 20% ordinary ownership after investment. Other economic and governance terms are identical except the explicit differences below.</p><p>Either amount fully funds the same six-month product-and-sales pilot. Essential commitments and founder living costs are protected separately, so declining or delaying is feasible. Independent legal and competition review must clear any final arrangement before acceptance. No transaction, sensitive disclosure or permission change occurs in this classroom exercise.</p><p>I imposes no additional customer restrictions or veto over the identity of future investors. It receives quarterly aggregate financial and operating reports. It offers no customer introductions. C’s parent is a logistics operator; C additionally commits to arrange four consented discovery meetings with its business contacts within eight weeks of closing.</p><p>C’s introductions are meetings, not purchases or endorsements. RouteLedger must still qualify needs, agree commercial terms and earn sales. C’s proposed restriction lasts 12 months after closing: RouteLedger may not license its reporting software to four named logistics operators, N1–N4. The list cannot expand automatically; all other customers remain eligible.</p><p>During those same 12 months, C’s consent is required before accepting equity investment from N1–N4. It has no additional veto over other investors. Neither offer promises follow-on funding. No sale-of-company preference, acquisition option or right to match another investor’s price is included.</p><p>C also receives a quarterly product roadmap, limited to feature themes and release windows, alongside aggregate reports. Access is confined to its investment team under confidentiality and internal-separation terms. No source code, named customer pipeline, client records or confidential customer information is included. Existing customer permissions and release controls remain unchanged.</p>",
+  "exhibit": "<table><caption>Opening offers; fictional terms</caption><thead><tr><th>Item</th><th>I</th><th>C</th></tr></thead><tbody><tr><td>Cash / ownership</td><td>S$1m / 20%</td><td>S$1m / 20%</td></tr><tr><td>Discovery meetings</td><td>None promised</td><td>Four arranged</td></tr><tr><td>Restricted customers</td><td>None added</td><td>N1–N4 for 12 months</td></tr></tbody></table>",
+  "exhibit_md": "| Item | I | C |\n| --- | --- | --- |\n| Cash / ownership | S$1m / 20% | S$1m / 20% |\n| Discovery meetings | None promised | Four arranged |\n| Restricted customers | None added | N1–N4 for 12 months |",
+  "q1": "Which route would you provisionally prefer: I, C or delay? Compare the promised resource with the commercial choices and information boundaries you would give up. What customer evidence could change your answer?",
+  "round2": "<p>The team now checks its four strongest qualified prospects. Three are N1, N2 and N3, all within C’s restricted list; the fourth is unrestricted. These are prospects, not orders. They fit the intended product better than the other leads currently screened, but no conversion probabilities, margins or customer values are supplied.</p><p>C offers a written planning alternative, C-narrow: S$900,000 for the same 20% ownership. It restricts software licensing only to N1 and N4, and only for six months. N2 and N3 become eligible immediately. All other C terms remain, including four meetings, roadmap information and the 12-month funding-consent right over N1–N4.</p><p>S$900,000 still fully funds the unchanged six-month pilot, including all staff time and support. The extra S$100,000 under I or original C would remain an uncommitted cash buffer, not hidden required expenditure. No free top-up, assumed sales receipts or reduced delivery standard is needed under C-narrow.</p><p>All three alternatives remain open for review; none has been accepted. C-narrow’s customer restriction expires after six months, with no automatic renewal. A prospect’s eligibility does not establish its willingness to buy from a corporate-backed supplier. No customer has promised to tolerate the affiliation or become an investor.</p>",
+  "q2": "Choose I, C, C-narrow or delay under these facts. Identify which qualified prospects remain eligible, the explicit price of narrowing C’s customer restriction, and the constraints that C-narrow does not remove.",
+  "sections": [
+    [
+      "Debrief · Capital buys a relationship",
+      "<p>I preserves access to all four qualified prospects without the added commercial restrictions. Original C leaves only the unrestricted prospect eligible for 12 months. In exchange, C supplies four arranged discovery meetings and industry access, not four paying customers. Compare those concrete resources with the opportunities the restrictions would exclude.</p>"
+    ],
+    [
+      "Debrief · A narrower but priced option",
+      "<p>C-narrow permits N2, N3 and the unrestricted prospect immediately; N1 remains excluded for six months. It provides S$100,000 less cash for the same ownership stake. That is a real reduction in the buffer, not a fee paid twice or an unfunded pilot. The restriction is narrower, not absent.</p>"
+    ],
+    [
+      "Debrief · Read the surviving terms",
+      "<p>C-narrow still requires consent for equity funding from any of N1–N4 throughout 12 months, even when a company becomes an eligible customer earlier. Its roadmap reporting also remains. Customer access, financing access and information access are different rights; changing one does not silently amend the others.</p>"
+    ],
+    [
+      "Debrief · Defend the direction",
+      "<p>I is defensible if preserving customer and future-investor choice is worth forgoing introductions. C-narrow is defensible if its meetings justify the smaller buffer and remaining constraints. Original C needs a stronger case for its additional cash over C-narrow despite excluding N2 and N3. Delay preserves choice but postpones the pilot.</p>"
+    ],
+    [
+      "Debrief · Do not price imaginary sales",
+      "<p>Three excluded prospects under C are not three lost contracts. Nor are four meetings four new customers. Without probabilities or contributions, no expected-value winner follows. Check discovery quality, customer concerns about affiliation and the buffer’s importance. Do not assume the independent investor can offer equivalent introductions for free.</p>"
+    ],
+    [
+      "Debrief · Verify before acceptance",
+      "<p>Require qualified advisers to check the restricted entities, product scope, duration, expiry, funding consent and information safeguards in complete documents. Confirm who must arrange meetings and what happens if they do not. If review cannot resolve a material condition, do not accept. No classroom conclusion establishes legality or makes commercial promises self-executing.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>Spend four minutes on the opening package, four on the prospect reveal and six on the three-rights comparison. Ask whether a smaller restriction means no restriction, and whether a permitted customer is a permitted future investor. Reward a conditional strategic choice, not dilution arithmetic, an exit waterfall or a claim that corporate investors are inherently harmful.</p>"
+    ]
+  ],
+  "notes": "All venture, prospect, resource and investment terms are fictional planning assumptions, not standard clauses or an enforceability opinion. Equal opening ownership and cash isolate commercial freedom; C-narrow offers less cash at the same stake, with a fully funded unchanged pilot. Prospects and meetings are not contracts. Five source documents support concepts and cautions, not estimated returns or legal conclusions. Existing privacy and customer confidentiality protections continue. Sources accessed 17 November 2026.",
+  "sources": [
+    [
+      "https://www.british-business-bank.co.uk/business-guidance/guidance-articles/finance/corporate-venture-capital",
+      "British Business Bank, Corporate venture capital",
+      "Public guidance discusses expertise and networks alongside alignment and deal restrictions. Timing estimates and general market claims are not applied to this fictional offer."
+    ],
+    [
+      "https://www.bdo.co.uk/en-gb/insights/industries/private-equity/the-rise-of-corporate-venture-capital-what-every-entrepreneur-should-know",
+      "BDO, The rise of corporate venture capital; what every entrepreneur should know, 20 January 2022",
+      "Practitioner discussion identifies commercial access and possible conflicts concerning customers or later finance. Its broad characterisations are not universal facts about corporate investors."
+    ],
+    [
+      "https://www.alston.com/-/media/files/insights/publications/2026/03/more-than-money.pdf",
+      "Golden, Zampa and Funk, More Than Money: Best Practices for Corporate Venture Capital Investing, 31 March 2026",
+      "Original practitioner article discusses investor-linked commercial terms, information separation and competition review. Its US legal discussion is not Singapore legal advice; the case terms are invented."
+    ],
+    [
+      "https://www.wsgr.com/en/insights/would-you-please-repeat-that-in-english-unpacking-the-major-differences-in-venture-capital-practices-in-the-uk-and-the-us.html",
+      "Wilson Sonsini, Would You Please Repeat That in English?, investor-protective-provisions section",
+      "The authors distinguish minority consent rights from headline ownership and show that terms vary across contexts. No UK or US model right is asserted to apply automatically in Singapore."
+    ],
+    [
+      "https://web.stanford.edu/~rkatila/new/pdf/Katilasharks.pdf",
+      "Katila, Rosenberger and Eisenhardt, Swimming with Sharks, author manuscript of the 2008 study",
+      "Introduction and research-design sections examine resource benefits and risks when technology ventures form corporate-investment relationships. Historical US observational evidence is not proof that these fictional investors will help or harm the venture."
+    ]
+  ],
+  "slides": [
+    [
+      "More than a cheque",
+      "<p>Corporate venture funding can combine money with industry access while linking a young business to an investor’s commercial priorities. The relevant comparison includes what the venture may sell, disclose and finance later, not just today’s cheque.</p><p>The Singapore venture, investors and terms below are fictional. No term is presented as standard, enforceable or suitable legal drafting.</p>"
+    ],
+    [
+      "The scene",
+      "<p></p>"
+    ],
+    [
+      "Two investors",
+      "<p>You co-found Singapore software venture RouteLedger, which sells delivery-exception reporting tools to logistics operators. You are choosing a planning route, not signing documents. Independent investor I and corporate investor C each offer S$1,000,000 for 20% ordinary ownership after investment. Other economic and governance terms are identical except the explicit differences below.</p>"
+    ],
+    [
+      "A feasible pause",
+      "<p>Either amount fully funds the same six-month product-and-sales pilot. Essential commitments and founder living costs are protected separately, so declining or delaying is feasible. Independent legal and competition review must clear any final arrangement before acceptance. No transaction, sensitive disclosure or permission change occurs in this classroom exercise.</p>"
+    ],
+    [
+      "Resources promised",
+      "<p>I imposes no additional customer restrictions or veto over the identity of future investors. It receives quarterly aggregate financial and operating reports. It offers no customer introductions. C’s parent is a logistics operator; C additionally commits to arrange four consented discovery meetings with its business contacts within eight weeks of closing.</p>"
+    ],
+    [
+      "Customer restriction",
+      "<p>C’s introductions are meetings, not purchases or endorsements. RouteLedger must still qualify needs, agree commercial terms and earn sales. C’s proposed restriction lasts 12 months after closing: RouteLedger may not license its reporting software to four named logistics operators, N1–N4. The list cannot expand automatically; all other customers remain eligible.</p>"
+    ],
+    [
+      "Future financing",
+      "<p>During those same 12 months, C’s consent is required before accepting equity investment from N1–N4. It has no additional veto over other investors. Neither offer promises follow-on funding. No sale-of-company preference, acquisition option or right to match another investor’s price is included.</p>"
+    ],
+    [
+      "Information boundaries",
+      "<p>C also receives a quarterly product roadmap, limited to feature themes and release windows, alongside aggregate reports. Access is confined to its investment team under confidentiality and internal-separation terms. No source code, named customer pipeline, client records or confidential customer information is included. Existing customer permissions and release controls remain unchanged.</p>"
+    ],
+    [
+      "Opening exhibit",
+      "<table><caption>Opening offers; fictional terms</caption><thead><tr><th>Item</th><th>I</th><th>C</th></tr></thead><tbody><tr><td>Cash / ownership</td><td>S$1m / 20%</td><td>S$1m / 20%</td></tr><tr><td>Discovery meetings</td><td>None promised</td><td>Four arranged</td></tr><tr><td>Restricted customers</td><td>None added</td><td>N1–N4 for 12 months</td></tr></tbody></table>"
+    ],
+    [
+      "First decision",
+      "<p>Which route would you provisionally prefer: I, C or delay? Compare the promised resource with the commercial choices and information boundaries you would give up. What customer evidence could change your answer?</p>"
+    ],
+    [
+      "Prospects inside the boundary",
+      "<p>The team now checks its four strongest qualified prospects. Three are N1, N2 and N3, all within C’s restricted list; the fourth is unrestricted. These are prospects, not orders. They fit the intended product better than the other leads currently screened, but no conversion probabilities, margins or customer values are supplied.</p>"
+    ],
+    [
+      "A priced alternative",
+      "<p>C offers a written planning alternative, C-narrow: S$900,000 for the same 20% ownership. It restricts software licensing only to N1 and N4, and only for six months. N2 and N3 become eligible immediately. All other C terms remain, including four meetings, roadmap information and the 12-month funding-consent right over N1–N4.</p>"
+    ],
+    [
+      "What the lower cash funds",
+      "<p>S$900,000 still fully funds the unchanged six-month pilot, including all staff time and support. The extra S$100,000 under I or original C would remain an uncommitted cash buffer, not hidden required expenditure. No free top-up, assumed sales receipts or reduced delivery standard is needed under C-narrow.</p>"
+    ],
+    [
+      "Still conditional",
+      "<p>All three alternatives remain open for review; none has been accepted. C-narrow’s customer restriction expires after six months, with no automatic renewal. A prospect’s eligibility does not establish its willingness to buy from a corporate-backed supplier. No customer has promised to tolerate the affiliation or become an investor.</p>"
+    ],
+    [
+      "Second decision",
+      "<p>Choose I, C, C-narrow or delay under these facts. Identify which qualified prospects remain eligible, the explicit price of narrowing C’s customer restriction, and the constraints that C-narrow does not remove.</p>"
+    ],
+    [
+      "Debrief · Capital buys a relationship",
+      "<p>I preserves access to all four qualified prospects without the added commercial restrictions. Original C leaves only the unrestricted prospect eligible for 12 months. In exchange, C supplies four arranged discovery meetings and industry access, not four paying customers. Compare those concrete resources with the opportunities the restrictions would exclude.</p>"
+    ],
+    [
+      "Debrief · A narrower but priced option",
+      "<p>C-narrow permits N2, N3 and the unrestricted prospect immediately; N1 remains excluded for six months. It provides S$100,000 less cash for the same ownership stake. That is a real reduction in the buffer, not a fee paid twice or an unfunded pilot. The restriction is narrower, not absent.</p>"
+    ],
+    [
+      "Debrief · Read the surviving terms",
+      "<p>C-narrow still requires consent for equity funding from any of N1–N4 throughout 12 months, even when a company becomes an eligible customer earlier. Its roadmap reporting also remains. Customer access, financing access and information access are different rights; changing one does not silently amend the others.</p>"
+    ],
+    [
+      "Debrief · Defend the direction",
+      "<p>I is defensible if preserving customer and future-investor choice is worth forgoing introductions. C-narrow is defensible if its meetings justify the smaller buffer and remaining constraints. Original C needs a stronger case for its additional cash over C-narrow despite excluding N2 and N3. Delay preserves choice but postpones the pilot.</p>"
+    ],
+    [
+      "Debrief · Do not price imaginary sales",
+      "<p>Three excluded prospects under C are not three lost contracts. Nor are four meetings four new customers. Without probabilities or contributions, no expected-value winner follows. Check discovery quality, customer concerns about affiliation and the buffer’s importance. Do not assume the independent investor can offer equivalent introductions for free.</p>"
+    ],
+    [
+      "Debrief · Verify before acceptance",
+      "<p>Require qualified advisers to check the restricted entities, product scope, duration, expiry, funding consent and information safeguards in complete documents. Confirm who must arrange meetings and what happens if they do not. If review cannot resolve a material condition, do not accept. No classroom conclusion establishes legality or makes commercial promises self-executing.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>Spend four minutes on the opening package, four on the prospect reveal and six on the three-rights comparison. Ask whether a smaller restriction means no restriction, and whether a permitted customer is a permitted future investor. Reward a conditional strategic choice, not dilution arithmetic, an exit waterfall or a claim that corporate investors are inherently harmful.</p>"
+    ]
+  ]
+}

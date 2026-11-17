@@ -1,0 +1,176 @@
+{
+  "number": 384,
+  "code": "HSP-32",
+  "slug": "open-rooms-unavailable-purpose",
+  "title": "The rooms stay open. Can the stay still work?",
+  "discipline": "Hospitality, tourism, property and service management",
+  "topics": [
+    "Refurbishment timing",
+    "Shared-facility commitments",
+    "Displaced contribution"
+  ],
+  "teaser": "The quieter work window loses fewer room sales, but its shared-facility closure reaches the purpose of a booked stay.",
+  "alt": "Fictional hotel colleagues compare phase calendars beside a quiet meeting room and a model of a bedroom wing, with no readable guest details.",
+  "location": "Hong Kong",
+  "duration": "15–20 minutes",
+  "news_heading": "More than room inventory",
+  "news": "<p>A refurbishment can remove bedrooms from sale while also interrupting shared facilities used by guests in rooms that remain open. Room availability and service availability therefore need separate calendars. The hotel, dates, quantities and commitments below are entirely fictional; no real operator is alleged to have broken a promise.</p>",
+  "opening": "<p>You manage Harbour Court, a fictional 24-room Hong Kong hotel. Choose one four-day window for elective refurbishment of six bedrooms: A, 7–10 December 2026, or B, 14–17 December 2026. All rooms are safe, compliant and serviceable until work begins. Essential repairs cannot be delayed; this is a discretionary improvement, not a safety trade-off.</p><p>Either window uses the same contractor, price and continuous mobilisation. Phase 1 occupies days and nights 1–2; phase 2 occupies days and nights 3–4. Six work rooms are closed throughout. During phase 2, four adjacent rooms must also be closed because of daytime disruption. The hotel has no other rooms or hidden replacement capacity.</p><p>The approved isolation plan preserves safe accessible routes, essential systems and acceptable conditions in every open room. The shared meeting room remains usable in phase 1 but closes throughout phase 2. Dining and reception stay fully available. Contractors cannot change the phase order or accelerate safely within these quotes.</p><p>The table gives total room demand per night for a planning scenario, including confirmed bookings and uncommitted demand. Each sale displaced by the room closures would contribute HK$500 after its avoidable servicing costs. Fixed hotel costs remain unchanged. Demand is assumed evenly stated within each phase, with no later recapture or price changes.</p><p>Confirmed bedroom bookings never exceed 12 rooms on any night, so all can be accommodated in open rooms without moves. Displaced sales concern only uncommitted demand. These demand figures are scenario inputs, not certain future sales. Existing shared-facility commitments still need checking before authorising either window.</p><p>Both windows finish before the same future selling season and deliver identical usable rooms and quality thereafter. No extra future room revenue is attributed to earlier completion. Completion checks precede reopening. The common refurbishment budget is already funded; compare only displaced contribution and any additional guest-service arrangements.</p>",
+  "exhibit": "<table><caption>Demand and shared-facility status, each window</caption><thead><tr><th>Phase</th><th>Open rooms</th><th>A demand/night</th><th>B demand/night</th><th>Meeting room</th></tr></thead><tbody><tr><td>1: nights 1–2</td><td>18</td><td>18</td><td>22</td><td>Open</td></tr><tr><td>2: nights 3–4</td><td>14</td><td>16</td><td>20</td><td>Closed</td></tr></tbody></table>",
+  "exhibit_md": "| Phase | Open rooms | A demand/night | B demand/night | Meeting room |\n| --- | --- | --- | --- | --- |\n| 1: nights 1–2 | 18 | 18 | 22 | Open |\n| 2: nights 3–4 | 14 | 16 | 20 | Closed |",
+  "q1": "Which window looks better on displaced room contribution alone? Before committing, what must you learn about guests who can still occupy bedrooms but cannot use the shared meeting room?",
+  "round2": "<p>The booking review finds an eight-room adult training group staying throughout A. It has a confirmed private meeting-room commitment from 9 a.m. to 5 p.m. on 9 and 10 December, exactly A’s phase 2. Quiet private on-site space with its specified layout is essential to its agreed programme.</p><p>There is no suitable alternative on site during A. The group declines the offered off-site option because it would not meet that agreed programme. No date change, cancellation or waiver has been agreed. The hotel’s decision rule is to preserve existing service commitments, not buy out or unilaterally reduce them.</p><p>B has a six-room adult workshop group with a meeting-room booking on 16 and 17 December, its phase 2. A suitable accessible private room in the neighbouring building is held for those exact hours. The group has expressly accepted this specific substitute if B proceeds, without changing its price or other rights.</p><p>B’s substitute costs the hotel HK$3,000 total, including room hire, equipment, support and any transfers. Its capacity and quiet conditions are verified. It uses no hotel bedrooms. No other shared-facility commitments are affected in either window; all other guests have received and accepted the specified disruption arrangements without surrendering remedies.</p><p>B’s alternative must be confirmed before works are authorised. If it falls through, postpone rather than impose a substitute. Both contractor windows remain available now; postponement is safe and funded but its later contribution cost is not supplied. No immediate signature, payment or guest communication is required in this exercise.</p>",
+  "q2": "Which window is feasible under the existing commitments? Calculate its displaced room contribution plus additional service cost, and explain why the lower room-loss figure cannot alone select A.",
+  "sections": [
+    [
+      "Debrief · Count capacity by phase",
+      "<p>In either window, phase 1 closes six rooms, leaving 18; phase 2 closes ten, leaving 14. Closed capacity is 6 × 2 + 10 × 2 = 32 room-nights. That is not automatically 32 lost sales: only demand above the remaining capacity is displaced.</p>"
+    ],
+    [
+      "Debrief · Price displaced demand",
+      "<p>A loses zero sales in phase 1 and (16 − 14) × 2 = 4 room-nights in phase 2: HK$2,000 contribution. B loses (22 − 18) × 2 + (20 − 14) × 2 = 20 room-nights: HK$10,000. These are scenario opportunity costs, not invoices or total hotel profit.</p>"
+    ],
+    [
+      "Debrief · Bedrooms do not fulfil the whole stay",
+      "<p>A’s eight training rooms remain usable, but its promised meeting space disappears on the two required dates. The eight rooms are already included in demand; do not add them again as lost room sales. Nor does telling the group about closure make the service change acceptable. A lacks a feasible commitment-preserving arrangement.</p>"
+    ],
+    [
+      "Debrief · Choose a feasible package",
+      "<p>Choose B conditional on confirming its accepted substitute. Its incremental comparison cost is HK$10,000 displaced contribution + HK$3,000 service arrangement = HK$13,000. This exceeds A’s room-only figure by HK$11,000, but A is not an equivalent feasible service package. The difference is not a calculated penalty for breaking the training promise.</p>"
+    ],
+    [
+      "Debrief · Keep the alternatives honest",
+      "<p>Postponement remains possible; its cost is unknown, so B is the feasible quoted window, not a proven global optimum. A could be reconsidered only after a genuinely suitable, voluntarily agreed solution exists. Do not assume cheaper relocation, free capacity, customer consent or a future room-rate premium.</p>"
+    ],
+    [
+      "Debrief · Maintain two linked calendars",
+      "<p>Record each work phase’s closed bedrooms, adjacent-room effects, shared-facility access and affected guest commitments. Name the person confirming B’s substitute and the reopening checks. Update sales channels before accepting new bookings. If timings or conditions change, reassess affected stays rather than relying on the original room count.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>Allow four minutes for room-night arithmetic, four for the guest-purpose reveal and six for the feasible-window recommendation. Ask why identical closed capacity has different sales effects, and why open bedrooms can still leave a stay unfulfilled. Keep safety and consent fixed; neither housekeeping productivity nor repeated contractor setup is the decision driver.</p>"
+    ]
+  ],
+  "notes": "All hotel, dates, demand, contribution, work phases, service promises and alternatives are fictional classroom assumptions. Work is elective; safe continued operation and isolation are stipulated, not certified by this case. Demand is a scenario, not a forecast. Lost contribution differs from closed capacity and cash expenditure. Foreign guidance and operator notices supply concepts, not Hong Kong law, enforceability or measured benefits. No source supplies the case figures. Five substantive source documents were read on 17 November 2026; dated notices are not live travel advice.",
+  "sources": [
+    [
+      "https://www.jhrth.co.jp/file/en-news-469f32842fac6dcb409abb02bd239fc78e3ce039.pdf",
+      "Japan Hotel REIT, Hilton Tokyo Odaiba renovation notice, 22 January 2026",
+      "Owner disclosure distinguishes strategic refurbishment and temporary room-closure effects. Its projected returns, financing and scale are not applied to this case."
+    ],
+    [
+      "https://docs.oracle.com/en/industries/hospitality/opera-cloud/23.1/ocsuh/t_housekeeping_out_of_order.htm",
+      "Oracle OPERA Cloud 23.1, Managing Out of Order Rooms",
+      "Product documentation separates dated unavailable inventory from allocatable rooms. It is an illustrative system version, not an instruction to release rooms automatically without checks."
+    ],
+    [
+      "https://www.marriottvacationclubs.com/experiences/resorts/marriotts-waiohai-beach-club.html",
+      "Marriott Vacation Clubs, Waiohai Beach Club resort alerts",
+      "Operator notice separately identifies work phases, room refurbishment, facility closures and daytime disturbance. Repair circumstances differ from elective work; its changing and inconsistent reopening estimates are not used."
+    ],
+    [
+      "https://support.visitscotland.org/advice-support/support-by-sector/accommodation/hotels-best-practice",
+      "VisitScotland, Hotels: best practice, updated 25 February 2025",
+      "Tourism-body guidance addresses accurate facility information, booking details and pre-arrival communication. It does not establish that notice alone changes an existing promise."
+    ],
+    [
+      "https://visitenglandassessmentservices.com/wp-content/uploads/2026/04/VisitEngland-QualityStandards_Hotel.pdf",
+      "VisitEngland, Quality Standards for Hotel Accommodation",
+      "Maintenance and code-of-conduct sections connect fitness for purpose, accurate facility descriptions and guest service. These are foreign quality-scheme standards, not Hong Kong legal requirements."
+    ]
+  ],
+  "slides": [
+    [
+      "More than room inventory",
+      "<p>A refurbishment can remove bedrooms from sale while also interrupting shared facilities used by guests in rooms that remain open. Room availability and service availability therefore need separate calendars. The hotel, dates, quantities and commitments below are entirely fictional; no real operator is alleged to have broken a promise.</p>"
+    ],
+    [
+      "The scene",
+      "<p></p>"
+    ],
+    [
+      "Choose the work window",
+      "<p>You manage Harbour Court, a fictional 24-room Hong Kong hotel. Choose one four-day window for elective refurbishment of six bedrooms: A, 7–10 December 2026, or B, 14–17 December 2026. All rooms are safe, compliant and serviceable until work begins. Essential repairs cannot be delayed; this is a discretionary improvement, not a safety trade-off.</p>"
+    ],
+    [
+      "Same project, two phases",
+      "<p>Either window uses the same contractor, price and continuous mobilisation. Phase 1 occupies days and nights 1–2; phase 2 occupies days and nights 3–4. Six work rooms are closed throughout. During phase 2, four adjacent rooms must also be closed because of daytime disruption. The hotel has no other rooms or hidden replacement capacity.</p>"
+    ],
+    [
+      "Protect the operating hotel",
+      "<p>The approved isolation plan preserves safe accessible routes, essential systems and acceptable conditions in every open room. The shared meeting room remains usable in phase 1 but closes throughout phase 2. Dining and reception stay fully available. Contractors cannot change the phase order or accelerate safely within these quotes.</p>"
+    ],
+    [
+      "Contribution assumptions",
+      "<p>The table gives total room demand per night for a planning scenario, including confirmed bookings and uncommitted demand. Each sale displaced by the room closures would contribute HK$500 after its avoidable servicing costs. Fixed hotel costs remain unchanged. Demand is assumed evenly stated within each phase, with no later recapture or price changes.</p>"
+    ],
+    [
+      "Bookings are not cancelled",
+      "<p>Confirmed bedroom bookings never exceed 12 rooms on any night, so all can be accommodated in open rooms without moves. Displaced sales concern only uncommitted demand. These demand figures are scenario inputs, not certain future sales. Existing shared-facility commitments still need checking before authorising either window.</p>"
+    ],
+    [
+      "No invented future premium",
+      "<p>Both windows finish before the same future selling season and deliver identical usable rooms and quality thereafter. No extra future room revenue is attributed to earlier completion. Completion checks precede reopening. The common refurbishment budget is already funded; compare only displaced contribution and any additional guest-service arrangements.</p>"
+    ],
+    [
+      "Phase exhibit",
+      "<table><caption>Demand and shared-facility status, each window</caption><thead><tr><th>Phase</th><th>Open rooms</th><th>A demand/night</th><th>B demand/night</th><th>Meeting room</th></tr></thead><tbody><tr><td>1: nights 1–2</td><td>18</td><td>18</td><td>22</td><td>Open</td></tr><tr><td>2: nights 3–4</td><td>14</td><td>16</td><td>20</td><td>Closed</td></tr></tbody></table>"
+    ],
+    [
+      "First decision",
+      "<p>Which window looks better on displaced room contribution alone? Before committing, what must you learn about guests who can still occupy bedrooms but cannot use the shared meeting room?</p>"
+    ],
+    [
+      "A’s purpose-sensitive stay",
+      "<p>The booking review finds an eight-room adult training group staying throughout A. It has a confirmed private meeting-room commitment from 9 a.m. to 5 p.m. on 9 and 10 December, exactly A’s phase 2. Quiet private on-site space with its specified layout is essential to its agreed programme.</p>"
+    ],
+    [
+      "A has no agreed substitute",
+      "<p>There is no suitable alternative on site during A. The group declines the offered off-site option because it would not meet that agreed programme. No date change, cancellation or waiver has been agreed. The hotel’s decision rule is to preserve existing service commitments, not buy out or unilaterally reduce them.</p>"
+    ],
+    [
+      "B’s different requirement",
+      "<p>B has a six-room adult workshop group with a meeting-room booking on 16 and 17 December, its phase 2. A suitable accessible private room in the neighbouring building is held for those exact hours. The group has expressly accepted this specific substitute if B proceeds, without changing its price or other rights.</p>"
+    ],
+    [
+      "Cost and boundaries",
+      "<p>B’s substitute costs the hotel HK$3,000 total, including room hire, equipment, support and any transfers. Its capacity and quiet conditions are verified. It uses no hotel bedrooms. No other shared-facility commitments are affected in either window; all other guests have received and accepted the specified disruption arrangements without surrendering remedies.</p>"
+    ],
+    [
+      "A real choice, not a forced launch",
+      "<p>B’s alternative must be confirmed before works are authorised. If it falls through, postpone rather than impose a substitute. Both contractor windows remain available now; postponement is safe and funded but its later contribution cost is not supplied. No immediate signature, payment or guest communication is required in this exercise.</p>"
+    ],
+    [
+      "Second decision",
+      "<p>Which window is feasible under the existing commitments? Calculate its displaced room contribution plus additional service cost, and explain why the lower room-loss figure cannot alone select A.</p>"
+    ],
+    [
+      "Debrief · Count capacity by phase",
+      "<p>In either window, phase 1 closes six rooms, leaving 18; phase 2 closes ten, leaving 14. Closed capacity is 6 × 2 + 10 × 2 = 32 room-nights. That is not automatically 32 lost sales: only demand above the remaining capacity is displaced.</p>"
+    ],
+    [
+      "Debrief · Price displaced demand",
+      "<p>A loses zero sales in phase 1 and (16 − 14) × 2 = 4 room-nights in phase 2: HK$2,000 contribution. B loses (22 − 18) × 2 + (20 − 14) × 2 = 20 room-nights: HK$10,000. These are scenario opportunity costs, not invoices or total hotel profit.</p>"
+    ],
+    [
+      "Debrief · Bedrooms do not fulfil the whole stay",
+      "<p>A’s eight training rooms remain usable, but its promised meeting space disappears on the two required dates. The eight rooms are already included in demand; do not add them again as lost room sales. Nor does telling the group about closure make the service change acceptable. A lacks a feasible commitment-preserving arrangement.</p>"
+    ],
+    [
+      "Debrief · Choose a feasible package",
+      "<p>Choose B conditional on confirming its accepted substitute. Its incremental comparison cost is HK$10,000 displaced contribution + HK$3,000 service arrangement = HK$13,000. This exceeds A’s room-only figure by HK$11,000, but A is not an equivalent feasible service package. The difference is not a calculated penalty for breaking the training promise.</p>"
+    ],
+    [
+      "Debrief · Keep the alternatives honest",
+      "<p>Postponement remains possible; its cost is unknown, so B is the feasible quoted window, not a proven global optimum. A could be reconsidered only after a genuinely suitable, voluntarily agreed solution exists. Do not assume cheaper relocation, free capacity, customer consent or a future room-rate premium.</p>"
+    ],
+    [
+      "Debrief · Maintain two linked calendars",
+      "<p>Record each work phase’s closed bedrooms, adjacent-room effects, shared-facility access and affected guest commitments. Name the person confirming B’s substitute and the reopening checks. Update sales channels before accepting new bookings. If timings or conditions change, reassess affected stays rather than relying on the original room count.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>Allow four minutes for room-night arithmetic, four for the guest-purpose reveal and six for the feasible-window recommendation. Ask why identical closed capacity has different sales effects, and why open bedrooms can still leave a stay unfulfilled. Keep safety and consent fixed; neither housekeeping productivity nor repeated contractor setup is the decision driver.</p>"
+    ]
+  ]
+}
