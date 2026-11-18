@@ -1,0 +1,184 @@
+{
+  "number": 460,
+  "code": "OPS-39",
+  "slug": "shorter-task-more-handoffs",
+  "title": "A shorter task. More handoffs.",
+  "discipline": "Operations, supply chains and logistics",
+  "topics": [
+    "Service process design",
+    "Touch time and lead time",
+    "Handoffs"
+  ],
+  "teaser": "Specialist desks finish their checks quickly. Does the customer’s order finish sooner?",
+  "alt": "Two adult print-service colleagues in a Hong Kong office compare a plain order folder and unlettered workflow cards beside three work desks, with no timing results or preferred route shown.",
+  "location": "Hong Kong",
+  "duration": "15–20 minutes",
+  "news_heading": "Follow the order, not only the task",
+  "news": "<p>Process-mapping guidance separates work on an order from the time it waits between activities. Research on business-process logs also distinguishes several causes of waiting; a time gap alone does not identify the cause. The fictional print-service comparison below follows the same order boundary through two feasible arrangements.</p>",
+  "opening": "<p>You manage fictional Harbour Print’s order-checking service in Hong Kong. Before a standard print order can reach production, staff verify the supplied file and specification, check the standard quotation, and confirm the customer’s recorded approval. These are required controls, not optional paperwork. Production itself is outside this comparison.</p><p>Three existing paid employees are trained and authorised for all three checks on standard orders. Route S assigns each check to a specialist desk and transfers the order twice. Route C assigns the complete standard order to one coordinator, with the three employees handling different orders. Staffing, pay, hours, workload and release policy stay unchanged.</p><p>A timed work study reports six minutes for S’s three checks combined, versus ten minutes for C’s checks. The S figure excludes transferring and re-entering order details. Management wants a monitored standard-order trial that shortens receipt-to-production-ready time without weakening accuracy, required approvals or staff conditions. It has not promised customers a new turnaround time.</p><p>Both routes are affordable and already supported by existing systems and training. Required records remain available and auditable. These standard orders need no separate independent sign-off; complex orders and approval exceptions retain their existing escalation route. No worker loses a job or rest break in this decision.</p>",
+  "exhibit": "<table><caption>Opening study: required check time only</caption><thead><tr><th>Route</th><th>Check minutes / order</th><th>Internal transfers</th></tr></thead><tbody><tr><td>S · Specialist desks</td><td>6</td><td>2</td></tr><tr><td>C · One coordinator</td><td>10</td><td>0</td></tr></tbody></table>",
+  "exhibit_md": "| Route | Check minutes / order | Internal transfers |\n| --- | --- | --- |\n| S · Specialist desks | 6 | 2 |\n| C · One coordinator | 10 | 0 |",
+  "q1": "Would the six-minute check figure justify choosing S for faster customer service? State the start and finish of your measurement, and identify the additional observations needed before choosing a monitored trial.",
+  "round2": "<p>A controlled diagnostic replay uses the same complete standard-order information under each route. The clock starts at receipt, 09:00, and ends when all checks and the production-ready record are complete. Both routes wait five minutes before first work. The listed intervals are sequential, complete and non-overlapping; no unrecorded work or customer-response delay occurs.</p><p>S checks the specification from 09:05 to 09:07, then waits until 09:27. Desk two re-enters details from 09:27 to 09:28 and checks the quotation until 09:30. The order then waits until 09:45. Desk three re-enters details until 09:46 and confirms approval until 09:48.</p><p>C’s coordinator performs all required checks and completes the record continuously from 09:05 to 09:15. Its ten minutes include all information handling. S’s two extra entry minutes copy unchanged identifiers into separate desk screens; they add no verification. C uses the existing shared record without removing any required evidence.</p><p>Observation confirms that S’s two transfer queues arise while the next desk serves previously accepted work. C’s coordinator has a continuous work slot in this replay. Both outputs pass the same audit. This diagnostic is not a representative sample or a sustained-capacity test; it does not establish future average waiting, error rates or throughput.</p><p>The operating target for the proposed trial is production-ready within thirty minutes of receipt, with all controls intact. Management can trial either route under the unchanged workload and observe results before making a service promise. No new software, extra staff, priority jumping or hidden queue is available.</p>",
+  "q2": "Calculate total touch time, waiting time and receipt-to-ready time for each replay. Which route would you trial, and what would you measure before claiming a sustained improvement? Explain why removing duplicate entry is not permission to remove verification.",
+  "sections": [
+    [
+      "Debrief · Reconcile every minute",
+      "<p>S uses six minutes of required checks plus two minutes of duplicate entry: eight touch minutes. Waiting is 5 + 20 + 15 = 40 minutes. Total receipt-to-ready time is 8 + 40 = 48 minutes, consistent with the 09:48 finish.</p><p>C uses ten touch minutes and five waiting minutes: fifteen minutes overall, finishing at 09:15. In this replay C takes two more active minutes but finishes thirty-three minutes earlier. Both have the same five-minute initial wait; the difference comes from thirty-five extra transfer-wait minutes offset by S’s two-minute touch advantage.</p>"
+    ],
+    [
+      "Debrief · Choose a trial, not a universal claim",
+      "<p>Trial C for standard orders, preserving the stated controls and escalation route. It meets the thirty-minute target in this diagnostic; S misses it by eighteen minutes. The evidence supports testing an end-to-end arrangement, not advertising a fifteen-minute guarantee or assuming every future coordinator will have an uninterrupted slot.</p><p>The six-versus-ten comparison omitted duplicate entry. Even the complete eight-versus-ten touch comparison does not rank customer lead time correctly here. A shorter task is useful only within the whole process; the customer cannot use an order that is still waiting between desks.</p>"
+    ],
+    [
+      "Debrief · Keep work and waiting distinct",
+      "<p>S’s waiting is elapsed time for this order, not forty minutes of paid staff doing nothing. Other orders occupy the receiving desks. Do not multiply this order’s time saving by wages and call it cash saved, or divide a working day by fifteen minutes and call that sustainable output.</p><p>The two entry minutes are active work, even though they add no new check. A ratio of touch time to lead time would be 8/48 for S and 10/15 for C. That ratio is not staff utilisation, proof of value creation, or a quality score.</p>"
+    ],
+    [
+      "Debrief · Preserve the control purpose",
+      "<p>Remove redundant copying only after confirming which fields and controls it serves. The case establishes that the shared record preserves the required evidence. In another process, a second person’s independent check may be essential; calling it a handoff does not make it waste.</p><p>Keep exceptions visible and route them to the existing authorised reviewer. Do not quietly extend C to work outside staff competence or remove customer approval. A coordinator owns the standard order’s progress, not unlimited authority to change commercial terms or bypass controls.</p>"
+    ],
+    [
+      "Debrief · Test the whole service",
+      "<p>During the trial, retain receipt timestamps and record starts, finishes, transfer waits, rework, missed targets and good completions for all eligible orders, including unfinished ones. Watch other queues, workload balance and staff experience. Do not make the trial look faster by excluding difficult orders or moving their receipt time.</p><p>Compare like workloads and order types over enough operating periods to see variability. If C creates long coordinator queues or quality problems, revise the design rather than defend the label. A shared record could also improve S; that alternative needs its own tested workflow, not an assumed zero-wait future.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>Have students draw S as 5 wait, 2 check, 20 wait, 1 copy, 2 check, 15 wait, 1 copy, 2 check. Draw C as 5 wait and 10 work. Require both timelines to reconcile to their finish times before discussing redesign.</p><p>OPS-03 changes a bottleneck’s capacity; OPS-16 changes work release and measurement boundaries. Here workload and release policy are fixed while task ownership and information handling change. All times, routes and controls are fictional. Healthcare mapping examples are process-method references, not instructions to merge clinical roles or remove clinical safeguards.</p>"
+    ]
+  ],
+  "notes": "All fictional. Three cross-trained existing staff, unchanged paid hours/workload/release/controls. Standard orders only; no independent sign-off requirement, exceptions retain escalation. S checks6 plus duplicate entry2=touch8; waits5+20+15=40; total48. Ctouch10 wait5 total15. S finish09:48 C09:15 from09:00. C33minutesearlier despite2moretouch; thirtymin target S18late,C15early. Replay diagnostic not sustainedcapacity/representative sample; no causal generalisation or staffing/financialsaving. Waitsnextdeskservingearlierwork not idle labour. Csame auditablecontrols andexisting sharedrecord, no newsoftware. Preserve timestamps/unfinishedwork/quality andotherqueues.",
+  "sources": [
+    [
+      "https://www.lean.org/lexicon-terms/value-stream-mapping/",
+      "Lean Enterprise Institute · Value Stream Mapping",
+      "Original practitioner explanation distinguishes full material/information flow and lead time from local process metrics. No published performance gain is transferred to this fictional service."
+    ],
+    [
+      "https://www.ahrq.gov/sites/default/files/wysiwyg/ncepcr/tools/PCMH/pcpf-module-10-workflow-mapping.pdf",
+      "AHRQ · Primary Care Practice Facilitation Curriculum · Module 10",
+      "Agency curriculum distinguishes perceived, observed and desired workflows and identifies roles through direct observation. Clinical responsibilities are not rules for this print-service scenario."
+    ],
+    [
+      "https://www.england.nhs.uk/improvement-hub/wp-content/uploads/sites/44/2017/11/ILG-1.2-Process-Mapping-Analysis-and-Redesign.pdf",
+      "NHS · Improvement Leaders’ Guide: Process mapping, analysis and redesign",
+      "Original improvement guide asks teams to map task times, waits, handoffs and the entire journey. Healthcare examples support the mapping method, not removal of necessary independent checks."
+    ],
+    [
+      "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=P100TO80.TXT",
+      "US EPA · Lean Government Implementation Guide · September 2017",
+      "Agency guidance requires baseline, actual-versus-projected measures and validation over time. Its reported administrative improvements are not evidence of this fictional route’s future performance."
+    ],
+    [
+      "https://arxiv.org/html/2212.01392",
+      "Lashkevich and colleagues · Why am I Waiting? · 2022 preprint",
+      "Original research decomposes activity-transition waiting and distinguishes resource contention, prioritisation and other causes. Its event-log method has assumptions; the case supplies observed causes rather than inferring them from a gap alone."
+    ]
+  ],
+  "slides": [
+    [
+      "Follow the order, not only the task",
+      "<p>Process-mapping guidance separates work on an order from the time it waits between activities. Research on business-process logs also distinguishes several causes of waiting; a time gap alone does not identify the cause. The fictional print-service comparison below follows the same order boundary through two feasible arrangements.</p>"
+    ],
+    [
+      "An order-checking discussion",
+      "<p></p>"
+    ],
+    [
+      "Opening decision · 1",
+      "<p>You manage fictional Harbour Print’s order-checking service in Hong Kong. Before a standard print order can reach production, staff verify the supplied file and specification, check the standard quotation, and confirm the customer’s recorded approval. These are required controls, not optional paperwork. Production itself is outside this comparison.</p>"
+    ],
+    [
+      "Opening decision · 2",
+      "<p>Three existing paid employees are trained and authorised for all three checks on standard orders. Route S assigns each check to a specialist desk and transfers the order twice. Route C assigns the complete standard order to one coordinator, with the three employees handling different orders. Staffing, pay, hours, workload and release policy stay unchanged.</p>"
+    ],
+    [
+      "Opening decision · 3",
+      "<p>A timed work study reports six minutes for S’s three checks combined, versus ten minutes for C’s checks. The S figure excludes transferring and re-entering order details. Management wants a monitored standard-order trial that shortens receipt-to-production-ready time without weakening accuracy, required approvals or staff conditions. It has not promised customers a new turnaround time.</p>"
+    ],
+    [
+      "Opening decision · 4",
+      "<p>Both routes are affordable and already supported by existing systems and training. Required records remain available and auditable. These standard orders need no separate independent sign-off; complex orders and approval exceptions retain their existing escalation route. No worker loses a job or rest break in this decision.</p>"
+    ],
+    [
+      "Check-time study · 1",
+      "<table><caption>Opening study: required check time only</caption><thead><tr><th>Route</th><th>Check minutes / order</th><th>Internal transfers</th></tr></thead><tbody><tr><td>S · Specialist desks</td><td>6</td><td>2</td></tr><tr><td>C · One coordinator</td><td>10</td><td>0</td></tr></tbody></table>"
+    ],
+    [
+      "Your first decision · 1",
+      "<p>Would the six-minute check figure justify choosing S for faster customer service? State the start and finish of your measurement, and identify the additional observations needed before choosing a monitored trial.</p>"
+    ],
+    [
+      "Round two · 1",
+      "<p>A controlled diagnostic replay uses the same complete standard-order information under each route. The clock starts at receipt, 09:00, and ends when all checks and the production-ready record are complete. Both routes wait five minutes before first work. The listed intervals are sequential, complete and non-overlapping; no unrecorded work or customer-response delay occurs.</p>"
+    ],
+    [
+      "Round two · 2",
+      "<p>S checks the specification from 09:05 to 09:07, then waits until 09:27. Desk two re-enters details from 09:27 to 09:28 and checks the quotation until 09:30. The order then waits until 09:45. Desk three re-enters details until 09:46 and confirms approval until 09:48.</p>"
+    ],
+    [
+      "Round two · 3",
+      "<p>C’s coordinator performs all required checks and completes the record continuously from 09:05 to 09:15. Its ten minutes include all information handling. S’s two extra entry minutes copy unchanged identifiers into separate desk screens; they add no verification. C uses the existing shared record without removing any required evidence.</p>"
+    ],
+    [
+      "Round two · 4",
+      "<p>Observation confirms that S’s two transfer queues arise while the next desk serves previously accepted work. C’s coordinator has a continuous work slot in this replay. Both outputs pass the same audit. This diagnostic is not a representative sample or a sustained-capacity test; it does not establish future average waiting, error rates or throughput.</p>"
+    ],
+    [
+      "Round two · 5",
+      "<p>The operating target for the proposed trial is production-ready within thirty minutes of receipt, with all controls intact. Management can trial either route under the unchanged workload and observe results before making a service promise. No new software, extra staff, priority jumping or hidden queue is available.</p>"
+    ],
+    [
+      "Your revised decision · 1",
+      "<p>Calculate total touch time, waiting time and receipt-to-ready time for each replay. Which route would you trial, and what would you measure before claiming a sustained improvement? Explain why removing duplicate entry is not permission to remove verification.</p>"
+    ],
+    [
+      "Debrief · Reconcile every minute · 1",
+      "<p>S uses six minutes of required checks plus two minutes of duplicate entry: eight touch minutes. Waiting is 5 + 20 + 15 = 40 minutes. Total receipt-to-ready time is 8 + 40 = 48 minutes, consistent with the 09:48 finish.</p>"
+    ],
+    [
+      "Debrief · Reconcile every minute · 2",
+      "<p>C uses ten touch minutes and five waiting minutes: fifteen minutes overall, finishing at 09:15. In this replay C takes two more active minutes but finishes thirty-three minutes earlier. Both have the same five-minute initial wait; the difference comes from thirty-five extra transfer-wait minutes offset by S’s two-minute touch advantage.</p>"
+    ],
+    [
+      "Debrief · Choose a trial, not a universal claim · 1",
+      "<p>Trial C for standard orders, preserving the stated controls and escalation route. It meets the thirty-minute target in this diagnostic; S misses it by eighteen minutes. The evidence supports testing an end-to-end arrangement, not advertising a fifteen-minute guarantee or assuming every future coordinator will have an uninterrupted slot.</p>"
+    ],
+    [
+      "Debrief · Choose a trial, not a universal claim · 2",
+      "<p>The six-versus-ten comparison omitted duplicate entry. Even the complete eight-versus-ten touch comparison does not rank customer lead time correctly here. A shorter task is useful only within the whole process; the customer cannot use an order that is still waiting between desks.</p>"
+    ],
+    [
+      "Debrief · Keep work and waiting distinct · 1",
+      "<p>S’s waiting is elapsed time for this order, not forty minutes of paid staff doing nothing. Other orders occupy the receiving desks. Do not multiply this order’s time saving by wages and call it cash saved, or divide a working day by fifteen minutes and call that sustainable output.</p>"
+    ],
+    [
+      "Debrief · Keep work and waiting distinct · 2",
+      "<p>The two entry minutes are active work, even though they add no new check. A ratio of touch time to lead time would be 8/48 for S and 10/15 for C. That ratio is not staff utilisation, proof of value creation, or a quality score.</p>"
+    ],
+    [
+      "Debrief · Preserve the control purpose · 1",
+      "<p>Remove redundant copying only after confirming which fields and controls it serves. The case establishes that the shared record preserves the required evidence. In another process, a second person’s independent check may be essential; calling it a handoff does not make it waste.</p>"
+    ],
+    [
+      "Debrief · Preserve the control purpose · 2",
+      "<p>Keep exceptions visible and route them to the existing authorised reviewer. Do not quietly extend C to work outside staff competence or remove customer approval. A coordinator owns the standard order’s progress, not unlimited authority to change commercial terms or bypass controls.</p>"
+    ],
+    [
+      "Debrief · Test the whole service · 1",
+      "<p>During the trial, retain receipt timestamps and record starts, finishes, transfer waits, rework, missed targets and good completions for all eligible orders, including unfinished ones. Watch other queues, workload balance and staff experience. Do not make the trial look faster by excluding difficult orders or moving their receipt time.</p>"
+    ],
+    [
+      "Debrief · Test the whole service · 2",
+      "<p>Compare like workloads and order types over enough operating periods to see variability. If C creates long coordinator queues or quality problems, revise the design rather than defend the label. A shared record could also improve S; that alternative needs its own tested workflow, not an assumed zero-wait future.</p>"
+    ],
+    [
+      "Instructor note · 1",
+      "<p>Have students draw S as 5 wait, 2 check, 20 wait, 1 copy, 2 check, 15 wait, 1 copy, 2 check. Draw C as 5 wait and 10 work. Require both timelines to reconcile to their finish times before discussing redesign.</p>"
+    ],
+    [
+      "Instructor note · 2",
+      "<p>OPS-03 changes a bottleneck’s capacity; OPS-16 changes work release and measurement boundaries. Here workload and release policy are fixed while task ownership and information handling change. All times, routes and controls are fictional. Healthcare mapping examples are process-method references, not instructions to merge clinical roles or remove clinical safeguards.</p>"
+    ]
+  ]
+}

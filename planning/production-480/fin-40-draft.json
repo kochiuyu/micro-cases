@@ -1,0 +1,176 @@
+{
+  "number": 470,
+  "code": "FIN-40",
+  "slug": "same-payout-different-shareholders",
+  "title": "The same payout. The same value for whom?",
+  "discipline": "Finance, banking and insurance",
+  "topics": [
+    "Payout policy",
+    "Share repurchases",
+    "Value transfers"
+  ],
+  "teaser": "The cash budget is unchanged. A higher repurchase price changes who benefits.",
+  "alt": "Two adult finance colleagues in a fictional instrument-company office compare blank shareholder cards and two plain payout folders beside a small instrument display, without visible prices, selected options or outcomes.",
+  "location": "Hong Kong",
+  "duration": "15–20 minutes",
+  "news_heading": "Payout form and value allocation",
+  "news": "<p>A cash dividend and a share repurchase both move cash from a company to shareholders. They do not automatically create operating value. In a simplified fair-value model, the payout form changes who receives cash and how many shares remain. Paying above fair value can also transfer wealth between shareholders.</p>",
+  "opening": "<p>Fictional Hong Kong company Harbour Instruments has 120,000 identical ordinary shares and no debt or other equity claims. Its supplied total equity fair value immediately before payout is HK$1,200,000: HK$960,000 operating value plus HK$240,000 surplus cash. Thus each share initially represents HK$10. This is a classroom valuation assumption, not an observed quotation.</p><p>Compare D: distribute all HK$240,000 as an equal cash dividend, with R: use exactly HK$240,000 to repurchase and cancel shares at the initial HK$10 fair value. No new shares are issued. The operating business and its investment programme remain unchanged; all necessary obligations, reserves and investment funding are protected.</p><p>Assume no taxes, transaction costs, financing costs, signalling, control premium or information differences. Both payout routes are feasible and their required approvals are supplied for this hypothetical comparison. No real transaction is authorised. All values refer to the immediate payout instant, with no intervening earnings, market changes or cash flows.</p><p>Under R, enough owners voluntarily sell exactly the number of shares the stated cash budget buys; the remaining owners keep their shares. Participation is stipulated, not an auction or prediction of investor behaviour. Each surrendered share is cancelled. Under D, nobody sells and all outstanding shares receive the same dividend.</p><p>Asha owns 1,200 shares and does not sell any in either repurchase scenario. Compare her immediate cash plus remaining share value, as well as the combined wealth of all original shareholders. A higher percentage ownership alone does not establish a gain: the company also gives up cash.</p>",
+  "exhibit": "<table><caption>Supplied immediate values</caption><thead><tr><th>Item</th><th>Given</th></tr></thead><tbody><tr><td>Initial shares</td><td>120,000</td></tr><tr><td>Operating value</td><td>HK$960,000</td></tr><tr><td>Surplus cash / payout</td><td>HK$240,000</td></tr><tr><td>Initial equity fair value</td><td>HK$1,200,000</td></tr><tr><td>Initial fair value per share</td><td>HK$10</td></tr><tr><td>Asha’s unchanged holding</td><td>1,200 shares</td></tr></tbody></table>",
+  "exhibit_md": "| Item | Given |\n| --- | --- |\n| Initial shares | 120,000 |\n| Operating value | HK$960,000 |\n| Surplus cash / payout | HK$240,000 |\n| Initial equity fair value | HK$1,200,000 |\n| Initial fair value per share | HK$10 |\n| Asha’s unchanged holding | 1,200 shares |",
+  "q1": "At HK$10 per repurchased share, calculate the dividend per share, shares cancelled, remaining shares and post-payout value per share under each route. Does either form make Asha or all original shareholders richer in this model?",
+  "round2": "<p>The repurchase proposal changes to HK$12 per share, while its total cash budget stays HK$240,000. Enough willing owners tender exactly 20,000 shares, all of which are cancelled. Asha still keeps all her shares. The supplied pre-payout fair value remains HK$10 per share; the higher offer supplies no new operating information.</p><p>The operating business is still worth HK$960,000 after either payout. The offer price is not evidence that every share is now worth HK$12. The classroom assumptions about feasibility, informed voluntary participation, taxes and costs remain unchanged. The dividend alternative still distributes the same HK$240,000 to all shares.</p>",
+  "q2": "Does the premium repurchase create value, or transfer it? Calculate the remaining share value, Asha’s wealth and the aggregate gain or loss of sellers and continuing holders relative to their pre-payout holdings. Would you describe this as equally beneficial to every owner?",
+  "sections": [
+    [
+      "Debrief · Dividend cash is not extra value",
+      "<p>D pays HK$240,000 ÷ 120,000 = HK$2 per share. The company retains HK$960,000 of operating value across the same 120,000 shares, so each is worth HK$8. Asha receives HK$2,400 and retains shares worth HK$9,600: total HK$12,000, exactly her starting wealth.</p><p>All original shareholders together hold HK$960,000 of remaining equity plus HK$240,000 received cash: HK$1,200,000. Counting the dividend while keeping the old HK$10 share value would count the distributed cash twice. This is an immediate model comparison, not a prediction of actual ex-dividend market prices.</p>"
+    ],
+    [
+      "Debrief · Fair-value repurchase",
+      "<p>R at HK$10 cancels 240,000 ÷ 10 = 24,000 shares, leaving 96,000. Remaining equity is HK$960,000, so each remaining share is worth HK$10. Asha receives no cash, but her 1,200 shares are still worth HK$12,000. Her ownership rises from 1% to 1.25% without increasing her wealth.</p><p>The sellers receive HK$240,000 for holdings previously worth HK$240,000. Continuing holders retain HK$960,000, their prior holdings’ value. Combined wealth is unchanged. Compared with D, the distribution of cash and remaining shares differs; payout form alone has not generated additional operating value.</p>"
+    ],
+    [
+      "Debrief · Price changes the allocation",
+      "<p>At HK$12, the same budget cancels only 20,000 shares. There are 100,000 remaining shares, dividing HK$960,000: HK$9.60 each. Asha now holds HK$11,520 and receives no cash. She loses HK$480 relative to her starting HK$12,000, although her ownership percentage rises from 1% to 1.2%.</p><p>The selling group’s 20,000 shares were worth HK$200,000 before payout; it receives HK$240,000, gaining HK$40,000. The continuing group’s 100,000 shares were worth HK$1,000,000 and are now worth HK$960,000, losing HK$40,000. These amounts reconcile exactly: the premium redistributes value rather than creating it.</p>"
+    ],
+    [
+      "Debrief · Keep the whole group visible",
+      "<p>After the premium repurchase, sellers’ HK$240,000 plus continuing holders’ HK$960,000 still equals HK$1,200,000. Aggregate invariance does not mean every individual is indifferent. Asha and the continuing group prefer the dividend or fair-value repurchase to the premium proposal under these supplied wealth comparisons.</p><p>The premium above initial fair value is HK$2 on 20,000 cancelled shares: HK$40,000. Spread across 100,000 remaining shares, that is HK$0.40 lost per share. Do not multiply the premium by the initial 24,000-share fair-price purchase quantity: the fixed budget buys fewer shares at HK$12.</p>"
+    ],
+    [
+      "Debrief · A model, not a trading instruction",
+      "<p>Report that the premium proposal is not equally beneficial to all owners. Do not claim that every repurchase destroys value or that every dividend creates it. At the supplied fair price, neither route changes anyone’s immediate wealth; above that price, sellers gain at the continuing group’s expense.</p><p>Real decisions require valuation uncertainty, funding needs, investor taxes, transaction costs, disclosure, governance and applicable approval rules to be examined. None is solved by this arithmetic. The stipulated fair value and participation deliberately isolate a transfer mechanism; they are not a market-equilibrium forecast or permission to execute a repurchase.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>First draw two boxes: company equity remaining and cash paid to original owners. Then split owners into sellers and continuing holders. Keep the original cohort fixed when adding total wealth, and keep the HK$240,000 budget fixed when changing the repurchase price.</p><p>FIN-20 asks whether a payout is affordable across a seasonal cash trough. This exercise supplies affordability and examines value allocation. FIN-33 bridges operating value, eligible cash and debt to a sale price; here there is no sale of the whole business, debt adjustment or restricted deposit.</p>"
+    ]
+  ],
+  "notes": "Original fictional immediate payout model, without taxes or transaction costs. Initially there are 120,000 ordinary shares and equity fair value of HK$1,200,000, comprising HK$960,000 operating value and HK$240,000 excess cash, with no debt or other equity claims. Both routes are feasible; approvals are classroom assumptions, not authorisation for an actual transaction. Protected obligations and investments are unchanged. The dividend is HK$2 per share, leaving equity worth HK$8 per share. A fair-price repurchase at HK$10 cancels 24,000 shares, leaving 96,000 worth HK$10 each. The premium price of HK$12 cancels 20,000, leaving 100,000 worth HK$9.60 each. Sellers gain HK$40,000 and continuing holders lose HK$40,000; aggregate original-shareholder wealth remains HK$1,200,000. Asha's 1,200 shares produce total wealth of HK$12,000 under the dividend, including HK$2,400 cash; HK$12,000 under the fair-price repurchase; and HK$11,520 under the premium repurchase. Participation is stipulated voluntary and informed, not an equilibrium prediction. There is no signalling, control premium, new information, intervening income or cash movement. Fair value is supplied, not estimated; sources establish neither the fictional valuation nor legal eligibility.",
+  "sources": [
+    [
+      "https://www.cfainstitute.org/insights/professional-learning/refresher-readings/2026/analysis-of-dividends-and-share-repurchases",
+      "CFA Institute · Analysis of Dividends and Share Repurchases",
+      "Substantive public curriculum summary explains payout forms, ownership changes and equal-total-wealth comparison, all else equal. The gated full curriculum was not used. Book-value statements are not substituted for the case’s supplied fair values."
+    ],
+    [
+      "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/how-share-repurchases-boost-earnings-without-improving-returns",
+      "McKinsey · How share repurchases boost earnings without improving returns · 2016",
+      "Authors’ own analytical article compares dividend and repurchase distributions and warns against interpreting mechanical EPS changes as value creation. Its empirical claims and numerical examples are not imported."
+    ],
+    [
+      "https://berkshirehathaway.com/letters/1999htm.html",
+      "Berkshire Hathaway · Chairman’s letter · 1999 · Share repurchases",
+      "Original shareholder letter distinguishes price from intrinsic value and discusses the cost of overpayment to continuing owners. Historical managerial judgment, not a universal legal rule, valuation estimate or recommendation concerning Berkshire."
+    ],
+    [
+      "https://pages.stern.nyu.edu/~adamodar/pdfiles/acf3E/book/ch11.pdf",
+      "Aswath Damodaran, NYU · Analysing Cash Returned to Stockholders · Chapter 11",
+      "Author-hosted teaching chapter explains cash depletion, cancelled shares and selective cash receipt. Its illustrative market-price movement is not assumed here; the case explicitly fixes operating value and isolates payout arithmetic."
+    ],
+    [
+      "https://www.accaglobal.com/gb/en/student/exam-support-resources/fundamentals-exams-study-resources/f9/technical-articles/dividend-theory.html",
+      "ACCA · Dividend theory",
+      "Original professional-body teaching discussion separates idealised theory from information, tax, liquidity, transaction-cost and covenant considerations. No foreign legal constraint or reinvestment example is transplanted."
+    ]
+  ],
+  "slides": [
+    [
+      "Payout form and value allocation",
+      "<p>A cash dividend and a share repurchase both move cash from a company to shareholders. They do not automatically create operating value. In a simplified fair-value model, the payout form changes who receives cash and how many shares remain. Paying above fair value can also transfer wealth between shareholders.</p>"
+    ],
+    [
+      "Two payout routes",
+      "<p></p>"
+    ],
+    [
+      "An idealised payout exercise",
+      "<p>Fictional Hong Kong company Harbour Instruments has 120,000 identical ordinary shares and no debt or other equity claims. Its supplied total equity fair value immediately before payout is HK$1,200,000: HK$960,000 operating value plus HK$240,000 surplus cash. Thus each share initially represents HK$10. This is a classroom valuation assumption, not an observed quotation.</p>"
+    ],
+    [
+      "The same cash leaves",
+      "<p>Compare D: distribute all HK$240,000 as an equal cash dividend, with R: use exactly HK$240,000 to repurchase and cancel shares at the initial HK$10 fair value. No new shares are issued. The operating business and its investment programme remain unchanged; all necessary obligations, reserves and investment funding are protected.</p>"
+    ],
+    [
+      "What the model excludes",
+      "<p>Assume no taxes, transaction costs, financing costs, signalling, control premium or information differences. Both payout routes are feasible and their required approvals are supplied for this hypothetical comparison. No real transaction is authorised. All values refer to the immediate payout instant, with no intervening earnings, market changes or cash flows.</p>"
+    ],
+    [
+      "Who sells matters",
+      "<p>Under R, enough owners voluntarily sell exactly the number of shares the stated cash budget buys; the remaining owners keep their shares. Participation is stipulated, not an auction or prediction of investor behaviour. Each surrendered share is cancelled. Under D, nobody sells and all outstanding shares receive the same dividend.</p>"
+    ],
+    [
+      "Track a continuing owner",
+      "<p>Asha owns 1,200 shares and does not sell any in either repurchase scenario. Compare her immediate cash plus remaining share value, as well as the combined wealth of all original shareholders. A higher percentage ownership alone does not establish a gain: the company also gives up cash.</p>"
+    ],
+    [
+      "Given values",
+      "<table><caption>Supplied immediate values</caption><thead><tr><th>Item</th><th>Given</th></tr></thead><tbody><tr><td>Initial shares</td><td>120,000</td></tr><tr><td>Operating value</td><td>HK$960,000</td></tr><tr><td>Surplus cash / payout</td><td>HK$240,000</td></tr><tr><td>Initial equity fair value</td><td>HK$1,200,000</td></tr><tr><td>Initial fair value per share</td><td>HK$10</td></tr><tr><td>Asha’s unchanged holding</td><td>1,200 shares</td></tr></tbody></table>"
+    ],
+    [
+      "First decision",
+      "<p>At HK$10 per repurchased share, calculate the dividend per share, shares cancelled, remaining shares and post-payout value per share under each route. Does either form make Asha or all original shareholders richer in this model?</p>"
+    ],
+    [
+      "A premium proposal",
+      "<p>The repurchase proposal changes to HK$12 per share, while its total cash budget stays HK$240,000. Enough willing owners tender exactly 20,000 shares, all of which are cancelled. Asha still keeps all her shares. The supplied pre-payout fair value remains HK$10 per share; the higher offer supplies no new operating information.</p>"
+    ],
+    [
+      "No change in operating value",
+      "<p>The operating business is still worth HK$960,000 after either payout. The offer price is not evidence that every share is now worth HK$12. The classroom assumptions about feasibility, informed voluntary participation, taxes and costs remain unchanged. The dividend alternative still distributes the same HK$240,000 to all shares.</p>"
+    ],
+    [
+      "Second decision",
+      "<p>Does the premium repurchase create value, or transfer it? Calculate the remaining share value, Asha’s wealth and the aggregate gain or loss of sellers and continuing holders relative to their pre-payout holdings. Would you describe this as equally beneficial to every owner?</p>"
+    ],
+    [
+      "Debrief · Dividend cash is not extra value",
+      "<p>D pays HK$240,000 ÷ 120,000 = HK$2 per share. The company retains HK$960,000 of operating value across the same 120,000 shares, so each is worth HK$8. Asha receives HK$2,400 and retains shares worth HK$9,600: total HK$12,000, exactly her starting wealth.</p>"
+    ],
+    [
+      "Debrief · Dividend cash is not extra value · continued",
+      "<p>All original shareholders together hold HK$960,000 of remaining equity plus HK$240,000 received cash: HK$1,200,000. Counting the dividend while keeping the old HK$10 share value would count the distributed cash twice. This is an immediate model comparison, not a prediction of actual ex-dividend market prices.</p>"
+    ],
+    [
+      "Debrief · Fair-value repurchase",
+      "<p>R at HK$10 cancels 240,000 ÷ 10 = 24,000 shares, leaving 96,000. Remaining equity is HK$960,000, so each remaining share is worth HK$10. Asha receives no cash, but her 1,200 shares are still worth HK$12,000. Her ownership rises from 1% to 1.25% without increasing her wealth.</p>"
+    ],
+    [
+      "Debrief · Fair-value repurchase · continued",
+      "<p>The sellers receive HK$240,000 for holdings previously worth HK$240,000. Continuing holders retain HK$960,000, their prior holdings’ value. Combined wealth is unchanged. Compared with D, the distribution of cash and remaining shares differs; payout form alone has not generated additional operating value.</p>"
+    ],
+    [
+      "Debrief · Price changes the allocation",
+      "<p>At HK$12, the same budget cancels only 20,000 shares. There are 100,000 remaining shares, dividing HK$960,000: HK$9.60 each. Asha now holds HK$11,520 and receives no cash. She loses HK$480 relative to her starting HK$12,000, although her ownership percentage rises from 1% to 1.2%.</p>"
+    ],
+    [
+      "Debrief · Price changes the allocation · continued",
+      "<p>The selling group’s 20,000 shares were worth HK$200,000 before payout; it receives HK$240,000, gaining HK$40,000. The continuing group’s 100,000 shares were worth HK$1,000,000 and are now worth HK$960,000, losing HK$40,000. These amounts reconcile exactly: the premium redistributes value rather than creating it.</p>"
+    ],
+    [
+      "Debrief · Keep the whole group visible",
+      "<p>After the premium repurchase, sellers’ HK$240,000 plus continuing holders’ HK$960,000 still equals HK$1,200,000. Aggregate invariance does not mean every individual is indifferent. Asha and the continuing group prefer the dividend or fair-value repurchase to the premium proposal under these supplied wealth comparisons.</p>"
+    ],
+    [
+      "Debrief · Keep the whole group visible · continued",
+      "<p>The premium above initial fair value is HK$2 on 20,000 cancelled shares: HK$40,000. Spread across 100,000 remaining shares, that is HK$0.40 lost per share. Do not multiply the premium by the initial 24,000-share fair-price purchase quantity: the fixed budget buys fewer shares at HK$12.</p>"
+    ],
+    [
+      "Debrief · A model, not a trading instruction",
+      "<p>Report that the premium proposal is not equally beneficial to all owners. Do not claim that every repurchase destroys value or that every dividend creates it. At the supplied fair price, neither route changes anyone’s immediate wealth; above that price, sellers gain at the continuing group’s expense.</p>"
+    ],
+    [
+      "Debrief · A model, not a trading instruction · continued",
+      "<p>Real decisions require valuation uncertainty, funding needs, investor taxes, transaction costs, disclosure, governance and applicable approval rules to be examined. None is solved by this arithmetic. The stipulated fair value and participation deliberately isolate a transfer mechanism; they are not a market-equilibrium forecast or permission to execute a repurchase.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>First draw two boxes: company equity remaining and cash paid to original owners. Then split owners into sellers and continuing holders. Keep the original cohort fixed when adding total wealth, and keep the HK$240,000 budget fixed when changing the repurchase price.</p>"
+    ],
+    [
+      "Instructor note · continued",
+      "<p>FIN-20 asks whether a payout is affordable across a seasonal cash trough. This exercise supplies affordability and examines value allocation. FIN-33 bridges operating value, eligible cash and debt to a sale price; here there is no sale of the whole business, debt adjustment or restricted deposit.</p>"
+    ]
+  ]
+}

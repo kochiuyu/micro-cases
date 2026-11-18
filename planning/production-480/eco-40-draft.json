@@ -1,0 +1,176 @@
+{
+  "number": 479,
+  "code": "ECO-40",
+  "slug": "same-average-different-risk-choice",
+  "title": "The same expected payoff. The same choice?",
+  "discipline": "Economics, competition and pricing",
+  "topics": [
+    "Expected utility",
+    "Risk preferences",
+    "Certainty equivalents"
+  ],
+  "teaser": "Two members understand the same odds. Their preferences still point to different choices.",
+  "alt": "Two adult members and a club coordinator compare blank activity-credit cards beside craft materials in a bright workshop, with two neutral option folders and no winning result, cash or betting equipment.",
+  "location": "Hong Kong",
+  "duration": "15–20 minutes",
+  "news_heading": "An average is not a preference",
+  "news": "<p>Two options can have identical expected quantities but different appeal. Expected utility applies probabilities to how a person values each possible outcome, rather than assuming every extra unit is equally valuable. This theoretical comparison uses explicit fictional preferences; it does not diagnose anyone’s personality or recommend a financial product.</p>",
+  "opening": "<p>A fictional Hong Kong adult workshop club is discussing a one-off, free allocation of activity credits. Credits pay only for optional club craft sessions. They cannot be bought, sold, transferred or converted into money. Basic membership, existing bookings, accessibility and essential services are unaffected. Nobody stakes money or previously owned credits.</p><p>Each member may choose G: receive 50 credits for certain, or L: receive 100 credits with probability 50% and zero credits with probability 50%. This is a hypothetical classroom allocation, not a sold gambling product or an actual draw. All outcomes are funded; neither choice changes any other member’s allocation.</p><p>Members fully understand the known probabilities and choose before the outcome is revealed. They begin with zero credits for this allocation, so outcomes are final credit balances, not additions to an unspecified balance. Credits arrive together, have identical use conditions and face no hidden charges or shortages of available activities.</p><p>For the exercise, Ada chooses the option with higher expected utility. The table supplies her expected-utility function over final credits, not merely an ordinal ranking. Utility units are preference-model numbers, not dollars or measured happiness. Between listed balances, use straight-line interpolation; the function is strictly increasing throughout the zero-to-100 range.</p><p>Expected credits equal the probability-weighted average of credit outcomes. Expected utility instead averages their utility values. A certainty equivalent is the guaranteed credit balance whose utility equals the lottery’s expected utility. It is a hypothetical indifference amount, not an additional offer or a payment to participate.</p>",
+  "exhibit": "<table><caption>Ada’s supplied utility schedule</caption><thead><tr><th>Final credits</th><th>Ada’s utility</th></tr></thead><tbody><tr><td>0</td><td>0</td></tr><tr><td>25</td><td>5</td></tr><tr><td>50</td><td>7</td></tr><tr><td>75</td><td>9</td></tr><tr><td>100</td><td>10</td></tr></tbody></table>",
+  "exhibit_md": "| Final credits | Ada’s utility |\n| --- | --- |\n| 0 | 0 |\n| 25 | 5 |\n| 50 | 7 |\n| 75 | 9 |\n| 100 | 10 |",
+  "q1": "Which offer does Ada prefer under the supplied schedule? Calculate expected credits for G and L, then compare her utility from G with her expected utility from L. Find L’s certainty equivalent for Ada.",
+  "round2": "<p>Ben understands exactly the same probabilities and faces the same two offers. His expected-utility function is supplied below, again with straight-line interpolation between balances. Nothing about the allocation, initial balance or activity conditions changes. His different preferences are a new assumption, not evidence that he misunderstands the chance of zero.</p><p>Ben’s utility is 0 at zero credits, 1 at 25 credits, 3 at 50 credits, 5 at 75 credits and 10 at 100 credits. These numbers describe only his preferences for this modelled allocation; they are not a general risk score or a comparison of his welfare with Ada’s.</p>",
+  "q2": "Which offer does Ben prefer, and what is his certainty equivalent for L? Explain why two equally informed members can choose differently despite identical expected credits. What would a member with utility equal to credits choose?",
+  "sections": [
+    [
+      "Debrief · Expected credits do not settle preference",
+      "<p>G gives 50 credits with certainty. L has expected credits 0.50 × 100 + 0.50 × 0 = 50. But L actually delivers either zero or 100, never 50. Equality of expected quantities does not turn an uncertain allocation into a guaranteed one.</p><p>Ada’s utility from G is 7. Her expected utility from L is 0.50 × 10 + 0.50 × 0 = 5. Since 7 exceeds 5, she prefers G. Looking up the utility of the expected 50 credits would answer the wrong question about L.</p>"
+    ],
+    [
+      "Debrief · Ada’s certainty equivalent",
+      "<p>Ada assigns utility 5 to 25 credits. Therefore, her certainty equivalent for L is 25 credits: she is indifferent between that hypothetical guaranteed balance and L. The actual G offer provides 50, which is above her certainty equivalent and gives higher utility.</p><p>Ada’s schedule is concave over the stated range: the utility increments for each extra 25 credits are 5, 2, 2 and 1. She prefers this lottery’s expected balance for sure, illustrating risk aversion. The model does not imply that she dislikes every kind of uncertainty in life.</p>"
+    ],
+    [
+      "Debrief · Ben’s different choice",
+      "<p>Ben’s utility from G is 3, while his expected utility from L is 0.50 × 10 + 0.50 × 0 = 5. He therefore prefers L. His utility is 5 at 75 credits, making his certainty equivalent 75, above the lottery’s expected 50 credits.</p><p>Ben’s utility increments for each extra 25 credits are 1, 2, 2 and 5. His schedule is convex over the stated range, and he prefers this uncertainty to the guaranteed expected balance. That is a risk-preferring choice in this model, not a recommendation to purchase a lottery or take financial risks.</p>"
+    ],
+    [
+      "Debrief · A neutral benchmark",
+      "<p>A third hypothetical member with utility u(c) = c has utility 50 from G and expected utility 50 from L. That member is indifferent and has certainty equivalent 50. Ada’s 25, the neutral member’s 50 and Ben’s 75 are all credit quantities, unlike their utility scores.</p><p>The definition uses each person’s own preference function. Ada and Ben both have expected utility 5 from L in our chosen normalisations, but this does not mean they experience the same welfare. Utility scales are not interpersonal measuring instruments, and adding their scores would not establish a socially best allocation.</p>"
+    ],
+    [
+      "Debrief · Preferences are not probability errors",
+      "<p>Both members know that L can produce zero and that each outcome has probability 50%. Their disagreement comes from the supplied utility schedules, not optimism, hidden information, different initial balances or an effort choice that changes the probabilities. Respecting that distinction prevents calling every non-average-maximising choice a calculation mistake.</p><p>Expected utility is the exercise’s modelling assumption. Real choices may depend on context, framing, stakes and features not captured by these tables. The two schedules are invented, not estimated from a survey or an experiment. Do not infer either member’s preferences about insurance, investment, health or essential needs.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>Ask students to label every result as credits or utility units. Compute expected utility from the outcome rows first; only then look back to find a guaranteed balance with the same utility. Both certainty equivalents land exactly on listed rows, so no interpolation is needed for the answers.</p><p>FIN-01 prices a correlated event-refund promise; ECO-10 changes prevention incentives after risk is allocated. Here probabilities and behaviour are fixed, and only preferences differ. HSP-25 asks about additional local spending and supplier outflows, not expected utility. No real allocation, charge or gambling activity is carried out.</p>"
+    ]
+  ],
+  "notes": "Original fictional adult-club preference exercise, no paid chance or actual gambling activity. Free noncashable/nontransferable optional activity credits; no cash stake, purchases, essential-service effects or loss of existing rights. G50certain versusL0/100each50%; initialallocationbalance0, finalcredits. Utility functions cardinal for expected-utility model, not merely ordinal ranks; piecewise linear increasing over0–100. Ada values at0,25,50,75,100 are0,5,7,9,10; Ben0,1,3,5,10. BothLexpectedutility5, but no interpersonal welfare comparison. AdaGutility7prefersG,CE25; BenGutility3prefersL,CE75; linearu(c)=c indifferent,CE50. Expectedcredits50both. Ada increments5,2,2,1 concave; Ben1,2,2,5 convex, weak curvature includes linear segments. Both informed, no ambiguity, effort, hiddeninformation, differinginitialwealth or product recommendation. Sources provide theory and methodological limitations, not measured preferences of fictional people.",
+  "sources": [
+    [
+      "https://www.econgraphs.org/courses/stanford/econ50/lecture12",
+      "Christopher Makler · Uncertainty and Risk · EconGraphs teaching material",
+      "Author’s substantive teaching page defines expected utility, risk attitudes and certainty equivalents. The page labels itself work in progress; its formulas were checked independently. Game-show details and numerical examples are not adopted."
+    ],
+    [
+      "https://gpennacc.web.illinois.edu/TAP_Aug2020_PartI.pdf",
+      "George Pennacchi · Theory of Asset Pricing · Part I · Chapter 1",
+      "Author-hosted theoretical chapter explains expected-utility representation and its assumptions, including independence and documented challenges. It supports treating expected utility as a specified model rather than a universal description of behaviour."
+    ],
+    [
+      "https://econweb.ucsd.edu/~jandreon/Econ264/papers/Holt%20Laury%20AER%202002.pdf",
+      "Charles Holt and Susan Laury · Risk Aversion and Incentive Effects · 2002",
+      "Original experimental article, available as a university-hosted scan, compares risky choices under real and hypothetical stakes. Its substantive methods were read from the scanned pages. No experimental preference estimate is assigned to the fictional members."
+    ],
+    [
+      "https://utw11041.utweb.utexas.edu/ORMM/computation/unit/decision/utility.html",
+      "University of Texas · Operations Research Models and Methods · Utility Functions",
+      "Original teaching discussion explains averaging utilities and recovering a certainty equivalent, with concave, convex and linear examples. No software use, cash stake or paid game from its examples is required here."
+    ],
+    [
+      "https://assets.press.princeton.edu/chapters/s10_8595.pdf",
+      "Michael Wickens · Macroeconomic Theory · Chapter 10.2 · Expected Utility and Risk · 2008",
+      "Publisher-hosted original textbook excerpt distinguishes utility of an expected outcome from expected utility and defines risk attitudes. The asset-pricing and approximate risk-premium calculations are not imported into this finite credit example."
+    ]
+  ],
+  "slides": [
+    [
+      "An average is not a preference",
+      "<p>Two options can have identical expected quantities but different appeal. Expected utility applies probabilities to how a person values each possible outcome, rather than assuming every extra unit is equally valuable. This theoretical comparison uses explicit fictional preferences; it does not diagnose anyone’s personality or recommend a financial product.</p>"
+    ],
+    [
+      "Two optional offers",
+      "<p></p>"
+    ],
+    [
+      "An optional club allocation",
+      "<p>A fictional Hong Kong adult workshop club is discussing a one-off, free allocation of activity credits. Credits pay only for optional club craft sessions. They cannot be bought, sold, transferred or converted into money. Basic membership, existing bookings, accessibility and essential services are unaffected. Nobody stakes money or previously owned credits.</p>"
+    ],
+    [
+      "Two possible offers",
+      "<p>Each member may choose G: receive 50 credits for certain, or L: receive 100 credits with probability 50% and zero credits with probability 50%. This is a hypothetical classroom allocation, not a sold gambling product or an actual draw. All outcomes are funded; neither choice changes any other member’s allocation.</p>"
+    ],
+    [
+      "The same information",
+      "<p>Members fully understand the known probabilities and choose before the outcome is revealed. They begin with zero credits for this allocation, so outcomes are final credit balances, not additions to an unspecified balance. Credits arrive together, have identical use conditions and face no hidden charges or shortages of available activities.</p>"
+    ],
+    [
+      "Ada’s supplied preferences",
+      "<p>For the exercise, Ada chooses the option with higher expected utility. The table supplies her expected-utility function over final credits, not merely an ordinal ranking. Utility units are preference-model numbers, not dollars or measured happiness. Between listed balances, use straight-line interpolation; the function is strictly increasing throughout the zero-to-100 range.</p>"
+    ],
+    [
+      "Define the comparison",
+      "<p>Expected credits equal the probability-weighted average of credit outcomes. Expected utility instead averages their utility values. A certainty equivalent is the guaranteed credit balance whose utility equals the lottery’s expected utility. It is a hypothetical indifference amount, not an additional offer or a payment to participate.</p>"
+    ],
+    [
+      "Ada’s preferences",
+      "<table><caption>Ada’s supplied utility schedule</caption><thead><tr><th>Final credits</th><th>Ada’s utility</th></tr></thead><tbody><tr><td>0</td><td>0</td></tr><tr><td>25</td><td>5</td></tr><tr><td>50</td><td>7</td></tr><tr><td>75</td><td>9</td></tr><tr><td>100</td><td>10</td></tr></tbody></table>"
+    ],
+    [
+      "First decision",
+      "<p>Which offer does Ada prefer under the supplied schedule? Calculate expected credits for G and L, then compare her utility from G with her expected utility from L. Find L’s certainty equivalent for Ada.</p>"
+    ],
+    [
+      "Ben values the same outcomes differently",
+      "<p>Ben understands exactly the same probabilities and faces the same two offers. His expected-utility function is supplied below, again with straight-line interpolation between balances. Nothing about the allocation, initial balance or activity conditions changes. His different preferences are a new assumption, not evidence that he misunderstands the chance of zero.</p>"
+    ],
+    [
+      "A second preference schedule",
+      "<p>Ben’s utility is 0 at zero credits, 1 at 25 credits, 3 at 50 credits, 5 at 75 credits and 10 at 100 credits. These numbers describe only his preferences for this modelled allocation; they are not a general risk score or a comparison of his welfare with Ada’s.</p>"
+    ],
+    [
+      "Second decision",
+      "<p>Which offer does Ben prefer, and what is his certainty equivalent for L? Explain why two equally informed members can choose differently despite identical expected credits. What would a member with utility equal to credits choose?</p>"
+    ],
+    [
+      "Debrief · Expected credits do not settle preference",
+      "<p>G gives 50 credits with certainty. L has expected credits 0.50 × 100 + 0.50 × 0 = 50. But L actually delivers either zero or 100, never 50. Equality of expected quantities does not turn an uncertain allocation into a guaranteed one.</p>"
+    ],
+    [
+      "Debrief · Expected credits do not settle preference · continued",
+      "<p>Ada’s utility from G is 7. Her expected utility from L is 0.50 × 10 + 0.50 × 0 = 5. Since 7 exceeds 5, she prefers G. Looking up the utility of the expected 50 credits would answer the wrong question about L.</p>"
+    ],
+    [
+      "Debrief · Ada’s certainty equivalent",
+      "<p>Ada assigns utility 5 to 25 credits. Therefore, her certainty equivalent for L is 25 credits: she is indifferent between that hypothetical guaranteed balance and L. The actual G offer provides 50, which is above her certainty equivalent and gives higher utility.</p>"
+    ],
+    [
+      "Debrief · Ada’s certainty equivalent · continued",
+      "<p>Ada’s schedule is concave over the stated range: the utility increments for each extra 25 credits are 5, 2, 2 and 1. She prefers this lottery’s expected balance for sure, illustrating risk aversion. The model does not imply that she dislikes every kind of uncertainty in life.</p>"
+    ],
+    [
+      "Debrief · Ben’s different choice",
+      "<p>Ben’s utility from G is 3, while his expected utility from L is 0.50 × 10 + 0.50 × 0 = 5. He therefore prefers L. His utility is 5 at 75 credits, making his certainty equivalent 75, above the lottery’s expected 50 credits.</p>"
+    ],
+    [
+      "Debrief · Ben’s different choice · continued",
+      "<p>Ben’s utility increments for each extra 25 credits are 1, 2, 2 and 5. His schedule is convex over the stated range, and he prefers this uncertainty to the guaranteed expected balance. That is a risk-preferring choice in this model, not a recommendation to purchase a lottery or take financial risks.</p>"
+    ],
+    [
+      "Debrief · A neutral benchmark",
+      "<p>A third hypothetical member with utility u(c) = c has utility 50 from G and expected utility 50 from L. That member is indifferent and has certainty equivalent 50. Ada’s 25, the neutral member’s 50 and Ben’s 75 are all credit quantities, unlike their utility scores.</p>"
+    ],
+    [
+      "Debrief · A neutral benchmark · continued",
+      "<p>The definition uses each person’s own preference function. Ada and Ben both have expected utility 5 from L in our chosen normalisations, but this does not mean they experience the same welfare. Utility scales are not interpersonal measuring instruments, and adding their scores would not establish a socially best allocation.</p>"
+    ],
+    [
+      "Debrief · Preferences are not probability errors",
+      "<p>Both members know that L can produce zero and that each outcome has probability 50%. Their disagreement comes from the supplied utility schedules, not optimism, hidden information, different initial balances or an effort choice that changes the probabilities. Respecting that distinction prevents calling every non-average-maximising choice a calculation mistake.</p>"
+    ],
+    [
+      "Debrief · Preferences are not probability errors · continued",
+      "<p>Expected utility is the exercise’s modelling assumption. Real choices may depend on context, framing, stakes and features not captured by these tables. The two schedules are invented, not estimated from a survey or an experiment. Do not infer either member’s preferences about insurance, investment, health or essential needs.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>Ask students to label every result as credits or utility units. Compute expected utility from the outcome rows first; only then look back to find a guaranteed balance with the same utility. Both certainty equivalents land exactly on listed rows, so no interpolation is needed for the answers.</p>"
+    ],
+    [
+      "Instructor note · continued",
+      "<p>FIN-01 prices a correlated event-refund promise; ECO-10 changes prevention incentives after risk is allocated. Here probabilities and behaviour are fixed, and only preferences differ. HSP-25 asks about additional local spending and supplier outflows, not expected utility. No real allocation, charge or gambling activity is carried out.</p>"
+    ]
+  ]
+}

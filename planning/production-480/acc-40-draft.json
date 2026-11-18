@@ -1,0 +1,160 @@
+{
+  "number": 469,
+  "code": "ACC-40",
+  "slug": "reassuring-reply-evidence-from-whom",
+  "title": "A reassuring reply. Evidence from whom?",
+  "discipline": "Accounting, audit and management control",
+  "topics": [
+    "External confirmation",
+    "Evidence provenance",
+    "Invoice-level reconciliation"
+  ],
+  "teaser": "A customer payment is real, but which year-end invoice does it support? A forwarded reply and a controlled direct response need different evaluation.",
+  "alt": "Two adult audit colleagues compare plain customer correspondence folders and a blank invoice ledger in a bright Hong Kong office, without readable balances or an allegation of wrongdoing.",
+  "location": "Hong Kong",
+  "duration": "15–20 minutes",
+  "news_heading": "A reply is not the end of the evidence trail",
+  "notes": "All entities, invoices, correspondence and amounts are fictional. The selected customer's 31 December balance comprises invoice A of HK$40,000 and invoice B of HK$60,000, totalling HK$100,000. The HK$60,000 receipt on 15 January is independently matched to B; the direct written reply accepts B but disputes A. There is no other invoice, payment or credit note. HK$40,000 remains unresolved, not a proven loss or misstatement. No automatic allowance, audit opinion or population extrapolation follows. Further necessary work is funded. Foreign standards supply conceptual comparisons, not Hong Kong compliance instructions; FRC and AUASB share ISA foundations. The HKICPA 2018 alert specifically concerns bank-confirmation platforms; only its general control principle is used.",
+  "news": "<p>External evidence needs an identifiable source and a clear connection to the item being tested. A genuine payment can corroborate one invoice without resolving another. This fictional classroom audit concerns the next evidence-gathering step, not an actual audit opinion, accusation or instruction to contact a customer.</p>",
+  "opening": "<p>A fictional Hong Kong distributor records a HK$100,000 receivable from one customer at 31 December. It consists only of invoice A for HK$40,000 and invoice B for HK$60,000. The audit team has selected this balance for investigation. Population selection and other audit work are outside this exercise.</p><p>The finance manager forwards an email apparently from the customer saying the balance looks right. The team has not authenticated its original sender, authority or complete contents. A genuine HK$60,000 receipt on 15 January has been independently checked against the bank record, but its invoice allocation has not yet been supplied.</p><p>One colleague proposes marking the full balance confirmed using the forwarded message and receipt. Another proposes keeping it open, obtaining a direct written response through the auditor’s controlled channel and matching the receipt to the invoice paid. Management permits contact, and necessary follow-up work is funded. There is no deadline requiring premature clearance.</p><p>For this exercise, a controlled confirmation means the auditor selects the information and appropriate knowledgeable respondent, verifies contact details independently, sends the request and receives the written response directly. Direct receipt improves provenance; it does not make every statement correct or prove every accounting assertion. A forwarded message is not automatically fabricated.</p>",
+  "exhibit": "<table><caption>Selected year-end balance, HK$</caption><thead><tr><th>Record</th><th>Amount</th></tr></thead><tbody><tr><td>Invoice A</td><td>40,000</td></tr><tr><td>Invoice B</td><td>60,000</td></tr><tr><td>31 December total</td><td>100,000</td></tr><tr><td>15 January receipt</td><td>60,000</td></tr></tbody></table>",
+  "exhibit_md": "| Record | Amount, HK$ |\n| --- | --- |\n| Invoice A | 40,000 |\n| Invoice B | 60,000 |\n| 31 December total | 100,000 |\n| 15 January receipt | 60,000 |",
+  "q1": "Can the full year-end balance be marked confirmed? Explain what the forwarded reply and verified receipt establish, what remains unknown, and the next controlled evidence-gathering step.",
+  "round2": "<p>The auditor now receives an authenticated written reply directly from the customer’s authorised accounts officer. The customer accepts invoice B but disputes invoice A, saying its goods were not received. The customer’s remittance advice specifically allocates the January HK$60,000 payment to B. Its amount, payer and bank entry match.</p><p>There are no other invoices, receipts, credit notes or offsets in this simplified account. Management says invoice A’s goods were delivered before year-end, but supporting delivery evidence and the contract terms have not yet been examined. The dispute remains unresolved. No evidence establishes that either party acted dishonestly.</p><p>The manager argues that receiving sixty per cent of the balance demonstrates that the whole account is sound. The reviewer must instead record what is corroborated, identify the disputed amount and specify follow-up. Any supported adjustment, valuation conclusion or audit-report implication requires further evidence and appropriate professional review.</p>",
+  "q2": "Reconcile the HK$100,000 balance to the direct reply and January receipt. Which invoice does the payment support, what amount remains disputed, and what work would distinguish a valid year-end claim from an accounting error?",
+  "sections": [
+    [
+      "Debrief · Separate provenance from agreement",
+      "<p>Keep the initial conclusion open. Management’s forwarded message may be genuine, but its route leaves source, authority and completeness unresolved. Independently verify the respondent and obtain the written response directly. Do not simply resend to an address copied from the unverified message and call that independent verification.</p><p>The direct reply is more useful evidence even though it is less reassuring. Its exception identifies the exact matter requiring investigation. Record both the reply and its provenance, rather than replacing it with management’s earlier positive summary. A response agreeing with a balance would still need evaluation in the circumstances.</p>"
+    ],
+    [
+      "Debrief · Match cash to the item paid",
+      "<p>The year-end balance is HK$40,000 + HK$60,000 = HK$100,000. The authenticated reply accepts B, and the verified HK$60,000 subsequent receipt specifically pays B. It supports that invoice rather than A. The same receipt cannot be counted again as settlement of the disputed HK$40,000.</p><p>Sixty per cent of the recorded balance has this payment corroboration; forty per cent remains disputed. Those percentages are arithmetic descriptions, not confidence levels or an estimate of misstatement. January settlement does not erase B from the historical 31 December balance: it explains a later movement.</p>"
+    ],
+    [
+      "Debrief · Investigate the exception",
+      "<p>For A, inspect the purchase order, contract terms, invoice, dispatch evidence, carrier records and customer acceptance correspondence. Check dates, quantities and the relevant delivery terms. Seek reliable external corroboration where appropriate and reconcile contradictory accounts. A supplier’s own invoice alone does not resolve whether the underlying year-end claim is valid.</p><p>The customer’s denial might reflect a delivery or timing difference, a disputed contractual obligation or an error. Do not choose a cause before examining the evidence. If a valid claim exists, recoverability still requires separate evaluation. If an error is supported, assess the appropriate correction rather than automatically calling every dispute a bad debt.</p>"
+    ],
+    [
+      "Debrief · Keep the conclusion within scope",
+      "<p>The present conclusion is limited: B has direct acknowledgement and matched subsequent payment; A remains unresolved. Neither automatic clearance nor an automatic HK$40,000 write-off is justified by the supplied facts. Preserve the exception and have the responsible reviewer determine additional work, accounting consequences and any broader risk implications.</p><p>Alternative procedures can provide relevant evidence in suitable circumstances, but they are not a universal replacement for a confirmation the auditor determines is necessary. This case has obtained a direct response with an exception. It does not establish sufficient evidence for the whole audit, a final opinion or a projection to other customers.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>Ask students to separate two questions: who supplied the evidence, and which invoice it concerns. Reveal the payment allocation only after the first response. ACC-17 designs an initial receivables selection across populations; this case holds selection fixed and evaluates provenance, exceptions and item-level corroboration. No real records or customer contact are requested.</p>"
+    ]
+  ],
+  "sources": [
+    [
+      "https://standards.auasb.gov.au/asa-505-mar-2020",
+      "AUASB · ASA 505 External Confirmations · December 2021 compilation",
+      "Official Australian text explains controlled direct responses, reliability doubts, specific subsequent receipts and investigation of exceptions. Conceptual comparison only, not Hong Kong compliance advice."
+    ],
+    [
+      "https://pcaobus.org/oversight/standards/auditing-standards/details/AS2310",
+      "PCAOB · AS 2310 The Auditor’s Use of Confirmation",
+      "Official US standard covers control of responses and, in Appendix C, matching subsequent receipts to the invoices paid. US applicability and detailed duties are not imported into this fictional exercise."
+    ],
+    [
+      "https://www.frc.org.uk/documents/8824/ISA_UK_505_Revised_October_2023_Updated_October_2025.pdf",
+      "FRC · ISA (UK) 505 · updated October 2025",
+      "Official UK text distinguishes exceptions from established misstatements and recognises limits of alternative evidence. It shares international-standard foundations with ASA 505; these are not independent empirical studies."
+    ],
+    [
+      "https://www.icaew.com/technical/audit-and-assurance/faculty-resources/implementing--isas-international/external-confirmations-in-an-isa-audit",
+      "ICAEW · External confirmations in an ISA audit",
+      "Professional body’s explanation addresses indirect replies, source verification, non-responses and exceptions. The public substantive explanation supports evidence reasoning, not a full audit programme."
+    ],
+    [
+      "https://www.hkicpa.org.hk/-/media/HKICPA-Website/New-HKICPA/Standards-and-regulation/SSD/03_Our-views/Financial-Reporting-Auditing-and-Ethics-Alert/alert28.pdf",
+      "HKICPA · Alert Issue 28: Online audit confirmation tools · December 2018",
+      "Original Hong Kong alert explains that secure, properly controlled electronic bank-confirmation processes can be acceptable. Bank-platform scope is narrower than this receivables case; only the control-versus-medium distinction is used."
+    ]
+  ],
+  "slides": [
+    [
+      "A reply is not the end of the evidence trail",
+      "<p>External evidence needs an identifiable source and a clear connection to the item being tested. A genuine payment can corroborate one invoice without resolving another. This fictional classroom audit concerns the next evidence-gathering step, not an actual audit opinion, accusation or instruction to contact a customer.</p>"
+    ],
+    [
+      "The opening decision",
+      "<p></p>"
+    ],
+    [
+      "Opening decision · 1",
+      "<p>A fictional Hong Kong distributor records a HK$100,000 receivable from one customer at 31 December. It consists only of invoice A for HK$40,000 and invoice B for HK$60,000. The audit team has selected this balance for investigation. Population selection and other audit work are outside this exercise.</p>"
+    ],
+    [
+      "Opening decision · 2",
+      "<p>The finance manager forwards an email apparently from the customer saying the balance looks right. The team has not authenticated its original sender, authority or complete contents. A genuine HK$60,000 receipt on 15 January has been independently checked against the bank record, but its invoice allocation has not yet been supplied.</p>"
+    ],
+    [
+      "Opening decision · 3",
+      "<p>One colleague proposes marking the full balance confirmed using the forwarded message and receipt. Another proposes keeping it open, obtaining a direct written response through the auditor’s controlled channel and matching the receipt to the invoice paid. Management permits contact, and necessary follow-up work is funded. There is no deadline requiring premature clearance.</p>"
+    ],
+    [
+      "Opening decision · 4",
+      "<p>For this exercise, a controlled confirmation means the auditor selects the information and appropriate knowledgeable respondent, verifies contact details independently, sends the request and receives the written response directly. Direct receipt improves provenance; it does not make every statement correct or prove every accounting assertion. A forwarded message is not automatically fabricated.</p>"
+    ],
+    [
+      "Evidence",
+      "<table><caption>Selected year-end balance, HK$</caption><thead><tr><th>Record</th><th>Amount</th></tr></thead><tbody><tr><td>Invoice A</td><td>40,000</td></tr><tr><td>Invoice B</td><td>60,000</td></tr><tr><td>31 December total</td><td>100,000</td></tr><tr><td>15 January receipt</td><td>60,000</td></tr></tbody></table>"
+    ],
+    [
+      "Your first decision",
+      "<p>Can the full year-end balance be marked confirmed? Explain what the forwarded reply and verified receipt establish, what remains unknown, and the next controlled evidence-gathering step.</p>"
+    ],
+    [
+      "Round two · 1",
+      "<p>The auditor now receives an authenticated written reply directly from the customer’s authorised accounts officer. The customer accepts invoice B but disputes invoice A, saying its goods were not received. The customer’s remittance advice specifically allocates the January HK$60,000 payment to B. Its amount, payer and bank entry match.</p>"
+    ],
+    [
+      "Round two · 2",
+      "<p>There are no other invoices, receipts, credit notes or offsets in this simplified account. Management says invoice A’s goods were delivered before year-end, but supporting delivery evidence and the contract terms have not yet been examined. The dispute remains unresolved. No evidence establishes that either party acted dishonestly.</p>"
+    ],
+    [
+      "Round two · 3",
+      "<p>The manager argues that receiving sixty per cent of the balance demonstrates that the whole account is sound. The reviewer must instead record what is corroborated, identify the disputed amount and specify follow-up. Any supported adjustment, valuation conclusion or audit-report implication requires further evidence and appropriate professional review.</p>"
+    ],
+    [
+      "Your revised decision",
+      "<p>Reconcile the HK$100,000 balance to the direct reply and January receipt. Which invoice does the payment support, what amount remains disputed, and what work would distinguish a valid year-end claim from an accounting error?</p>"
+    ],
+    [
+      "Debrief · Separate provenance from agreement · 1",
+      "<p>Keep the initial conclusion open. Management’s forwarded message may be genuine, but its route leaves source, authority and completeness unresolved. Independently verify the respondent and obtain the written response directly. Do not simply resend to an address copied from the unverified message and call that independent verification.</p>"
+    ],
+    [
+      "Debrief · Separate provenance from agreement · 2",
+      "<p>The direct reply is more useful evidence even though it is less reassuring. Its exception identifies the exact matter requiring investigation. Record both the reply and its provenance, rather than replacing it with management’s earlier positive summary. A response agreeing with a balance would still need evaluation in the circumstances.</p>"
+    ],
+    [
+      "Debrief · Match cash to the item paid · 1",
+      "<p>The year-end balance is HK$40,000 + HK$60,000 = HK$100,000. The authenticated reply accepts B, and the verified HK$60,000 subsequent receipt specifically pays B. It supports that invoice rather than A. The same receipt cannot be counted again as settlement of the disputed HK$40,000.</p>"
+    ],
+    [
+      "Debrief · Match cash to the item paid · 2",
+      "<p>Sixty per cent of the recorded balance has this payment corroboration; forty per cent remains disputed. Those percentages are arithmetic descriptions, not confidence levels or an estimate of misstatement. January settlement does not erase B from the historical 31 December balance: it explains a later movement.</p>"
+    ],
+    [
+      "Debrief · Investigate the exception · 1",
+      "<p>For A, inspect the purchase order, contract terms, invoice, dispatch evidence, carrier records and customer acceptance correspondence. Check dates, quantities and the relevant delivery terms. Seek reliable external corroboration where appropriate and reconcile contradictory accounts. A supplier’s own invoice alone does not resolve whether the underlying year-end claim is valid.</p>"
+    ],
+    [
+      "Debrief · Investigate the exception · 2",
+      "<p>The customer’s denial might reflect a delivery or timing difference, a disputed contractual obligation or an error. Do not choose a cause before examining the evidence. If a valid claim exists, recoverability still requires separate evaluation. If an error is supported, assess the appropriate correction rather than automatically calling every dispute a bad debt.</p>"
+    ],
+    [
+      "Debrief · Keep the conclusion within scope · 1",
+      "<p>The present conclusion is limited: B has direct acknowledgement and matched subsequent payment; A remains unresolved. Neither automatic clearance nor an automatic HK$40,000 write-off is justified by the supplied facts. Preserve the exception and have the responsible reviewer determine additional work, accounting consequences and any broader risk implications.</p>"
+    ],
+    [
+      "Debrief · Keep the conclusion within scope · 2",
+      "<p>Alternative procedures can provide relevant evidence in suitable circumstances, but they are not a universal replacement for a confirmation the auditor determines is necessary. This case has obtained a direct response with an exception. It does not establish sufficient evidence for the whole audit, a final opinion or a projection to other customers.</p>"
+    ],
+    [
+      "Instructor note · 1",
+      "<p>Ask students to separate two questions: who supplied the evidence, and which invoice it concerns. Reveal the payment allocation only after the first response. ACC-17 designs an initial receivables selection across populations; this case holds selection fixed and evaluates provenance, exceptions and item-level corroboration. No real records or customer contact are requested.</p>"
+    ]
+  ]
+}

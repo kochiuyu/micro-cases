@@ -220,7 +220,7 @@ def check(root=ROOT):
     # Exhaustive area/topic/time combinations grow with the catalogue; allow
     # runtime headroom without reducing assertions or the per-VM deadline.
     result = subprocess.run(['node', '-e', NODE], input=json.dumps(payload),
-                            text=True, capture_output=True, timeout=120)
+                            text=True, capture_output=True, timeout=300)
     assert result.returncode == 0, result.stdout + result.stderr
     print(result.stdout.strip())
     for target in (121, 240, 241, 360, 361, 480):
@@ -234,7 +234,7 @@ def check(root=ROOT):
             c['attrs']['data-case-id'] = str(i + 1)
             c['attrs']['data-case-code'] = c['attrs']['data-case-code'].split('-')[0] + '-' + str(31 + (i-360)//12)
             fixture['cards'].append(c)
-        result = subprocess.run(['node', '-e', NODE], input=json.dumps(fixture), text=True, capture_output=True, timeout=120)
+        result = subprocess.run(['node', '-e', NODE], input=json.dumps(fixture), text=True, capture_output=True, timeout=300)
         assert result.returncode == 0, result.stdout + result.stderr
     print('PASS: synthetic 121/240/241/360/361/480-card browse flows.')
     print(f'PASS: {len(p.cards)} cards match all 12 ledger areas, visible labels and selectors; mutations rejected.')

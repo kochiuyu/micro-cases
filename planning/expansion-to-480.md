@@ -40,7 +40,7 @@ For every case record separately: planned → researched → drafted → indepen
 
 Infrastructure supports staged growth to 480 with forty per area, snapshots all 360 existing identities, retains original fixtures, and tests 361, 480 and refusal of 481. Current site counts continue to derive from the actual registry, not planned targets.
 
-Progress is recorded in `planning/expansion-480-progress.md`; the registry is authoritative for accepted identities and `planning/collection-roadmap.md` for counts. On resumption check remote main and active workers before editing. Never publish placeholders to satisfy a wave count. Keep changes in verified batches; don't duplicate publication or user notifications.
+The case registry identifies accepted lessons, and `planning/collection-roadmap.md` records collection counts. Draft previews remain clearly labeled and outside the accepted collection until their content, sources, illustrations, presentation and publication checks pass.
 
 ## Proposed briefs
 

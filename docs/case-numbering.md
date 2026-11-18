@@ -462,3 +462,27 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 418 | SUS-35 | [pay-success-who-served.html](../pay-success-who-served.html) | Pay for success. Which clients get served? |
 | 419 | ECO-35 | [rival-output-your-best-response.html](../rival-output-your-best-response.html) | A rival adds capacity. Does your best quantity change? |
 | 420 | HSP-35 | [guest-does-work-service-easier.html](../guest-does-work-service-easier.html) | The guest does the work. Is the service easier? |
+| 421 | ACC-36 | [after-year-end-which-condition.html](../after-year-end-which-condition.html) | After year-end. Evidence about which year? |
+| 422 | FIN-36 | [cheaper-machine-service-years.html](../cheaper-machine-service-years.html) | A cheaper machine. Over how many service years? |
+| 423 | MKT-36 | [recognised-here-understood-there.html](../recognised-here-understood-there.html) | Recognised here. Understood there? |
+| 424 | OPS-36 | [project-time-specialist-time.html](../project-time-specialist-time.html) | The project has time. Does the specialist? |
+| 425 | PPL-36 | [technical-career-not-management.html](../technical-career-not-management.html) | A technical career. Must it become management? |
+| 426 | STR-36 | [the-alliances-fit.html](../the-alliances-fit.html) | The alliance works. Do the alliances fit? |
+| 427 | ENT-36 | [free-app-who-funds-users.html](../free-app-who-funds-users.html) | The app is free. Who funds the free users? |
+| 428 | IS-36 | [encrypted-here-readable-in-the-link.html](../encrypted-here-readable-in-the-link.html) | Encrypted here. Readable in the shared link? |
+| 429 | GVR-36 | [penalty-paid-customers-restored.html](../penalty-paid-customers-restored.html) | The penalty is paid. Are customers restored? |
+| 430 | SUS-36 | [restricted-gift-full-cost.html](../restricted-gift-full-cost.html) | A generous restricted gift. Enough unrestricted money? |
+| 431 | ECO-36 | [entry-cost-recoverable-after-exit.html](../entry-cost-recoverable-after-exit.html) | Many enquiries. A credible threat of entry? |
+| 432 | HSP-36 | [busy-floor-available-rooms.html](../busy-floor-available-rooms.html) | The building is busy. Are the rooms available? |
+| 433 | ACC-37 | [cash-tax-tax-expense.html](../cash-tax-tax-expense.html) | Cash tax paid. Tax expense matched? |
+| 434 | FIN-37 | [monthly-reserve-later-start.html](../monthly-reserve-later-start.html) | One large payment. A predictable monthly reserve? |
+| 435 | MKT-37 | [true-story-typical-result.html](../true-story-typical-result.html) | A true success story. A typical result? |
+| 436 | OPS-37 | [punctual-trucks-one-bay.html](../punctual-trucks-one-bay.html) | Two punctual trucks. One unloading bay. |
+| 437 | PPL-37 | [disagree-with-design-not-person.html](../disagree-with-design-not-person.html) | A useful disagreement. An escalating quarrel. |
+| 438 | STR-37 | [sell-product-rent-outcome.html](../sell-product-rent-outcome.html) | Sell the product. Rent the outcome? |
+| 439 | ENT-37 | [working-sensor-regulated-pathway.html](../working-sensor-regulated-pathway.html) | The demonstration works. The regulated pathway is longer. |
+| 440 | IS-37 | [current-model-yesterdays-decision.html](../current-model-yesterdays-decision.html) | Correct today. Which version decided yesterday? |
+| 441 | GVR-37 | [majority-support-class-consent.html](../majority-support-class-consent.html) | Most owners agreed. Which consent was required? |
+| 442 | SUS-37 | [which-weights-made-it-better.html](../which-weights-made-it-better.html) | Better results. Which weights made them better? |
+| 443 | ECO-37 | [another-cafe-choice-duplicated-cost.html](../another-cafe-choice-duplicated-cost.html) | One more café. More choice or duplicated cost? |
+| 444 | HSP-37 | [full-programme-complete-journey.html](../full-programme-complete-journey.html) | A full programme. A complete guest journey? |

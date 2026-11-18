@@ -3002,6 +3002,174 @@
       "slug": "guest-does-work-service-easier",
       "area": "Hospitality, tourism, property and service management",
       "title": "The guest does the work. Is the service easier?"
+    },
+    {
+      "legacy_id": 421,
+      "code": "ACC-36",
+      "slug": "after-year-end-which-condition",
+      "area": "Accounting, audit and management control",
+      "title": "After year-end. Evidence about which year?"
+    },
+    {
+      "legacy_id": 422,
+      "code": "FIN-36",
+      "slug": "cheaper-machine-service-years",
+      "area": "Finance, banking and insurance",
+      "title": "A cheaper machine. Over how many service years?"
+    },
+    {
+      "legacy_id": 423,
+      "code": "MKT-36",
+      "slug": "recognised-here-understood-there",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "Recognised here. Understood there?"
+    },
+    {
+      "legacy_id": 424,
+      "code": "OPS-36",
+      "slug": "project-time-specialist-time",
+      "area": "Operations, supply chains and logistics",
+      "title": "The project has time. Does the specialist?"
+    },
+    {
+      "legacy_id": 425,
+      "code": "PPL-36",
+      "slug": "technical-career-not-management",
+      "area": "People, leadership and organisational behaviour",
+      "title": "A technical career. Must it become management?"
+    },
+    {
+      "legacy_id": 426,
+      "code": "STR-36",
+      "slug": "the-alliances-fit",
+      "area": "Strategy and international business",
+      "title": "The alliance works. Do the alliances fit?"
+    },
+    {
+      "legacy_id": 427,
+      "code": "ENT-36",
+      "slug": "free-app-who-funds-users",
+      "area": "Entrepreneurship, innovation and family business",
+      "title": "The app is free. Who funds the free users?"
+    },
+    {
+      "legacy_id": 428,
+      "code": "IS-36",
+      "slug": "encrypted-here-readable-in-the-link",
+      "area": "Information systems, AI and business analytics",
+      "title": "Encrypted here. Readable in the shared link?"
+    },
+    {
+      "legacy_id": 429,
+      "code": "GVR-36",
+      "slug": "penalty-paid-customers-restored",
+      "area": "Governance, law, ethics and risk",
+      "title": "The penalty is paid. Are customers restored?"
+    },
+    {
+      "legacy_id": 430,
+      "code": "SUS-36",
+      "slug": "restricted-gift-full-cost",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "A generous restricted gift. Enough unrestricted money?"
+    },
+    {
+      "legacy_id": 431,
+      "code": "ECO-36",
+      "slug": "entry-cost-recoverable-after-exit",
+      "area": "Economics, competition and pricing",
+      "title": "Many enquiries. A credible threat of entry?"
+    },
+    {
+      "legacy_id": 432,
+      "code": "HSP-36",
+      "slug": "busy-floor-available-rooms",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "The building is busy. Are the rooms available?"
+    },
+    {
+      "legacy_id": 433,
+      "code": "ACC-37",
+      "slug": "cash-tax-tax-expense",
+      "area": "Accounting, audit and management control",
+      "title": "Cash tax paid. Tax expense matched?"
+    },
+    {
+      "legacy_id": 434,
+      "code": "FIN-37",
+      "slug": "monthly-reserve-later-start",
+      "area": "Finance, banking and insurance",
+      "title": "One large payment. A predictable monthly reserve?"
+    },
+    {
+      "legacy_id": 435,
+      "code": "MKT-37",
+      "slug": "true-story-typical-result",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "A true success story. A typical result?"
+    },
+    {
+      "legacy_id": 436,
+      "code": "OPS-37",
+      "slug": "punctual-trucks-one-bay",
+      "area": "Operations, supply chains and logistics",
+      "title": "Two punctual trucks. One unloading bay."
+    },
+    {
+      "legacy_id": 437,
+      "code": "PPL-37",
+      "slug": "disagree-with-design-not-person",
+      "area": "People, leadership and organisational behaviour",
+      "title": "A useful disagreement. An escalating quarrel."
+    },
+    {
+      "legacy_id": 438,
+      "code": "STR-37",
+      "slug": "sell-product-rent-outcome",
+      "area": "Strategy and international business",
+      "title": "Sell the product. Rent the outcome?"
+    },
+    {
+      "legacy_id": 439,
+      "code": "ENT-37",
+      "slug": "working-sensor-regulated-pathway",
+      "area": "Entrepreneurship, innovation and family business",
+      "title": "The demonstration works. The regulated pathway is longer."
+    },
+    {
+      "legacy_id": 440,
+      "code": "IS-37",
+      "slug": "current-model-yesterdays-decision",
+      "area": "Information systems, AI and business analytics",
+      "title": "Correct today. Which version decided yesterday?"
+    },
+    {
+      "legacy_id": 441,
+      "code": "GVR-37",
+      "slug": "majority-support-class-consent",
+      "area": "Governance, law, ethics and risk",
+      "title": "Most owners agreed. Which consent was required?"
+    },
+    {
+      "legacy_id": 442,
+      "code": "SUS-37",
+      "slug": "which-weights-made-it-better",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "Better results. Which weights made them better?"
+    },
+    {
+      "legacy_id": 443,
+      "code": "ECO-37",
+      "slug": "another-cafe-choice-duplicated-cost",
+      "area": "Economics, competition and pricing",
+      "title": "One more café. More choice or duplicated cost?"
+    },
+    {
+      "legacy_id": 444,
+      "code": "HSP-37",
+      "slug": "full-programme-complete-journey",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "A full programme. A complete guest journey?"
     }
   ]
 }

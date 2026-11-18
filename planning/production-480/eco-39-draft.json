@@ -1,0 +1,204 @@
+{
+  "number": 467,
+  "code": "ECO-39",
+  "slug": "rebate-before-the-baseline",
+  "title": "A larger rebate. A smaller reason to save?",
+  "discipline": "Economics, competition and pricing",
+  "topics": [
+    "Baseline incentives",
+    "Additionality",
+    "Policy design"
+  ],
+  "teaser": "A reward for cutting use can make earlier savings count against eligibility. Compare the whole timeline.",
+  "alt": "Two adult cooperative residents and a programme planner compare blank period cards and a simple electricity monitor in a comfortable community room, with normal safe lighting and no visible rebate result or meter figures.",
+  "location": "Hong Kong",
+  "duration": "15–20 minutes",
+  "news_heading": "The benchmark can change the behaviour",
+  "news": "<p>A rebate needs a comparison rule, but that rule can change behaviour before the comparison period ends. Historical consumption is not automatically an unaffected benchmark. Programme designers must distinguish rewarding a measured reduction from causing an additional reduction, while respecting differences in households’ legitimate needs.</p>",
+  "opening": "<p>A fictional Hong Kong building cooperative is designing a voluntary two-period electricity programme for ten adult households. No rule has been announced or accepted. A sponsor provides up to HK$1,000 for rebates; administration is separately funded. Each household can receive at most HK$100. Existing electricity access, tariffs and essential services remain unchanged.</p><p>Rule C pays a fixed HK$100 after period 2 only if that household’s period-2 use is no more than 90% of its own period-1 use. Period 1 would occur after the rule is announced. Rule U pays every enrolled household HK$100 after period 2, regardless of its usage change.</p><p>The planner initially assumes the illustrative household will use 100 kWh in period 1 and 80 kWh in period 2 under either rule. Both periods have the same duration, occupancy, weather and required comfort. These are fictional scenario values, not measured outcomes or a claim that every household has the same needs.</p><p>Electricity costs HK$2 per kWh with no changing fixed charges. A safe energy-saving routine allows this household to use 80 rather than 100 kWh in a period without reducing required service. Maintaining the routine entails effort the household values at HK$10 per period; this is a private effort cost, not a fee paid to the cooperative.</p><p>The cooperative wants lower total electricity use across both periods, a transparent affordable scheme and fair access. It has no evidence yet that a conditional rebate creates extra savings. Compare C with U, asking whether the proposed period-1 baseline will really remain unchanged when residents know the rule.</p>",
+  "exhibit": "<table><caption>Proposed rules before launch</caption><thead><tr><th>Item</th><th>Given</th></tr></thead><tbody><tr><td>C · Conditional</td><td>HK$100 if period 2 is at most 90% of period 1</td></tr><tr><td>U · Uniform</td><td>HK$100 for every enrolled household</td></tr><tr><td>Initial scenario</td><td>100 kWh then 80 kWh</td></tr><tr><td>Tariff</td><td>HK$2 per kWh</td></tr><tr><td>Routine effort cost</td><td>HK$10 per period used</td></tr></tbody></table>",
+  "exhibit_md": "| Item | Given |\n| --- | --- |\n| C · Conditional | HK$100 if period 2 is at most 90% of period 1 |\n| U · Uniform | HK$100 for every enrolled household |\n| Initial scenario | 100 kWh then 80 kWh |\n| Tariff | HK$2 per kWh |\n| Routine effort cost | HK$10 per period used |",
+  "q1": "Under the planner’s initial 100-then-80 scenario, what is C’s eligibility threshold and rebate? How does its payment compare with U? Would you accept the baseline assumption before announcing the programme, and what behaviour must the design review examine?",
+  "round2": "<p>The household knows either rule before period 1 and can start the routine immediately. Compare E: start early, using 80 kWh in both periods; with L: delay, using 100 in period 1 and 80 in period 2. Both preserve the same required comfort. The routine is used in period 2 under either compared plan.</p><p>Under C, E makes the measured baseline 80 kWh, whereas L makes it 100 kWh. There is no other rebate, penalty, reputation effect or financial difference between these two plans. For the incentive calculation, the household compares electricity bills plus its stated effort cost minus the rebate. This benchmark is not a prediction of everyone’s choices.</p><p>Before launch, the cooperative also identifies an authentic, comparable record of 100 kWh from before the programme was contemplated. For this household, a redesigned rule H could fix that record as the baseline and never update it from period 1. It would use the same 90% threshold and HK$100 rebate.</p><p>For this worked household, the earlier record matches relevant conditions and cannot be altered now. For others, weather, occupancy, necessary equipment and already-low use may differ. Any programme-wide historical or independent benchmark needs a justified adjustment and appeal process, voluntary authorised data use and clear terms before participation, not retrospective changes.</p>",
+  "q2": "For E and L, calculate total kWh and private cost under C and U. Which plan does each rule financially favour in this comparison? Test H using the frozen record. Explain why removing the incentive to delay does not itself prove additional programme savings or fairness for every household.",
+  "sections": [
+    [
+      "Debrief · The initial arithmetic is not the problem",
+      "<p>With a period-1 baseline of 100 kWh, C’s threshold is 90 kWh. Period-2 use of 80 qualifies for HK$100, just as U pays HK$100. The arithmetic is correct conditional on that baseline. The weak assumption is treating an upcoming measurement as unaffected by the announced payment rule.</p><p>The ten-household rebate exposure is at most 10 × HK$100 = HK$1,000 under C or H. U pays exactly HK$1,000 if all ten enrol. A maximum budget is not a requirement to spend it all, and the single-household example does not establish how many would qualify.</p>"
+    ],
+    [
+      "Debrief · First calculate use and effort",
+      "<p>E uses 80 + 80 = 160 kWh. Its electricity bill is HK$320 and its two periods of effort cost HK$20, giving HK$340 before rebates. L uses 100 + 80 = 180 kWh, with HK$360 electricity and HK$10 effort: HK$370 before rebates.</p><p>Without a rebate difference, starting early saves HK$30 in private cost: HK$40 less electricity spending minus HK$10 additional effort. It also avoids 20 kWh. These are different units; the effort cost is not additional electricity or a cash charge collected by the programme.</p>"
+    ],
+    [
+      "Debrief · The rolling rule rewards delay",
+      "<p>Under C, E’s baseline is 80 and its threshold is 72 kWh. Its period-2 use of 80 does not qualify, so its private cost remains HK$340. L’s baseline is 100 and threshold 90; its period-2 use of 80 qualifies, leaving HK$370 − HK$100 = HK$270.</p><p>C therefore makes L HK$70 cheaper privately than E despite consuming 20 kWh more overall. Delaying sacrifices the HK$30 ordinary benefit of early action but gains HK$100 rebate. In this two-plan comparison, any rebate above HK$30 reverses the private ranking; exactly HK$30 makes a tie.</p>"
+    ],
+    [
+      "Debrief · A uniform payment leaves the early saving intact",
+      "<p>Under U, E costs HK$340 − HK$100 = HK$240 and L costs HK$370 − HK$100 = HK$270. E remains HK$30 better. U does not make the second period’s electricity free or remove the tariff incentive; each extra kWh still costs HK$2.</p><p>U also pays households whether or not the programme caused a reduction. Its payment alone is not evidence of additional savings. The comparison shows that C creates a particular incentive to postpone this household’s routine, whereas U does not. It does not establish U as the universally best energy policy.</p>"
+    ],
+    [
+      "Debrief · Freeze a defensible benchmark",
+      "<p>Under H, the pre-existing 100 kWh record gives a fixed 90 kWh threshold for both E and L. Both qualify at 80 in period 2. Their private costs are HK$240 and HK$270, respectively, so early action is again HK$30 better. Period-1 behaviour cannot change this stipulated fixed record.</p><p>This removes the specific baseline-inflation incentive in the example; it does not certify the old record as a perfect counterfactual. The household might have adopted the routine without any rebate. A payment-eligibility baseline and an estimate of what would happen without the programme answer different questions.</p>"
+    ],
+    [
+      "Debrief · Design for real differences",
+      "<p>Before launch, prefer U or a defensible H over C as written if preventing this delay incentive is a priority. Explain the trade-off between simple support and conditional rewards. A benchmark set independently of controllable pre-reward behaviour is another option, but its accuracy, administration and distributional effects need assessment.</p><p>Do not punish necessary consumption or assume high use proves manipulation. Give already-efficient households and changed circumstances an appropriate review route; use only necessary authorised data. Protect safe temperatures, essential equipment and access. The toy household’s 80 kWh is not a target or safety standard for anybody else.</p>"
+    ],
+    [
+      "Debrief · Evaluate the programme, not just the payout",
+      "<p>Track total use over the baseline and reward periods, conditions affecting comparability, participation and payments. Use a credible evaluation design to estimate additional savings rather than equating rewarded reductions with causal effects. Do not claim greenhouse-gas savings without a suitable emissions boundary and evidence.</p><p>SUS-21 studies extra service use after efficiency lowers running cost; ECO-10 studies prevention under loss coverage. IS-38 concerns a recommender generating its own training data. Here a known reward formula changes action before the eligibility baseline is measured. No household is accused of dishonesty, and no manipulation strategy is recommended.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>Keep the timelines visible: announcement, period-1 choice and measurement, period-2 use, then payment. Require both kWh totals and the household’s private-cost comparison. A rule intended to reward saving can discourage earlier saving when eligibility depends on behaviour residents can still change.</p>"
+    ]
+  ],
+  "notes": "Fictional voluntary tenadult-household design beforeannouncement;maximum100rebateeach,sponsor1000cap,adminseparatelyfunded. Cfixed100ifq2atmost90%q1;U100uniform;Hfixedauthenticpreannouncement100baselineforillustrativehouseholdonly. Initial100/80assumednotobserved. E80/80bill320effort20=340;L100/80bill360effort10=370. Effort10isperperiodprivatevaluationnotcashfee. CthresholdE72fails,L90passes,cost340vs270;delayprivatebenefit70and20kWhmore. U240vs270;Hsame;earlybenefit30. Rebate30ties Cplans,above30favoursdelay. Conditionalhouseholdcostminimisingcomparisonnotpopulationpredictionorwelfareestimate;cashtransfersnotresource/carbon savings. Hrecordcannotbealterednowbutnotautomaticallycausalcounterfactual. Allconditionsfixedonlytoyhousehold,noessentialneedsreduction or accusationaboutactualprogrammes.",
+  "sources": [
+    [
+      "https://par.nsf.gov/servlets/purl/10468530",
+      "Douglas Ellman and Yuanzhang Xiao · Incentives to Manipulate Demand Response Baselines With Uncertain Event Schedules · 2021",
+      "Original theoretical and simulation research models how non-event consumption can affect later rebates. Its uncertain-event model is not the case’s deterministic two-period threshold model; no simulated effect is imported."
+    ],
+    [
+      "https://www.energy.gov/sites/prod/files/NAPDR%20M%26V.pdf",
+      "US Department of Energy · Measurement and Verification for Demand Response · 2013",
+      "Substantive technical report discusses settlement baselines, manipulation incentives and measurement limits. Its statement that no method eliminates all manipulation is consistent with this case removing only one specified incentive."
+    ],
+    [
+      "https://docs.cpuc.ca.gov/publishedDocs/published/FINAL_DECISION/81972-02.htm",
+      "California Public Utilities Commission · Decision08-04-050 · Baseline issues",
+      "Original regulatory analysis distinguishes an unobserved no-programme counterfactual and context-dependent baseline methods. California rules are not applied to Hong Kong or treated as approval of a rebate design."
+    ],
+    [
+      "https://www.clp.com.hk/en/residential/power-connect/earn-eco-points-rewards/bi-monthly-saving",
+      "CLP Power · Bi-monthly Saving Reward",
+      "Utility’s own programme explanation compares average daily use with the corresponding billing period in the previous year. Local context only: the fictional rules and cash amounts are not CLP terms, and no manipulation or failure is alleged."
+    ],
+    [
+      "https://www.mdpi.com/2079-9292/9/4/570",
+      "Building a Better Baseline for Residential Demand Response Programs · Electronics9(4),570 · 2020",
+      "Original research uses historical Australian household data and simulated events to study heterogeneous and variable demand. Customers were not in the studied demand-response programme; it does not estimate strategic manipulation or validate the fictional household’s quantities."
+    ]
+  ],
+  "slides": [
+    [
+      "The benchmark can change the behaviour",
+      "<p>A rebate needs a comparison rule, but that rule can change behaviour before the comparison period ends. Historical consumption is not automatically an unaffected benchmark. Programme designers must distinguish rewarding a measured reduction from causing an additional reduction, while respecting differences in households’ legitimate needs.</p>"
+    ],
+    [
+      "Designing the rebate rule",
+      "<p></p>"
+    ],
+    [
+      "Design before anyone enrols",
+      "<p>A fictional Hong Kong building cooperative is designing a voluntary two-period electricity programme for ten adult households. No rule has been announced or accepted. A sponsor provides up to HK$1,000 for rebates; administration is separately funded. Each household can receive at most HK$100. Existing electricity access, tariffs and essential services remain unchanged.</p>"
+    ],
+    [
+      "Two payment rules",
+      "<p>Rule C pays a fixed HK$100 after period 2 only if that household’s period-2 use is no more than 90% of its own period-1 use. Period 1 would occur after the rule is announced. Rule U pays every enrolled household HK$100 after period 2, regardless of its usage change.</p>"
+    ],
+    [
+      "An initial planning assumption",
+      "<p>The planner initially assumes the illustrative household will use 100 kWh in period 1 and 80 kWh in period 2 under either rule. Both periods have the same duration, occupancy, weather and required comfort. These are fictional scenario values, not measured outcomes or a claim that every household has the same needs.</p>"
+    ],
+    [
+      "The basic household calculation",
+      "<p>Electricity costs HK$2 per kWh with no changing fixed charges. A safe energy-saving routine allows this household to use 80 rather than 100 kWh in a period without reducing required service. Maintaining the routine entails effort the household values at HK$10 per period; this is a private effort cost, not a fee paid to the cooperative.</p>"
+    ],
+    [
+      "The design question",
+      "<p>The cooperative wants lower total electricity use across both periods, a transparent affordable scheme and fair access. It has no evidence yet that a conditional rebate creates extra savings. Compare C with U, asking whether the proposed period-1 baseline will really remain unchanged when residents know the rule.</p>"
+    ],
+    [
+      "Proposed rules",
+      "<table><caption>Proposed rules before launch</caption><thead><tr><th>Item</th><th>Given</th></tr></thead><tbody><tr><td>C · Conditional</td><td>HK$100 if period 2 is at most 90% of period 1</td></tr><tr><td>U · Uniform</td><td>HK$100 for every enrolled household</td></tr><tr><td>Initial scenario</td><td>100 kWh then 80 kWh</td></tr><tr><td>Tariff</td><td>HK$2 per kWh</td></tr><tr><td>Routine effort cost</td><td>HK$10 per period used</td></tr></tbody></table>"
+    ],
+    [
+      "First decision",
+      "<p>Under the planner’s initial 100-then-80 scenario, what is C’s eligibility threshold and rebate? How does its payment compare with U? Would you accept the baseline assumption before announcing the programme, and what behaviour must the design review examine?</p>"
+    ],
+    [
+      "Residents can act before measurement",
+      "<p>The household knows either rule before period 1 and can start the routine immediately. Compare E: start early, using 80 kWh in both periods; with L: delay, using 100 in period 1 and 80 in period 2. Both preserve the same required comfort. The routine is used in period 2 under either compared plan.</p>"
+    ],
+    [
+      "A rule can alter its own benchmark",
+      "<p>Under C, E makes the measured baseline 80 kWh, whereas L makes it 100 kWh. There is no other rebate, penalty, reputation effect or financial difference between these two plans. For the incentive calculation, the household compares electricity bills plus its stated effort cost minus the rebate. This benchmark is not a prediction of everyone’s choices.</p>"
+    ],
+    [
+      "A genuinely earlier record is available",
+      "<p>Before launch, the cooperative also identifies an authentic, comparable record of 100 kWh from before the programme was contemplated. For this household, a redesigned rule H could fix that record as the baseline and never update it from period 1. It would use the same 90% threshold and HK$100 rebate.</p>"
+    ],
+    [
+      "Limits on using the old record",
+      "<p>For this worked household, the earlier record matches relevant conditions and cannot be altered now. For others, weather, occupancy, necessary equipment and already-low use may differ. Any programme-wide historical or independent benchmark needs a justified adjustment and appeal process, voluntary authorised data use and clear terms before participation, not retrospective changes.</p>"
+    ],
+    [
+      "Second decision",
+      "<p>For E and L, calculate total kWh and private cost under C and U. Which plan does each rule financially favour in this comparison? Test H using the frozen record. Explain why removing the incentive to delay does not itself prove additional programme savings or fairness for every household.</p>"
+    ],
+    [
+      "Debrief · The initial arithmetic is not the problem",
+      "<p>With a period-1 baseline of 100 kWh, C’s threshold is 90 kWh. Period-2 use of 80 qualifies for HK$100, just as U pays HK$100. The arithmetic is correct conditional on that baseline. The weak assumption is treating an upcoming measurement as unaffected by the announced payment rule.</p>"
+    ],
+    [
+      "Debrief · The initial arithmetic is not the problem · continued",
+      "<p>The ten-household rebate exposure is at most 10 × HK$100 = HK$1,000 under C or H. U pays exactly HK$1,000 if all ten enrol. A maximum budget is not a requirement to spend it all, and the single-household example does not establish how many would qualify.</p>"
+    ],
+    [
+      "Debrief · First calculate use and effort",
+      "<p>E uses 80 + 80 = 160 kWh. Its electricity bill is HK$320 and its two periods of effort cost HK$20, giving HK$340 before rebates. L uses 100 + 80 = 180 kWh, with HK$360 electricity and HK$10 effort: HK$370 before rebates.</p>"
+    ],
+    [
+      "Debrief · First calculate use and effort · continued",
+      "<p>Without a rebate difference, starting early saves HK$30 in private cost: HK$40 less electricity spending minus HK$10 additional effort. It also avoids 20 kWh. These are different units; the effort cost is not additional electricity or a cash charge collected by the programme.</p>"
+    ],
+    [
+      "Debrief · The rolling rule rewards delay",
+      "<p>Under C, E’s baseline is 80 and its threshold is 72 kWh. Its period-2 use of 80 does not qualify, so its private cost remains HK$340. L’s baseline is 100 and threshold 90; its period-2 use of 80 qualifies, leaving HK$370 − HK$100 = HK$270.</p>"
+    ],
+    [
+      "Debrief · The rolling rule rewards delay · continued",
+      "<p>C therefore makes L HK$70 cheaper privately than E despite consuming 20 kWh more overall. Delaying sacrifices the HK$30 ordinary benefit of early action but gains HK$100 rebate. In this two-plan comparison, any rebate above HK$30 reverses the private ranking; exactly HK$30 makes a tie.</p>"
+    ],
+    [
+      "Debrief · A uniform payment leaves the early saving intact",
+      "<p>Under U, E costs HK$340 − HK$100 = HK$240 and L costs HK$370 − HK$100 = HK$270. E remains HK$30 better. U does not make the second period’s electricity free or remove the tariff incentive; each extra kWh still costs HK$2.</p>"
+    ],
+    [
+      "Debrief · A uniform payment leaves the early saving intact · continued",
+      "<p>U also pays households whether or not the programme caused a reduction. Its payment alone is not evidence of additional savings. The comparison shows that C creates a particular incentive to postpone this household’s routine, whereas U does not. It does not establish U as the universally best energy policy.</p>"
+    ],
+    [
+      "Debrief · Freeze a defensible benchmark",
+      "<p>Under H, the pre-existing 100 kWh record gives a fixed 90 kWh threshold for both E and L. Both qualify at 80 in period 2. Their private costs are HK$240 and HK$270, respectively, so early action is again HK$30 better. Period-1 behaviour cannot change this stipulated fixed record.</p>"
+    ],
+    [
+      "Debrief · Freeze a defensible benchmark · continued",
+      "<p>This removes the specific baseline-inflation incentive in the example; it does not certify the old record as a perfect counterfactual. The household might have adopted the routine without any rebate. A payment-eligibility baseline and an estimate of what would happen without the programme answer different questions.</p>"
+    ],
+    [
+      "Debrief · Design for real differences",
+      "<p>Before launch, prefer U or a defensible H over C as written if preventing this delay incentive is a priority. Explain the trade-off between simple support and conditional rewards. A benchmark set independently of controllable pre-reward behaviour is another option, but its accuracy, administration and distributional effects need assessment.</p>"
+    ],
+    [
+      "Debrief · Design for real differences · continued",
+      "<p>Do not punish necessary consumption or assume high use proves manipulation. Give already-efficient households and changed circumstances an appropriate review route; use only necessary authorised data. Protect safe temperatures, essential equipment and access. The toy household’s 80 kWh is not a target or safety standard for anybody else.</p>"
+    ],
+    [
+      "Debrief · Evaluate the programme, not just the payout",
+      "<p>Track total use over the baseline and reward periods, conditions affecting comparability, participation and payments. Use a credible evaluation design to estimate additional savings rather than equating rewarded reductions with causal effects. Do not claim greenhouse-gas savings without a suitable emissions boundary and evidence.</p>"
+    ],
+    [
+      "Debrief · Evaluate the programme, not just the payout · continued",
+      "<p>SUS-21 studies extra service use after efficiency lowers running cost; ECO-10 studies prevention under loss coverage. IS-38 concerns a recommender generating its own training data. Here a known reward formula changes action before the eligibility baseline is measured. No household is accused of dishonesty, and no manipulation strategy is recommended.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>Keep the timelines visible: announcement, period-1 choice and measurement, period-2 use, then payment. Require both kWh totals and the household’s private-cost comparison. A rule intended to reward saving can discourage earlier saving when eligibility depends on behaviour residents can still change.</p>"
+    ]
+  ]
+}

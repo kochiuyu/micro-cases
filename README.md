@@ -1678,3 +1678,99 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## HSP-35
 
 420. [The guest does the work. Is the service easier?](guest-does-work-service-easier.html)
+
+## ACC-36
+
+421. [After year-end. Evidence about which year?](after-year-end-which-condition.html)
+
+## FIN-36
+
+422. [A cheaper machine. Over how many service years?](cheaper-machine-service-years.html)
+
+## MKT-36
+
+423. [Recognised here. Understood there?](recognised-here-understood-there.html)
+
+## OPS-36
+
+424. [The project has time. Does the specialist?](project-time-specialist-time.html)
+
+## PPL-36
+
+425. [A technical career. Must it become management?](technical-career-not-management.html)
+
+## STR-36
+
+426. [The alliance works. Do the alliances fit?](the-alliances-fit.html)
+
+## ENT-36
+
+427. [The app is free. Who funds the free users?](free-app-who-funds-users.html)
+
+## IS-36
+
+428. [Encrypted here. Readable in the shared link?](encrypted-here-readable-in-the-link.html)
+
+## GVR-36
+
+429. [The penalty is paid. Are customers restored?](penalty-paid-customers-restored.html)
+
+## SUS-36
+
+430. [A generous restricted gift. Enough unrestricted money?](restricted-gift-full-cost.html)
+
+## ECO-36
+
+431. [Many enquiries. A credible threat of entry?](entry-cost-recoverable-after-exit.html)
+
+## HSP-36
+
+432. [The building is busy. Are the rooms available?](busy-floor-available-rooms.html)
+
+## ACC-37
+
+433. [Cash tax paid. Tax expense matched?](cash-tax-tax-expense.html)
+
+## FIN-37
+
+434. [One large payment. A predictable monthly reserve?](monthly-reserve-later-start.html)
+
+## MKT-37
+
+435. [A true success story. A typical result?](true-story-typical-result.html)
+
+## OPS-37
+
+436. [Two punctual trucks. One unloading bay.](punctual-trucks-one-bay.html)
+
+## PPL-37
+
+437. [A useful disagreement. An escalating quarrel.](disagree-with-design-not-person.html)
+
+## STR-37
+
+438. [Sell the product. Rent the outcome?](sell-product-rent-outcome.html)
+
+## ENT-37
+
+439. [The demonstration works. The regulated pathway is longer.](working-sensor-regulated-pathway.html)
+
+## IS-37
+
+440. [Correct today. Which version decided yesterday?](current-model-yesterdays-decision.html)
+
+## GVR-37
+
+441. [Most owners agreed. Which consent was required?](majority-support-class-consent.html)
+
+## SUS-37
+
+442. [Better results. Which weights made them better?](which-weights-made-it-better.html)
+
+## ECO-37
+
+443. [One more café. More choice or duplicated cost?](another-cafe-choice-duplicated-cost.html)
+
+## HSP-37
+
+444. [A full programme. A complete guest journey?](full-programme-complete-journey.html)

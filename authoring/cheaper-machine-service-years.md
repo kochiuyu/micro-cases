@@ -1,0 +1,94 @@
+# A cheaper machine. Over how many service years?
+
+<!-- legacy-case-id: 422 -->
+
+FIN-36 · Hong Kong · 15–20 minutes · Equivalent annual cost · Unequal asset lives · Common service horizon
+
+![Two adult scanning-bureau colleagues compare two unbranded document scanners and plain purchase worksheets, with blank sample sheets and no private records or financial answers visible.](../cheaper-machine-service-years-scene.jpg)
+
+## Match the asset comparison to the service need
+
+Equivalent annual cost converts a discounted ownership cycle into a comparable annual amount. It can help compare assets with different lives when they provide the same service and can be replaced on unchanged terms. A finite service deadline instead requires a common ending date and an explicit value for anything remaining.
+
+## Opening decision
+
+You advise fictional ClearScan, a Hong Kong document-scanning bureau. It must select one of two machines for the same annual workload. Both meet identical quality, capacity, safety, privacy and reliability requirements. This is an outright-purchase comparison, not a lease or loan decision; no order has been placed.
+
+Initially, assume the service is needed indefinitely. Machine A lasts exactly three years; B lasts exactly five. At each life-end, an identical replacement is available immediately at unchanged nominal purchase and operating costs. There is no service interruption, technological change or additional replacement cost. These are deliberate classroom assumptions.
+
+A costs HK$60,000 today and B HK$80,000. Each incurs HK$10,000 at every operating year-end for that year’s complete machine-related operating and maintenance costs, including its final year. Each has zero net disposal value at its own life-end. Installation, training and secure removal costs are already covered.
+
+Use the same supplied 10% annual discount rate for both, with no inflation or tax effects. Financing is excluded. Both purchases and subsequent replacements are affordable without touching protected reserves. Revenues and all other business costs are identical, so compare machine costs only; lower cost does not itself prove business profitability.
+
+Use AF(n) = [1 − (1.10)^(−n)] / 0.10. The factors are AF(3) = 2.486851991 and AF(5) = 3.790786769. Present cost equals purchase price plus HK$10,000 × AF(n). Equivalent annual cost equals that present cost divided by AF(n). Positive numbers denote costs, so lower is better.
+
+## Evidence
+
+| Input | A | B |
+| --- | --- | --- |
+| Purchase today | 60,000 | 80,000 |
+| Useful life | 3 years | 5 years |
+| Operating cost/year-end | 10,000 | 10,000 |
+| Net proceeds at own life-end | 0 | 0 |
+
+**Student question:** For continuing repeatable service, which machine has the lower equivalent annual cost? Calculate each life-cycle present cost and annual equivalent. Why would simply choosing the smaller purchase price or smaller one-cycle present cost be misleading?
+
+## Round two
+
+Before purchase, the client confirms a different requirement: the service contract ends after exactly three years, with no renewal available. There is no other use for either machine afterward. The bureau must still provide all three years of identical service. The indefinite replacement assumption no longer applies.
+
+At the end of year three, after that year’s work and operating payment, A has zero net disposal proceeds. B can be sold for net HK$20,000. Treat both amounts and timely disposal as certain for this exercise. Net proceeds already deduct collection, selling and secure data-removal costs.
+
+No replacement is bought after year three. Selling B transfers all later use and obligations to its buyer; ClearScan receives no year-four or year-five service and pays no later operating costs. All other inputs stay unchanged. The fictional resale amount is not B’s accounting book value or a real dealer quote.
+
+For this finite need, compare purchase price plus the present value of three operating payments, less year-three net proceeds divided by 1.10³. The year-three discount factor is 0.751314801. Round only final money answers to the nearest Hong Kong dollar. Both alternatives remain feasible and affordable.
+
+**Student question:** Which machine now has the lower three-year present cost, and by how much? Find B’s year-three net resale proceeds at which the alternatives tie. Explain why the initial annual-cost ranking cannot simply be carried into this decision.
+
+## Debrief · Compare equal annual service
+
+A’s three-year cycle has present cost HK$60,000 + HK$10,000 × 2.486851991 = HK$84,869, rounded. Its annual equivalent is HK$84,868.51991 / 2.486851991 = HK$34,127. B’s five-year cycle costs HK$80,000 + HK$10,000 × 3.790786769 = HK$117,908, with annual equivalent HK$31,104.
+
+Choose B under the continuing, repeatable-service assumptions. Its annual equivalent is about HK$3,023 lower. B’s higher one-cycle present cost covers five years rather than three; those totals alone do not compare equal service durations. The annual equivalents put the stipulated repeated alternatives on a comparable basis.
+
+## Debrief · Understand the annual number
+
+An equivalent annual cost is a hypothetical level year-end payment with the same present value as the ownership cycle. It is not an actual annual invoice, a maintenance budget or straight-line depreciation. Dividing purchase price or total cost by useful years ignores the timing captured by the discount rate.
+
+The initial method depends on identical service and credible repeatability, not merely different asset lives. Real equipment may change price, performance or maintenance needs. The exercise explicitly fixes those issues for round one; it does not establish that scanners can genuinely be replaced on identical terms forever.
+
+## Debrief · Stop at the actual service deadline
+
+With only three years needed, A’s present cost remains HK$84,869. B’s becomes HK$80,000 + HK$24,868.51991 − HK$20,000 / 1.10³ = HK$89,842. Its discounted resale receipt is HK$15,026. Choose A, which is approximately HK$4,974 cheaper in present-value terms.
+
+Do not use B’s full five-year cost and divide by five, charge unwanted operating years, or replace A at year three. Both serve the same required three years. B’s remaining useful life matters through the supplied sale proceeds, not through service the bureau will never consume.
+
+## Debrief · Find the resale threshold
+
+The three operating payments are identical, so they cancel in the comparison. B’s extra purchase cost is HK$20,000 today. For a tie, its year-three net resale receipt R must satisfy R / 1.10³ = HK$20,000. Hence R = HK$26,620.
+
+B is cheaper only if its net year-three proceeds exceed HK$26,620; A is cheaper below that amount, and equality means a cost tie. The supplied HK$20,000 lies below the threshold. Do not compare an undiscounted future receipt directly with today’s extra purchase payment.
+
+## Debrief · The method did not fail
+
+The answer changes because the required service horizon changes, not because discounting or annualisation stopped working. You could divide both revised three-year present costs by the same three-year annuity factor and obtain the same ranking. What is invalid is carrying over B’s five-year repeated-service annual equivalent.
+
+A real decision would test service demand, replacement availability, cost completeness and net resale evidence. Here those facts are supplied, not estimated. Secure disposal and privacy remain mandatory costs already included; reducing those protections is not a way to improve the appraisal. No actual purchase or investment recommendation follows.
+
+## Instructor note
+
+Allow five minutes for the two cycle present costs and annual equivalents. Reveal the fixed three-year need and allow five minutes for a common-horizon recalculation. Finish with the resale threshold and a timeline showing the final operating payment and sale at the same year-end.
+
+FIN-12 compares leasing and owning the same model with exit terms; this case compares two owned machines with unequal service lives and discounted annual equivalents. FIN-26 tests sustainable terminal cash flows; this case has no growth forecast. Keep repeatable service separate from the finite contract, and use full precision before rounding.
+
+## Sources and case assumptions · optional reference
+
+All information needed for classroom decisions is provided above. Sources are optional reading.
+
+Original fictional scanning bureau and two owned machines. Identical service/quality/safety/privacy/capacity, affordable and protected reserves intact; no lease, financing or project-profit inference. A60k/3years,B80k/5years; each10k operating at every year-end including final year, net disposal0 at own life-end. Installation/training/secure removal covered. Initial indefinite identical replacements at same nominal costs/no technology or interruption; supplied10% annual discount/no inflation or taxes. AF3=2.486851990984222,AF5=3.7907867694084474. Cycle PV A84868.51991/B117907.86769; EAC34126.88822/31103.79846, B advantage3023.08975. Before commitment reveal fixed3years/no renewal or alternativeuse, A0/B20k netyear3sale certain timely for exercise, no latercost orbenefit/replacement. RevisedPV A84868.51991/B89842.22389,Acheaper4973.70398. BreakevenBresale26620 atyear3,Bstrictlycheaperabove/equalitytie. No double disposal or bookkeepingvalue. Source examples not local estimates; foreign government procedures not local duties.
+
+- [ACCA · Equivalent annual costs and benefits](https://www.accaglobal.com/gb/en/student/exam-support-resources/fundamentals-exams-study-resources/f9/technical-articles/eac.html). Original teaching explains discounted cycle costs, division by annuity factors and the weakness of assuming identical replacements indefinitely. Its worked example and tax assumptions are not the case’s data.
+- [NIST · Life Cycle Costing Manual for the Federal Energy Management Program · 2022 · Sections 4.5.2–4.5.3](https://nvlpubs.nist.gov/nistpubs/hb/2022/NIST.HB.135e2022.pdf). Official manual distinguishes service period, replacement timing and residual value net of disposal costs. Federal building procedures and valuation shortcuts are not imposed on the fictional bureau; the supplied resale receipt is used directly.
+- [OpenStax · Principles of Finance 2e · Annuities](https://openstax.org/books/principles-finance-2e/pages/8-2-annuities). Original textbook derives the present value of equal year-end payments. Used for timing and the annuity factor, not as a recommendation to buy a financial annuity or as evidence about scanner costs.
+- [Business Mathematics · Appendix B: EUAC and Capitalized Cost · BCcampus-hosted open textbook](https://pressbooks.bccampus.ca/businessmathematics/chapter/appendix-b-euac/). Substantive textbook chapter relates unequal lives, equivalent yearly payments and identical replacement cycles. Its copier examples are not reused; cash-flow timing and numbers are explicitly supplied here.
+- [Government of Western Australia · Life Cycle Cost Guidelines](https://www.dlgsc.wa.gov.au/department/publications/publication/life-cycle-cost-guidelines). Official guidance discusses documented operating assumptions, complete life-cycle costs and net residual value. Its facility-reporting requirements and spreadsheet conventions are not applied to this commercial classroom appraisal.

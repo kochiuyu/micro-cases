@@ -1,0 +1,180 @@
+{
+  "number": 466,
+  "code": "SUS-39",
+  "slug": "citizens-report-who-closes-loop",
+  "title": "Citizens report it. Who closes the loop?",
+  "discipline": "Sustainability, social enterprise and public management",
+  "topics": [
+    "Public-service co-production",
+    "Feedback and accountability",
+    "Reports versus resolutions"
+  ],
+  "teaser": "A district pilot attracts many observations. Linked records reveal repeat reports about unresolved places, changing the case for another recruitment campaign.",
+  "alt": "Three adult Hong Kong community-service colleagues and a resident discuss a plain neighbourhood map and case folder in a bright community office, with no readable identifiers, flooding or repair activity.",
+  "location": "Hong Kong · fictional district pilot",
+  "duration": "15–20 minutes",
+  "news_heading": "Participation needs a service response",
+  "news": "<p>Public reporting can reveal local service needs, but receiving a report is not the same as resolving its subject. A useful participation process includes an understandable response and a responsible service team. The district, budget and records below are invented, not an assessment of an actual Hong Kong agency.</p>",
+  "opening": "<p>You coordinate a fictional Hong Kong district drain-observation pilot. Adult residents may voluntarily report visible surface concerns from ordinary safe public footpaths. They must not approach floodwater, enter roads or drains, lift covers, sample water or attempt repairs. Established emergency reporting and professional inspections continue separately under both options.</p><p>Next month’s additional HK$10,000 can fund A: accessible outreach and safe-reporting guidance, with a planning estimate of sixty extra reports; or B: a case coordinator, progress feedback and ten extra professional service visits. These are fixed, all-in fictional packages. Neither changes the routine reporting channels or any existing service obligation.</p><p>Existing funding provides twenty professional service visits next month under either option. One visit addresses one location’s case, including inspection, feasible minor work and a documented outcome. Some cases need further work: a visit is not a guaranteed resolution. B’s ten extra visits are additional capacity, not replacements for existing staff.</p><p>This month the pilot received 120 reports and recorded twenty location cases as resolved, with professional verification. There was no opening backlog. The dashboard has not linked reports to distinct locations. The outreach team calls 120 reports “120 places covered” and wants to expand collection. Decide whether that claim justifies A.</p><p>Residents can decline or stop reporting without penalty. Funded safeguards, accessibility and necessary participant support remain under either package. Paid professionals retain technical assessment, priority and repair responsibility. Reports are not instructions to fix something blindly, and recruitment targets must never encourage unsafe observation or unnecessary personal information.</p>",
+  "exhibit": "<table><caption>Next-month additions, same HK$10,000</caption><thead><tr><th>Package</th><th>Additional provision</th></tr></thead><tbody><tr><td>A</td><td>Outreach; sixty extra reports estimated</td></tr><tr><td>B</td><td>Case coordination, feedback, ten professional visits</td></tr></tbody></table>",
+  "exhibit_md": "| Package | Additional provision |\n| --- | --- |\n| A | Outreach; sixty extra reports estimated |\n| B | Case coordination, feedback, ten professional visits |",
+  "q1": "Would you provisionally fund A or B? What must you know about distinct locations, unresolved cases, feedback and service capacity before treating report volume as additional coverage?",
+  "round2": "<p>A checked register links all 120 reports to sixty distinct drain locations, with exactly one case per location this month. Twenty cases are professionally verified as resolved and forty remain unresolved. Forty reports relate to the resolved cases; eighty relate to the unresolved cases. No report concerns a new episode after a resolved case reopened.</p><p>Thus sixty reports are additional reports beyond the first at each location. Residents describe repeating reports because they cannot see whether anyone has accepted responsibility or acted. Their accounts identify a feedback concern, not proof that every repeat was caused by missing updates. A repeat may still supply new evidence of deterioration.</p><p>B includes twenty paid coordinator-hours. At the supplied half-hour allowance per existing unresolved case, this covers checking its route, recording the responsible team and sending an accessible status update to its reporters. The allowance includes all forty cases’ linked reporters. Routine new-case handling remains funded separately; no software purchase or public disclosure of identities is needed.</p><p>The ten extra visits can serve ten distinct existing unresolved cases, selected by the professional team using urgency and need, not report popularity. Unresolved ownership questions go to the authorised district lead; the coordinator cannot invent another agency’s powers. Major work, emergencies and statutory duties use their existing routes and are not delayed to meet this pilot schedule.</p><p>A’s sixty extra reports remain an estimate; their unique locations, urgency and overlap are unknown. B does not guarantee ten completed repairs, prevent all repeat reports or remove the backlog. Both packages remain affordable, and neither closes ordinary channels for new locations or concerned residents.</p>",
+  "q2": "Reconcile reports, distinct cases and unresolved cases. Which package would you choose now, and how would you connect a resident’s report to ownership, professional action and feedback? Calculate B’s coordinator time and maximum distinct existing cases its extra visits can address, without calling those visits completed resolutions.",
+  "sections": [
+    [
+      "Debrief · Count three different things",
+      "<p>There are 120 reports, sixty distinct location cases and twenty verified resolutions. Forty cases remain unresolved. The resolved share of this case cohort is 20/60 = one-third, not 20/120. The latter mixes completed cases with report submissions. Neither ratio measures drainage safety across the district.</p><p>Sixty reports are beyond the first per location: 120 − 60. Among unresolved cases, eighty reports minus forty first reports leaves forty repeats; resolved cases account for forty minus twenty = twenty repeats. Reconcile forty plus twenty = sixty. Repeated reports are not sixty additional geographic locations.</p>"
+    ],
+    [
+      "Debrief · Prefer the service loop here",
+      "<p>Choose B on the revealed evidence. It connects already identified needs to a responsible service route, professional capacity and a response to participants. A might be preferable where important areas are not represented, but this record does not show that another sixty submissions would add sixty locations or resolve an existing case.</p><p>B’s coordinator allowance is 40 × 0.5 = twenty paid hours. It covers routing and status communication, not engineering assessment or repair. A message acknowledging receipt must not be labelled a verified resolution. Give each case a responsible team, its current state and the next expected update or escalation.</p>"
+    ],
+    [
+      "Debrief · Capacity is not completion",
+      "<p>B increases next month’s funded visits from twenty to thirty. Its ten extra visits can address at most ten distinct existing unresolved cases as specified. If all ten independently achieve verified resolution, they could reduce the opening forty-case backlog by ten; that is a conditional maximum for the extra visits, not a forecast.</p><p>Existing visits, new reports, complex work and future reopenings affect the month-end queue. The case supplies no final backlog prediction. Do not subtract thirty automatically from forty, count a second visit as another location, or close a record merely because it was referred to a professional team.</p>"
+    ],
+    [
+      "Debrief · Make the resident’s role meaningful",
+      "<p>Acknowledge the observation with a case reference, explain the responsible route and provide status through the resident’s chosen accessible channel. When work is verified, explain the outcome; when more work or another authority is needed, explain what remains and who follows up. Invite relevant corrections without asking residents to undertake technical inspection.</p><p>Link repeat reports to the case while preserving new information, dates and the ability to flag worsening conditions. Do not discard repeats automatically or penalise a concerned resident. Share only appropriate service information; reporters’ identities and contact details need not appear in a public status view.</p>"
+    ],
+    [
+      "Debrief · Measure the whole process",
+      "<p>Track distinct locations reached, accepted responsibility, elapsed waiting time, professional findings, verified resolutions and updates delivered. Examine which neighbourhoods or reporting formats are underrepresented. A larger report count may reflect engagement, duplicate submission or worsening conditions; a smaller count may reflect resolution, disengagement or barriers. Neither direction alone proves success.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>Use four minutes for the package choice, five for the report-to-case reconciliation and six to design an understandable status route. SUS-17 matches voluntary hours to service coverage; IS-14 evaluates alert accuracy and checking cost. This case instead connects citizen contribution to accountable follow-through without treating more observations as more service delivered.</p>"
+    ]
+  ],
+  "notes": "All pilot, counts, budgets and capacity original fiction. No openingbacklog;120reports linked60distinctlocations onecaseeach,20verifiedresolved/40unresolved. Resolved40reports/unresolved80, repeats20+40=60, no reopens in observedmonth. NextmonthA/B each10000allin. Aadditional60reportsestimate notuniquelocations. B20paidcoordhours at0.5per40case includingalllinkedreporterupdates;10extraprovisits plus20existing, no guaranteedresolutions orfinalqueue. Routineintake/accessibility/support/mandatorysafety remainfunded, no unpaidprofessionalreplacement. Volunteers safefootpathobservationonly,noentry/coverlifting/floodwater/roadwork/sampling/repairs. Technicalpriorityandverificationretainprofessionals; emergencyandstatutoryroutesnotdelayed. Historicalreports and foreignguidance bounded, noagencyperformanceallegation oractualserviceaction.",
+  "sources": [
+    [
+      "https://www.1823.gov.hk/en/about-us/",
+      "Hong Kong 1823 · About Us: our work and service process",
+      "The service’s own description separates recording and referral from departmental handling and replies. It supplies local process context, not the fictional pilot’s staffing, performance or an emergency-reporting procedure."
+    ],
+    [
+      "https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/09/oecd-guidelines-for-citizen-participation-processes_63b34541/f765caf6-en.pdf",
+      "OECD · Guidelines for Citizen Participation Processes · 2022, Step8",
+      "Original guidance addresses responding to participation and explaining how inputs were used. The fictional case applies a feedback principle, not a claim that feedback always increases trust or eliminates duplicate reports."
+    ],
+    [
+      "https://fixmystreet.org/running/staff/",
+      "mySociety · FixMyStreet: staff-user documentation",
+      "The platform’s own documentation describes potential-duplicate suggestions and understandable status updates. These are design features, not independent evidence of service improvement or a recommendation to buy software."
+    ],
+    [
+      "https://www.info.gov.hk/gia/general/202403/07/P2024030700227.htm",
+      "Office of The Ombudsman, Hong Kong · Findings and recommendations on 1823 · 7 March 2024",
+      "The Office’s own substantive findings statement explains unresolved cross-departmental ownership and recommends systematic escalation and case analysis. Historical findings are not claims about current performance or the invented pilot. The original full-report download is no longer accessible at its earlier address."
+    ],
+    [
+      "https://www.epa.gov/system/files/documents/2023-07/PSPolicyGuidelines_072723_Clean.pdf",
+      "US EPA · Policy Guidelines and Checklist for Participatory Science Projects · July2023",
+      "Sections on data quality explain matching verification and documentation to intended use. Environmental research guidance informs data care only; US regulatory requirements and technical field procedures do not apply to this Hong Kong exercise."
+    ]
+  ],
+  "slides": [
+    [
+      "Participation needs a service response",
+      "<p>Public reporting can reveal local service needs, but receiving a report is not the same as resolving its subject. A useful participation process includes an understandable response and a responsible service team. The district, budget and records below are invented, not an assessment of an actual Hong Kong agency.</p>"
+    ],
+    [
+      "The district review",
+      "<p></p>"
+    ],
+    [
+      "Residents observe; professionals act",
+      "<p>You coordinate a fictional Hong Kong district drain-observation pilot. Adult residents may voluntarily report visible surface concerns from ordinary safe public footpaths. They must not approach floodwater, enter roads or drains, lift covers, sample water or attempt repairs. Established emergency reporting and professional inspections continue separately under both options.</p>"
+    ],
+    [
+      "One improvement budget",
+      "<p>Next month’s additional HK$10,000 can fund A: accessible outreach and safe-reporting guidance, with a planning estimate of sixty extra reports; or B: a case coordinator, progress feedback and ten extra professional service visits. These are fixed, all-in fictional packages. Neither changes the routine reporting channels or any existing service obligation.</p>"
+    ],
+    [
+      "What a visit means",
+      "<p>Existing funding provides twenty professional service visits next month under either option. One visit addresses one location’s case, including inspection, feasible minor work and a documented outcome. Some cases need further work: a visit is not a guaranteed resolution. B’s ten extra visits are additional capacity, not replacements for existing staff.</p>"
+    ],
+    [
+      "What the first dashboard says",
+      "<p>This month the pilot received 120 reports and recorded twenty location cases as resolved, with professional verification. There was no opening backlog. The dashboard has not linked reports to distinct locations. The outreach team calls 120 reports “120 places covered” and wants to expand collection. Decide whether that claim justifies A.</p>"
+    ],
+    [
+      "Protect participation and accountability",
+      "<p>Residents can decline or stop reporting without penalty. Funded safeguards, accessibility and necessary participant support remain under either package. Paid professionals retain technical assessment, priority and repair responsibility. Reports are not instructions to fix something blindly, and recruitment targets must never encourage unsafe observation or unnecessary personal information.</p>"
+    ],
+    [
+      "Two improvement packages",
+      "<table><caption>Next-month additions, same HK$10,000</caption><thead><tr><th>Package</th><th>Additional provision</th></tr></thead><tbody><tr><td>A</td><td>Outreach; sixty extra reports estimated</td></tr><tr><td>B</td><td>Case coordination, feedback, ten professional visits</td></tr></tbody></table>"
+    ],
+    [
+      "First decision",
+      "<p>Would you provisionally fund A or B? What must you know about distinct locations, unresolved cases, feedback and service capacity before treating report volume as additional coverage?</p>"
+    ],
+    [
+      "Link the reports to cases",
+      "<p>A checked register links all 120 reports to sixty distinct drain locations, with exactly one case per location this month. Twenty cases are professionally verified as resolved and forty remain unresolved. Forty reports relate to the resolved cases; eighty relate to the unresolved cases. No report concerns a new episode after a resolved case reopened.</p>"
+    ],
+    [
+      "Repeated does not mean worthless",
+      "<p>Thus sixty reports are additional reports beyond the first at each location. Residents describe repeating reports because they cannot see whether anyone has accepted responsibility or acted. Their accounts identify a feedback concern, not proof that every repeat was caused by missing updates. A repeat may still supply new evidence of deterioration.</p>"
+    ],
+    [
+      "What B can and cannot supply",
+      "<p>B includes twenty paid coordinator-hours. At the supplied half-hour allowance per existing unresolved case, this covers checking its route, recording the responsible team and sending an accessible status update to its reporters. The allowance includes all forty cases’ linked reporters. Routine new-case handling remains funded separately; no software purchase or public disclosure of identities is needed.</p>"
+    ],
+    [
+      "Keep the professional gate",
+      "<p>The ten extra visits can serve ten distinct existing unresolved cases, selected by the professional team using urgency and need, not report popularity. Unresolved ownership questions go to the authorised district lead; the coordinator cannot invent another agency’s powers. Major work, emergencies and statutory duties use their existing routes and are not delayed to meet this pilot schedule.</p>"
+    ],
+    [
+      "No outcome forecast is supplied",
+      "<p>A’s sixty extra reports remain an estimate; their unique locations, urgency and overlap are unknown. B does not guarantee ten completed repairs, prevent all repeat reports or remove the backlog. Both packages remain affordable, and neither closes ordinary channels for new locations or concerned residents.</p>"
+    ],
+    [
+      "Second decision",
+      "<p>Reconcile reports, distinct cases and unresolved cases. Which package would you choose now, and how would you connect a resident’s report to ownership, professional action and feedback? Calculate B’s coordinator time and maximum distinct existing cases its extra visits can address, without calling those visits completed resolutions.</p>"
+    ],
+    [
+      "Debrief · Count three different things · 1",
+      "<p>There are 120 reports, sixty distinct location cases and twenty verified resolutions. Forty cases remain unresolved. The resolved share of this case cohort is 20/60 = one-third, not 20/120. The latter mixes completed cases with report submissions. Neither ratio measures drainage safety across the district.</p>"
+    ],
+    [
+      "Debrief · Count three different things · 2",
+      "<p>Sixty reports are beyond the first per location: 120 − 60. Among unresolved cases, eighty reports minus forty first reports leaves forty repeats; resolved cases account for forty minus twenty = twenty repeats. Reconcile forty plus twenty = sixty. Repeated reports are not sixty additional geographic locations.</p>"
+    ],
+    [
+      "Debrief · Prefer the service loop here · 1",
+      "<p>Choose B on the revealed evidence. It connects already identified needs to a responsible service route, professional capacity and a response to participants. A might be preferable where important areas are not represented, but this record does not show that another sixty submissions would add sixty locations or resolve an existing case.</p>"
+    ],
+    [
+      "Debrief · Prefer the service loop here · 2",
+      "<p>B’s coordinator allowance is 40 × 0.5 = twenty paid hours. It covers routing and status communication, not engineering assessment or repair. A message acknowledging receipt must not be labelled a verified resolution. Give each case a responsible team, its current state and the next expected update or escalation.</p>"
+    ],
+    [
+      "Debrief · Capacity is not completion · 1",
+      "<p>B increases next month’s funded visits from twenty to thirty. Its ten extra visits can address at most ten distinct existing unresolved cases as specified. If all ten independently achieve verified resolution, they could reduce the opening forty-case backlog by ten; that is a conditional maximum for the extra visits, not a forecast.</p>"
+    ],
+    [
+      "Debrief · Capacity is not completion · 2",
+      "<p>Existing visits, new reports, complex work and future reopenings affect the month-end queue. The case supplies no final backlog prediction. Do not subtract thirty automatically from forty, count a second visit as another location, or close a record merely because it was referred to a professional team.</p>"
+    ],
+    [
+      "Debrief · Make the resident’s role meaningful · 1",
+      "<p>Acknowledge the observation with a case reference, explain the responsible route and provide status through the resident’s chosen accessible channel. When work is verified, explain the outcome; when more work or another authority is needed, explain what remains and who follows up. Invite relevant corrections without asking residents to undertake technical inspection.</p>"
+    ],
+    [
+      "Debrief · Make the resident’s role meaningful · 2",
+      "<p>Link repeat reports to the case while preserving new information, dates and the ability to flag worsening conditions. Do not discard repeats automatically or penalise a concerned resident. Share only appropriate service information; reporters’ identities and contact details need not appear in a public status view.</p>"
+    ],
+    [
+      "Debrief · Measure the whole process · 1",
+      "<p>Track distinct locations reached, accepted responsibility, elapsed waiting time, professional findings, verified resolutions and updates delivered. Examine which neighbourhoods or reporting formats are underrepresented. A larger report count may reflect engagement, duplicate submission or worsening conditions; a smaller count may reflect resolution, disengagement or barriers. Neither direction alone proves success.</p>"
+    ],
+    [
+      "Instructor note · 1",
+      "<p>Use four minutes for the package choice, five for the report-to-case reconciliation and six to design an understandable status route. SUS-17 matches voluntary hours to service coverage; IS-14 evaluates alert accuracy and checking cost. This case instead connects citizen contribution to accountable follow-through without treating more observations as more service delivered.</p>"
+    ]
+  ]
+}

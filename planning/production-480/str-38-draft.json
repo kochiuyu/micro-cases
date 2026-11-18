@@ -1,0 +1,180 @@
+{
+  "number": 450,
+  "code": "STR-38",
+  "slug": "customer-value-interface-toll",
+  "title": "Win the customer. Keep the value?",
+  "discipline": "Strategy and international business",
+  "topics": [
+    "Complementary assets",
+    "Value capture",
+    "Access terms"
+  ],
+  "teaser": "Customers prefer the design, but another firm controls the interface required to reach the larger channel.",
+  "alt": "Two adult product designers in a Singapore studio compare a small unbranded desktop controller and two plain channel diagrams, without fee figures, outcome arrows or real technology logos.",
+  "location": "Singapore",
+  "duration": "15–20 minutes",
+  "news_heading": "A valued design still needs access",
+  "news": "<p>Complementary-asset research distinguishes making an attractive product from controlling the resources needed to commercialise it. Interface programmes also set qualification and licensing conditions separate from customer enthusiasm. The fictional terms below illustrate that distinction; they are not the fees, practices or competitive conduct of Apple, Bluetooth SIG or another real organisation.</p>",
+  "opening": "<p>Fictional Singapore designer LumaDesk makes a desktop lighting controller. It must choose one production and sales route for the coming year. H connects to a popular fictional workstation system through its owner’s certified interface. I sells a standalone version through an independent channel. Both versions satisfy their stated functions, safety requirements and funded support obligations.</p><p>H’s interface already exists and works. The issue is access on acceptable commercial terms, not training an installer or developing missing technical capacity. The owner controls permission to use this interface. There is no compatible, properly authorised substitute that LumaDesk can qualify within the coming year. I requires none of that interface.</p><p>For the supplied one-year planning scenario, H sells 1,000 units and I sells 600. Each route leaves S$100 per unit after all its other incremental manufacturing, selling, delivery, qualification and support costs, before H’s interface access charge. I has no such charge. These are complete fictional contribution assumptions, not observed demand forecasts.</p><p>H’s preliminary worksheet carries forward the expiring interface charge of S$20 per sold unit. No new-year price protection or renewal right has been secured. The next-year quote will arrive before any commitment. I’s terms are fixed for the year. Both routes are affordable; common costs are equal and do not affect this comparison.</p><p>The same funded team can support either full route, not both. Existing orders, warranties and employee obligations are separately protected. Nothing has been committed for next year, and switching to I creates no additional exit cost. Management’s stated criterion is the highest one-year incremental contribution on the supplied volumes and complete costs.</p>",
+  "exhibit": "<table><caption>Preliminary next-year scenario</caption><thead><tr><th>Input</th><th>H</th><th>I</th></tr></thead><tbody><tr><td>Units sold</td><td>1,000</td><td>600</td></tr><tr><td>Before-access contribution/unit</td><td>S$100</td><td>S$100</td></tr><tr><td>Access charge/unit</td><td>S$20 assumed</td><td>None</td></tr></tbody></table>",
+  "exhibit_md": "| Input | H | I |\n| --- | --- | --- |\n| Units sold | 1,000 | 600 |\n| Before-access contribution/unit | S$100 | S$100 |\n| Access charge/unit | S$20 assumed | None |",
+  "q1": "Which route leads on the preliminary worksheet, and by how much? What must be secured before treating H’s extra volume as extra contribution that LumaDesk can retain?",
+  "round2": "<p>The interface owner offers renewal at S$50 per sold unit for the whole coming year. This replaces the old S$20 assumption; it is not an additional charge. There is no minimum fee, deposit or other new cost. The owner will not offer a lower rate within this decision window. No existing contract is being broken.</p><p>A separate demonstration with forty selected adult workstation users finds thirty prefer LumaDesk’s H design to the other controller shown. This is invented, nonrepresentative preference feedback, not willingness to pay, orders or a forecast of the thousand units. It does not confer access rights or change any supplied volume or margin.</p><p>The interface owner can continue serving the workstation system with other compatible products if LumaDesk declines. LumaDesk’s preferred design is not essential to the system. Acquiring the owner, bypassing qualification or building a substitute interface is not available within the funded year. I remains a feasible outside option at the unchanged 600-unit scenario.</p><p>The renewal quote is known before LumaDesk allocates production. It may accept H or choose I without harming protected commitments. No later-year growth, strategic option value, extra customer price, improved royalty offer or split-route sales may be added to the supplied comparison.</p>",
+  "q2": "Recalculate both routes and the per-unit access-charge boundary below which H strictly beats I. Explain why favourable customer feedback does not guarantee value capture, and distinguish the interface owner’s fee receipts from its profit.",
+  "sections": [
+    [
+      "Debrief · The first ranking was conditional",
+      "<p>At the old assumed charge, H contributes 1,000 × (S$100 − S$20) = S$80,000. I contributes 600 × S$100 = S$60,000. H initially leads by S$20,000, but only if the S$20 access term is available. An expired price is not a secured next-year input.</p>"
+    ],
+    [
+      "Debrief · Recompute retained contribution",
+      "<p>At S$50, H contributes 1,000 × (S$100 − S$50) = S$50,000. I remains S$60,000. Choose I under the stated one-year criterion, despite its lower volume. The access revision reduces H’s contribution by 1,000 × S$30 = S$30,000 and reverses the ranking.</p><p>The owner would receive 1,000 × S$50 = S$50,000 in access charges if H proceeds. Its costs are not supplied, so those receipts are not its profit or a calculated share of total social surplus. If LumaDesk chooses I, it sells none of these H units and pays none of those charges.</p>"
+    ],
+    [
+      "Debrief · Calculate the outside-option boundary",
+      "<p>Let r be H’s per-unit access charge. H contributes S$100,000 − 1,000r; I contributes S$60,000. H strictly beats I only when r is below S$40. At S$40 the routes tie; above S$40, I leads. S$50 exceeds this choice boundary but still leaves H with positive incremental contribution.</p><p>The S$40 boundary is LumaDesk’s comparison at the supplied volumes, not a market royalty norm, a legal fair-price test or a prediction of bargaining agreement. A zero-contribution H boundary of S$100 is a different question: management has a positive S$60,000 alternative, not only the option to earn zero.</p>"
+    ],
+    [
+      "Debrief · Locate the controlled complement",
+      "<p>Customer preference concerns the design’s usefulness or appeal. Commercial access concerns permission to combine it with the workstation system. Both matter. A valued complement can still leave its designer with less retained contribution when another party controls an essential interface and has other products available.</p><p>The bottleneck here is not physically scarce production capacity. It is access to a qualified interface without a timely authorised substitute. Owning the controller design does not confer ownership of that interface. Certification and licensing may serve legitimate interoperability and quality purposes; the case makes no allegation of abusive conduct.</p>"
+    ],
+    [
+      "Debrief · Preserve alternatives before dependence grows",
+      "<p>Before choosing a future H programme, seek defined term length, permitted uses, predictable renewal or price-adjustment arrangements, support duties and lawful exit provisions. The owner may decline those terms. Customer enthusiasm alone is not a negotiating instrument that guarantees a concession.</p><p>Developing an authorised alternative interface or retaining a standalone route may strengthen future choices, but each needs its own time, funding and demand evidence. I already exists in this exercise; it is not a free second programme run alongside H. Do not silently add later strategic benefits to overturn the stated one-year rule.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>Separate three numbers: H’s before-access S$100,000 contribution, LumaDesk’s retained S$50,000 under renewal, and the owner’s conditional S$50,000 receipts. Ask why thirty preference votes cannot turn the renewal quote into S$20. Then distinguish the S$40 outside-option boundary from the S$100 zero-contribution boundary.</p><p>STR-25 builds access to missing installer capability; STR-10 examines dependence on a large customer’s renewal. Here an existing controlled complement changes the division of commercial returns despite customer preference. All parties, quotes and quantities are fictional; no actual licence, intellectual-property conclusion or transaction is authorised.</p>"
+    ]
+  ],
+  "notes": "H1000units/I600 each100preaccess netofallother incremental costs. Oldr20 gives80000Hvs60000I;newr50replaces20 gives50000Hvs60000I,chooseI. DeltaH−30000;feeownerreceipts50000conditionalHnotprofit/costsunknown. Hstrictbetterrbelow40,equality40;zeroHcontributionr100differentoutsideoption. Allvolumesstipulatednotfrom30/40preferencefeedback. Existingcomplementcontrolledpermission;no timelyauthorisedsubstitute,ownernotdependentonourdesign. Ioutsideoptionavailable,bothfundedoneonly;noexistingrightsbroken/freeexitpenalty/extrafees/newprice/renewalpromise/dualroute/lateryearvalues. Noabuseclaim oractualcertification/licensingadvice.",
+  "sources": [
+    [
+      "https://www.edegan.com/pdfs/Teece%20%281986%29%20-%20Profiting%20From%20Technological%20Innovation%20Implications%20For%20Integration%20Collaboration%20Licensing%20And%20Public%20Policy.pdf",
+      "David J. Teece · Profiting from Technological Innovation · 1986",
+      "Original scholarly article, publicly hosted scan, distinguishes generic, specialised and co-specialised complements and who captures returns. No historical example or general result is treated as a forecast for this firm."
+    ],
+    [
+      "https://www.hbs.edu/ris/Publication%20Files/20-054_764e985d-cb0e-461b-9b6a-7bb32e007988.pdf",
+      "Carliss Y. Baldwin · Capturing Value by Controlling Bottlenecks in Open Platform Systems · 2019",
+      "Author’s original working-paper chapter analyses strategic bottlenecks and how market structure affects value division. Used conceptually without reproducing its text, figures or model; the case’s quoted fee is not derived as an equilibrium."
+    ],
+    [
+      "https://mfi.apple.com/en/faqs.html",
+      "Apple · MFi Program FAQs",
+      "Programme owner distinguishes licensed technology, certification roles and commercial terms. Royalty details are not publicly disclosed here; no fictional fee or conduct is attributed to Apple."
+    ],
+    [
+      "https://www.bluetooth.com/develop-with-bluetooth/qualify/",
+      "Bluetooth SIG · Qualify your product",
+      "Scheme owner explains product qualification responsibilities and timing separately from design availability. Not evidence of exclusive monopoly access, a per-unit royalty, or the fictional renewal terms."
+    ],
+    [
+      "https://www.wipo.int/en/web/business/assignment-licensing",
+      "WIPO · IP Assignment and Licensing",
+      "Original explanation distinguishes permission to use from ownership and describes lump-sum and recurring licence payments. Actual rights, scope and contract requirements depend on the jurisdiction and agreement; no legal determination is supplied here."
+    ]
+  ],
+  "slides": [
+    [
+      "A valued design still needs access",
+      "<p>Complementary-asset research distinguishes making an attractive product from controlling the resources needed to commercialise it. Interface programmes also set qualification and licensing conditions separate from customer enthusiasm. The fictional terms below illustrate that distinction; they are not the fees, practices or competitive conduct of Apple, Bluetooth SIG or another real organisation.</p>"
+    ],
+    [
+      "A product-channel decision",
+      "<p></p>"
+    ],
+    [
+      "Opening decision · 1",
+      "<p>Fictional Singapore designer LumaDesk makes a desktop lighting controller. It must choose one production and sales route for the coming year. H connects to a popular fictional workstation system through its owner’s certified interface. I sells a standalone version through an independent channel. Both versions satisfy their stated functions, safety requirements and funded support obligations.</p>"
+    ],
+    [
+      "Opening decision · 2",
+      "<p>H’s interface already exists and works. The issue is access on acceptable commercial terms, not training an installer or developing missing technical capacity. The owner controls permission to use this interface. There is no compatible, properly authorised substitute that LumaDesk can qualify within the coming year. I requires none of that interface.</p>"
+    ],
+    [
+      "Opening decision · 3",
+      "<p>For the supplied one-year planning scenario, H sells 1,000 units and I sells 600. Each route leaves S$100 per unit after all its other incremental manufacturing, selling, delivery, qualification and support costs, before H’s interface access charge. I has no such charge. These are complete fictional contribution assumptions, not observed demand forecasts.</p>"
+    ],
+    [
+      "Opening decision · 4",
+      "<p>H’s preliminary worksheet carries forward the expiring interface charge of S$20 per sold unit. No new-year price protection or renewal right has been secured. The next-year quote will arrive before any commitment. I’s terms are fixed for the year. Both routes are affordable; common costs are equal and do not affect this comparison.</p>"
+    ],
+    [
+      "Opening decision · 5",
+      "<p>The same funded team can support either full route, not both. Existing orders, warranties and employee obligations are separately protected. Nothing has been committed for next year, and switching to I creates no additional exit cost. Management’s stated criterion is the highest one-year incremental contribution on the supplied volumes and complete costs.</p>"
+    ],
+    [
+      "Preliminary comparison · 1",
+      "<table><caption>Preliminary next-year scenario</caption><thead><tr><th>Input</th><th>H</th><th>I</th></tr></thead><tbody><tr><td>Units sold</td><td>1,000</td><td>600</td></tr><tr><td>Before-access contribution/unit</td><td>S$100</td><td>S$100</td></tr><tr><td>Access charge/unit</td><td>S$20 assumed</td><td>None</td></tr></tbody></table>"
+    ],
+    [
+      "Your first decision · 1",
+      "<p>Which route leads on the preliminary worksheet, and by how much? What must be secured before treating H’s extra volume as extra contribution that LumaDesk can retain?</p>"
+    ],
+    [
+      "Round two · 1",
+      "<p>The interface owner offers renewal at S$50 per sold unit for the whole coming year. This replaces the old S$20 assumption; it is not an additional charge. There is no minimum fee, deposit or other new cost. The owner will not offer a lower rate within this decision window. No existing contract is being broken.</p>"
+    ],
+    [
+      "Round two · 2",
+      "<p>A separate demonstration with forty selected adult workstation users finds thirty prefer LumaDesk’s H design to the other controller shown. This is invented, nonrepresentative preference feedback, not willingness to pay, orders or a forecast of the thousand units. It does not confer access rights or change any supplied volume or margin.</p>"
+    ],
+    [
+      "Round two · 3",
+      "<p>The interface owner can continue serving the workstation system with other compatible products if LumaDesk declines. LumaDesk’s preferred design is not essential to the system. Acquiring the owner, bypassing qualification or building a substitute interface is not available within the funded year. I remains a feasible outside option at the unchanged 600-unit scenario.</p>"
+    ],
+    [
+      "Round two · 4",
+      "<p>The renewal quote is known before LumaDesk allocates production. It may accept H or choose I without harming protected commitments. No later-year growth, strategic option value, extra customer price, improved royalty offer or split-route sales may be added to the supplied comparison.</p>"
+    ],
+    [
+      "Your revised decision · 1",
+      "<p>Recalculate both routes and the per-unit access-charge boundary below which H strictly beats I. Explain why favourable customer feedback does not guarantee value capture, and distinguish the interface owner’s fee receipts from its profit.</p>"
+    ],
+    [
+      "Debrief · The first ranking was conditional · 1",
+      "<p>At the old assumed charge, H contributes 1,000 × (S$100 − S$20) = S$80,000. I contributes 600 × S$100 = S$60,000. H initially leads by S$20,000, but only if the S$20 access term is available. An expired price is not a secured next-year input.</p>"
+    ],
+    [
+      "Debrief · Recompute retained contribution · 1",
+      "<p>At S$50, H contributes 1,000 × (S$100 − S$50) = S$50,000. I remains S$60,000. Choose I under the stated one-year criterion, despite its lower volume. The access revision reduces H’s contribution by 1,000 × S$30 = S$30,000 and reverses the ranking.</p>"
+    ],
+    [
+      "Debrief · Recompute retained contribution · 2",
+      "<p>The owner would receive 1,000 × S$50 = S$50,000 in access charges if H proceeds. Its costs are not supplied, so those receipts are not its profit or a calculated share of total social surplus. If LumaDesk chooses I, it sells none of these H units and pays none of those charges.</p>"
+    ],
+    [
+      "Debrief · Calculate the outside-option boundary · 1",
+      "<p>Let r be H’s per-unit access charge. H contributes S$100,000 − 1,000r; I contributes S$60,000. H strictly beats I only when r is below S$40. At S$40 the routes tie; above S$40, I leads. S$50 exceeds this choice boundary but still leaves H with positive incremental contribution.</p>"
+    ],
+    [
+      "Debrief · Calculate the outside-option boundary · 2",
+      "<p>The S$40 boundary is LumaDesk’s comparison at the supplied volumes, not a market royalty norm, a legal fair-price test or a prediction of bargaining agreement. A zero-contribution H boundary of S$100 is a different question: management has a positive S$60,000 alternative, not only the option to earn zero.</p>"
+    ],
+    [
+      "Debrief · Locate the controlled complement · 1",
+      "<p>Customer preference concerns the design’s usefulness or appeal. Commercial access concerns permission to combine it with the workstation system. Both matter. A valued complement can still leave its designer with less retained contribution when another party controls an essential interface and has other products available.</p>"
+    ],
+    [
+      "Debrief · Locate the controlled complement · 2",
+      "<p>The bottleneck here is not physically scarce production capacity. It is access to a qualified interface without a timely authorised substitute. Owning the controller design does not confer ownership of that interface. Certification and licensing may serve legitimate interoperability and quality purposes; the case makes no allegation of abusive conduct.</p>"
+    ],
+    [
+      "Debrief · Preserve alternatives before dependence grows · 1",
+      "<p>Before choosing a future H programme, seek defined term length, permitted uses, predictable renewal or price-adjustment arrangements, support duties and lawful exit provisions. The owner may decline those terms. Customer enthusiasm alone is not a negotiating instrument that guarantees a concession.</p>"
+    ],
+    [
+      "Debrief · Preserve alternatives before dependence grows · 2",
+      "<p>Developing an authorised alternative interface or retaining a standalone route may strengthen future choices, but each needs its own time, funding and demand evidence. I already exists in this exercise; it is not a free second programme run alongside H. Do not silently add later strategic benefits to overturn the stated one-year rule.</p>"
+    ],
+    [
+      "Instructor note · 1",
+      "<p>Separate three numbers: H’s before-access S$100,000 contribution, LumaDesk’s retained S$50,000 under renewal, and the owner’s conditional S$50,000 receipts. Ask why thirty preference votes cannot turn the renewal quote into S$20. Then distinguish the S$40 outside-option boundary from the S$100 zero-contribution boundary.</p>"
+    ],
+    [
+      "Instructor note · 2",
+      "<p>STR-25 builds access to missing installer capability; STR-10 examines dependence on a large customer’s renewal. Here an existing controlled complement changes the division of commercial returns despite customer preference. All parties, quotes and quantities are fictional; no actual licence, intellectual-property conclusion or transaction is authorised.</p>"
+    ]
+  ]
+}

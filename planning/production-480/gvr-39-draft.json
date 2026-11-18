@@ -1,0 +1,164 @@
+{
+  "number": 465,
+  "code": "GVR-39",
+  "slug": "new-label-same-exposure",
+  "title": "A lower rating. A lower risk?",
+  "discipline": "Governance, law, ethics and risk",
+  "topics": [
+    "Risk assessment",
+    "Change control",
+    "Risk appetite"
+  ],
+  "teaser": "An event team reports an improved risk rating. Decide what evidence is needed before calling it within appetite.",
+  "alt": "Two adult event managers compare plain dated folders beside a small presentation projector in a Hong Kong office.",
+  "location": "Hong Kong",
+  "duration": "15–20 minutes",
+  "news_heading": "A rating needs a stable meaning",
+  "notes": "Original fictional classroom design. Harbour Forum, checkpoints, probabilities, thresholds, mitigation and approval rules are invented. The event is a projector interruption longer than ten minutes during one specified seminar. Consequence remains Major in the invented commercial-disruption scale, not a safety classification. Monday and Tuesday probability estimates are both 12%; Friday is 8%, conditional on an installed and tested backup. The four-percentage-point modeled change is not an empirically demonstrated causal effect. Old bands: low at most 5%, middle above 5% through 10%, high above 10%. New bands: low at most 10%, middle above 10% through 20%, high above 20%. For the fixed Major consequence, low maps to Moderate, middle to High, high to Critical. Thus old/new ratings are Critical/High at 12%, and High/Moderate at 8%. The board approved at most Moderate under old definitions and has not changed that underlying boundary. Reporting-template approval is not approval to accept greater exposure. No ordinal score arithmetic, total-risk percentage reduction, legal determination or actual event release follows. All mandatory safeguards remain funded. Five substantive source origins were read; overseas public-sector and technical guidance and HKEX listed-issuer guidance supply concepts, not legal duties for this private company. Krisper is a research preprint, not evidence validating the fictional probabilities. No source diagram or numerical example reproduced.",
+  "news": "<p>HKEX guidance connects risk registers with likelihood and impact assessments. HM Treasury stresses comparable criteria and transparent reporting assumptions. A category can change because exposure changed, because the classification changed, or both. This fictional private-company exercise separates those possibilities; the guidance is not its legal rulebook.</p>",
+  "opening": "<p>Fictional classroom situation. Harbour Forum, a privately owned Hong Kong events company, is preparing Friday’s board report about one seminar next month. Its register tracks the chance of a projector interruption lasting longer than ten minutes during that seminar. Only commercial presentation disruption is assessed here.</p><p>Monday’s report called the risk Critical. Friday’s draft calls it Moderate and says it is now within appetite. A backup projector was installed and tested this week, but managers also revised the reporting categories. You are the risk lead deciding whether to endorse the sentence before the board receives it.</p><p>The board previously permitted at most Moderate under the old definitions. It authorised a clearer reporting template, not a change in the exposure it would accept. Only the board can change that boundary. The deadline allows a checked clarification today; nobody needs to release the event or make a new commitment now.</p><p>All electrical, fire, accessibility, staffing and other mandatory safeguards remain fully funded and unchanged. There is no active emergency. The backup concerns presentation continuity, not permission to weaken those protections. No real company, equipment-effectiveness estimate or legal approval is represented.</p>",
+  "exhibit": "<table><thead><tr><th>Report</th><th>Displayed rating</th><th>Known change</th></tr></thead><tbody><tr><td>Monday</td><td>Critical</td><td>Old template</td></tr><tr><td>Friday draft</td><td>Moderate</td><td>New template; tested backup</td></tr></tbody></table>",
+  "exhibit_md": "| Report | Displayed rating | Known change |\n|---|---|---|\n| Monday | Critical | Old template |\n| Friday draft | Moderate | New template; tested backup |",
+  "q1": "Would you endorse “now within appetite” from this evidence? Specify the minimum comparison and approval records you need, without assuming the backup did nothing or that a lower label proves success.",
+  "round2": "<p>The audit trail supplies three checkpoints for the same future seminar, event definition and Major commercial consequence. Monday’s assessed probability was 12%. Tuesday’s was still 12%, with unchanged equipment and safeguards. Friday’s estimate is 8%, conditional on the backup being installed and its functional test completed.</p><p>The installed backup and test are verified facts. The 8% is the assessor’s revised planning estimate, not an observed event frequency or experimental effect. No confidence interval is supplied. All other assessment assumptions and the consequence category are held constant for this exercise.</p><p>The old likelihood bands were Low: at most 5%; Middle: above 5% through 10%; High: above 10%. The new bands are Low: at most 10%; Middle: above 10% through 20%; High: above 20%. Percentages refer to the defined interruption during this one seminar, not annual frequency.</p><p>For the fixed Major consequence, both versions map Low likelihood to Moderate risk, Middle to High risk, and High to Critical risk. These are ordered labels, not numerical scores. Tuesday introduced the new bands before the backup was installed. No board decision changed the old underlying appetite boundary.</p>",
+  "q2": "Build a Monday–Tuesday–Friday bridge separating reclassification from the revised exposure estimate. Rate Friday using both versions. What should the report say about mitigation and the original appetite boundary, and what needs escalation?",
+  "sections": [
+    [
+      "Keep one basis for comparison",
+      "<p>At 12%, the old bands give High likelihood and Critical risk. The new bands give Middle likelihood and High risk. Monday to Tuesday therefore moves the displayed rating from Critical to High without any change in the supplied exposure estimate or controls.</p><p>At 8%, the new bands give Low likelihood and Moderate risk. Friday’s further displayed improvement accompanies the installed backup and a revised estimate. Reapplying the old bands gives Middle likelihood and High risk. Comparing Monday and Friday solely by their different-version labels hides the classification change.</p>"
+    ],
+    [
+      "Report improvement without overstating it",
+      "<p>The assessed probability fell from 12% to 8%, a four-percentage-point modeled reduction for the same event. Record the completed backup and test separately from that estimate. Do not claim the test proves the true probability is 8% or that the company’s total risk fell by a measured percentage.</p><p>Do not subtract Critical from Moderate or call the label movement a percentage improvement. Category ranks are not equal units of exposure. Retain the underlying probability estimate, consequence definition, assumptions and uncertainty alongside the convenient summary label.</p>"
+    ],
+    [
+      "Respect the unchanged boundary",
+      "<p>The original Moderate boundary for this consequence meant a probability no greater than 5%. Friday’s 8% estimate does not meet it. The new Moderate label covers a wider probability range; approving the template did not authorise that extra exposure.</p><p>Revise the report: the backup is installed and tested, the assessed probability is lower, but the current assessment remains outside the original boundary. Escalate further treatment, deferral or an explicitly authorised appetite decision. No additional control effectiveness, funding or approval should be invented.</p>"
+    ],
+    [
+      "Make the bridge auditable",
+      "<p>Keep both dated matrix versions, raw estimates, consequence definitions, control completion evidence and the authority for each change. Name the assessment owner and reviewer. Show the current risk under both definitions during transition rather than silently rewriting the historical series.</p><p>The board may legitimately reconsider appetite, but that is a separate, explicit governance decision with reasons and safeguards. It is neither achieved by relabelling nor supplied by this classroom recommendation. Future monitoring should test the assumptions and control performance, not merely watch the colour of the register.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>Ask for evidence before revealing the bands. Then require the same 8% to be classified under both versions. Credit recognition of genuine control completion without accepting an unsupported within-appetite claim. This is a reporting-change problem, not a choice between expected loss and tail capacity or a calculation aggregating different risks.</p>"
+    ]
+  ],
+  "sources": [
+    [
+      "https://www.hkex.com.hk/Listing/Sustainability/Corporate-Governance-Practices/Risk-Management-and-Internal-Controls/Risk-management?sc_lang=en",
+      "HKEX · Risk management",
+      "Substantive assessment, monitoring and heat-map guidance. Listed-issuer context, not a private-company legal requirement."
+    ],
+    [
+      "https://www.gov.uk/government/publications/orange-book/the-orange-book-management-of-risk-principles-and-concepts",
+      "HM Treasury · The Orange Book",
+      "D3–D6 and D13–D15 address consistent criteria, appetite and transparent reporting assumptions. UK public-sector context."
+    ],
+    [
+      "https://www.nasa.gov/reference/6-4-technical-risk-management/",
+      "NASA · 6.4 Technical Risk Management",
+      "Monitoring, mitigation and documented assumptions and decisions inform the control-evidence discussion; no projector efficacy claim."
+    ],
+    [
+      "https://www.gao.gov/assets/900/890830.pdf",
+      "US GAO · Summary of Key Changes in the 2025 Green Book Revision",
+      "Substantive sections on documented risk assessment and change assessment. Federal internal-control context, not applicable Hong Kong law."
+    ],
+    [
+      "https://arxiv.org/html/2103.05440",
+      "Michael Krisper · Problems with Risk Matrices Using Ordinal Scales · 2021 preprint",
+      "Sections on classification ranges, uncertainty and ordinal arithmetic inform the limits of category comparisons. The case does not reproduce the paper’s examples."
+    ]
+  ],
+  "slides": [
+    [
+      "A rating needs a stable meaning",
+      "<p>HKEX guidance connects risk registers with likelihood and impact assessments. HM Treasury stresses comparable criteria and transparent reporting assumptions. A category can change because exposure changed, because the classification changed, or both. This fictional private-company exercise separates those possibilities; the guidance is not its legal rulebook.</p>"
+    ],
+    [
+      "The opening decision",
+      "<p></p>"
+    ],
+    [
+      "Opening decision · 1",
+      "<p>Fictional classroom situation. Harbour Forum, a privately owned Hong Kong events company, is preparing Friday’s board report about one seminar next month. Its register tracks the chance of a projector interruption lasting longer than ten minutes during that seminar. Only commercial presentation disruption is assessed here.</p>"
+    ],
+    [
+      "Opening decision · 2",
+      "<p>Monday’s report called the risk Critical. Friday’s draft calls it Moderate and says it is now within appetite. A backup projector was installed and tested this week, but managers also revised the reporting categories. You are the risk lead deciding whether to endorse the sentence before the board receives it.</p>"
+    ],
+    [
+      "Opening decision · 3",
+      "<p>The board previously permitted at most Moderate under the old definitions. It authorised a clearer reporting template, not a change in the exposure it would accept. Only the board can change that boundary. The deadline allows a checked clarification today; nobody needs to release the event or make a new commitment now.</p>"
+    ],
+    [
+      "Opening decision · 4",
+      "<p>All electrical, fire, accessibility, staffing and other mandatory safeguards remain fully funded and unchanged. There is no active emergency. The backup concerns presentation continuity, not permission to weaken those protections. No real company, equipment-effectiveness estimate or legal approval is represented.</p>"
+    ],
+    [
+      "Evidence",
+      "<table><thead><tr><th>Report</th><th>Displayed rating</th><th>Known change</th></tr></thead><tbody><tr><td>Monday</td><td>Critical</td><td>Old template</td></tr><tr><td>Friday draft</td><td>Moderate</td><td>New template; tested backup</td></tr></tbody></table>"
+    ],
+    [
+      "Your first decision",
+      "<p>Would you endorse “now within appetite” from this evidence? Specify the minimum comparison and approval records you need, without assuming the backup did nothing or that a lower label proves success.</p>"
+    ],
+    [
+      "Round two · 1",
+      "<p>The audit trail supplies three checkpoints for the same future seminar, event definition and Major commercial consequence. Monday’s assessed probability was 12%. Tuesday’s was still 12%, with unchanged equipment and safeguards. Friday’s estimate is 8%, conditional on the backup being installed and its functional test completed.</p>"
+    ],
+    [
+      "Round two · 2",
+      "<p>The installed backup and test are verified facts. The 8% is the assessor’s revised planning estimate, not an observed event frequency or experimental effect. No confidence interval is supplied. All other assessment assumptions and the consequence category are held constant for this exercise.</p>"
+    ],
+    [
+      "Round two · 3",
+      "<p>The old likelihood bands were Low: at most 5%; Middle: above 5% through 10%; High: above 10%. The new bands are Low: at most 10%; Middle: above 10% through 20%; High: above 20%. Percentages refer to the defined interruption during this one seminar, not annual frequency.</p>"
+    ],
+    [
+      "Round two · 4",
+      "<p>For the fixed Major consequence, both versions map Low likelihood to Moderate risk, Middle to High risk, and High to Critical risk. These are ordered labels, not numerical scores. Tuesday introduced the new bands before the backup was installed. No board decision changed the old underlying appetite boundary.</p>"
+    ],
+    [
+      "Your revised decision",
+      "<p>Build a Monday–Tuesday–Friday bridge separating reclassification from the revised exposure estimate. Rate Friday using both versions. What should the report say about mitigation and the original appetite boundary, and what needs escalation?</p>"
+    ],
+    [
+      "Keep one basis for comparison · 1",
+      "<p>At 12%, the old bands give High likelihood and Critical risk. The new bands give Middle likelihood and High risk. Monday to Tuesday therefore moves the displayed rating from Critical to High without any change in the supplied exposure estimate or controls.</p>"
+    ],
+    [
+      "Keep one basis for comparison · 2",
+      "<p>At 8%, the new bands give Low likelihood and Moderate risk. Friday’s further displayed improvement accompanies the installed backup and a revised estimate. Reapplying the old bands gives Middle likelihood and High risk. Comparing Monday and Friday solely by their different-version labels hides the classification change.</p>"
+    ],
+    [
+      "Report improvement without overstating it · 1",
+      "<p>The assessed probability fell from 12% to 8%, a four-percentage-point modeled reduction for the same event. Record the completed backup and test separately from that estimate. Do not claim the test proves the true probability is 8% or that the company’s total risk fell by a measured percentage.</p>"
+    ],
+    [
+      "Report improvement without overstating it · 2",
+      "<p>Do not subtract Critical from Moderate or call the label movement a percentage improvement. Category ranks are not equal units of exposure. Retain the underlying probability estimate, consequence definition, assumptions and uncertainty alongside the convenient summary label.</p>"
+    ],
+    [
+      "Respect the unchanged boundary · 1",
+      "<p>The original Moderate boundary for this consequence meant a probability no greater than 5%. Friday’s 8% estimate does not meet it. The new Moderate label covers a wider probability range; approving the template did not authorise that extra exposure.</p>"
+    ],
+    [
+      "Respect the unchanged boundary · 2",
+      "<p>Revise the report: the backup is installed and tested, the assessed probability is lower, but the current assessment remains outside the original boundary. Escalate further treatment, deferral or an explicitly authorised appetite decision. No additional control effectiveness, funding or approval should be invented.</p>"
+    ],
+    [
+      "Make the bridge auditable · 1",
+      "<p>Keep both dated matrix versions, raw estimates, consequence definitions, control completion evidence and the authority for each change. Name the assessment owner and reviewer. Show the current risk under both definitions during transition rather than silently rewriting the historical series.</p>"
+    ],
+    [
+      "Make the bridge auditable · 2",
+      "<p>The board may legitimately reconsider appetite, but that is a separate, explicit governance decision with reasons and safeguards. It is neither achieved by relabelling nor supplied by this classroom recommendation. Future monitoring should test the assumptions and control performance, not merely watch the colour of the register.</p>"
+    ],
+    [
+      "Instructor note · 1",
+      "<p>Ask for evidence before revealing the bands. Then require the same 8% to be classified under both versions. Credit recognition of genuine control completion without accepting an unsupported within-appetite claim. This is a reporting-change problem, not a choice between expected loss and tail capacity or a calculation aggregating different risks.</p>"
+    ]
+  ]
+}

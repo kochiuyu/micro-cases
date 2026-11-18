@@ -1,0 +1,184 @@
+{
+  "number": 449,
+  "code": "PPL-38",
+  "slug": "same-meeting-different-burden",
+  "title": "Same meeting. Different burden.",
+  "discipline": "People, leadership and organisational behaviour",
+  "topics": [
+    "Time-zone coordination",
+    "Meeting burden",
+    "Asynchronous collaboration"
+  ],
+  "teaser": "Everyone attended, but one office kept preparing early. Can a team share necessary inconvenience and remove meetings that do not need to be live?",
+  "alt": "Adult colleagues in two bright office settings join a calm video discussion with blank calendar blocks and a shared document, without readable time labels or anyone depicted working at night.",
+  "location": "Hong Kong and Europe",
+  "duration": "15–20 minutes",
+  "news_heading": "The invitation does not show the whole burden",
+  "news": "<p>Equal invitations can conceal unequal coordination costs. A distributed team must distinguish work that needs a live exchange from work that can proceed in writing, then account for preparation as well as meeting time. The offices, schedules and counts below are fictional, not evidence that one time-zone policy suits every team.</p>",
+  "opening": "<p>You lead fictional Harbour Studio’s six-person digital-exhibition team: three adult colleagues in Hong Kong and three in its central European office. For this six-week winter exercise, Hong Kong is UTC+8 and the European office UTC+1 throughout. There are no clock changes or holidays. The team is scheduling its next six weekly project reviews.</p><p>All work must stay within each person’s agreed paid schedule, rest requirements and local 08:00–18:00 outer boundary. Each colleague has voluntarily confirmed that either supplied slot can be arranged within those protections without extra weekly hours. Everyone prefers 09:00–17:00. The wider boundary is not a ten-hour shift or permission for unpaid availability.</p><p>Each proposed live review lasts thirty minutes and involves all six roles. Slot E starts at 09:00 in Europe and 16:00 in Hong Kong. Slot H starts at 10:00 in Europe and 17:00 in Hong Kong. F fixes all six reviews at E; R alternates three E and three H reviews, published in advance.</p><p>All six people attended each of the previous six E reviews. The manager takes that as evidence that a fixed slot works equally well for both offices. No one has yet checked preparation time or which upcoming agendas need live discussion. Both F and R are operationally possible; attendance is not a performance rating.</p><p>Accessible written updates and comments can be completed within each person’s paid schedule. Nobody must monitor messages outside it. For any unavailable live contributor, collect their input beforehand and allow a response before a decision closes. If essential exchange cannot be achieved, defer that item; do not treat silence as consent or require someone to break a protected boundary.</p>",
+  "exhibit": "<table><caption>Local live-review times</caption><thead><tr><th>Slot</th><th>Europe</th><th>Hong Kong</th></tr></thead><tbody><tr><td>E</td><td>09:00–09:30</td><td>16:00–16:30</td></tr><tr><td>H</td><td>10:00–10:30</td><td>17:00–17:30</td></tr></tbody></table>",
+  "exhibit_md": "| Slot | Europe | Hong Kong |\n| --- | --- | --- |\n| E | 09:00–09:30 | 16:00–16:30 |\n| H | 10:00–10:30 | 17:00–17:30 |",
+  "q1": "Would you provisionally choose F or R? What does full attendance establish, and what does it leave unknown about burden? Identify the work and availability information needed before confirming all six live reviews.",
+  "round2": "<p>Each live review requires every participant to spend thirty minutes immediately beforehand checking a fresh comparison file. The file becomes available only then under this fictional workflow. E therefore requires European preparation at 08:30–09:00; H requires Hong Kong attendance at 17:00–17:30. Each is thirty minutes outside that office’s preferred band, but within the agreed paid protections.</p><p>For the earlier six E reviews, all three European colleagues did that early preparation each time. Hong Kong preparation and attendance stayed within 09:00–17:00. Both offices report that these outside-preference periods are inconvenient, although feasible. No individual is asked to disclose private reasons. Count the stated minutes as a scheduling indicator, not a measure of personal distress.</p><p>The upcoming six agendas comprise four genuine joint-design decisions needing rapid questions between all six roles, plus two routine status updates. The team confirms the status updates can be completed in a shared document during preferred paid hours. Their full writing and review effort is funded; this change is not claimed to eliminate work.</p><p>For the four live decisions, two E and two H slots fit everyone’s confirmed availability. Publish them now, retain the written contribution route and replace the two status calls with asynchronous updates. Their response windows include a full paid working day for both offices before closure. No project deadline, mandatory check or employee protection is waived.</p>",
+  "q2": "Compare outside-preference person-hours for six fixed E reviews, six evenly rotated reviews, and the revised four-review rotation. Does rotation reduce the burden total by itself? Recommend a schedule and explain why equal counted minutes do not prove equal personal impact.",
+  "sections": [
+    [
+      "Debrief · Attendance is not comfort",
+      "<p>Thirty-six attendances across six meetings show that six people appeared each time. They do not establish equal convenience, adequate preparation or a preferred schedule. The previous record omits European preparation before 09:00. Count necessary work surrounding the invitation, and ask about feasibility and preferences without turning personal explanations into personnel data.</p><p>The two offices are seven hours apart under the supplied winter offsets. E preparation is 08:30–09:00 in Europe and 15:30–16:00 in Hong Kong. H preparation is 09:30–10:00 in Europe and 16:30–17:00 in Hong Kong. Only E’s European preparation and H’s Hong Kong meeting extend outside the preferred band.</p>"
+    ],
+    [
+      "Debrief · Count people as well as minutes",
+      "<p>For six E reviews, the European burden is 6 × 3 people × 0.5 hour = 9 person-hours; Hong Kong has zero. Each European colleague has three hours outside preference over the six reviews. These are paid hours already scheduled, not overtime, wage loss or nine extra hours per person.</p><p>With three E and three H reviews, Europe has 3 × 3 × 0.5 = 4.5 person-hours and Hong Kong also has 4.5. The total remains nine. Rotation redistributes the stated timing burden; it does not remove it. A changing slot also needs a clear calendar so people can plan.</p>"
+    ],
+    [
+      "Debrief · Remove avoidable live demand",
+      "<p>Replacing two status calls leaves four necessary live reviews. With two E and two H, each office has 2 × 3 × 0.5 = 3 outside-preference person-hours, six in total. Compared with six rotated reviews, the counted burden falls by three person-hours. The asynchronous work remains paid work and is not assigned zero effort.</p><p>Recommend the revised four-review rotation plus two documented updates. Live discussion is justified by the stated joint-design need, not by habit. Written status updates can preserve information without requiring everyone at the same instant. A response deadline must actually accommodate both offices’ working days, not merely give everyone the same number of clock hours.</p>"
+    ],
+    [
+      "Debrief · Fairness is not identical arithmetic",
+      "<p>Three person-hours per office is a useful distribution check, not proof of equal welfare. Individual circumstances, energy and task demands can differ. Retain private availability checks, voluntary agreed adjustments and a route to raise concerns without penalty. Never trade away rest or an individual’s protected boundary to make office totals look symmetrical.</p><p>Keep the agenda and decision record accessible. Invite written questions before the live exchange and capture reasons and unresolved issues afterward. If a person cannot attend, use the agreed input-and-response route; if that cannot satisfy an essential interaction, reschedule or defer the decision rather than pretending a recording equals participation.</p>"
+    ],
+    [
+      "Debrief · Review the design, not the people",
+      "<p>After the cycle, review actual preparation, attendance and timing alongside whether decisions were informed and updates were understood. Ask whether the advance schedule and contribution route worked. Do not rank employees by early attendance, late replies or willingness to absorb inconvenience. Do not infer a causal productivity improvement from one six-week trial.</p><p>Recheck offsets, holidays, local protections and individual availability before reusing the calendar in another season. The fixed offsets here deliberately remove daylight-saving arithmetic. A global policy cannot assume that the same UTC slot produces the same local time throughout the year.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>Minutes 0–5: compare fixed and rotating slots. Minutes 5–10: reveal preparation and classify the agendas. Minutes 10–15: calculate person-hours and propose the revised schedule. Ask students to distinguish reducing unnecessary live work from redistributing unavoidable inconvenience.</p><p>PPL-06 addresses physical overlap for a prototype; PPL-27 addresses roster notice and usable shift flexibility. Here the mechanism is repeated cross-time-zone burden and choosing live versus written coordination. All work remains paid and within protected hours; the exercise is not permission to change real employment terms or diagnose colleagues.</p>"
+    ]
+  ],
+  "notes": "All team, offsets, schedules, preparation need and availability fictional. Fixed UTC+8 andUTC+1 throughout, no clockchange orholiday. Protected local08–18 is outeravailability nottenhourshift; preferred09–17. Agreedpaidweeklyhours andrest unchanged, voluntaryconfirmedslots andfallback. Threepeopleperoffice, thirtyminuteprep immediatelybefore thirtyminutecall. EburdenEuropeprep08:30–09; HburdenHKcall17–17:30. SixE9personhoursEurope; sixrotated4.5each; fourrotated3each. Asyncstatusworkfundedwithinpreferredhours, no zerosavedwork assumption. No actualscheduling action or legalconclusion.",
+  "sources": [
+    [
+      "https://www.microsoft.com/en-us/research/articles/a-guide-to-having-better-remote-meetings-by-being-more-intentional/",
+      "Microsoft Research · A guide to having better remote meetings by being more intentional",
+      "Original practice guidance explicitly considers preparation, time zones, shared early/late burden and asynchronous alternatives. It does not establish a causal benefit for this fictional rotation."
+    ],
+    [
+      "https://handbook.gitlab.com/handbook/company/culture/all-remote/meetings/",
+      "GitLab Handbook · All-Remote Meetings",
+      "First-party operating guidance discusses necessary meetings, advance agendas, time-zone checks and documented asynchronous contribution. Its company-specific timings, tools and recording practices are not imposed here."
+    ],
+    [
+      "https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40ed_protect/%40protrav/%40travail/documents/publication/wcms_864222.pdf",
+      "ILO · Working Time and Work-Life Balance Around the World · 2023",
+      "The report distinguishes hours from working-time arrangements and discusses worker influence, predictability and protection of non-working time. It is not a statement of applicable local employment law."
+    ],
+    [
+      "https://cdn.zapier.com/storage/learn_ebooks/b8a9bc98ff52fda88db96f92225c126c.pdf",
+      "Zapier · The Ultimate Guide to Remote Work · Chapter10",
+      "Historical first-party account illustrates time-zone and daylight-saving difficulties and asynchronous work design. Its suggestion that distant workers absorb more flexibility is not adopted; this case preserves individual protections and shares necessary burden."
+    ],
+    [
+      "https://www.eurofound.europa.eu/data/publications/all/working-anytime-anywhere-the-quality-of-working-time-in-the-eu",
+      "Eurofound · Working anytime, anywhere: The quality of working time in the EU",
+      "The agency’s public findings distinguish flexibility from autonomy and identify risks around fragmented work and constant availability. European evidence does not quantify this team’s personal burden or establish a local legal rule."
+    ]
+  ],
+  "slides": [
+    [
+      "The invitation does not show the whole burden",
+      "<p>Equal invitations can conceal unequal coordination costs. A distributed team must distinguish work that needs a live exchange from work that can proceed in writing, then account for preparation as well as meeting time. The offices, schedules and counts below are fictional, not evidence that one time-zone policy suits every team.</p>"
+    ],
+    [
+      "Two offices, shared work",
+      "<p></p>"
+    ],
+    [
+      "Two offices, one project",
+      "<p>You lead fictional Harbour Studio’s six-person digital-exhibition team: three adult colleagues in Hong Kong and three in its central European office. For this six-week winter exercise, Hong Kong is UTC+8 and the European office UTC+1 throughout. There are no clock changes or holidays. The team is scheduling its next six weekly project reviews.</p>"
+    ],
+    [
+      "Protected time comes first",
+      "<p>All work must stay within each person’s agreed paid schedule, rest requirements and local 08:00–18:00 outer boundary. Each colleague has voluntarily confirmed that either supplied slot can be arranged within those protections without extra weekly hours. Everyone prefers 09:00–17:00. The wider boundary is not a ten-hour shift or permission for unpaid availability.</p>"
+    ],
+    [
+      "Two scheduling proposals",
+      "<p>Each proposed live review lasts thirty minutes and involves all six roles. Slot E starts at 09:00 in Europe and 16:00 in Hong Kong. Slot H starts at 10:00 in Europe and 17:00 in Hong Kong. F fixes all six reviews at E; R alternates three E and three H reviews, published in advance.</p>"
+    ],
+    [
+      "What the attendance record shows",
+      "<p>All six people attended each of the previous six E reviews. The manager takes that as evidence that a fixed slot works equally well for both offices. No one has yet checked preparation time or which upcoming agendas need live discussion. Both F and R are operationally possible; attendance is not a performance rating.</p>"
+    ],
+    [
+      "An alternative contribution route",
+      "<p>Accessible written updates and comments can be completed within each person’s paid schedule. Nobody must monitor messages outside it. For any unavailable live contributor, collect their input beforehand and allow a response before a decision closes. If essential exchange cannot be achieved, defer that item; do not treat silence as consent or require someone to break a protected boundary.</p>"
+    ],
+    [
+      "The two live slots",
+      "<table><caption>Local live-review times</caption><thead><tr><th>Slot</th><th>Europe</th><th>Hong Kong</th></tr></thead><tbody><tr><td>E</td><td>09:00–09:30</td><td>16:00–16:30</td></tr><tr><td>H</td><td>10:00–10:30</td><td>17:00–17:30</td></tr></tbody></table>"
+    ],
+    [
+      "First decision",
+      "<p>Would you provisionally choose F or R? What does full attendance establish, and what does it leave unknown about burden? Identify the work and availability information needed before confirming all six live reviews.</p>"
+    ],
+    [
+      "Preparation was missing from the count",
+      "<p>Each live review requires every participant to spend thirty minutes immediately beforehand checking a fresh comparison file. The file becomes available only then under this fictional workflow. E therefore requires European preparation at 08:30–09:00; H requires Hong Kong attendance at 17:00–17:30. Each is thirty minutes outside that office’s preferred band, but within the agreed paid protections.</p>"
+    ],
+    [
+      "The same pattern repeated",
+      "<p>For the earlier six E reviews, all three European colleagues did that early preparation each time. Hong Kong preparation and attendance stayed within 09:00–17:00. Both offices report that these outside-preference periods are inconvenient, although feasible. No individual is asked to disclose private reasons. Count the stated minutes as a scheduling indicator, not a measure of personal distress.</p>"
+    ],
+    [
+      "Not every agenda needs a live slot",
+      "<p>The upcoming six agendas comprise four genuine joint-design decisions needing rapid questions between all six roles, plus two routine status updates. The team confirms the status updates can be completed in a shared document during preferred paid hours. Their full writing and review effort is funded; this change is not claimed to eliminate work.</p>"
+    ],
+    [
+      "A revised plan is feasible",
+      "<p>For the four live decisions, two E and two H slots fit everyone’s confirmed availability. Publish them now, retain the written contribution route and replace the two status calls with asynchronous updates. Their response windows include a full paid working day for both offices before closure. No project deadline, mandatory check or employee protection is waived.</p>"
+    ],
+    [
+      "Second decision",
+      "<p>Compare outside-preference person-hours for six fixed E reviews, six evenly rotated reviews, and the revised four-review rotation. Does rotation reduce the burden total by itself? Recommend a schedule and explain why equal counted minutes do not prove equal personal impact.</p>"
+    ],
+    [
+      "Debrief · Attendance is not comfort · 1",
+      "<p>Thirty-six attendances across six meetings show that six people appeared each time. They do not establish equal convenience, adequate preparation or a preferred schedule. The previous record omits European preparation before 09:00. Count necessary work surrounding the invitation, and ask about feasibility and preferences without turning personal explanations into personnel data.</p>"
+    ],
+    [
+      "Debrief · Attendance is not comfort · 2",
+      "<p>The two offices are seven hours apart under the supplied winter offsets. E preparation is 08:30–09:00 in Europe and 15:30–16:00 in Hong Kong. H preparation is 09:30–10:00 in Europe and 16:30–17:00 in Hong Kong. Only E’s European preparation and H’s Hong Kong meeting extend outside the preferred band.</p>"
+    ],
+    [
+      "Debrief · Count people as well as minutes · 1",
+      "<p>For six E reviews, the European burden is 6 × 3 people × 0.5 hour = 9 person-hours; Hong Kong has zero. Each European colleague has three hours outside preference over the six reviews. These are paid hours already scheduled, not overtime, wage loss or nine extra hours per person.</p>"
+    ],
+    [
+      "Debrief · Count people as well as minutes · 2",
+      "<p>With three E and three H reviews, Europe has 3 × 3 × 0.5 = 4.5 person-hours and Hong Kong also has 4.5. The total remains nine. Rotation redistributes the stated timing burden; it does not remove it. A changing slot also needs a clear calendar so people can plan.</p>"
+    ],
+    [
+      "Debrief · Remove avoidable live demand · 1",
+      "<p>Replacing two status calls leaves four necessary live reviews. With two E and two H, each office has 2 × 3 × 0.5 = 3 outside-preference person-hours, six in total. Compared with six rotated reviews, the counted burden falls by three person-hours. The asynchronous work remains paid work and is not assigned zero effort.</p>"
+    ],
+    [
+      "Debrief · Remove avoidable live demand · 2",
+      "<p>Recommend the revised four-review rotation plus two documented updates. Live discussion is justified by the stated joint-design need, not by habit. Written status updates can preserve information without requiring everyone at the same instant. A response deadline must actually accommodate both offices’ working days, not merely give everyone the same number of clock hours.</p>"
+    ],
+    [
+      "Debrief · Fairness is not identical arithmetic · 1",
+      "<p>Three person-hours per office is a useful distribution check, not proof of equal welfare. Individual circumstances, energy and task demands can differ. Retain private availability checks, voluntary agreed adjustments and a route to raise concerns without penalty. Never trade away rest or an individual’s protected boundary to make office totals look symmetrical.</p>"
+    ],
+    [
+      "Debrief · Fairness is not identical arithmetic · 2",
+      "<p>Keep the agenda and decision record accessible. Invite written questions before the live exchange and capture reasons and unresolved issues afterward. If a person cannot attend, use the agreed input-and-response route; if that cannot satisfy an essential interaction, reschedule or defer the decision rather than pretending a recording equals participation.</p>"
+    ],
+    [
+      "Debrief · Review the design, not the people · 1",
+      "<p>After the cycle, review actual preparation, attendance and timing alongside whether decisions were informed and updates were understood. Ask whether the advance schedule and contribution route worked. Do not rank employees by early attendance, late replies or willingness to absorb inconvenience. Do not infer a causal productivity improvement from one six-week trial.</p>"
+    ],
+    [
+      "Debrief · Review the design, not the people · 2",
+      "<p>Recheck offsets, holidays, local protections and individual availability before reusing the calendar in another season. The fixed offsets here deliberately remove daylight-saving arithmetic. A global policy cannot assume that the same UTC slot produces the same local time throughout the year.</p>"
+    ],
+    [
+      "Instructor note · 1",
+      "<p>Minutes 0–5: compare fixed and rotating slots. Minutes 5–10: reveal preparation and classify the agendas. Minutes 10–15: calculate person-hours and propose the revised schedule. Ask students to distinguish reducing unnecessary live work from redistributing unavoidable inconvenience.</p>"
+    ],
+    [
+      "Instructor note · 2",
+      "<p>PPL-06 addresses physical overlap for a prototype; PPL-27 addresses roster notice and usable shift flexibility. Here the mechanism is repeated cross-time-zone burden and choosing live versus written coordination. All work remains paid and within protected hours; the exercise is not permission to change real employment terms or diagnose colleagues.</p>"
+    ]
+  ]
+}
