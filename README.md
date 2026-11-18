@@ -1774,3 +1774,147 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## HSP-37
 
 444. [A full programme. A complete guest journey?](full-programme-complete-journey.html)
+
+## ACC-38
+
+445. [Rent paid. No obligation on the statement?](rent-paid-obligation-recognised.html)
+
+## FIN-38
+
+446. [A sales forecast. How much working capital?](faster-payment-more-stock.html)
+
+## MKT-38
+
+447. [The customer left. Which offer deserves a return?](why-the-member-left.html)
+
+## OPS-38
+
+448. [The best supplier score. The missing condition.](best-score-missing-condition.html)
+
+## PPL-38
+
+449. [Same meeting. Different burden.](same-meeting-different-burden.html)
+
+## STR-38
+
+450. [Win the customer. Keep the value?](customer-value-interface-toll.html)
+
+## ENT-38
+
+451. [Repeat purchases. Or one customer’s experiment?](repeat-orders-experimental-budget.html)
+
+## IS-38
+
+452. [The recommendation changes demand. What will the next model learn?](recommendation-shapes-next-training-set.html)
+
+## GVR-38
+
+453. [A sanction list match. The same person?](name-match-ownership-hold.html)
+
+## SUS-38
+
+454. [A local success. A displaced pressure?](local-reduction-displaced-pressure.html)
+
+## ECO-38
+
+455. [The queue chose it. Did the queue know more?](the-queue-chose-it.html)
+
+## HSP-38
+
+456. [Visible care. A usable lobby?](visible-care-usable-lobby.html)
+
+## ACC-39
+
+457. [More packs sold. Why less revenue?](more-packs-less-revenue.html)
+
+## FIN-39
+
+458. [A reward for early repayment. After which fee?](early-repayment-after-which-fee.html)
+
+## MKT-39
+
+459. [More stockists. More of the category market?](more-stockists-more-category.html)
+
+## OPS-39
+
+460. [A shorter task. More handoffs.](shorter-task-more-handoffs.html)
+
+## PPL-39
+
+461. [Excellent alone. Ready to work together?](excellent-alone-ready-together.html)
+
+## STR-39
+
+462. [Next door. Closer to operate?](next-door-closer-to-operate.html)
+
+## ENT-39
+
+463. [Family wealth. One business, several owners’ needs.](family-wealth-different-cash-needs.html)
+
+## IS-39
+
+464. [A failed payment. A failed checkout?](payment-success-booking-success.html)
+
+## GVR-39
+
+465. [A lower rating. A lower risk?](new-label-same-exposure.html)
+
+## SUS-39
+
+466. [Citizens report it. Who closes the loop?](citizens-report-who-closes-loop.html)
+
+## ECO-39
+
+467. [A larger rebate. A smaller reason to save?](rebate-before-the-baseline.html)
+
+## HSP-39
+
+468. [A group booking. Who may change it?](a-group-booking-who-may-change-it.html)
+
+## ACC-40
+
+469. [A reassuring reply. Evidence from whom?](reassuring-reply-evidence-from-whom.html)
+
+## FIN-40
+
+470. [The same payout. The same value for whom?](same-payout-different-shareholders.html)
+
+## MKT-40
+
+471. [More members. Who answers next?](members-grow-contributors-tire.html)
+
+## OPS-40
+
+472. [Standardise the input. Keep the exception visible.](standard-input-visible-exception.html)
+
+## PPL-40
+
+473. [Helpful connection. A narrow recruitment pool.](helpful-connection-narrow-pool.html)
+
+## STR-40
+
+474. [Different customers. The same reusable capability?](different-customers-reusable-capability.html)
+
+## ENT-40
+
+475. [Spent six months. Fund one more?](spent-six-months-fund-one-more.html)
+
+## IS-40
+
+476. [The old screen returns. What has not rolled back?](old-screen-new-invoices.html)
+
+## GVR-40
+
+477. [A new adviser. An old matter?](new-role-old-matter.html)
+
+## SUS-40
+
+478. [A certified share. A certified item?](certified-share-certified-item.html)
+
+## ECO-40
+
+479. [The same expected payoff. The same choice?](same-average-different-risk-choice.html)
+
+## HSP-40
+
+480. [A great last moment. A better whole visit?](great-last-moment-better-whole-visit.html)

@@ -486,3 +486,39 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 442 | SUS-37 | [which-weights-made-it-better.html](../which-weights-made-it-better.html) | Better results. Which weights made them better? |
 | 443 | ECO-37 | [another-cafe-choice-duplicated-cost.html](../another-cafe-choice-duplicated-cost.html) | One more café. More choice or duplicated cost? |
 | 444 | HSP-37 | [full-programme-complete-journey.html](../full-programme-complete-journey.html) | A full programme. A complete guest journey? |
+| 445 | ACC-38 | [rent-paid-obligation-recognised.html](../rent-paid-obligation-recognised.html) | Rent paid. No obligation on the statement? |
+| 446 | FIN-38 | [faster-payment-more-stock.html](../faster-payment-more-stock.html) | A sales forecast. How much working capital? |
+| 447 | MKT-38 | [why-the-member-left.html](../why-the-member-left.html) | The customer left. Which offer deserves a return? |
+| 448 | OPS-38 | [best-score-missing-condition.html](../best-score-missing-condition.html) | The best supplier score. The missing condition. |
+| 449 | PPL-38 | [same-meeting-different-burden.html](../same-meeting-different-burden.html) | Same meeting. Different burden. |
+| 450 | STR-38 | [customer-value-interface-toll.html](../customer-value-interface-toll.html) | Win the customer. Keep the value? |
+| 451 | ENT-38 | [repeat-orders-experimental-budget.html](../repeat-orders-experimental-budget.html) | Repeat purchases. Or one customer’s experiment? |
+| 452 | IS-38 | [recommendation-shapes-next-training-set.html](../recommendation-shapes-next-training-set.html) | The recommendation changes demand. What will the next model learn? |
+| 453 | GVR-38 | [name-match-ownership-hold.html](../name-match-ownership-hold.html) | A sanction list match. The same person? |
+| 454 | SUS-38 | [local-reduction-displaced-pressure.html](../local-reduction-displaced-pressure.html) | A local success. A displaced pressure? |
+| 455 | ECO-38 | [the-queue-chose-it.html](../the-queue-chose-it.html) | The queue chose it. Did the queue know more? |
+| 456 | HSP-38 | [visible-care-usable-lobby.html](../visible-care-usable-lobby.html) | Visible care. A usable lobby? |
+| 457 | ACC-39 | [more-packs-less-revenue.html](../more-packs-less-revenue.html) | More packs sold. Why less revenue? |
+| 458 | FIN-39 | [early-repayment-after-which-fee.html](../early-repayment-after-which-fee.html) | A reward for early repayment. After which fee? |
+| 459 | MKT-39 | [more-stockists-more-category.html](../more-stockists-more-category.html) | More stockists. More of the category market? |
+| 460 | OPS-39 | [shorter-task-more-handoffs.html](../shorter-task-more-handoffs.html) | A shorter task. More handoffs. |
+| 461 | PPL-39 | [excellent-alone-ready-together.html](../excellent-alone-ready-together.html) | Excellent alone. Ready to work together? |
+| 462 | STR-39 | [next-door-closer-to-operate.html](../next-door-closer-to-operate.html) | Next door. Closer to operate? |
+| 463 | ENT-39 | [family-wealth-different-cash-needs.html](../family-wealth-different-cash-needs.html) | Family wealth. One business, several owners’ needs. |
+| 464 | IS-39 | [payment-success-booking-success.html](../payment-success-booking-success.html) | A failed payment. A failed checkout? |
+| 465 | GVR-39 | [new-label-same-exposure.html](../new-label-same-exposure.html) | A lower rating. A lower risk? |
+| 466 | SUS-39 | [citizens-report-who-closes-loop.html](../citizens-report-who-closes-loop.html) | Citizens report it. Who closes the loop? |
+| 467 | ECO-39 | [rebate-before-the-baseline.html](../rebate-before-the-baseline.html) | A larger rebate. A smaller reason to save? |
+| 468 | HSP-39 | [a-group-booking-who-may-change-it.html](../a-group-booking-who-may-change-it.html) | A group booking. Who may change it? |
+| 469 | ACC-40 | [reassuring-reply-evidence-from-whom.html](../reassuring-reply-evidence-from-whom.html) | A reassuring reply. Evidence from whom? |
+| 470 | FIN-40 | [same-payout-different-shareholders.html](../same-payout-different-shareholders.html) | The same payout. The same value for whom? |
+| 471 | MKT-40 | [members-grow-contributors-tire.html](../members-grow-contributors-tire.html) | More members. Who answers next? |
+| 472 | OPS-40 | [standard-input-visible-exception.html](../standard-input-visible-exception.html) | Standardise the input. Keep the exception visible. |
+| 473 | PPL-40 | [helpful-connection-narrow-pool.html](../helpful-connection-narrow-pool.html) | Helpful connection. A narrow recruitment pool. |
+| 474 | STR-40 | [different-customers-reusable-capability.html](../different-customers-reusable-capability.html) | Different customers. The same reusable capability? |
+| 475 | ENT-40 | [spent-six-months-fund-one-more.html](../spent-six-months-fund-one-more.html) | Spent six months. Fund one more? |
+| 476 | IS-40 | [old-screen-new-invoices.html](../old-screen-new-invoices.html) | The old screen returns. What has not rolled back? |
+| 477 | GVR-40 | [new-role-old-matter.html](../new-role-old-matter.html) | A new adviser. An old matter? |
+| 478 | SUS-40 | [certified-share-certified-item.html](../certified-share-certified-item.html) | A certified share. A certified item? |
+| 479 | ECO-40 | [same-average-different-risk-choice.html](../same-average-different-risk-choice.html) | The same expected payoff. The same choice? |
+| 480 | HSP-40 | [great-last-moment-better-whole-visit.html](../great-last-moment-better-whole-visit.html) | A great last moment. A better whole visit? |
