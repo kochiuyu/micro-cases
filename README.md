@@ -4,7 +4,9 @@ Short classroom cases with an opening decision, a second-round prompt, a debrief
 
 The [original roadmap](planning/collection-roadmap.md) records the first 120 cases. The approved [expansion plan to 240](planning/expansion-to-240.md) adds cases 11–20 in each area, in ten balanced waves with research and review gates. The next approved [expansion plan to 360](planning/expansion-to-360.md) adds cases 21–30 in each area. The approved [expansion plan to 480](planning/expansion-to-480.md) adds cases 31–40 in each area. Planned cases are not counted as published.
 
-Identity fixtures protect all 360 existing permanent IDs, area codes and URLs. Earlier snapshots are retained unchanged. The builder accepts sequential staged additions through ID 480 and at most 40 cases per area.
+The collection contains 490 cases: 45 each in Finance and Economics and 40 in each of the other ten areas. The [finance and economics extension](planning/finance-economics-extension-490.md) adds FIN-41–45 and ECO-41–45, alternating at permanent IDs 481–490, to the completed balanced 480-case collection. Planned cases are not counted as published.
+
+Identity fixtures protect all 480 existing permanent IDs, area codes and URLs. Earlier snapshots are retained unchanged. The builder accepts sequential staged additions through ID 490, with FIN/ECO capped at 45 cases each and every other area capped at 40.
 
 ## Acknowledgement
 
@@ -1918,3 +1920,43 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## HSP-40
 
 480. [A great last moment. A better whole visit?](great-last-moment-better-whole-visit.html)
+
+## FIN-41
+
+481. [Protection when the portfolio falls](protection-when-the-portfolio-falls.html)
+
+## ECO-41
+
+482. [The shares jumped. What changed?](shares-jumped-what-changed.html)
+
+## FIN-42
+
+483. [A buy order. A higher quote?](a-buy-order-a-higher-quote.html)
+
+## ECO-42
+
+484. [Record takings. More sold?](record-takings-more-sold.html)
+
+## FIN-43
+
+485. [The customer paid. Can we make payroll?](customer-paid-can-we-make-payroll.html)
+
+## ECO-43
+
+486. [The shelves are empty. Where did sales go?](empty-shelves-where-did-sales-go.html)
+
+## FIN-44
+
+487. [The peg holds. Which rate resets?](the-peg-holds-which-rate-resets.html)
+
+## ECO-44
+
+488. [Rates fell. Why did the loan cost more?](rate-cut-credit-spread.html)
+
+## FIN-45
+
+489. [The same forecast. A dearer option?](same-forecast-dearer-option.html)
+
+## ECO-45
+
+490. [A tariff discount. On how many units?](tariff-discount-how-many-units.html)

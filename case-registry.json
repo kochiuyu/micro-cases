@@ -3422,6 +3422,76 @@
       "slug": "great-last-moment-better-whole-visit",
       "area": "Hospitality, tourism, property and service management",
       "title": "A great last moment. A better whole visit?"
+    },
+    {
+      "legacy_id": 481,
+      "code": "FIN-41",
+      "slug": "protection-when-the-portfolio-falls",
+      "area": "Finance, banking and insurance",
+      "title": "Protection when the portfolio falls"
+    },
+    {
+      "legacy_id": 482,
+      "code": "ECO-41",
+      "slug": "shares-jumped-what-changed",
+      "area": "Economics, competition and pricing",
+      "title": "The shares jumped. What changed?"
+    },
+    {
+      "legacy_id": 483,
+      "code": "FIN-42",
+      "slug": "a-buy-order-a-higher-quote",
+      "area": "Finance, banking and insurance",
+      "title": "A buy order. A higher quote?"
+    },
+    {
+      "legacy_id": 484,
+      "code": "ECO-42",
+      "slug": "record-takings-more-sold",
+      "area": "Economics, competition and pricing",
+      "title": "Record takings. More sold?"
+    },
+    {
+      "legacy_id": 485,
+      "code": "FIN-43",
+      "slug": "customer-paid-can-we-make-payroll",
+      "area": "Finance, banking and insurance",
+      "title": "The customer paid. Can we make payroll?"
+    },
+    {
+      "legacy_id": 486,
+      "code": "ECO-43",
+      "slug": "empty-shelves-where-did-sales-go",
+      "area": "Economics, competition and pricing",
+      "title": "The shelves are empty. Where did sales go?"
+    },
+    {
+      "legacy_id": 487,
+      "code": "FIN-44",
+      "slug": "the-peg-holds-which-rate-resets",
+      "area": "Finance, banking and insurance",
+      "title": "The peg holds. Which rate resets?"
+    },
+    {
+      "legacy_id": 488,
+      "code": "ECO-44",
+      "slug": "rate-cut-credit-spread",
+      "area": "Economics, competition and pricing",
+      "title": "Rates fell. Why did the loan cost more?"
+    },
+    {
+      "legacy_id": 489,
+      "code": "FIN-45",
+      "slug": "same-forecast-dearer-option",
+      "area": "Finance, banking and insurance",
+      "title": "The same forecast. A dearer option?"
+    },
+    {
+      "legacy_id": 490,
+      "code": "ECO-45",
+      "slug": "tariff-discount-how-many-units",
+      "area": "Economics, competition and pricing",
+      "title": "A tariff discount. On how many units?"
     }
   ]
 }

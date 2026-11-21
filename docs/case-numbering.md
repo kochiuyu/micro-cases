@@ -1,6 +1,6 @@
 # Case numbering and stable identity
 
-Cases are displayed by teaching area and two-digit sequence, for example `ACC-01`. The initial collection contains ten cases per area; approved additions extend each area to twenty, released incrementally. This is a browsing identity, not an indication of difficulty or a prescribed teaching order.
+Cases are displayed by teaching area and two-digit sequence, for example `ACC-01`. The initial collection contained ten cases per area. Balanced expansions reached 40 in each area; the targeted finance and economics extension brings the collection to 490 cases, with 45 each in FIN and ECO and 40 in every other area. This is a browsing identity, not an indication of difficulty or a prescribed teaching order.
 
 ## Canonical registry
 
@@ -522,3 +522,13 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 478 | SUS-40 | [certified-share-certified-item.html](../certified-share-certified-item.html) | A certified share. A certified item? |
 | 479 | ECO-40 | [same-average-different-risk-choice.html](../same-average-different-risk-choice.html) | The same expected payoff. The same choice? |
 | 480 | HSP-40 | [great-last-moment-better-whole-visit.html](../great-last-moment-better-whole-visit.html) | A great last moment. A better whole visit? |
+| 481 | FIN-41 | [protection-when-the-portfolio-falls.html](../protection-when-the-portfolio-falls.html) | Protection when the portfolio falls |
+| 482 | ECO-41 | [shares-jumped-what-changed.html](../shares-jumped-what-changed.html) | The shares jumped. What changed? |
+| 483 | FIN-42 | [a-buy-order-a-higher-quote.html](../a-buy-order-a-higher-quote.html) | A buy order. A higher quote? |
+| 484 | ECO-42 | [record-takings-more-sold.html](../record-takings-more-sold.html) | Record takings. More sold? |
+| 485 | FIN-43 | [customer-paid-can-we-make-payroll.html](../customer-paid-can-we-make-payroll.html) | The customer paid. Can we make payroll? |
+| 486 | ECO-43 | [empty-shelves-where-did-sales-go.html](../empty-shelves-where-did-sales-go.html) | The shelves are empty. Where did sales go? |
+| 487 | FIN-44 | [the-peg-holds-which-rate-resets.html](../the-peg-holds-which-rate-resets.html) | The peg holds. Which rate resets? |
+| 488 | ECO-44 | [rate-cut-credit-spread.html](../rate-cut-credit-spread.html) | Rates fell. Why did the loan cost more? |
+| 489 | FIN-45 | [same-forecast-dearer-option.html](../same-forecast-dearer-option.html) | The same forecast. A dearer option? |
+| 490 | ECO-45 | [tariff-discount-how-many-units.html](../tariff-discount-how-many-units.html) | A tariff discount. On how many units? |

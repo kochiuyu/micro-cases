@@ -1,4 +1,4 @@
-"""Staged 121–480 registry and static-count regressions; never writes fixtures."""
+"""Staged 121–490 registry and static-count regressions; never writes fixtures."""
 import copy
 import html
 import re
@@ -14,13 +14,13 @@ from check_registry import validate_registry
 
 def expanded(base, total):
     data=copy.deepcopy(base)
+    frozen=json.loads((ROOT/'tests/fixtures/published-480-case-identities.json').read_text())
     while len(data['cases']) < total:
         n=len(data['cases'])+1
-        if n<=360:
-            frozen=json.loads((ROOT/'tests/fixtures/published-360-case-identities.json').read_text())
+        if n<=480:
             data['cases'].append(dict(frozen[n-1],title=f'Fixture {n}'))
             continue
-        area=next(a for a in data['areas'] if sum(c['area']==a['name'] for c in data['cases'])<40)
+        area=next(a for a in data['areas'] if a['code']==('FIN' if n%2 else 'ECO'))
         seq=sum(c['area']==area['name'] for c in data['cases'])+1
         data['cases'].append(dict(legacy_id=n,code=f"{area['code']}-{seq:02}",slug=f'fixture-{n}',area=area['name'],title=f'Fixture {n}'))
     return data
@@ -30,7 +30,7 @@ def check(root=ROOT):
     data=json.loads((root/'case-registry.json').read_text())
     # Use the original baseline even once production has grown past 121.
     base=copy.deepcopy(data);base['cases']=[c for c in base['cases'] if c['legacy_id']<=120]
-    for total in (120,121,129,130,131,239,240,241,250,251,359,360,361,370,371,479,480):
+    for total in (120,121,129,130,131,239,240,241,250,251,359,360,361,370,371,479,480,481,482,489,490):
         fixture=expanded(base,total)
         validate_registry(fixture)
         rendered=render((root/'index.html').read_text(),fixture)
@@ -49,24 +49,44 @@ def check(root=ROOT):
         elif kind=='gap':bad['cases'][-1]['code']='ACC-12'
         elif kind=='duplicate':bad['cases'][-1]['legacy_id']=120
         else:
-            bad=expanded(base,480)
-            bad['cases'].append(dict(legacy_id=481,code='ACC-41',slug='overflow',area=bad['areas'][0]['name'],title='Overflow'))
+            bad=expanded(base,490)
+            bad['cases'].append(dict(legacy_id=491,code='FIN-46',slug='overflow',area=bad['areas'][0]['name'],title='Overflow'))
         try:validate_registry(bad)
         except (AssertionError,KeyError):pass
         else:raise AssertionError('Expansion mutation escaped: '+kind)
-    for protected in (120, 240, 360):
+    for protected in (120, 240, 360, 480):
         for key,value in [('code','ACC-99'),('slug','changed-published-url'),('area','Wrong')]:
-            bad=expanded(base,361);bad['cases'][protected-1][key]=value
+            bad=expanded(base,481);bad['cases'][protected-1][key]=value
             try:validate_registry(bad)
             except AssertionError:pass
             else:raise AssertionError(f'Published {protected} identity mutation escaped: '+key)
-    bad=expanded(base,370)
-    bad['cases'].append(dict(legacy_id=371,code='ACC-41',slug='area-overflow',area=bad['areas'][0]['name'],title='Overflow'))
+    bad=expanded(base,480)
+    bad['cases'].append(dict(legacy_id=481,code='ACC-41',slug='area-overflow',area=bad['areas'][0]['name'],title='Overflow'))
     try:validate_registry(bad)
     except AssertionError:pass
     else:raise AssertionError('Area 41 accepted below total cap')
+    for area in data['areas']:
+        if area['code'] in ('FIN','ECO'):continue
+        bad=expanded(base,480)
+        bad['cases'].append(dict(legacy_id=481,code=area['code']+'-41',slug='unapproved-area',area=area['name'],title='Overflow'))
+        try:validate_registry(bad)
+        except AssertionError:pass
+        else:raise AssertionError('Unapproved area 41 accepted: '+area['code'])
+    bad=expanded(base,481)
+    eco=next(a for a in data['areas'] if a['code']=='ECO')
+    bad['cases'][-1].update(code='ECO-41',area=eco['name'])
+    try:validate_registry(bad)
+    except AssertionError:pass
+    else:raise AssertionError('Incorrect FIN/ECO alternation accepted')
+    # Every protected publication identity must reject a URL mutation.
+    frozen_baseline=expanded(base,480)
+    for protected in range(1,481):
+        bad=copy.deepcopy(frozen_baseline);bad['cases'][protected-1]['slug']='mutated-frozen-url'
+        try:validate_registry(bad)
+        except AssertionError:pass
+        else:raise AssertionError('Frozen identity mutation escaped: '+str(protected))
     # Exercise every area's first, middle and last navigation at uneven/full sizes.
-    for total in (120, 121, 131, 239, 240, 241, 251, 359, 360, 361, 370, 371, 479, 480):
+    for total in (120, 121, 131, 239, 240, 241, 251, 359, 360, 361, 370, 371, 479, 480, 481, 482, 489, 490):
         fixture = expanded(base, total)
         for area in fixture['areas']:
             group = sorted((c for c in fixture['cases'] if c['area'] == area['name']), key=lambda c: c['legacy_id'])
@@ -83,7 +103,7 @@ def check(root=ROOT):
                 assert ('href="'+group[i+1]['slug']+'.html"' in updated) if i+1 < len(group) else True
     check_navigation(root, check=True)
     check_counts(root)
-    print('PASS: staged 120–480 registries, immutable baseline, area limits and derived static counts.')
+    print('PASS: staged 120–490 registries, immutable baseline, area limits and derived static counts.')
 
 
 if __name__=='__main__':check()

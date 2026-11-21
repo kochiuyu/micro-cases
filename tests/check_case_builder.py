@@ -19,7 +19,7 @@ builder=importlib.util.module_from_spec(spec);spec.loader.exec_module(builder)
 
 def payload(repo):
     reg=json.loads((repo/'case-registry.json').read_text())
-    area=next(a for a in reg['areas'] if sum(c['area']==a['name'] for c in reg['cases'])<40)
+    area=next(a for a in reg['areas'] if a['code']==('FIN' if (len(reg['cases'])+1)%2 else 'ECO'))
     number=max(c['legacy_id'] for c in reg['cases'])+1
     seq=sum(c['area']==area['name'] for c in reg['cases'])+1
     return dict(number=number,code=f"{area['code']}-{seq:02}",slug='builder-test-only',title='A fixture. Not a publication.',discipline=area['name'],topics=['Builder fixture'],teaser='An isolated test.',alt='A test illustration.',news_heading='Context',news='<p>Fictional context.</p>',opening='<p>A fictional decision.</p>',exhibit='<table><tr><th>Option</th><th>Units</th></tr><tr><td>A</td><td>2</td></tr></table>',exhibit_md='| Option | Units |\n| --- | --- |\n| A | 2 |',q1='Which option?',round2='<p>New fictional context.</p>',q2='Keep or change?',sections=[['Debrief','<p>Compare the evidence.</p>'],['Instructor note','<p>Discuss the evidence for twelve minutes.</p>']],notes='All facts are fictional test data.',sources=[[f'https://example.org/source-{i}','Fixture source','Not a real reviewed source.'] for i in range(5)],slides=[['Title','<p>A fixture.</p>'],['Context','<p>Fictional context.</p>'],['Decision','<p>Which option?</p>'],['Reveal','<p>New fictional context.</p>'],['Second decision','<p>Keep or change?</p>']])
@@ -50,7 +50,7 @@ class BuilderTests(unittest.TestCase):
         for p in ROOT.rglob('*'):
             if '.git' in p.parts or '__pycache__' in p.parts or not p.is_file() or p.suffix not in ('.html','.md','.json','.py'):continue
             target=self.repo/p.relative_to(ROOT);target.parent.mkdir(parents=True,exist_ok=True);shutil.copyfile(p,target)
-        reduce_to_original_baseline(self.repo,360)
+        reduce_to_original_baseline(self.repo,480)
         self.x=payload(self.repo)
         self.input=Path(self.temp.name)/'input.json'
 
@@ -80,7 +80,7 @@ class BuilderTests(unittest.TestCase):
     def stage_published(self, total):
         # Restore real protected identities before adding synthetic unpublished slots.
         reg=json.loads((ROOT/'case-registry.json').read_text())
-        reg['cases']=[c for c in reg['cases'] if c['legacy_id']<=360]
+        reg['cases']=[c for c in reg['cases'] if c['legacy_id']<=480]
         source=(ROOT/'index.html').read_text()
         keep={c['slug']+'.html' for c in reg['cases']}
         source=re.sub(r'<a class="card".*?</a>',lambda m:m[0] if re.search(r'href="([^"]+)"',m[0])[1] in keep else '',source,flags=re.S)
@@ -89,7 +89,7 @@ class BuilderTests(unittest.TestCase):
         template=(self.repo/(reg['cases'][0]['slug']+'.html')).read_text()
         while len(reg['cases'])<total:
             n=len(reg['cases'])+1
-            area=next(a for a in reg['areas'] if sum(c['area']==a['name'] for c in reg['cases'])<40)
+            area=next(a for a in reg['areas'] if a['code']==('FIN' if (len(reg['cases'])+1)%2 else 'ECO'))
             seq=sum(c['area']==area['name'] for c in reg['cases'])+1
             slug=f'stage-fixture-{n}'
             reg['cases'].append(dict(legacy_id=n,code=f"{area['code']}-{seq:02}",slug=slug,title='Fixture',area=area['name']))
@@ -98,8 +98,8 @@ class BuilderTests(unittest.TestCase):
         (self.repo/'case-registry.json').write_text(json.dumps(reg))
         (self.repo/'index.html').write_text(source[:first]+''.join(additions)+source[first:])
 
-    def test_staged_361_and_480_and_overflow(self):
-        for before in (360,479):
+    def test_staged_481_and_490_and_overflow(self):
+        for before in (480,489):
             with self.subTest(before=before):
                 self.stage_published(before)
                 self.x=payload(self.repo)
@@ -112,21 +112,34 @@ class BuilderTests(unittest.TestCase):
                 checks.validate_registry(reg)
                 self.assertEqual(reg['cases'][-1]['legacy_id'],before+1)
                 ledger=(self.repo/'planning/collection-roadmap.md').read_text()
-                self.assertIn(f'**{480-before-1} approved editorial slots**',ledger)
+                self.assertIn(f'**{490-before-1} approved editorial slots**',ledger)
                 self.assertIn(f'{before+1} decisions · 12 teaching areas',(self.repo/'index.html').read_text())
-        self.x['number']=481;self.x['code']='ACC-41';self.x['slug']='overflow-test'
-        self.reject('121–480')
+        self.x['number']=491;self.x['code']='FIN-46';self.x['slug']='overflow-test'
+        self.reject('121–490')
 
     def test_area_overflow_and_frozen_identity_rejected(self):
-        self.stage_published(370)
+        self.stage_published(480)
         self.x=payload(self.repo)
         reg=json.loads((self.repo/'case-registry.json').read_text())
         self.x['discipline']=reg['areas'][0]['name'];self.x['code']='ACC-41'
         self.reject('Wrong next area code')
         self.x=payload(self.repo)
-        reg['cases'][359]['slug']='mutated-published-url'
+        reg['cases'][479]['slug']='mutated-published-url'
         (self.repo/'case-registry.json').write_text(json.dumps(reg))
         self.reject('Published identity changed')
+
+    def test_all_non_expanding_areas_and_wrong_alternation(self):
+        reg=json.loads((self.repo/'case-registry.json').read_text())
+        for area in reg['areas']:
+            if area['code'] in ('FIN','ECO'):continue
+            with self.subTest(area=area['code']):
+                self.x=payload(self.repo)
+                self.x['discipline']=area['name'];self.x['code']=area['code']+'-41'
+                self.reject('Wrong next area code')
+        self.x=payload(self.repo)
+        self.x['discipline']=next(a['name'] for a in reg['areas'] if a['code']=='ECO')
+        self.x['code']='ECO-41'
+        self.reject('Wrong approved expansion slot')
 
     def test_duration_upper_bound(self):
         for value, expected in [('10–15 minutes',15),('12–15 minutes',15),('15–20 minutes',20),('20 minutes',20),('1 minute',1),('10-15 minutes',15),(' 10 — 20 minutes ',20)]:
