@@ -10,6 +10,7 @@ import shutil
 import sys
 import tempfile
 import unittest
+from check_registry import slot_code, FIRST_WAVE_CODES
 
 sys.dont_write_bytecode=True
 ROOT=Path(__file__).resolve().parents[1]
@@ -19,7 +20,7 @@ builder=importlib.util.module_from_spec(spec);spec.loader.exec_module(builder)
 
 def payload(repo):
     reg=json.loads((repo/'case-registry.json').read_text())
-    area=next(a for a in reg['areas'] if a['code']==('FIN' if len(reg['cases'])>=490 or (len(reg['cases'])+1)%2 else 'ECO'))
+    area=next(a for a in reg['areas'] if a['code']==(slot_code(len(reg['cases'])+1) or 'FIN-51').split('-')[0])
     number=max(c['legacy_id'] for c in reg['cases'])+1
     seq=sum(c['area']==area['name'] for c in reg['cases'])+1
     return dict(number=number,code=f"{area['code']}-{seq:02}",slug='builder-test-only',title='A fixture. Not a publication.',discipline=area['name'],topics=['Builder fixture'],teaser='An isolated test.',alt='A test illustration.',news_heading='Context',news='<p>Fictional context.</p>',opening='<p>A fictional decision.</p>',exhibit='<table><tr><th>Option</th><th>Units</th></tr><tr><td>A</td><td>2</td></tr></table>',exhibit_md='| Option | Units |\n| --- | --- |\n| A | 2 |',q1='Which option?',round2='<p>New fictional context.</p>',q2='Keep or change?',sections=[['Debrief','<p>Compare the evidence.</p>'],['Instructor note','<p>Discuss the evidence for twelve minutes.</p>']],notes='All facts are fictional test data.',sources=[[f'https://example.org/source-{i}','Fixture source','Not a real reviewed source.'] for i in range(5)],slides=[['Title','<p>A fixture.</p>'],['Context','<p>Fictional context.</p>'],['Decision','<p>Which option?</p>'],['Reveal','<p>New fictional context.</p>'],['Second decision','<p>Keep or change?</p>']])
@@ -50,7 +51,7 @@ class BuilderTests(unittest.TestCase):
         for p in ROOT.rglob('*'):
             if '.git' in p.parts or '__pycache__' in p.parts or not p.is_file() or p.suffix not in ('.html','.md','.json','.py'):continue
             target=self.repo/p.relative_to(ROOT);target.parent.mkdir(parents=True,exist_ok=True);shutil.copyfile(p,target)
-        reduce_to_original_baseline(self.repo,493)
+        reduce_to_original_baseline(self.repo,495)
         self.x=payload(self.repo)
         self.input=Path(self.temp.name)/'input.json'
 
@@ -80,7 +81,7 @@ class BuilderTests(unittest.TestCase):
     def stage_published(self, total):
         # Restore real protected identities before adding synthetic unpublished slots.
         reg=json.loads((ROOT/'case-registry.json').read_text())
-        reg['cases']=[c for c in reg['cases'] if c['legacy_id']<=min(total,493)]
+        reg['cases']=[c for c in reg['cases'] if c['legacy_id']<=min(total,495)]
         source=(ROOT/'index.html').read_text()
         keep={c['slug']+'.html' for c in reg['cases']}
         source=re.sub(r'<a class="card".*?</a>',lambda m:m[0] if re.search(r'href="([^"]+)"',m[0])[1] in keep else '',source,flags=re.S)
@@ -89,7 +90,7 @@ class BuilderTests(unittest.TestCase):
         template=(self.repo/(reg['cases'][0]['slug']+'.html')).read_text()
         while len(reg['cases'])<total:
             n=len(reg['cases'])+1
-            area=next(a for a in reg['areas'] if a['code']==('FIN' if len(reg['cases'])>=490 or (len(reg['cases'])+1)%2 else 'ECO'))
+            area=next(a for a in reg['areas'] if a['code']==(slot_code(len(reg['cases'])+1) or 'FIN-51').split('-')[0])
             seq=sum(c['area']==area['name'] for c in reg['cases'])+1
             slug=f'stage-fixture-{n}'
             reg['cases'].append(dict(legacy_id=n,code=f"{area['code']}-{seq:02}",slug=slug,title='Fixture',area=area['name']))
@@ -99,7 +100,7 @@ class BuilderTests(unittest.TestCase):
         (self.repo/'index.html').write_text(source[:first]+''.join(additions)+source[first:])
 
     def test_staged_boundaries_and_overflow(self):
-        for before in (493,494):
+        for before in (495,496,505,514,515):
             with self.subTest(before=before):
                 self.stage_published(before)
                 self.x=payload(self.repo)
@@ -112,10 +113,10 @@ class BuilderTests(unittest.TestCase):
                 checks.validate_registry(reg)
                 self.assertEqual(reg['cases'][-1]['legacy_id'],before+1)
                 ledger=(self.repo/'planning/collection-roadmap.md').read_text()
-                self.assertIn(f'**{495-before-1} approved editorial slots**',ledger)
+                self.assertIn(f'**{516-before-1} approved editorial slots**',ledger)
                 self.assertIn(f'{before+1} decisions · 12 teaching areas',(self.repo/'index.html').read_text())
-        self.x['number']=496;self.x['code']='FIN-51';self.x['slug']='overflow-test'
-        self.reject('121–495')
+        self.x['number']=517;self.x['code']='FIN-51';self.x['slug']='overflow-test'
+        self.reject('121–516')
 
     def test_area_overflow_and_frozen_identity_rejected(self):
         self.stage_published(480)
@@ -130,6 +131,7 @@ class BuilderTests(unittest.TestCase):
 
     def test_all_non_expanding_areas_and_wrong_alternation(self):
         reg=json.loads((self.repo/'case-registry.json').read_text())
+        self.stage_published(480)
         for area in reg['areas']:
             if area['code'] in ('FIN','ECO'):continue
             with self.subTest(area=area['code']):
@@ -141,6 +143,47 @@ class BuilderTests(unittest.TestCase):
         self.x['discipline']=next(a['name'] for a in reg['areas'] if a['code']=='ECO')
         self.x['code']='ECO-41'
         self.reject('Wrong approved expansion slot')
+
+    def test_wave_plan_matches_independent_oracle(self):
+        m=builder.module(self.repo/'scripts/release_slots.py','wave_plan_under_test')
+        slots, caps=m.load_wave(self.repo)
+        self.assertEqual(tuple(slots.values()),FIRST_WAVE_CODES)
+        self.assertEqual(set(slots),set(range(496,517)))
+        self.assertEqual(caps,{'FIN':50,'ECO':46,**dict.fromkeys(('ACC','MKT','OPS','PPL','STR','ENT','IS','GVR','SUS','HSP'),42)})
+        plan=self.repo/'planning/wave-1-slots.json'
+        original=json.loads(plan.read_text())
+        for change in ('hole','duplicate','extra','finance','order-drift'):
+            with self.subTest(change=change):
+                broken=copy.deepcopy(original)
+                if change=='hole':broken['slots'][2]['legacy_id']+=1
+                elif change=='duplicate':broken['slots'][2]['code']=broken['slots'][1]['code']
+                elif change=='extra':broken['slots'].append({'legacy_id':517,'code':'ECO-47'})
+                elif change=='finance':broken['slots'][1]['code']='FIN-51'
+                else:
+                    # A structurally valid but unreviewed re-order must be
+                    # rejected by independent registry validation, not accepted
+                    # just because config and generator agree.
+                    broken['slots'][1]['code'],broken['slots'][2]['code']=broken['slots'][2]['code'],broken['slots'][1]['code']
+                plan.write_text(json.dumps(broken))
+                if change=='order-drift':
+                    self.stage_published(496)
+                    self.x=payload(self.repo)
+                    reg=json.loads((self.repo/'case-registry.json').read_text())
+                    self.x['code']='MKT-41'
+                    self.x['discipline']=next(a['name'] for a in reg['areas'] if a['code']=='MKT')
+                    self.reject('Invalid proposed registry: Unapproved expansion slot')
+                else:
+                    with self.assertRaises(ValueError):m.load_wave(self.repo)
+        plan.write_text(json.dumps(original))
+
+    def test_wrong_wave_slot_and_excluded_finance_do_not_write(self):
+        reg=json.loads((self.repo/'case-registry.json').read_text())
+        self.x['discipline']=next(a['name'] for a in reg['areas'] if a['code']=='ACC')
+        self.x['code']='ACC-41'
+        self.reject('Wrong approved expansion slot')
+        self.x['discipline']=next(a['name'] for a in reg['areas'] if a['code']=='FIN')
+        self.x['code']='FIN-51'
+        self.reject('Wrong next area code')
 
     def test_duration_upper_bound(self):
         for value, expected in [('10–15 minutes',15),('12–15 minutes',15),('15–20 minutes',20),('20 minutes',20),('1 minute',1),('10-15 minutes',15),(' 10 — 20 minutes ',20)]:

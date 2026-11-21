@@ -4,9 +4,9 @@ Short classroom cases with an opening decision, a second-round prompt, a debrief
 
 The [original roadmap](planning/collection-roadmap.md) records the first 120 cases. The approved [expansion plan to 240](planning/expansion-to-240.md) adds cases 11–20 in each area, in ten balanced waves with research and review gates. The next approved [expansion plan to 360](planning/expansion-to-360.md) adds cases 21–30 in each area. The approved [expansion plan to 480](planning/expansion-to-480.md) adds cases 31–40 in each area. Planned cases are not counted as published.
 
-The collection contains 495 cases: 50 in Finance, 45 in Economics and 40 in each of the other ten areas. The [finance and economics extension](planning/finance-economics-extension-490.md) adds FIN-41–45 and ECO-41–45, alternating at permanent IDs 481–490, to the completed balanced 480-case collection. The five subsequent Finance cases, FIN-46–50, use permanent IDs 491–495. Planned cases are not counted as published.
+The collection contains 516 cases. The balanced wave started at 495 cases: 50 in Finance, 45 in Economics and 40 in each of the other ten areas. The [finance and economics extension](planning/finance-economics-extension-490.md) adds FIN-41–45 and ECO-41–45, alternating at permanent IDs 481–490, to the completed balanced 480-case collection. The five subsequent Finance cases, FIN-46–50, use permanent IDs 491–495. Planned cases are not counted as published.
 
-Identity fixtures protect all 493 baseline permanent IDs, area codes and URLs. Earlier snapshots are retained unchanged. The builder accepts sequential staged additions through ID 495, with Finance capped at 50 and Economics at 45 and every other area capped at 40.
+Identity fixtures protect all 495 baseline permanent IDs, area codes and URLs. Earlier snapshots remain unchanged. The builder supports only the first 21 balanced-wave additions, through ID 516.
 
 ## Acknowledgement
 
@@ -1980,3 +1980,87 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## FIN-50
 
 495. [Is a big IPO allocation good news?](big-ipo-allocation-good-news.html)
+
+## ECO-46
+
+496. [The fare cap bites. Where does the increase go?](the-fare-cap-bites.html)
+
+## ACC-41
+
+497. [Adjusted profit. Can readers get back to the accounts?](adjusted-profit-back-to-accounts.html)
+
+## MKT-41
+
+498. [Less sugar. More in the bottle?](less-sugar-more-in-the-bottle.html)
+
+## OPS-41
+
+499. [The typhoon is over. What restarts first?](typhoon-ends-what-restarts-first.html)
+
+## PPL-41
+
+500. [One warning. Two workplaces.](one-warning-two-workplaces.html)
+
+## STR-41
+
+501. [The franchise ends. What can the operator keep?](the-franchise-ends-what-travels.html)
+
+## ENT-41
+
+502. [One signed letter. Which milestone is real?](one-signed-letter.html)
+
+## IS-41
+
+503. [One parcel. How many fees?](one-parcel-how-many-fees.html)
+
+## GVR-41
+
+504. [The notice was live. Was the tender pack?](the-notice-was-live-was-the-pack.html)
+
+## SUS-41
+
+505. [The chargers arrive. Can the building feed them?](can-the-building-feed-the-chargers.html)
+
+## HSP-41
+
+506. [The last ferry decides the itinerary](the-last-ferry-decides.html)
+
+## ACC-42
+
+507. [The lender granted more time. When did the right change?](when-did-the-lender-grant-time.html)
+
+## MKT-42
+
+508. [The aisle test passed. Did the screen shut buyers out?](the-aisle-passed-but-the-screen.html)
+
+## OPS-42
+
+509. [Full terminal. Empty boxes in the wrong place?](full-terminal-empty-boxes.html)
+
+## PPL-42
+
+510. [The same swap. A new trade-off.](same-swap-new-tradeoff.html)
+
+## STR-42
+
+511. [Publish the score. Can rivals copy the proof?](publish-the-score-or-prove-it.html)
+
+## ENT-42
+
+512. [The grant pays later. Can the venture start now?](the-grant-pays-later.html)
+
+## IS-42
+
+513. [Two offline edits. One workable plan?](two-offline-edits.html)
+
+## GVR-42
+
+514. [The fix is installed. Is the finding closed?](fixed-does-not-mean-closed.html)
+
+## SUS-42
+
+515. [Detect the leak sooner, or renew the old pipe?](detect-the-leak-or-renew-the-pipe.html)
+
+## HSP-42
+
+516. [The coach has seats. Does it have room?](the-coach-has-seats.html)

@@ -9,7 +9,7 @@ import copy
 import json
 import re
 import subprocess
-from check_registry import load_registry
+from check_registry import load_registry, slot_code
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -223,20 +223,24 @@ def check(root=ROOT):
                             text=True, capture_output=True, timeout=300)
     assert result.returncode == 0, result.stdout + result.stderr
     print(result.stdout.strip())
-    for target in (121, 240, 241, 360, 361, 480, 481, 490, 491, 493, 495):
+    for target in (121, 240, 241, 360, 361, 480, 481, 490, 491, 493, 495, 496, 516):
         fixture = copy.deepcopy(payload)
         fixture['cards'] = [c for c in fixture['cards'] if int(c['attrs']['data-case-id']) <= target]
         while len(fixture['cards']) < target:
             i = len(fixture['cards'])
-            area = next(a for a in registry['areas'] if a['code']==('FIN' if i>=490 or (i+1)%2 else 'ECO'))
+            code=slot_code(i+1)
+            assert code is not None, 'Synthetic stage requires a supported unique case slot'
+            area = next(a for a in registry['areas'] if a['code']==code.split('-')[0])
             prototype=next(card for card in payload['cards'] if card['attrs']['data-discipline']==area['name'])
             c = copy.deepcopy(prototype)
             c['attrs']['data-case-id'] = str(i + 1)
-            c['attrs']['data-case-code'] = c['attrs']['data-case-code'].split('-')[0] + '-' + str(i-444 if i>=490 else 41 + (i-480)//2)
+            c['attrs']['data-case-code']=code
+            c['attrs']['href']=f'browse-fixture-{i+1}.html'
+            c['text']=[f'{code} Browse fixture {i+1} {area["name"]}']
             fixture['cards'].append(c)
         result = subprocess.run(['node', '-e', NODE], input=json.dumps(fixture), text=True, capture_output=True, timeout=300)
         assert result.returncode == 0, result.stdout + result.stderr
-    print('PASS: synthetic 121/240/241/360/361/480/481/490/491/493/495-card browse flows.')
+    print('PASS: synthetic 121/240/241/360/361/480/481/490/491/493/495/496/516-card browse flows.')
     print(f'PASS: {len(p.cards)} cards match all 12 ledger areas, visible labels and selectors; mutations rejected.')
 
 

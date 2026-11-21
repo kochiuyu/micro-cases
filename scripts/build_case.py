@@ -118,18 +118,20 @@ def main(argv=None):
     except (AssertionError,KeyError) as error:raise ValueError("Invalid existing registry: "+str(error)) from error
     slug=x["slug"]; number=x["number"]; code=x["code"]
     require(re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*",slug),"Unsafe slug")
-    require(isinstance(number,int) and 121<=number<=495,"Expansion builder supports IDs 121–495")
+    release=module(r/"scripts/release_slots.py","builder_release_slots")
+    wave, wave_caps=release.load_wave(r)
+    limit=max(wave)
+    require(isinstance(number,int) and 121<=number<=limit,f"Expansion builder supports IDs 121–{limit}")
+    caps=wave_caps if number>release.BASELINE else release.BASELINE_CAPS
     require(number==max(c["legacy_id"] for c in reg["cases"])+1,"ID must follow existing registry")
     require(not any(c["slug"]==slug or c["legacy_id"]==number or c["code"]==code for c in reg["cases"]),"Existing slug, ID or code: refusing overwrite")
     for p in [r/(slug+".html"),r/"authoring"/(slug+".md")]:require(not p.exists(),"Existing output: "+str(p))
     area=next((a for a in reg["areas"] if a["name"]==x["discipline"]),None)
     require(area is not None,"Unknown primary discipline")
     peers=[c for c in reg["cases"] if c["area"]==x["discipline"]]
-    require(code==area["code"]+"-"+str(len(peers)+1).zfill(2) and len(peers)<(50 if area['code']=='FIN' else 45 if area['code']=='ECO' else 40),"Wrong next area code")
-    if number>490:
-        require(code=='FIN-'+str(number-445),"Wrong approved expansion slot")
-    elif number>480:
-        expected=('FIN' if number%2 else 'ECO')+'-'+str(41+(number-481)//2)
+    require(code==area["code"]+"-"+str(len(peers)+1).zfill(2) and len(peers)<caps[area["code"]],"Wrong next area code")
+    expected=wave.get(number) or release.historical_slot(number)
+    if expected is not None:
         require(code==expected,"Wrong approved expansion slot")
     require(len(x["sources"])>=5 and len({s[0] for s in x["sources"]})==len(x["sources"]),"Need >=5 distinct source URLs")
     require(all(len(s)==3 and s[0].startswith("https://") for s in x["sources"]),"Malformed source")
@@ -202,6 +204,18 @@ def main(argv=None):
     outputs[r/"index.html"]=counts.render(s,reg)
     outputs[r/"README.md"]=(r/"README.md").read_text(encoding="utf-8")+"\n## "+code+"\n\n"+str(number)+". ["+x["title"]+"]("+slug+".html)\n"
     outputs[r/"docs/case-numbering.md"]=(r/"docs/case-numbering.md").read_text(encoding="utf-8").rstrip()+"\n| "+str(number)+" | "+code+" | ["+slug+".html](../"+slug+".html) | "+x["title"]+" |\n"
+    if number>release.BASELINE:
+        readme=r/"README.md"
+        numbering=r/"docs/case-numbering.md"
+        snapshot=f"The collection contains {number} cases. The balanced wave started at 495 cases: 50 in Finance, 45 in Economics and 40 in each of the other ten areas."
+        outputs[readme], n=re.subn(r"The collection contains \d+ cases[.:][^\n]*?ten areas\.",snapshot,outputs[readme],count=1)
+        require(n==1,"README collection snapshot marker missing")
+        outputs[readme], n=re.subn(r"Identity fixtures protect [^\n]+",
+                                  f"Identity fixtures protect all 495 baseline permanent IDs, area codes and URLs. Earlier snapshots remain unchanged. The builder supports only the first 21 balanced-wave additions, through ID {limit}.",outputs[readme],count=1)
+        require(n==1,"README identity note marker missing")
+        outputs[numbering], n=re.subn(r"Five further Finance cases (?:bring|brought) the collection to 495, with 50 in FIN, 45 in ECO and 40 in every other area\.",
+                                     "Five further Finance cases brought the pre-wave collection to 495, with 50 in FIN, 45 in ECO and 40 in every other area.",outputs[numbering],count=1)
+        require(n==1 or "brought the pre-wave collection to 495" in outputs[numbering],"Numbering baseline marker missing")
     ledger=(r/"planning/collection-roadmap.md").read_text(encoding="utf-8")
     ledger,n=re.subn(r"^\d+ cases are published:.*$",str(len(reg["cases"]))+" cases are published: the original 120 plus "+str(len(reg["cases"])-120)+" approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.",ledger,count=1,flags=re.M);require(n==1,"Coverage total marker missing")
     for a in reg["areas"]:
@@ -209,11 +223,19 @@ def main(argv=None):
         pat=r"^\| "+re.escape(a["name"])+r" \|[^\n]*"
         def row(m):
             cells=m[0].split("|");require(len(cells)==7,"Unexpected coverage table row")
-            cells[2]=" "+", ".join(map(str,members))+" ";cells[4]=" "+str((50 if a['code']=='FIN' else 45 if a['code']=='ECO' else 40)-len(members))+" "
+            cells[2]=" "+", ".join(map(str,members))+" ";cells[4]=" "+str(caps[a["code"]]-len(members))+" "
+            if number>release.BASELINE:
+                planned=[c for c in wave.values() if c.split("-")[0]==a["code"]]
+                cells[3]=" "+(", ".join(planned) if planned else "None in this wave")+" "
             return "|".join(cells)
         ledger,n=re.subn(pat,row,ledger,count=1,flags=re.M);require(n==1,"Missing coverage area "+a["name"])
-    total=len(reg["cases"]);remaining=495-total
+    total=len(reg["cases"]);remaining=(limit if total>release.BASELINE else release.BASELINE)-total
     ledger,n=re.subn(r"^\| \*\*Total\*\* \|.*$",f"| **Total** | **{total} published** | **{remaining} approved editorial slots** | **{remaining}** | |",ledger,count=1,flags=re.M);require(n==1,"Coverage total row missing")
+    if number>release.BASELINE:
+        ledger=re.sub(r"(?m)^# Micro Cases in Business · Coverage and targeted expansion to \d+$",
+                      f"# Micro Cases in Business · Coverage and first balanced wave to {limit}",ledger)
+        ledger=re.sub(r"(?m)^# Micro Cases in Business · Coverage and first balanced wave to \d+$",
+                      f"# Micro Cases in Business · Coverage and first balanced wave to {limit}",ledger)
     outputs[r/"planning/collection-roadmap.md"]=ledger
     # Only navigation may change in existing case pages. No teaching-content re-render.
     for case in reg["cases"]:

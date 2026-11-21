@@ -1,6 +1,6 @@
 # Case numbering and stable identity
 
-Cases are displayed by teaching area and two-digit sequence, for example `ACC-01`. The initial collection contained ten cases per area. Balanced expansions reached 40 in each area; the targeted finance and economics extension brought the collection to 490 cases. Five further Finance cases bring the collection to 495, with 50 in FIN, 45 in ECO and 40 in every other area. This is a browsing identity, not an indication of difficulty or a prescribed teaching order.
+Cases are displayed by teaching area and two-digit sequence, for example `ACC-01`. The initial collection contained ten cases per area. Balanced expansions reached 40 in each area; the targeted finance and economics extension brought the collection to 490 cases. Five further Finance cases brought the pre-wave collection to 495, with 50 in FIN, 45 in ECO and 40 in every other area. This is a browsing identity, not an indication of difficulty or a prescribed teaching order.
 
 ## Canonical registry
 
@@ -537,3 +537,24 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 493 | FIN-48 | [who-funds-the-rescue-investment.html](../who-funds-the-rescue-investment.html) | Who funds the rescue investment? |
 | 494 | FIN-49 | [tougher-loan-collect-less.html](../tougher-loan-collect-less.html) | When does a tougher loan collect less? |
 | 495 | FIN-50 | [big-ipo-allocation-good-news.html](../big-ipo-allocation-good-news.html) | Is a big IPO allocation good news? |
+| 496 | ECO-46 | [the-fare-cap-bites.html](../the-fare-cap-bites.html) | The fare cap bites. Where does the increase go? |
+| 497 | ACC-41 | [adjusted-profit-back-to-accounts.html](../adjusted-profit-back-to-accounts.html) | Adjusted profit. Can readers get back to the accounts? |
+| 498 | MKT-41 | [less-sugar-more-in-the-bottle.html](../less-sugar-more-in-the-bottle.html) | Less sugar. More in the bottle? |
+| 499 | OPS-41 | [typhoon-ends-what-restarts-first.html](../typhoon-ends-what-restarts-first.html) | The typhoon is over. What restarts first? |
+| 500 | PPL-41 | [one-warning-two-workplaces.html](../one-warning-two-workplaces.html) | One warning. Two workplaces. |
+| 501 | STR-41 | [the-franchise-ends-what-travels.html](../the-franchise-ends-what-travels.html) | The franchise ends. What can the operator keep? |
+| 502 | ENT-41 | [one-signed-letter.html](../one-signed-letter.html) | One signed letter. Which milestone is real? |
+| 503 | IS-41 | [one-parcel-how-many-fees.html](../one-parcel-how-many-fees.html) | One parcel. How many fees? |
+| 504 | GVR-41 | [the-notice-was-live-was-the-pack.html](../the-notice-was-live-was-the-pack.html) | The notice was live. Was the tender pack? |
+| 505 | SUS-41 | [can-the-building-feed-the-chargers.html](../can-the-building-feed-the-chargers.html) | The chargers arrive. Can the building feed them? |
+| 506 | HSP-41 | [the-last-ferry-decides.html](../the-last-ferry-decides.html) | The last ferry decides the itinerary |
+| 507 | ACC-42 | [when-did-the-lender-grant-time.html](../when-did-the-lender-grant-time.html) | The lender granted more time. When did the right change? |
+| 508 | MKT-42 | [the-aisle-passed-but-the-screen.html](../the-aisle-passed-but-the-screen.html) | The aisle test passed. Did the screen shut buyers out? |
+| 509 | OPS-42 | [full-terminal-empty-boxes.html](../full-terminal-empty-boxes.html) | Full terminal. Empty boxes in the wrong place? |
+| 510 | PPL-42 | [same-swap-new-tradeoff.html](../same-swap-new-tradeoff.html) | The same swap. A new trade-off. |
+| 511 | STR-42 | [publish-the-score-or-prove-it.html](../publish-the-score-or-prove-it.html) | Publish the score. Can rivals copy the proof? |
+| 512 | ENT-42 | [the-grant-pays-later.html](../the-grant-pays-later.html) | The grant pays later. Can the venture start now? |
+| 513 | IS-42 | [two-offline-edits.html](../two-offline-edits.html) | Two offline edits. One workable plan? |
+| 514 | GVR-42 | [fixed-does-not-mean-closed.html](../fixed-does-not-mean-closed.html) | The fix is installed. Is the finding closed? |
+| 515 | SUS-42 | [detect-the-leak-or-renew-the-pipe.html](../detect-the-leak-or-renew-the-pipe.html) | Detect the leak sooner, or renew the old pipe? |
+| 516 | HSP-42 | [the-coach-has-seats.html](../the-coach-has-seats.html) | The coach has seats. Does it have room? |

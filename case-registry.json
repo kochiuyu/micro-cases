@@ -3527,6 +3527,153 @@
       "slug": "big-ipo-allocation-good-news",
       "area": "Finance, banking and insurance",
       "title": "Is a big IPO allocation good news?"
+    },
+    {
+      "legacy_id": 496,
+      "code": "ECO-46",
+      "slug": "the-fare-cap-bites",
+      "area": "Economics, competition and pricing",
+      "title": "The fare cap bites. Where does the increase go?"
+    },
+    {
+      "legacy_id": 497,
+      "code": "ACC-41",
+      "slug": "adjusted-profit-back-to-accounts",
+      "area": "Accounting, audit and management control",
+      "title": "Adjusted profit. Can readers get back to the accounts?"
+    },
+    {
+      "legacy_id": 498,
+      "code": "MKT-41",
+      "slug": "less-sugar-more-in-the-bottle",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "Less sugar. More in the bottle?"
+    },
+    {
+      "legacy_id": 499,
+      "code": "OPS-41",
+      "slug": "typhoon-ends-what-restarts-first",
+      "area": "Operations, supply chains and logistics",
+      "title": "The typhoon is over. What restarts first?"
+    },
+    {
+      "legacy_id": 500,
+      "code": "PPL-41",
+      "slug": "one-warning-two-workplaces",
+      "area": "People, leadership and organisational behaviour",
+      "title": "One warning. Two workplaces."
+    },
+    {
+      "legacy_id": 501,
+      "code": "STR-41",
+      "slug": "the-franchise-ends-what-travels",
+      "area": "Strategy and international business",
+      "title": "The franchise ends. What can the operator keep?"
+    },
+    {
+      "legacy_id": 502,
+      "code": "ENT-41",
+      "slug": "one-signed-letter",
+      "area": "Entrepreneurship, innovation and family business",
+      "title": "One signed letter. Which milestone is real?"
+    },
+    {
+      "legacy_id": 503,
+      "code": "IS-41",
+      "slug": "one-parcel-how-many-fees",
+      "area": "Information systems, AI and business analytics",
+      "title": "One parcel. How many fees?"
+    },
+    {
+      "legacy_id": 504,
+      "code": "GVR-41",
+      "slug": "the-notice-was-live-was-the-pack",
+      "area": "Governance, law, ethics and risk",
+      "title": "The notice was live. Was the tender pack?"
+    },
+    {
+      "legacy_id": 505,
+      "code": "SUS-41",
+      "slug": "can-the-building-feed-the-chargers",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "The chargers arrive. Can the building feed them?"
+    },
+    {
+      "legacy_id": 506,
+      "code": "HSP-41",
+      "slug": "the-last-ferry-decides",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "The last ferry decides the itinerary"
+    },
+    {
+      "legacy_id": 507,
+      "code": "ACC-42",
+      "slug": "when-did-the-lender-grant-time",
+      "area": "Accounting, audit and management control",
+      "title": "The lender granted more time. When did the right change?"
+    },
+    {
+      "legacy_id": 508,
+      "code": "MKT-42",
+      "slug": "the-aisle-passed-but-the-screen",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "The aisle test passed. Did the screen shut buyers out?"
+    },
+    {
+      "legacy_id": 509,
+      "code": "OPS-42",
+      "slug": "full-terminal-empty-boxes",
+      "area": "Operations, supply chains and logistics",
+      "title": "Full terminal. Empty boxes in the wrong place?"
+    },
+    {
+      "legacy_id": 510,
+      "code": "PPL-42",
+      "slug": "same-swap-new-tradeoff",
+      "area": "People, leadership and organisational behaviour",
+      "title": "The same swap. A new trade-off."
+    },
+    {
+      "legacy_id": 511,
+      "code": "STR-42",
+      "slug": "publish-the-score-or-prove-it",
+      "area": "Strategy and international business",
+      "title": "Publish the score. Can rivals copy the proof?"
+    },
+    {
+      "legacy_id": 512,
+      "code": "ENT-42",
+      "slug": "the-grant-pays-later",
+      "area": "Entrepreneurship, innovation and family business",
+      "title": "The grant pays later. Can the venture start now?"
+    },
+    {
+      "legacy_id": 513,
+      "code": "IS-42",
+      "slug": "two-offline-edits",
+      "area": "Information systems, AI and business analytics",
+      "title": "Two offline edits. One workable plan?"
+    },
+    {
+      "legacy_id": 514,
+      "code": "GVR-42",
+      "slug": "fixed-does-not-mean-closed",
+      "area": "Governance, law, ethics and risk",
+      "title": "The fix is installed. Is the finding closed?"
+    },
+    {
+      "legacy_id": 515,
+      "code": "SUS-42",
+      "slug": "detect-the-leak-or-renew-the-pipe",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "Detect the leak sooner, or renew the old pipe?"
+    },
+    {
+      "legacy_id": 516,
+      "code": "HSP-42",
+      "slug": "the-coach-has-seats",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "The coach has seats. Does it have room?"
     }
   ]
 }

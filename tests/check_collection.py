@@ -2,7 +2,7 @@
 from html.parser import HTMLParser
 from pathlib import Path
 import re
-from check_registry import load_registry
+from check_registry import load_registry, ceiling
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -123,13 +123,14 @@ def check_collection(root=ROOT):
     assert len(numbers) == len(set(numbers)) == published, 'Coverage counts repeat or omit cases'
     assert set(numbers) == set(page_ids), 'Coverage numbers differ from actual case pages'
     assert set(numbers) == set(range(1, published + 1)), 'Coverage numbering has gaps'
-    assert f'**{495-published} approved editorial slots** | **{495-published}**' in ledger, 'Remaining total differs from approved capacity'
+    remaining_total=(516 if published>495 else 495)-published
+    assert f'**{remaining_total} approved editorial slots** | **{remaining_total}**' in ledger, 'Remaining total differs from approved capacity'
     for area in registry['areas']:
         row=re.search(r'^\| '+re.escape(area['name'])+r' \|[^\n]+',ledger,re.M)
         assert row, 'Missing coverage area'
         remaining=int(row[0].split('|')[4].strip())
         count=sum(c['area']==area['name'] for c in registry['cases'])
-        assert remaining==(50 if area['code']=='FIN' else 45 if area['code']=='ECO' else 40)-count, 'Remaining area capacity mismatch: '+area['name']
+        assert remaining==ceiling(area['code'],published)-count, 'Remaining area capacity mismatch: '+area['name']
     print(f'PASS: {published} unique cases, images, editable files and coverage entries agree.')
 
 
