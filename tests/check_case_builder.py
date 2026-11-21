@@ -10,7 +10,7 @@ import shutil
 import sys
 import tempfile
 import unittest
-from check_registry import slot_code, FIRST_WAVE_CODES, SECOND_WAVE_CODES
+from check_registry import slot_code, FIRST_WAVE_CODES, SECOND_WAVE_CODES, THIRD_WAVE_CODES
 
 sys.dont_write_bytecode=True
 ROOT=Path(__file__).resolve().parents[1]
@@ -51,7 +51,7 @@ class BuilderTests(unittest.TestCase):
         for p in ROOT.rglob('*'):
             if '.git' in p.parts or '__pycache__' in p.parts or not p.is_file() or p.suffix not in ('.html','.md','.json','.py'):continue
             target=self.repo/p.relative_to(ROOT);target.parent.mkdir(parents=True,exist_ok=True);shutil.copyfile(p,target)
-        reduce_to_original_baseline(self.repo,516)
+        reduce_to_original_baseline(self.repo,537)
         self.x=payload(self.repo)
         self.input=Path(self.temp.name)/'input.json'
 
@@ -81,7 +81,7 @@ class BuilderTests(unittest.TestCase):
     def stage_published(self, total):
         # Restore real protected identities before adding synthetic unpublished slots.
         reg=json.loads((ROOT/'case-registry.json').read_text())
-        reg['cases']=[c for c in reg['cases'] if c['legacy_id']<=min(total,516)]
+        reg['cases']=[c for c in reg['cases'] if c['legacy_id']<=min(total,537)]
         source=(ROOT/'index.html').read_text()
         keep={c['slug']+'.html' for c in reg['cases']}
         source=re.sub(r'<a class="card".*?</a>',lambda m:m[0] if re.search(r'href="([^"]+)"',m[0])[1] in keep else '',source,flags=re.S)
@@ -100,14 +100,14 @@ class BuilderTests(unittest.TestCase):
         (self.repo/'index.html').write_text(source[:first]+''.join(additions)+source[first:])
 
     def test_staged_boundaries_and_overflow(self):
-        for before in (495,496,505,514,515,516,517,526,535,536):
+        for before in (495,496,505,514,515,516,517,526,535,536,537,538,547,556,557):
             with self.subTest(before=before):
                 self.stage_published(before)
                 self.x=payload(self.repo)
-                if before<516:
+                if before<537:
                     # Replay a historical boundary with the exact frozen identity;
                     # remove these two outputs only inside the disposable fixture.
-                    frozen=json.loads((self.repo/'tests/fixtures/published-516-case-identities.json').read_text())[before]
+                    frozen=json.loads((self.repo/'tests/fixtures/published-537-case-identities.json').read_text())[before]
                     assert frozen['code']==self.x['code']
                     self.x['slug']=frozen['slug']
                     (self.repo/(self.x['slug']+'.html')).unlink(missing_ok=True)
@@ -122,10 +122,10 @@ class BuilderTests(unittest.TestCase):
                 checks.validate_registry(reg)
                 self.assertEqual(reg['cases'][-1]['legacy_id'],before+1)
                 ledger=(self.repo/'planning/collection-roadmap.md').read_text()
-                self.assertIn(f'**{(516 if before<516 else 537)-before-1} approved editorial slots**',ledger)
+                self.assertIn(f'**{(516 if before<516 else 537 if before<537 else 558)-before-1} approved editorial slots**',ledger)
                 self.assertIn(f'{before+1} decisions · 12 teaching areas',(self.repo/'index.html').read_text())
-        self.x['number']=538;self.x['code']='FIN-51';self.x['slug']='overflow-test'
-        self.reject('121–537')
+        self.x['number']=559;self.x['code']='FIN-51';self.x['slug']='overflow-test'
+        self.reject('121–558')
 
     def test_area_overflow_and_frozen_identity_rejected(self):
         self.stage_published(480)
@@ -204,10 +204,31 @@ class BuilderTests(unittest.TestCase):
                 with self.assertRaises(ValueError):m.load_wave(self.repo,2)
         plan.write_text(json.dumps(original))
 
+    def test_third_wave_matches_independent_oracle(self):
+        m=builder.module(self.repo/'scripts/release_slots.py','wave3_plan_under_test')
+        slots,caps=m.load_wave(self.repo,3)
+        self.assertEqual(tuple(slots),tuple(range(538,559)))
+        self.assertEqual(tuple(slots.values()),THIRD_WAVE_CODES)
+        self.assertEqual(caps,{'FIN':50,'ECO':48,**dict.fromkeys(('ACC','MKT','OPS','PPL','STR','ENT','IS','GVR','SUS','HSP'),46)})
+        plan=self.repo/'planning/wave-3-slots.json'
+        original=json.loads(plan.read_text())
+        for mutation in ('wrong-base','extra','finance','order-drift','float-target','boolean-wave'):
+            with self.subTest(mutation=mutation):
+                broken=copy.deepcopy(original)
+                if mutation=='wrong-base': broken['baseline_commit']='0'*40
+                elif mutation=='extra': broken['slots'].append({'legacy_id':559,'code':'ECO-49'})
+                elif mutation=='finance': broken['slots'][1]['code']='FIN-51'
+                elif mutation=='float-target': broken['target_count']=558.0
+                elif mutation=='boolean-wave': broken['wave']=True
+                else: broken['slots'][1]['code'],broken['slots'][2]['code']=broken['slots'][2]['code'],broken['slots'][1]['code']
+                plan.write_text(json.dumps(broken))
+                with self.assertRaises(ValueError): m.load_wave(self.repo,3)
+        plan.write_text(json.dumps(original))
+
     def test_wrong_wave_slot_and_excluded_finance_do_not_write(self):
         reg=json.loads((self.repo/'case-registry.json').read_text())
         self.x['discipline']=next(a['name'] for a in reg['areas'] if a['code']=='ACC')
-        self.x['code']='ACC-43'
+        self.x['code']='ACC-45'
         self.reject('Wrong approved expansion slot')
         self.x['discipline']=next(a['name'] for a in reg['areas'] if a['code']=='FIN')
         self.x['code']='FIN-51'

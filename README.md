@@ -4,9 +4,9 @@ Short classroom cases with an opening decision, a second-round prompt, a debrief
 
 The [original roadmap](planning/collection-roadmap.md) records the first 120 cases. The approved [expansion plan to 240](planning/expansion-to-240.md) adds cases 11–20 in each area, in ten balanced waves with research and review gates. The next approved [expansion plan to 360](planning/expansion-to-360.md) adds cases 21–30 in each area. The approved [expansion plan to 480](planning/expansion-to-480.md) adds cases 31–40 in each area. Planned cases are not counted as published.
 
-The collection contains 537 cases. The second balanced wave started at 516 cases: 50 in Finance, 46 in Economics and 42 in each of the other ten areas. The [finance and economics extension](planning/finance-economics-extension-490.md) adds FIN-41–45 and ECO-41–45, alternating at permanent IDs 481–490, to the completed balanced 480-case collection. The five subsequent Finance cases, FIN-46–50, use permanent IDs 491–495. Planned cases are not counted as published.
+The collection contains 558 cases. The third balanced wave started at 537 cases: 50 in Finance, 47 in Economics and 44 in each of the other ten areas. The [finance and economics extension](planning/finance-economics-extension-490.md) adds FIN-41–45 and ECO-41–45, alternating at permanent IDs 481–490, to the completed balanced 480-case collection. The five subsequent Finance cases, FIN-46–50, use permanent IDs 491–495. Planned cases are not counted as published.
 
-Identity fixtures protect all 516 baseline permanent IDs, area codes and URLs. Earlier snapshots remain unchanged. The builder supports the first two balanced waves, through ID 537.
+Identity fixtures protect all 537 baseline permanent IDs, area codes and URLs. Earlier snapshots remain unchanged. The builder supports the first three balanced waves, through ID 558.
 
 ## Acknowledgement
 
@@ -2148,3 +2148,87 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## HSP-44
 
 537. [Hold the block. Or release it early?](release-the-room-block.html)
+
+## ECO-48
+
+538. [Is a better bid worth waiting for?](is-a-better-bid-worth-waiting-for.html)
+
+## ACC-45
+
+539. [Profit rose. Did each share earn more?](profit-rose-did-each-share-earn-more.html)
+
+## MKT-45
+
+540. [More renewals. More people who meant to stay?](before-the-next-renewal.html)
+
+## OPS-45
+
+541. [The parcel fits. Will the locker be free later?](the-locker-fit-is-not-the-pickup.html)
+
+## PPL-45
+
+542. [Everyone understood. Who helped shape the decision?](translated-did-everyone-get-a-turn.html)
+
+## STR-45
+
+543. [Pay to build a second source?](pay-to-build-a-second-source.html)
+
+## ENT-45
+
+544. [Automate the routine. Who keeps the exceptions?](keep-the-exceptions-manual.html)
+
+## IS-45
+
+545. [The dashboard is fast. Until it isn’t.](the-dashboard-is-fast-until-it-isnt.html)
+
+## GVR-45
+
+546. [The rate is right. The cohort isn’t.](the-rate-is-right-the-cohort-isnt.html)
+
+## SUS-45
+
+547. [Two shuttle routes. One place they can both fail?](two-roads-one-flood-cut.html)
+
+## HSP-45
+
+548. [Save the school slot. Which session?](save-the-school-slot.html)
+
+## ACC-46
+
+549. [An 18% holding. Does it belong on the associate line?](a-board-seat-not-a-vote.html)
+
+## MKT-46
+
+550. [The video stays up. Can the campaign keep using it?](the-video-stays-do-the-rights.html)
+
+## OPS-46
+
+551. [Which chiller should carry the evening peak?](which-chiller-carries-the-peak.html)
+
+## PPL-46
+
+552. [Same calendar. Same chance to show the work?](same-work-sample-different-window.html)
+
+## STR-46
+
+553. [One pilot. Which partner helps you decide?](one-pilot-which-partner-learns.html)
+
+## ENT-46
+
+554. [The workshop closes. Which assets sell together?](the-workshop-closes-which-lot.html)
+
+## IS-46
+
+555. [Fewer complaints. Or fewer labels?](fewer-complaints-or-fewer-labels.html)
+
+## GVR-46
+
+556. [The reserve is not free cash](the-reserve-is-not-free-cash.html)
+
+## SUS-46
+
+557. [Less on the plate. Less in the bin?](less-on-the-plate-less-in-the-bin.html)
+
+## HSP-46
+
+558. [One banquet. Which meals can we promise?](one-banquet-two-kitchen-promises.html)

@@ -3821,6 +3821,153 @@
       "slug": "release-the-room-block",
       "area": "Hospitality, tourism, property and service management",
       "title": "Hold the block. Or release it early?"
+    },
+    {
+      "legacy_id": 538,
+      "code": "ECO-48",
+      "slug": "is-a-better-bid-worth-waiting-for",
+      "area": "Economics, competition and pricing",
+      "title": "Is a better bid worth waiting for?"
+    },
+    {
+      "legacy_id": 539,
+      "code": "ACC-45",
+      "slug": "profit-rose-did-each-share-earn-more",
+      "area": "Accounting, audit and management control",
+      "title": "Profit rose. Did each share earn more?"
+    },
+    {
+      "legacy_id": 540,
+      "code": "MKT-45",
+      "slug": "before-the-next-renewal",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "More renewals. More people who meant to stay?"
+    },
+    {
+      "legacy_id": 541,
+      "code": "OPS-45",
+      "slug": "the-locker-fit-is-not-the-pickup",
+      "area": "Operations, supply chains and logistics",
+      "title": "The parcel fits. Will the locker be free later?"
+    },
+    {
+      "legacy_id": 542,
+      "code": "PPL-45",
+      "slug": "translated-did-everyone-get-a-turn",
+      "area": "People, leadership and organisational behaviour",
+      "title": "Everyone understood. Who helped shape the decision?"
+    },
+    {
+      "legacy_id": 543,
+      "code": "STR-45",
+      "slug": "pay-to-build-a-second-source",
+      "area": "Strategy and international business",
+      "title": "Pay to build a second source?"
+    },
+    {
+      "legacy_id": 544,
+      "code": "ENT-45",
+      "slug": "keep-the-exceptions-manual",
+      "area": "Entrepreneurship, innovation and family business",
+      "title": "Automate the routine. Who keeps the exceptions?"
+    },
+    {
+      "legacy_id": 545,
+      "code": "IS-45",
+      "slug": "the-dashboard-is-fast-until-it-isnt",
+      "area": "Information systems, AI and business analytics",
+      "title": "The dashboard is fast. Until it isn’t."
+    },
+    {
+      "legacy_id": 546,
+      "code": "GVR-45",
+      "slug": "the-rate-is-right-the-cohort-isnt",
+      "area": "Governance, law, ethics and risk",
+      "title": "The rate is right. The cohort isn’t."
+    },
+    {
+      "legacy_id": 547,
+      "code": "SUS-45",
+      "slug": "two-roads-one-flood-cut",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "Two shuttle routes. One place they can both fail?"
+    },
+    {
+      "legacy_id": 548,
+      "code": "HSP-45",
+      "slug": "save-the-school-slot",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "Save the school slot. Which session?"
+    },
+    {
+      "legacy_id": 549,
+      "code": "ACC-46",
+      "slug": "a-board-seat-not-a-vote",
+      "area": "Accounting, audit and management control",
+      "title": "An 18% holding. Does it belong on the associate line?"
+    },
+    {
+      "legacy_id": 550,
+      "code": "MKT-46",
+      "slug": "the-video-stays-do-the-rights",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "The video stays up. Can the campaign keep using it?"
+    },
+    {
+      "legacy_id": 551,
+      "code": "OPS-46",
+      "slug": "which-chiller-carries-the-peak",
+      "area": "Operations, supply chains and logistics",
+      "title": "Which chiller should carry the evening peak?"
+    },
+    {
+      "legacy_id": 552,
+      "code": "PPL-46",
+      "slug": "same-work-sample-different-window",
+      "area": "People, leadership and organisational behaviour",
+      "title": "Same calendar. Same chance to show the work?"
+    },
+    {
+      "legacy_id": 553,
+      "code": "STR-46",
+      "slug": "one-pilot-which-partner-learns",
+      "area": "Strategy and international business",
+      "title": "One pilot. Which partner helps you decide?"
+    },
+    {
+      "legacy_id": 554,
+      "code": "ENT-46",
+      "slug": "the-workshop-closes-which-lot",
+      "area": "Entrepreneurship, innovation and family business",
+      "title": "The workshop closes. Which assets sell together?"
+    },
+    {
+      "legacy_id": 555,
+      "code": "IS-46",
+      "slug": "fewer-complaints-or-fewer-labels",
+      "area": "Information systems, AI and business analytics",
+      "title": "Fewer complaints. Or fewer labels?"
+    },
+    {
+      "legacy_id": 556,
+      "code": "GVR-46",
+      "slug": "the-reserve-is-not-free-cash",
+      "area": "Governance, law, ethics and risk",
+      "title": "The reserve is not free cash"
+    },
+    {
+      "legacy_id": 557,
+      "code": "SUS-46",
+      "slug": "less-on-the-plate-less-in-the-bin",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "Less on the plate. Less in the bin?"
+    },
+    {
+      "legacy_id": 558,
+      "code": "HSP-46",
+      "slug": "one-banquet-two-kitchen-promises",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "One banquet. Which meals can we promise?"
     }
   ]
 }

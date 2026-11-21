@@ -579,3 +579,24 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 535 | GVR-44 | [same-supplier-new-controller.html](../same-supplier-new-controller.html) | Same supplier. Who now controls it? |
 | 536 | SUS-44 | [glass-bins-but-how-much-new-recovery.html](../glass-bins-but-how-much-new-recovery.html) | More glass in the bins. How much is new recovery? |
 | 537 | HSP-44 | [release-the-room-block.html](../release-the-room-block.html) | Hold the block. Or release it early? |
+| 538 | ECO-48 | [is-a-better-bid-worth-waiting-for.html](../is-a-better-bid-worth-waiting-for.html) | Is a better bid worth waiting for? |
+| 539 | ACC-45 | [profit-rose-did-each-share-earn-more.html](../profit-rose-did-each-share-earn-more.html) | Profit rose. Did each share earn more? |
+| 540 | MKT-45 | [before-the-next-renewal.html](../before-the-next-renewal.html) | More renewals. More people who meant to stay? |
+| 541 | OPS-45 | [the-locker-fit-is-not-the-pickup.html](../the-locker-fit-is-not-the-pickup.html) | The parcel fits. Will the locker be free later? |
+| 542 | PPL-45 | [translated-did-everyone-get-a-turn.html](../translated-did-everyone-get-a-turn.html) | Everyone understood. Who helped shape the decision? |
+| 543 | STR-45 | [pay-to-build-a-second-source.html](../pay-to-build-a-second-source.html) | Pay to build a second source? |
+| 544 | ENT-45 | [keep-the-exceptions-manual.html](../keep-the-exceptions-manual.html) | Automate the routine. Who keeps the exceptions? |
+| 545 | IS-45 | [the-dashboard-is-fast-until-it-isnt.html](../the-dashboard-is-fast-until-it-isnt.html) | The dashboard is fast. Until it isn’t. |
+| 546 | GVR-45 | [the-rate-is-right-the-cohort-isnt.html](../the-rate-is-right-the-cohort-isnt.html) | The rate is right. The cohort isn’t. |
+| 547 | SUS-45 | [two-roads-one-flood-cut.html](../two-roads-one-flood-cut.html) | Two shuttle routes. One place they can both fail? |
+| 548 | HSP-45 | [save-the-school-slot.html](../save-the-school-slot.html) | Save the school slot. Which session? |
+| 549 | ACC-46 | [a-board-seat-not-a-vote.html](../a-board-seat-not-a-vote.html) | An 18% holding. Does it belong on the associate line? |
+| 550 | MKT-46 | [the-video-stays-do-the-rights.html](../the-video-stays-do-the-rights.html) | The video stays up. Can the campaign keep using it? |
+| 551 | OPS-46 | [which-chiller-carries-the-peak.html](../which-chiller-carries-the-peak.html) | Which chiller should carry the evening peak? |
+| 552 | PPL-46 | [same-work-sample-different-window.html](../same-work-sample-different-window.html) | Same calendar. Same chance to show the work? |
+| 553 | STR-46 | [one-pilot-which-partner-learns.html](../one-pilot-which-partner-learns.html) | One pilot. Which partner helps you decide? |
+| 554 | ENT-46 | [the-workshop-closes-which-lot.html](../the-workshop-closes-which-lot.html) | The workshop closes. Which assets sell together? |
+| 555 | IS-46 | [fewer-complaints-or-fewer-labels.html](../fewer-complaints-or-fewer-labels.html) | Fewer complaints. Or fewer labels? |
+| 556 | GVR-46 | [the-reserve-is-not-free-cash.html](../the-reserve-is-not-free-cash.html) | The reserve is not free cash |
+| 557 | SUS-46 | [less-on-the-plate-less-in-the-bin.html](../less-on-the-plate-less-in-the-bin.html) | Less on the plate. Less in the bin? |
+| 558 | HSP-46 | [one-banquet-two-kitchen-promises.html](../one-banquet-two-kitchen-promises.html) | One banquet. Which meals can we promise? |
