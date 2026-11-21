@@ -2,7 +2,7 @@
 
 `scripts/build_case.py` renders one already-reviewed case into the existing static-site presentation. It does **not** research, approve content, create artwork, publish, commit or certify source/visual quality. Its default repository is the parent of its own `scripts` directory, independent of the current working directory.
 
-The balanced 480-case collection is complete. The next approved target is 490: five additional Finance cases and five Economics cases, not a balanced expansion across all areas.
+The 490-case collection is the protected baseline for the three additional Finance cases, FIN-46–48.
 
 ## Usage
 
@@ -20,8 +20,8 @@ The first command is a read-only dry run. `--dry-run` is an explicit synonym for
 
 Provide a UTF-8 JSON object with these required fields:
 
-- `number`: next consecutive integer legacy ID, 121–490. Original IDs are immutable.
-- `code`, `slug`, `title`, `discipline`: next available area code (for example `ACC-11`), new lowercase hyphenated URL slug, title and exact registry area name. No existing identity or page may be overwritten. The bounded expansion permits FIN and ECO to reach 45 cases each; every other area remains capped at 40. IDs 481–490 alternate FIN-41, ECO-41 through FIN-45, ECO-45. No other new slots are approved.
+- `number`: next consecutive integer legacy ID, 121–493. Original IDs are immutable.
+- `code`, `slug`, `title`, `discipline`: next available area code (for example `ACC-11`), new lowercase hyphenated URL slug, title and exact registry area name. No existing identity or page may be overwritten. The bounded expansion permits 48 Finance cases, 45 Economics cases, and 40 in each other area. IDs 481–490 retain their protected alternating FIN/ECO identities. IDs 491–493 correspond only to FIN-46–48.
 - `topics`: nonempty, unique plain-text strings. `teaser`, `alt`, `news_heading`, `notes`: nonempty plain text. Optional `location` and `duration` default to Hong Kong and 10–15 minutes.
 - `news`, `opening`, `exhibit`, `round2`: HTML fragments. `sections` and `slides`: nonempty arrays of `[heading, HTML fragment]` pairs. Supported fragment tags are `p`, `strong`, `b`, `em`, `i`, `br`, `ul`, `ol`, `li`, `table`, `thead`, `tbody`, `tfoot`, `tr`, `th`, `td`, `caption`. Attributes, links, embedded media, scripts and body URLs are rejected. The builder owns presentation styling and artwork placement.
 - `sections` must contain exactly one dedicated `Instructor note` entry, with concise 10–15 minute pacing, discussion prompts and case-specific conceptual limits. Pacing buried in source notes does not replace this accordion.
@@ -46,4 +46,4 @@ Before writing it checks snapshotted text files for concurrent changes. If a cau
 
 ## Focused regression coverage
 
-`tests/check_case_builder.py` uses disposable text-only copies, not production case generation. Each copy is reduced to the immutable published 480-case baseline, so tests remain usable after all 490 slots are filled. Staged tests build case 481 and case 490, reject case 491, a 41st case in any non-FIN/ECO area, and incorrect alternating slots, and protect the original, 240-case, 360-case and 480-case identity snapshots. It covers read-only dry mode, portable default location, metadata, question duplication/order, prohibited HTML/links, ID gaps and overwrite refusal, artwork presence, generated metadata, Markdown tables, unchanged existing teaching bodies, caught-failure rollback and concurrent-change rejection. Fixtures are fictional and are not source or artwork certifications.
+`tests/check_case_builder.py` uses disposable text-only copies, not production case generation. Each copy is reduced to the immutable published 490-case baseline, so tests remain usable after all 493 slots are filled. Staged tests build cases 491–493, reject case 494, a 41st case in any non-FIN/ECO area, and incorrect historical alternating slots, and protect all earlier identity snapshots and the 490-case baseline. It covers read-only dry mode, portable default location, metadata, question duplication/order, prohibited HTML/links, ID gaps and overwrite refusal, artwork presence, generated metadata, Markdown tables, unchanged existing teaching bodies, caught-failure rollback and concurrent-change rejection. Fixtures are fictional and are not source or artwork certifications.

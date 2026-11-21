@@ -4,9 +4,9 @@ Short classroom cases with an opening decision, a second-round prompt, a debrief
 
 The [original roadmap](planning/collection-roadmap.md) records the first 120 cases. The approved [expansion plan to 240](planning/expansion-to-240.md) adds cases 11–20 in each area, in ten balanced waves with research and review gates. The next approved [expansion plan to 360](planning/expansion-to-360.md) adds cases 21–30 in each area. The approved [expansion plan to 480](planning/expansion-to-480.md) adds cases 31–40 in each area. Planned cases are not counted as published.
 
-The collection contains 490 cases: 45 each in Finance and Economics and 40 in each of the other ten areas. The [finance and economics extension](planning/finance-economics-extension-490.md) adds FIN-41–45 and ECO-41–45, alternating at permanent IDs 481–490, to the completed balanced 480-case collection. Planned cases are not counted as published.
+The collection contains 493 cases: 48 in Finance, 45 in Economics and 40 in each of the other ten areas. The [finance and economics extension](planning/finance-economics-extension-490.md) adds FIN-41–45 and ECO-41–45, alternating at permanent IDs 481–490, to the completed balanced 480-case collection. The three subsequent Finance cases, FIN-46–48, use permanent IDs 491–493. Planned cases are not counted as published.
 
-Identity fixtures protect all 480 existing permanent IDs, area codes and URLs. Earlier snapshots are retained unchanged. The builder accepts sequential staged additions through ID 490, with FIN/ECO capped at 45 cases each and every other area capped at 40.
+Identity fixtures protect all 490 baseline permanent IDs, area codes and URLs. Earlier snapshots are retained unchanged. The builder accepts sequential staged additions through ID 493, with Finance capped at 48 and Economics at 45 and every other area capped at 40.
 
 ## Acknowledgement
 
@@ -1960,3 +1960,15 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## ECO-45
 
 490. [A tariff discount. On how many units?](tariff-discount-how-many-units.html)
+
+## FIN-46
+
+491. [Which share would you sell?](which-share-would-you-sell.html)
+
+## FIN-47
+
+492. [Who gets the lending subsidy?](who-gets-the-lending-subsidy.html)
+
+## FIN-48
+
+493. [Who funds the rescue investment?](who-funds-the-rescue-investment.html)

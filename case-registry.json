@@ -3492,6 +3492,27 @@
       "slug": "tariff-discount-how-many-units",
       "area": "Economics, competition and pricing",
       "title": "A tariff discount. On how many units?"
+    },
+    {
+      "legacy_id": 491,
+      "code": "FIN-46",
+      "slug": "which-share-would-you-sell",
+      "area": "Finance, banking and insurance",
+      "title": "Which share would you sell?"
+    },
+    {
+      "legacy_id": 492,
+      "code": "FIN-47",
+      "slug": "who-gets-the-lending-subsidy",
+      "area": "Finance, banking and insurance",
+      "title": "Who gets the lending subsidy?"
+    },
+    {
+      "legacy_id": 493,
+      "code": "FIN-48",
+      "slug": "who-funds-the-rescue-investment",
+      "area": "Finance, banking and insurance",
+      "title": "Who funds the rescue investment?"
     }
   ]
 }
