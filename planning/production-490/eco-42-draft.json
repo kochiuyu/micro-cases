@@ -1,0 +1,132 @@
+{
+  "number": 484,
+  "code": "ECO-42",
+  "slug": "record-takings-more-sold",
+  "title": "Record takings. More sold?",
+  "discipline": "Economics, competition and pricing",
+  "topics": [
+    "Inflation",
+    "Retail measurement",
+    "Price and volume indices"
+  ],
+  "teaser": "Can a headphone shop use published retail figures to describe how much it sold?",
+  "alt": "Two headphone-shop colleagues compare boxed headphone models and a sales slip.",
+  "news_heading": "Reported context",
+  "news": "<p>In its first November 2025 release, Hong Kong’s Census and Statistics Department reported retail sales value up 6.5% and retail sales volume up 4.4% year on year. It derives its volume index using relevant CPI components. The overall Composite Consumer Price Index rose 1.2% over the same interval, but tracks a wider consumer basket.</p>",
+  "opening": "<p>Wing runs a fictional headphone shop in Sham Shui Po. A supplier has asked whether to send more stock to Hong Kong. Wing has November till receipts but an incomplete unit count. Her till ledger confirms these are the highest nominal receipts for any November since the shop opened. She is preparing two separate claims: one about Hong Kong retail goods and one about her shop.</p><p>Each row below is rebased to 100 in November 2024 for ease of comparison. The official numbers are from the initial releases; the last row is fictional. None of the first three rows is a measure of this shop.</p>",
+  "q1": "What would you write about Hong Kong retail volume and retail prices, and can you infer the growth in Wing’s headphone volume?",
+  "q2": "Which price measure should Wing use now, what is her shop’s price-adjusted growth, and does it justify calling for more stock?",
+  "round2": "<p>Wing finds comparable records for the headphones sold in November. The same headphone models were sold in both periods, and the proportions of the models are unchanged. Taking last November as 100, the prices of all those models rose to 110 this November.</p><p>The supplier also cites an online headline about December announcing faster citywide retail growth. The stock decision is for Wing’s November-to-November comparison. Its heading should say which month, which comparison and which measure it uses.</p>",
+  "exhibit": "<table><thead><tr><th>Index, rebased for this comparison</th><th>Nov 2024</th><th>Nov 2025</th></tr></thead><tbody><tr><td>Hong Kong retail goods: value</td><td>100</td><td>106.5</td></tr><tr><td>Hong Kong retail goods: volume</td><td>100</td><td>104.4</td></tr><tr><td>Hong Kong: Composite CPI</td><td>100</td><td>101.2</td></tr><tr><td>Wing’s shop: receipts</td><td>100</td><td>108.0</td></tr></tbody></table>",
+  "exhibit_md": "| Index, rebased for this comparison | Nov 2024 | Nov 2025 |\n| --- | --- | --- |\n| Hong Kong retail goods: value | 100 | 106.5 |\n| Hong Kong retail goods: volume | 100 | 104.4 |\n| Hong Kong: Composite CPI | 100 | 101.2 |\n| Wing’s shop: receipts | 100 | 108.0 |",
+  "sections": [
+    [
+      "Debrief",
+      "<p>Citywide published retail volume rose 4.4%. The ratio 106.5 ÷ 104.4 gives an implied retail price factor of about 1.0201, or roughly 2.0%, based on rounded reported growth. The 1.2% overall CPI tracks a different basket. At this stage the shop lacks a matched price or unit series.</p><p>With matching models, stable mix and a uniform 10% price change, divide the shop’s receipts factor of 1.08 by 1.10. Price-adjusted receipts are 98.18 on the prior-November base, about 1.82% lower. Deflating the same shop receipts by citywide CPI would instead suggest roughly 6.7% growth and answer the wrong question.</p><p>Label the note November 2025 against November 2024. Report higher nominal shop receipts but lower comparable sales volume. Do not automatically order more or less: check availability, lead times, unfilled demand and model-by-model sell-through.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>Allow two minutes to identify the units and period, three to reconcile the citywide indices, and four to apply the matched price series.</p><p>Ask what happens if the shop introduces a premium model with no prior-year equivalent. What series would you exclude or adjust before making a comparable-volume claim?</p>"
+    ],
+    [
+      "Boundary of the evidence",
+      "<p>The official volume index is chain-linked with annual reweighting; the simple implied ratio uses rounded releases. Overall CPI, citywide retail volume and the shop’s comparable volume cannot be interchanged. A single month is not a demand forecast.</p>"
+    ]
+  ],
+  "notes": "The protagonist, decision and all exhibits are fictional classroom material. Only the separately labelled reported context describes real events. References are optional.",
+  "sources": [
+    [
+      "https://www.info.gov.hk/gia/general/202601/02/P2026010200441.htm",
+      "C&SD, provisional November 2025 retail sales",
+      "Reports provisional year-on-year increases of 6.5% in value and 4.4% in volume, and distinguishes retail goods from overall consumption."
+    ],
+    [
+      "https://www.censtatd.gov.hk/wbr/B1080003/B10800032025MM11/att/en/B10800032025MM11.pdf",
+      "C&SD, Report on Monthly Survey of Retail Sales",
+      "Explanatory notes use relevant CPI components and chain-linking with annual reweighting. The classroom fixed-base calculation is not the official method."
+    ],
+    [
+      "https://www.info.gov.hk/gia/general/202512/22/P2025122200435.htm",
+      "C&SD, November 2025 consumer prices",
+      "Reports overall Composite CPI inflation of 1.2% year on year and differences across spending categories."
+    ],
+    [
+      "https://www.info.gov.hk/gia/general/202602/03/P2026020300456p.htm",
+      "C&SD, December 2025 and full-year retail sales",
+      "The next vintage confirms November’s 4.4% volume growth and illustrates the importance of stating dates and revisions."
+    ],
+    [
+      "https://www.imf.org/-/media/files/data/cpi/cpi-manual-concepts-and-methods.pdf?la=en",
+      "Consumer Price Index Manual: Concepts and Methods",
+      "Chapter 6 discusses matching items and accounting for changes in quality; it supplies no prices for this fictional shop."
+    ]
+  ],
+  "slides": [
+    [
+      "Reported context",
+      "<p>In its first November 2025 release, Hong Kong’s Census and Statistics Department reported retail sales value up 6.5% and retail sales volume up 4.4% year on year. It derives its volume index using relevant CPI components. The overall Composite Consumer Price Index rose 1.2% over the same interval, but tracks a wider consumer basket.</p>"
+    ],
+    [
+      "Record takings. More sold?",
+      "<p></p>"
+    ],
+    [
+      "The classroom decision",
+      "<p>Wing runs a fictional headphone shop in Sham Shui Po. A supplier has asked whether to send more stock to Hong Kong. Wing has November till receipts but an incomplete unit count.</p>"
+    ],
+    [
+      "The classroom decision · continued",
+      "<p>Her till ledger confirms these are the highest nominal receipts for any November since the shop opened. She is preparing two separate claims: one about Hong Kong retail goods and one about her shop.</p>"
+    ],
+    [
+      "What the team knows",
+      "<p>Each row below is rebased to 100 in November 2024 for ease of comparison. The official numbers are from the initial releases; the last row is fictional. None of the first three rows is a measure of this shop.</p>"
+    ],
+    [
+      "Opening exhibit",
+      "<table><thead><tr><th>Index, rebased for this comparison</th><th>Nov 2024</th><th>Nov 2025</th></tr></thead><tbody><tr><td>Hong Kong retail goods: value</td><td>100</td><td>106.5</td></tr><tr><td>Hong Kong retail goods: volume</td><td>100</td><td>104.4</td></tr><tr><td>Hong Kong: Composite CPI</td><td>100</td><td>101.2</td></tr><tr><td>Wing’s shop: receipts</td><td>100</td><td>108.0</td></tr></tbody></table>"
+    ],
+    [
+      "Opening decision",
+      "<p>What would you write about Hong Kong retail volume and retail prices, and can you infer the growth in Wing’s headphone volume?</p>"
+    ],
+    [
+      "The second piece of evidence",
+      "<p>Wing finds comparable records for the headphones sold in November. The same headphone models were sold in both periods, and the proportions of the models are unchanged. Taking last November as 100, the prices of all those models rose to 110 this November.</p>"
+    ],
+    [
+      "What could change your call",
+      "<p>The supplier also cites an online headline about December announcing faster citywide retail growth. The stock decision is for Wing’s November-to-November comparison. Its heading should say which month, which comparison and which measure it uses.</p>"
+    ],
+    [
+      "Second decision",
+      "<p>Which price measure should Wing use now, what is her shop’s price-adjusted growth, and does it justify calling for more stock?</p>"
+    ],
+    [
+      "Debrief · Opening decision",
+      "<p>Citywide published retail volume rose 4.4%. The ratio 106.5 ÷ 104.4 gives an implied retail price factor of about 1.0201, or roughly 2.0%, based on rounded reported growth. The 1.2% overall CPI tracks a different basket. At this stage the shop lacks a matched price or unit series.</p>"
+    ],
+    [
+      "Debrief · Second decision",
+      "<p>With matching models, stable mix and a uniform 10% price change, divide the shop’s receipts factor of 1.08 by 1.10. Price-adjusted receipts are 98.18 on the prior-November base, about 1.82% lower. Deflating the same shop receipts by citywide CPI would instead suggest roughly 6.7% growth and answer the wrong question.</p>"
+    ],
+    [
+      "Debrief · Recommendation",
+      "<p>Label the note November 2025 against November 2024. Report higher nominal shop receipts but lower comparable sales volume. Do not automatically order more or less: check availability, lead times, unfilled demand and model-by-model sell-through.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>Allow two minutes to identify the units and period, three to reconcile the citywide indices, and four to apply the matched price series.</p>"
+    ],
+    [
+      "Instructor note · continued",
+      "<p>Ask what happens if the shop introduces a premium model with no prior-year equivalent. What series would you exclude or adjust before making a comparable-volume claim?</p>"
+    ],
+    [
+      "Boundary of the evidence",
+      "<p>The official volume index is chain-linked with annual reweighting; the simple implied ratio uses rounded releases. Overall CPI, citywide retail volume and the shop’s comparable volume cannot be interchanged. A single month is not a demand forecast.</p>"
+    ]
+  ],
+  "location": "Sham Shui Po, Hong Kong",
+  "duration": "10–15 minutes"
+}

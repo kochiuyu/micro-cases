@@ -1,0 +1,136 @@
+{
+  "number": 490,
+  "code": "ECO-45",
+  "slug": "tariff-discount-how-many-units",
+  "title": "A tariff discount. On how many units?",
+  "discipline": "Economics, competition and pricing",
+  "topics": [
+    "Tariffs",
+    "Pass-through",
+    "Sourcing capacity"
+  ],
+  "teaser": "A cheaper supplier can serve only part of the order. Trace landed costs and lost volume.",
+  "alt": "Two Hong Kong sourcing colleagues compare sample light housings and tagged cartons.",
+  "news_heading": "Reported context",
+  "news": "<p>In September 2024 the US Trade Representative finalized changes to tariffs on selected products from China, including different timing and exclusions for different products. Historical USITC evidence found that US import prices inclusive of Section 232 and 301 duties rose roughly with the duties in the period it studied. That does not give a universal rule for retail-price changes or lost sales.</p>",
+  "opening": "<p>A fictional Hong Kong lighting distributor must quote one retail price for a seasonal order in an imaginary destination market. The incumbent supplier A will lower its invoice price from US$20 to US$18 per unit. An alternative supplier B offers a capacity-limited run.</p><p>The imaginary market’s duty is 25% of A’s invoice because A’s products have origin A, and zero on B’s independently produced units of origin B. The distributor remits duty at import. Shipment routing does not change origin. Ignore shipping, exchange-rate changes and other costs. Buy exactly the number forecast to sell, use B first if qualified, and buy the rest from A.</p>",
+  "q1": "Which customer price and source mix give the largest contribution after duty and any qualification cost?",
+  "q2": "Would you still qualify B? How large would B’s on-time delivery have to be just to cover the qualification cost?",
+  "round2": "<p>After B submits compliance documentation, it confirms it can deliver only 350 units in the sales window. Qualification still costs US$700 and is not yet committed. A can cover all remaining units at its unchanged discounted US$18 offer.</p><p>A distributor proposing to ship A’s units via B’s port says that would make them duty-free. The exercise fixes lawful origin by actual production, not routing; that proposed shipment route changes nothing.</p>",
+  "exhibit": "<table><thead><tr><th>Item</th><th>Assumption</th></tr></thead><tbody><tr><td>Customer price US$30</td><td>1,000 units sold</td></tr><tr><td>Customer price US$32</td><td>800 units sold</td></tr><tr><td>Supplier A</td><td>US$18 invoice; unlimited</td></tr><tr><td>Supplier B</td><td>US$21; at most 600 units</td></tr><tr><td>Cost to qualify B</td><td>US$700 once for the order</td></tr></tbody></table>",
+  "exhibit_md": "| Item | Assumption |\n| --- | --- |\n| Customer price US$30 | 1,000 units sold |\n| Customer price US$32 | 800 units sold |\n| Supplier A | US$18 invoice; unlimited |\n| Supplier B | US$21; at most 600 units |\n| Cost to qualify B | US$700 once for the order |",
+  "sections": [
+    [
+      "Debrief",
+      "<p>A’s landed cost is US$18 × 1.25 = US$22.50. At US$30, A only earns US$7,500; replacing 600 A units with B saves US$900, yielding US$7,700 after qualification. At US$32, A only earns US$7,600; the same replacement lifts contribution to US$7,800. Best initially: US$32, 600 from B and 200 from A.</p><p>B saves US$1.50 per unit. At 350 units that is US$525, below the US$700 fixed cost. Exact break-even is 700 ÷ 1.50 = 466⅔ units, so the smallest integer delivery that covers the cost is 467.</p><p>With revised capacity, choose A only and US$32, yielding US$7,600 under the stated demand schedule. Raising price improves contribution by only US$100 compared with US$30 and A only; check whether the demand estimate is robust before applying the result elsewhere.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>Set aside four minutes for duties and margins and four for the four price/supplier combinations. Ask students to derive the break-even quantity without recomputing the full table.</p><p>Does the lowest landed unit price imply the best sourcing decision? Name the capacity, fixed qualification cost or demand evidence that would reverse the answer.</p>"
+    ],
+    [
+      "Boundary of the evidence",
+      "<p>All inputs, origins and duty rules are fictional. This is not a representation of current tariffs, origin law, compliance advice or a recommendation to route shipments through a third country.</p>"
+    ]
+  ],
+  "notes": "The protagonist, decision and all exhibits are fictional classroom material. Only the separately labelled reported context describes real events. References are optional.",
+  "sources": [
+    [
+      "https://www.ustr.gov/about-us/policy-offices/press-office/press-releases/2024/september/ustr-finalizes-action-china-tariffs-following-statutory-four-year-review",
+      "USTR, September 2024 action on China tariffs",
+      "Documents historical changes and exclusions affecting selected products, not the fictional rule or current tariff advice."
+    ],
+    [
+      "https://www.govinfo.gov/content/pkg/FR-2024-09-18/html/2024-21217.htm",
+      "Federal Register notice of modification, 18 September 2024",
+      "The primary notice specifies product coverage, different effective dates and exclusions; the case does not apply its schedules."
+    ],
+    [
+      "https://www.usitc.gov/press_room/news_release/2023/er0315_63679.htm",
+      "USITC, retrospective analysis of Sections 232 and 301",
+      "Summarizes evidence that in the period studied import prices inclusive of duties rose roughly with the tariffs. It does not predict pass-through for the fictional products."
+    ],
+    [
+      "https://www.aeaweb.org/articles?id=10.1257/jep.33.4.187",
+      "Amiti, Redding and Weinstein, The Impact of the 2018 Tariffs on Prices and Welfare",
+      "The authors estimate pass-through and import-variety effects in a historical episode, not a universal margin or retail-price rule."
+    ],
+    [
+      "https://economics.nd.edu/assets/317499/rtp1.pdf",
+      "Fajgelbaum and colleagues, The Return to Protectionism",
+      "Working-paper analysis of the 2018 trade war reports changes in trade and incidence; its setting and estimated effects differ from the classroom model."
+    ]
+  ],
+  "slides": [
+    [
+      "Reported context",
+      "<p>In September 2024 the US Trade Representative finalized changes to tariffs on selected products from China, including different timing and exclusions for different products.</p>"
+    ],
+    [
+      "A tariff discount. On how many units?",
+      "<p></p>"
+    ],
+    [
+      "Reported context · continued",
+      "<p>Historical USITC evidence found that US import prices inclusive of Section 232 and 301 duties rose roughly with the duties in the period it studied. That does not give a universal rule for retail-price changes or lost sales.</p>"
+    ],
+    [
+      "The classroom decision",
+      "<p>A fictional Hong Kong lighting distributor must quote one retail price for a seasonal order in an imaginary destination market. The incumbent supplier A will lower its invoice price from US$20 to US$18 per unit. An alternative supplier B offers a capacity-limited run.</p>"
+    ],
+    [
+      "What the team knows",
+      "<p>The imaginary market’s duty is 25% of A’s invoice because A’s products have origin A, and zero on B’s independently produced units of origin B. The distributor remits duty at import.</p>"
+    ],
+    [
+      "What the team knows · continued",
+      "<p>Shipment routing does not change origin. Ignore shipping, exchange-rate changes and other costs. Buy exactly the number forecast to sell, use B first if qualified, and buy the rest from A.</p>"
+    ],
+    [
+      "Opening exhibit",
+      "<table><thead><tr><th>Item</th><th>Assumption</th></tr></thead><tbody><tr><td>Customer price US$30</td><td>1,000 units sold</td></tr><tr><td>Customer price US$32</td><td>800 units sold</td></tr><tr><td>Supplier A</td><td>US$18 invoice; unlimited</td></tr><tr><td>Supplier B</td><td>US$21; at most 600 units</td></tr><tr><td>Cost to qualify B</td><td>US$700 once for the order</td></tr></tbody></table>"
+    ],
+    [
+      "Opening decision",
+      "<p>Which customer price and source mix give the largest contribution after duty and any qualification cost?</p>"
+    ],
+    [
+      "The second piece of evidence",
+      "<p>After B submits compliance documentation, it confirms it can deliver only 350 units in the sales window. Qualification still costs US$700 and is not yet committed. A can cover all remaining units at its unchanged discounted US$18 offer.</p>"
+    ],
+    [
+      "What could change your call",
+      "<p>A distributor proposing to ship A’s units via B’s port says that would make them duty-free. The exercise fixes lawful origin by actual production, not routing; that proposed shipment route changes nothing.</p>"
+    ],
+    [
+      "Second decision",
+      "<p>Would you still qualify B? How large would B’s on-time delivery have to be just to cover the qualification cost?</p>"
+    ],
+    [
+      "Debrief · Opening decision",
+      "<p>A’s landed cost is US$18 × 1.25 = US$22.50. At US$30, A only earns US$7,500; replacing 600 A units with B saves US$900, yielding US$7,700 after qualification. At US$32, A only earns US$7,600; the same replacement lifts contribution to US$7,800. Best initially: US$32, 600 from B and 200 from A.</p>"
+    ],
+    [
+      "Debrief · Second decision",
+      "<p>B saves US$1.50 per unit. At 350 units that is US$525, below the US$700 fixed cost. Exact break-even is 700 ÷ 1.50 = 466⅔ units, so the smallest integer delivery that covers the cost is 467.</p>"
+    ],
+    [
+      "Debrief · Recommendation",
+      "<p>With revised capacity, choose A only and US$32, yielding US$7,600 under the stated demand schedule. Raising price improves contribution by only US$100 compared with US$30 and A only; check whether the demand estimate is robust before applying the result elsewhere.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>Set aside four minutes for duties and margins and four for the four price/supplier combinations. Ask students to derive the break-even quantity without recomputing the full table.</p>"
+    ],
+    [
+      "Instructor note · continued",
+      "<p>Does the lowest landed unit price imply the best sourcing decision? Name the capacity, fixed qualification cost or demand evidence that would reverse the answer.</p>"
+    ],
+    [
+      "Boundary of the evidence",
+      "<p>All inputs, origins and duty rules are fictional. This is not a representation of current tariffs, origin law, compliance advice or a recommendation to route shipments through a third country.</p>"
+    ]
+  ],
+  "location": "Hong Kong",
+  "duration": "10–15 minutes"
+}

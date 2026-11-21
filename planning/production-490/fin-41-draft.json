@@ -1,0 +1,164 @@
+{
+  "number": 481,
+  "code": "FIN-41",
+  "slug": "protection-when-the-portfolio-falls",
+  "title": "Protection when the portfolio falls",
+  "discipline": "Finance, banking and insurance",
+  "topics": [
+    "State prices",
+    "Contingent claims",
+    "Hedge basis"
+  ],
+  "teaser": "The same average payment can command two different prices. Which claim protects the scholarship fund?",
+  "alt": "A trustee and investment officer compare two payout offers beside scholarship papers in a Hong Kong campus office.",
+  "location": "Hong Kong",
+  "duration": "15 minutes",
+  "news_heading": "Weekly index contracts come to Hong Kong",
+  "news": "<p>Trading in weekly Hang Seng Index options began on 16 September 2019. HKEX said the short maturities could help market participants manage exposure around events. The exchange’s actual contract settles using a specified index measure. The fictional claims below instead pay fixed amounts in two defined index states.</p>",
+  "opening": "<p>You are advising the fictional Harbour Learning Foundation. Its treasurer must present a benchmark value and a hedge recommendation to the trustees. The foundation’s existing assets leave it HK$50 short of next week’s scholarship payment in the index-down state, but it has enough in the index-up state.</p><p>The two index states are equally likely in the treasurer’s forecast. All amounts in the exhibit are HK dollars per unit; all contracts pay on the same date. From the two traded benchmark securities, the treasurer can construct claims that pay on that date.</p><p>Use a frictionless two-state benchmark. The note and fund can be bought or sold short in fractional units at the exhibited prices. Ignore credit risk, fees and other interim payments. The foundation is not required to trade the benchmark portfolios; their costs are valuation references.</p><p>The offered claims are alternatives: Down pays for an index decline and costs HK$25 today; Up pays only on an index rise and costs HK$23. The foundation can buy at most one. Its immediate objective is to meet the scholarship payment in the bad state, as well as identify which offer is cheap relative to its benchmark.</p><p>Premiums come from a separate, sufficient budget and do not change the stated scholarship shortfalls or any other payment commitment.</p>",
+  "exhibit": "<table><thead><tr><th>Security</th><th>Price now</th><th>Index down</th><th>Index up</th></tr></thead><tbody><tr><td>Traded note</td><td>95</td><td>100</td><td>100</td></tr><tr><td>Traded cyclical fund</td><td>92</td><td>80</td><td>120</td></tr><tr><td>Down offer</td><td>25</td><td>50</td><td>0</td></tr><tr><td>Up offer</td><td>23</td><td>0</td><td>50</td></tr></tbody></table>",
+  "exhibit_md": "| Security | Price now | Index down | Index up |\n| --- | --- | --- | --- |\n| Traded note | 95 | 100 | 100 |\n| Traded cyclical fund | 92 | 80 | 120 |\n| Down offer | 25 | 50 | 0 |\n| Up offer | 23 | 0 | 50 |",
+  "q1": "Do Down and Up have the same benchmark price, and which offer should you recommend for the scholarship payment?",
+  "round2": "<p>Before signing, you learn that the latest foundation forecast was too strong: its own portfolio can also fall short by HK$50 when the index ends up, for example when a large holding diverges from the index. The benchmark securities and claim payouts still depend only on the two index states; the index-up state may now contain both a shortfall and no shortfall for the foundation.</p><p>The trustee asks whether adding the other claim as well would remove the cash gap. For this round the two offered claims may be bought together at their original prices; a safe note remains available at its benchmark price.</p>",
+  "q2": "Does Down still cover every scholarship shortfall, and which choice gives a certain HK$50 at the payment date under the stated terms?",
+  "sections": [
+    [
+      "Debrief · Reproduce the down-state cash",
+      "<p>Buy 1.5 notes and short 1.25 funds. In the down state this pays 150 − 100 = HK$50, and in the up state 150 − 150 = zero. Its cost is 1.5 × 95 − 1.25 × 92 = HK$27.50.</p>"
+    ],
+    [
+      "Debrief · Reproduce the up-state cash",
+      "<p>Take the payoff from half a note and subtract the down-state portfolio. The up-state claim therefore costs 47.50 − 27.50 = HK$20. The forecast expected value of each offer is HK$25; it is not its benchmark price.</p>"
+    ],
+    [
+      "Debrief · Price and funding point the same way",
+      "<p>Down costs HK$25 against its HK$27.50 benchmark; Up costs HK$23 against HK$20. Down also pays exactly when the original scholarship shortfall occurs. Its recommendation follows the stated objective, not a claim about the future index.</p>"
+    ],
+    [
+      "Debrief · Hedge what actually falls short",
+      "<p>Down alone pays zero when the index is up, even if the foundation has a shortfall. Buying Down and Up gives HK$50 in both index states for HK$48. Half a safe note delivers the same HK$50 for HK$47.50, so it is the cheaper stated certain-cash solution.</p>"
+    ],
+    [
+      "What the two-state instruments cannot do",
+      "<p>The modeled index claims cannot distinguish two outcomes that have the same index state but different foundation shortfalls. The safe note covers both by paying regardless, including when the foundation does not need the cash.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>Allow 15 minutes: 2 to frame the decision, 4 for the first calculation and a vote, 4 for the second round, and 5 to defend or revise a recommendation. Ask each group to cite a number and name the assumption that would change its call.</p><p>Ask groups to distinguish the prices of state payouts from their probabilities and to identify hedge-basis risk. The exact comparisons require borrowing or shorting only for the pricing benchmark, known contractual payoffs, and no fees or credit risk. An index option does not literally pay on the foundation’s own funding deficit.</p>"
+    ]
+  ],
+  "notes": "All people, prices, payoffs, quantities and contract terms in the classroom exercise are fictional. The opening news context describes the cited historical developments, not the case’s figures or recommendations.",
+  "sources": [
+    [
+      "https://www.hkex.com.hk/en/News/News-Release/2019/190807news?sc_lang=en",
+      "HKEX, August 2019 announcement of weekly index options",
+      "Explains the planned start date and the intended use around short-term events; the notice was conditional on approval."
+    ],
+    [
+      "https://www.hkex.com.hk/-/media/HKEX-Market/Market-Data/Statistics/Consolidated-Reports/HKEX-Fact-Book/HKEX-Fact-Book-2020/FB_2020.pdf",
+      "HKEX Fact Book 2020, weekly HSI options trading table",
+      "The footnote confirms trading started on 16 September 2019; volume is not evidence of the classroom prices."
+    ],
+    [
+      "https://www.hkex.com.hk/Products/Listed-Derivatives/Equity-Index/Hang-Seng-Index-(HSI)/Weekly-Hang-Seng-Index-Options?sc_lang=en",
+      "HKEX, Weekly Hang Seng Index Options",
+      "Contract specifications show how final settlement is based on index observations; a real option does not just pay a fixed bonus for a generic downturn."
+    ],
+    [
+      "https://www.sfu.ca/~kkasa/HarrisonKreps_79.pdf",
+      "Harrison and Kreps, Martingales and Arbitrage in Multiperiod Securities Markets",
+      "The two-date model treats marketed contingent claims as payoff portfolios priced with a linear rule in frictionless markets; the exercise’s specific quotes are fictional."
+    ],
+    [
+      "https://www.optiver.com/insights/markets/improving-settlement-for-hong-kongs-weekly-index-options/",
+      "Optiver, Improving settlement for Hong Kong’s weekly index options",
+      "Market participant’s own explanation of averaging and why payout can diverge from terminal exposure; its proposed changes are recommendations rather than rules."
+    ]
+  ],
+  "slides": [
+    [
+      "Weekly index contracts come to Hong Kong",
+      "<p>Trading in weekly Hang Seng Index options began on 16 September 2019. HKEX said the short maturities could help market participants manage exposure around events. The exchange’s actual contract settles using a specified index measure. The fictional claims below instead pay fixed amounts in two defined index states.</p>"
+    ],
+    [
+      "The classroom scene",
+      "<p></p>"
+    ],
+    [
+      "Your role",
+      "<p>You are advising the fictional Harbour Learning Foundation. Its treasurer must present a benchmark value and a hedge recommendation to the trustees. The foundation’s existing assets leave it HK$50 short of next week’s scholarship payment in the index-down state, but it has enough in the index-up state.</p>"
+    ],
+    [
+      "Terms you can use",
+      "<p>The two index states are equally likely in the treasurer’s forecast. All amounts in the exhibit are HK dollars per unit; all contracts pay on the same date. From the two traded benchmark securities, the treasurer can construct claims that pay on that date.</p>"
+    ],
+    [
+      "One more condition 1",
+      "<p>Use a frictionless two-state benchmark. The note and fund can be bought or sold short in fractional units at the exhibited prices. Ignore credit risk, fees and other interim payments. The foundation is not required to trade the benchmark portfolios; their costs are valuation references.</p>"
+    ],
+    [
+      "One more condition 2",
+      "<p>The offered claims are alternatives: Down pays for an index decline and costs HK$25 today; Up pays only on an index rise and costs HK$23. The foundation can buy at most one.</p>"
+    ],
+    [
+      "One more condition 2 · continued",
+      "<p>Its immediate objective is to meet the scholarship payment in the bad state, as well as identify which offer is cheap relative to its benchmark.</p>"
+    ],
+    [
+      "How premiums are funded",
+      "<p>Premiums come from a separate, sufficient budget and do not change the stated scholarship shortfalls or any other payment commitment.</p>"
+    ],
+    [
+      "Exhibit",
+      "<table><thead><tr><th>Security</th><th>Price now</th><th>Index down</th><th>Index up</th></tr></thead><tbody><tr><td>Traded note</td><td>95</td><td>100</td><td>100</td></tr><tr><td>Traded cyclical fund</td><td>92</td><td>80</td><td>120</td></tr><tr><td>Down offer</td><td>25</td><td>50</td><td>0</td></tr><tr><td>Up offer</td><td>23</td><td>0</td><td>50</td></tr></tbody></table>"
+    ],
+    [
+      "First decision",
+      "<p>Do Down and Up have the same benchmark price, and which offer should you recommend for the scholarship payment?</p>"
+    ],
+    [
+      "New information",
+      "<p>Before signing, you learn that the latest foundation forecast was too strong: its own portfolio can also fall short by HK$50 when the index ends up, for example when a large holding diverges from the index.</p>"
+    ],
+    [
+      "New information · continued",
+      "<p>The benchmark securities and claim payouts still depend only on the two index states; the index-up state may now contain both a shortfall and no shortfall for the foundation.</p>"
+    ],
+    [
+      "Clarifying the change",
+      "<p>The trustee asks whether adding the other claim as well would remove the cash gap. For this round the two offered claims may be bought together at their original prices; a safe note remains available at its benchmark price.</p>"
+    ],
+    [
+      "Second decision",
+      "<p>Does Down still cover every scholarship shortfall, and which choice gives a certain HK$50 at the payment date under the stated terms?</p>"
+    ],
+    [
+      "Debrief · Reproduce the down-state cash",
+      "<p>Buy 1.5 notes and short 1.25 funds. In the down state this pays 150 − 100 = HK$50, and in the up state 150 − 150 = zero. Its cost is 1.5 × 95 − 1.25 × 92 = HK$27.50.</p>"
+    ],
+    [
+      "Debrief · Reproduce the up-state cash",
+      "<p>Take the payoff from half a note and subtract the down-state portfolio. The up-state claim therefore costs 47.50 − 27.50 = HK$20. The forecast expected value of each offer is HK$25; it is not its benchmark price.</p>"
+    ],
+    [
+      "Debrief · Price and funding point the same way",
+      "<p>Down costs HK$25 against its HK$27.50 benchmark; Up costs HK$23 against HK$20. Down also pays exactly when the original scholarship shortfall occurs. Its recommendation follows the stated objective, not a claim about the future index.</p>"
+    ],
+    [
+      "Debrief · Hedge what actually falls short",
+      "<p>Down alone pays zero when the index is up, even if the foundation has a shortfall. Buying Down and Up gives HK$50 in both index states for HK$48. Half a safe note delivers the same HK$50 for HK$47.50, so it is the cheaper stated certain-cash solution.</p>"
+    ],
+    [
+      "What the two-state instruments cannot do",
+      "<p>The modeled index claims cannot distinguish two outcomes that have the same index state but different foundation shortfalls. The safe note covers both by paying regardless, including when the foundation does not need the cash.</p>"
+    ],
+    [
+      "Instructor note · Pacing",
+      "<p>Allow 15 minutes: 2 to frame the decision, 4 for the first calculation and a vote, 4 for the second round, and 5 to defend or revise a recommendation. Ask each group to cite a number and name the assumption that would change its call.</p>"
+    ],
+    [
+      "Where the model stops",
+      "<p>Ask groups to distinguish the prices of state payouts from their probabilities and to identify hedge-basis risk. The exact comparisons require borrowing or shorting only for the pricing benchmark, known contractual payoffs, and no fees or credit risk. An index option does not literally pay on the foundation’s own funding deficit.</p>"
+    ]
+  ]
+}

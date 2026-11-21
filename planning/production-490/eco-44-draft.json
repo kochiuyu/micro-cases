@@ -1,0 +1,128 @@
+{
+  "number": 488,
+  "code": "ECO-44",
+  "slug": "rate-cut-credit-spread",
+  "title": "Rates fell. Why did the loan cost more?",
+  "discipline": "Economics, competition and pricing",
+  "topics": [
+    "Monetary transmission",
+    "Credit spreads",
+    "Interest coverage"
+  ],
+  "teaser": "A lower benchmark is not a cheaper loan if the lender raises its spread.",
+  "alt": "Two colleagues at a Kwun Tong sign workshop compare loan proposals beside rolled print material.",
+  "news_heading": "Reported context",
+  "news": "<p>In December 2024 the US Federal Reserve cut its target range by a quarter point and the HKMA set its Base Rate at 4.75%. In the same month the HKMA’s measure of banks’ average funding cost rose from 2.20% to 2.24%. The Base Rate, average funding cost and one borrower’s loan rate are different measures.</p>",
+  "opening": "<p>Kwun Tong signmaker Blue Arc needs to renew a fictional HK$10 million facility for one year. Owner Bo’s lender offers a new rate despite a lower reference benchmark. The other lender’s offer carries a one-time fee rather than a wider spread.</p><p>All options below use constant annual rates for the comparison; there is no amortisation. The old facility cannot be renewed. Current annual earnings before interest and tax (EBIT) are HK$1.4 million. Blue Arc wants coverage of at least 2.0 times annual financing cost, including any renewal fee, as an internal screen.</p>",
+  "q1": "Which offer is cheaper for the year, and how can the lower benchmark leave this workshop paying more than before?",
+  "q2": "How much principal must Bo repay to meet the coverage screen under A, and can he do it while preserving the reserve?",
+  "round2": "<p>A major customer postpones new signage; annual EBIT now looks like HK$1.2 million. Assume the offers are still available and the proposed loan would remain fully drawn for the year.</p><p>Bo may use unrestricted cash to repay part of the old balance before renewing the remainder under A, provided at least HK$500,000 remains. He has HK$1.5 million of unrestricted cash before repayment. Under A the rate and spread apply equally to any remaining balance.</p>",
+  "exhibit": "<table><thead><tr><th>Facility</th><th>Benchmark</th><th>Spread</th><th>One-time fee</th></tr></thead><tbody><tr><td>Old loan, for comparison</td><td>4.0%</td><td>2.0%</td><td>HK$0</td></tr><tr><td>A: incumbent</td><td>3.5%</td><td>3.0%</td><td>HK$0</td></tr><tr><td>B: challenger</td><td>3.5%</td><td>2.0%</td><td>HK$120,000</td></tr></tbody></table>",
+  "exhibit_md": "| Facility | Benchmark | Spread | One-time fee |\n| --- | --- | --- | --- |\n| Old loan, for comparison | 4.0% | 2.0% | HK$0 |\n| A: incumbent | 3.5% | 3.0% | HK$0 |\n| B: challenger | 3.5% | 2.0% | HK$120,000 |",
+  "sections": [
+    [
+      "Debrief",
+      "<p>Old cost was 6.0% × HK$10 million = HK$600,000. A costs 6.5%, or HK$650,000. A half-point benchmark cut is outweighed by a one-point spread increase. B costs 5.5% × HK$10 million plus HK$120,000 = HK$670,000. A is cheaper, and both clear 2.0 times at HK$1.4 million EBIT.</p><p>At HK$1.2 million EBIT, annual financing cost cannot exceed HK$600,000. Under A, loan principal can be at most HK$600,000 ÷ 0.065, about HK$9.231 million, so Bo must repay about HK$769,231, rounding repayment up to whole dollars.</p><p>That leaves about HK$730,769 of unrestricted cash, above the HK$500,000 reserve. Verify the downside cash forecast and payment terms before committing. A smaller spread or a steadier order book could also restore coverage.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>Ask pairs to separate benchmark, credit spread and fee first. Then let them calculate the largest sustainable balance and check the separate liquidity constraint.</p><p>What would convince the credit committee that a weak order book, rather than benchmark repricing, is the main reason the coverage screen fails?</p>"
+    ],
+    [
+      "Boundary of the evidence",
+      "<p>This case uses annual financing cost including a fee as an internal screen, not as a contractual covenant definition or a financing recommendation. The public rates and averages do not establish why any real lender changed a quote.</p>"
+    ]
+  ],
+  "notes": "The protagonist, decision and all exhibits are fictional classroom material. Only the separately labelled reported context describes real events. References are optional.",
+  "sources": [
+    [
+      "https://www.federalreserve.gov/newsevents/pressreleases/monetary20241218a.htm",
+      "Federal Reserve, December 2024 policy statement",
+      "Records a quarter-point reduction in the federal funds target range to 4.25%–4.50%."
+    ],
+    [
+      "https://www.info.gov.hk/gia/general/202412/19/P2024121900119p.htm",
+      "HKMA, Adjustment of Base Rate",
+      "Explains why the December 2024 Base Rate was set to 4.75% and how it relates to Discount Window rates rather than an SME loan quote."
+    ],
+    [
+      "https://www.info.gov.hk/gia/general/202501/17/P2025011700480p.htm",
+      "HKMA, Composite Interest Rate: End of December 2024",
+      "Reports average funding costs rose four basis points month-on-month; the measure excludes costs such as credit risk, hedging and operations."
+    ],
+    [
+      "https://www.hsbc.com.hk/mortgages/tools/hibor-rate/",
+      "HSBC, Hong Kong Interbank Offered Rate",
+      "Defines its one-month HKD quotation and flags that it need not match the HKAB settlement rate; not a source for the fictional SME terms."
+    ],
+    [
+      "https://www.hkeconomy.gov.hk/en/pdf/er_24q4.pdf",
+      "2024 Economic Background and 2025 Prospects",
+      "Chapter 5 describes different cumulative changes in the Base Rate and many banks’ best lending rates, and a non-monotonic HIBOR path."
+    ]
+  ],
+  "slides": [
+    [
+      "Reported context",
+      "<p>In December 2024 the US Federal Reserve cut its target range by a quarter point and the HKMA set its Base Rate at 4.75%. In the same month the HKMA’s measure of banks’ average funding cost rose from 2.20% to 2.24%. The Base Rate, average funding cost and one borrower’s loan rate are different measures.</p>"
+    ],
+    [
+      "Rates fell. Why did the loan cost more?",
+      "<p></p>"
+    ],
+    [
+      "The classroom decision",
+      "<p>Kwun Tong signmaker Blue Arc needs to renew a fictional HK$10 million facility for one year. Owner Bo’s lender offers a new rate despite a lower reference benchmark. The other lender’s offer carries a one-time fee rather than a wider spread.</p>"
+    ],
+    [
+      "What the team knows",
+      "<p>All options below use constant annual rates for the comparison; there is no amortisation. The old facility cannot be renewed. Current annual earnings before interest and tax (EBIT) are HK$1.4 million. Blue Arc wants coverage of at least 2.0 times annual financing cost, including any renewal fee, as an internal screen.</p>"
+    ],
+    [
+      "Opening exhibit",
+      "<table><thead><tr><th>Facility</th><th>Benchmark</th><th>Spread</th><th>One-time fee</th></tr></thead><tbody><tr><td>Old loan, for comparison</td><td>4.0%</td><td>2.0%</td><td>HK$0</td></tr><tr><td>A: incumbent</td><td>3.5%</td><td>3.0%</td><td>HK$0</td></tr><tr><td>B: challenger</td><td>3.5%</td><td>2.0%</td><td>HK$120,000</td></tr></tbody></table>"
+    ],
+    [
+      "Opening decision",
+      "<p>Which offer is cheaper for the year, and how can the lower benchmark leave this workshop paying more than before?</p>"
+    ],
+    [
+      "The second piece of evidence",
+      "<p>A major customer postpones new signage; annual EBIT now looks like HK$1.2 million. Assume the offers are still available and the proposed loan would remain fully drawn for the year.</p>"
+    ],
+    [
+      "What could change your call",
+      "<p>Bo may use unrestricted cash to repay part of the old balance before renewing the remainder under A, provided at least HK$500,000 remains. He has HK$1.5 million of unrestricted cash before repayment. Under A the rate and spread apply equally to any remaining balance.</p>"
+    ],
+    [
+      "Second decision",
+      "<p>How much principal must Bo repay to meet the coverage screen under A, and can he do it while preserving the reserve?</p>"
+    ],
+    [
+      "Debrief · Opening decision",
+      "<p>Old cost was 6.0% × HK$10 million = HK$600,000. A costs 6.5%, or HK$650,000. A half-point benchmark cut is outweighed by a one-point spread increase. B costs 5.5% × HK$10 million plus HK$120,000 = HK$670,000. A is cheaper, and both clear 2.0 times at HK$1.4 million EBIT.</p>"
+    ],
+    [
+      "Debrief · Second decision",
+      "<p>At HK$1.2 million EBIT, annual financing cost cannot exceed HK$600,000. Under A, loan principal can be at most HK$600,000 ÷ 0.065, about HK$9.231 million, so Bo must repay about HK$769,231, rounding repayment up to whole dollars.</p>"
+    ],
+    [
+      "Debrief · Recommendation",
+      "<p>That leaves about HK$730,769 of unrestricted cash, above the HK$500,000 reserve. Verify the downside cash forecast and payment terms before committing. A smaller spread or a steadier order book could also restore coverage.</p>"
+    ],
+    [
+      "Instructor note",
+      "<p>Ask pairs to separate benchmark, credit spread and fee first. Then let them calculate the largest sustainable balance and check the separate liquidity constraint.</p>"
+    ],
+    [
+      "Instructor note · continued",
+      "<p>What would convince the credit committee that a weak order book, rather than benchmark repricing, is the main reason the coverage screen fails?</p>"
+    ],
+    [
+      "Boundary of the evidence",
+      "<p>This case uses annual financing cost including a fee as an internal screen, not as a contractual covenant definition or a financing recommendation. The public rates and averages do not establish why any real lender changed a quote.</p>"
+    ]
+  ],
+  "location": "Kwun Tong, Hong Kong",
+  "duration": "10–15 minutes"
+}
