@@ -1,4 +1,4 @@
-"""Load the reviewed first-wave slot sequence; no publication or reservations."""
+"""Load the reviewed wave slot sequences; no publication or reservations."""
 import json
 import re
 from collections import Counter
@@ -10,39 +10,67 @@ BASELINE_CAPS = {
     "ENT": 40, "IS": 40, "GVR": 40, "SUS": 40, "ECO": 45, "HSP": 40,
 }
 
-def load_wave(root):
-    """Read and validate a strictly bounded plan, then derive area ceilings."""
-    path = root / "planning" / "wave-1-slots.json"
+SECOND_BASELINE = 516
+SECOND_BASELINE_COMMIT = "9beed46db5e049854a3535e18db4ccc4dfa3e7dd"
+MIXED_ORDER = ("ACC","MKT","OPS","PPL","STR","ENT","IS","GVR","SUS","HSP")
+
+def load_wave(root, wave=1, initial_caps=None):
+    """Read a strictly bounded plan, then derive area ceilings."""
+    if wave == 1:
+        baseline, commit, caps, eco = BASELINE, BASELINE_COMMIT, BASELINE_CAPS, "ECO-46"
+    elif wave == 2:
+        baseline, commit, eco = SECOND_BASELINE, SECOND_BASELINE_COMMIT, "ECO-47"
+        if initial_caps is None:
+            _, initial_caps = load_wave(root)
+        caps = initial_caps
+    else:
+        raise ValueError("Unsupported wave")
+    label = ("first-wave" if wave == 1 else "second-wave")
+    path = root / "planning" / f"wave-{wave}-slots.json"
     try:
         d = json.loads(path.read_text(encoding="utf-8"))
     except (ValueError, OSError) as e:
-        raise ValueError("Cannot read the first-wave slot plan") from e
-    fixed = {"schema_version": 1, "wave": 1, "status": "private-technical-sequence",
-             "baseline_commit": BASELINE_COMMIT, "baseline_count": BASELINE}
-    if not isinstance(d, dict) or set(d) != fixed.keys() | {"slots", "target_count"} or any(d[k] != v for k,v in fixed.items()):
-        raise ValueError("Invalid first-wave slot plan header")
+        raise ValueError(f"Cannot read the {label} slot plan") from e
+    fixed = {"schema_version": 1, "wave": wave, "status": "private-technical-sequence",
+             "baseline_commit": commit, "baseline_count": baseline}
+    if (not isinstance(d, dict) or set(d) != fixed.keys() | {"slots", "target_count"}
+        or any(type(d[k]) is not type(v) or d[k] != v for k,v in fixed.items())):
+        raise ValueError(f"Invalid {label} slot plan header")
     slots = d["slots"]
-    if not isinstance(slots, list) or len(slots) != 21 or d["target_count"] != BASELINE + len(slots):
-        raise ValueError("Expected exactly 21 bounded first-wave slots")
-    ceilings = dict(BASELINE_CAPS)
+    if (not isinstance(slots, list) or len(slots) != 21
+        or type(d["target_count"]) is not int or d["target_count"] != baseline + len(slots)):
+        raise ValueError(f"Expected exactly 21 bounded {label} slots")
+    ceilings = dict(caps)
     counts = Counter()
     order = {}
-    for n, slot in enumerate(slots, BASELINE + 1):
+    for n, slot in enumerate(slots, baseline + 1):
         if (not isinstance(slot, dict) or set(slot) != {"legacy_id", "code"}
             or type(slot["legacy_id"]) is not int or slot["legacy_id"] != n
             or not isinstance(slot["code"], str)
             or not re.fullmatch(r"[A-Z]{2,3}-[0-9]{2}", slot["code"])):
-            raise ValueError(f"Invalid first-wave slot {n}")
+            raise ValueError(f"Invalid {label} slot {n}")
         code = slot["code"]
         area, seq = code.split("-")
         if area not in ceilings or area == "FIN" or int(seq) != ceilings[area] + 1:
-            raise ValueError(f"Unexpected first-wave area sequence: {code}")
+            raise ValueError(f"Unexpected {label} area sequence: {code}")
         order[n] = code
         ceilings[area] += 1
         counts[area] += 1
-    if order[BASELINE + 1] != "ECO-46" or any(counts[k] != (0 if k == "FIN" else 1 if k == "ECO" else 2) for k in ceilings):
-        raise ValueError("First wave must start with ECO-46 and preserve its approved area balance")
+    if order[baseline + 1] != eco or any(counts[k] != (0 if k == "FIN" else 1 if k == "ECO" else 2) for k in ceilings):
+        raise ValueError(f"{label} must start with {eco} and preserve its approved area balance")
+    if wave == 2 and tuple(code.split("-")[0] for code in tuple(order.values())[1:]) != MIXED_ORDER * 2:
+        raise ValueError("Unexpected second-wave slot order")
     return order, ceilings
+
+def load_release(root, number):
+    """Validate both plans; use historical caps until the proposed slot crosses a boundary."""
+    first, first_caps = load_wave(root)
+    second, second_caps = load_wave(root, 2, first_caps)
+    if number <= BASELINE:
+        return {}, BASELINE_CAPS, BASELINE, max(second)
+    if number <= SECOND_BASELINE:
+        return first, first_caps, max(first), max(second)
+    return second, second_caps, max(second), max(second)
 
 def historical_slot(number):
     """Keep the pre-wave approved mappings for existing builder fixtures."""

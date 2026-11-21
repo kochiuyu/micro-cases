@@ -558,3 +558,24 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 514 | GVR-42 | [fixed-does-not-mean-closed.html](../fixed-does-not-mean-closed.html) | The fix is installed. Is the finding closed? |
 | 515 | SUS-42 | [detect-the-leak-or-renew-the-pipe.html](../detect-the-leak-or-renew-the-pipe.html) | Detect the leak sooner, or renew the old pipe? |
 | 516 | HSP-42 | [the-coach-has-seats.html](../the-coach-has-seats.html) | The coach has seats. Does it have room? |
+| 517 | ECO-47 | [cheaper-booking-channel-price-parity.html](../cheaper-booking-channel-price-parity.html) | A cheaper booking channel. Can it offer a lower price? |
+| 518 | ACC-43 | [configured-but-not-owned.html](../configured-but-not-owned.html) | The clinic paid for setup. What does it own? |
+| 519 | MKT-43 | [reference-price-not-final-charge.html](../reference-price-not-final-charge.html) | HK$550 on screen. HK$550 on the card? |
+| 520 | OPS-43 | [cold-room-which-cartons-warmed.html](../cold-room-which-cartons-warmed.html) | The cold room averaged fine. Which cartons warmed? |
+| 521 | PPL-43 | [you-heard-it-did-you-check.html](../you-heard-it-did-you-check.html) | You heard the concern. Did anyone check it? |
+| 522 | STR-43 | [buy-the-studio-or-keep-it-independent.html](../buy-the-studio-or-keep-it-independent.html) | Buy the studio. Buy a future without a rival? |
+| 523 | ENT-43 | [a-franchise-fee.html](../a-franchise-fee.html) | A franchise fee. A replicable outlet? |
+| 524 | IS-43 | [when-the-bus-feed-goes-quiet.html](../when-the-bus-feed-goes-quiet.html) | When the feed goes blank, what should the board say? |
+| 525 | GVR-43 | [more-safety-reports-or-more-harm.html](../more-safety-reports-or-more-harm.html) | Safety reports rose. Did harm rise too? |
+| 526 | SUS-43 | [solar-before-the-roof-repair.html](../solar-before-the-roof-repair.html) | Solar now, or after the roof repair? |
+| 527 | HSP-43 | [one-room-two-check-ins.html](../one-room-two-check-ins.html) | One room. Two check-ins? |
+| 528 | ACC-44 | [the-subsidiary-earned-where-did-equity-go.html](../the-subsidiary-earned-where-did-equity-go.html) | The subsidiary earned a profit. Why did its net assets rise less in HKD? |
+| 529 | MKT-44 | [five-stars-will-it-fit.html](../five-stars-will-it-fit.html) | Five stars. Will it fit? |
+| 530 | OPS-44 | [online-orders-at-a-busy-shop.html](../online-orders-at-a-busy-shop.html) | Online orders. A queue at the till? |
+| 531 | PPL-44 | [acting-until-when.html](../acting-until-when.html) | Acting lead. Until when? |
+| 532 | STR-44 | [paid-tools-or-pay-to-list.html](../paid-tools-or-pay-to-list.html) | Paid tools. Or pay just to stay listed? |
+| 533 | ENT-44 | [release-the-unused-channel.html](../release-the-unused-channel.html) | An exclusive deal. What if a channel stays idle? |
+| 534 | IS-44 | [the-postcode-field-cannot-decide.html](../the-postcode-field-cannot-decide.html) | The postcode field cannot make the decision |
+| 535 | GVR-44 | [same-supplier-new-controller.html](../same-supplier-new-controller.html) | Same supplier. Who now controls it? |
+| 536 | SUS-44 | [glass-bins-but-how-much-new-recovery.html](../glass-bins-but-how-much-new-recovery.html) | More glass in the bins. How much is new recovery? |
+| 537 | HSP-44 | [release-the-room-block.html](../release-the-room-block.html) | Hold the block. Or release it early? |

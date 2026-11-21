@@ -2,7 +2,7 @@
 
 `scripts/build_case.py` renders one already-reviewed case into the existing static-site presentation. It does **not** research, approve content, create artwork, publish, commit or certify source/visual quality. Its default repository is the parent of its own `scripts` directory, independent of the current working directory.
 
-The verified 495-case collection is the protected baseline for the first balanced wave. This private preflight supports up to 516 cases only; it does not add catalogue entries or reserve public identities.
+The verified 516-case collection is the protected baseline for the second balanced wave. The builder accepts reviewed second-wave slots through 537; the slot plan alone does not add catalogue entries or reserve public identities.
 
 ## Usage
 
@@ -20,7 +20,7 @@ The first command is a read-only dry run. `--dry-run` is an explicit synonym for
 
 Provide a UTF-8 JSON object with these required fields:
 
-- `number`: next consecutive integer legacy ID, 121–516. Original IDs are immutable.
+- `number`: next consecutive integer legacy ID, 121–537. Original IDs are immutable.
 - `code`, `slug`, `title`, `discipline`: next available area code (for example `ACC-11`), new lowercase hyphenated URL slug, title and exact registry area name. No existing identity or page may be overwritten. The pre-wave collection permits 50 Finance cases, 45 Economics cases, and 40 in each other area. IDs 481–490 retain their protected alternating FIN/ECO identities. IDs 491–495 correspond only to FIN-46–50. For IDs 496–516, the machine-readable first-wave plan places one Economics slot first, then two slots each in the other ten teaching areas outside Finance and Economics. Finance is not expanded. The reviewed slot order is checked independently of the configuration.
 - `topics`: nonempty, unique plain-text strings. `teaser`, `alt`, `news_heading`, `notes`: nonempty plain text. Optional `location` and `duration` default to Hong Kong and 10–15 minutes.
 - `news`, `opening`, `exhibit`, `round2`: HTML fragments. `sections` and `slides`: nonempty arrays of `[heading, HTML fragment]` pairs. Supported fragment tags are `p`, `strong`, `b`, `em`, `i`, `br`, `ul`, `ol`, `li`, `table`, `thead`, `tbody`, `tfoot`, `tr`, `th`, `td`, `caption`. Attributes, links, embedded media, scripts and body URLs are rejected. The builder owns presentation styling and artwork placement.
@@ -46,4 +46,4 @@ Before writing it checks snapshotted text files for concurrent changes. If a cau
 
 ## Focused regression coverage
 
-`tests/check_case_builder.py` uses disposable text-only copies, not production case generation. Each copy is reduced to the immutable published 495-case baseline, so tests remain usable after all 516 first-wave slots are filled. Staged tests build mixed-wave boundary cases and reject case 517, a 41st case in any non-FIN/ECO area, and incorrect historical alternating slots, and protect all earlier identity snapshots and the 495-case baseline. It covers read-only dry mode, portable default location, metadata, question duplication/order, prohibited HTML/links, ID gaps and overwrite refusal, artwork presence, generated metadata, Markdown tables, unchanged existing teaching bodies, caught-failure rollback and concurrent-change rejection. Fixtures are fictional and are not source or artwork certifications.
+`tests/check_case_builder.py` uses disposable text-only copies, not production case generation. Each copy is reduced to the immutable published 516-case baseline, so tests remain usable after the second wave is filled. Staged tests replay historical boundaries and build second-wave boundaries, reject 538 or incorrect area assignments, and protect all earlier identity snapshots including the 516-case baseline. It covers read-only dry mode, portable default location, metadata, question duplication/order, prohibited HTML/links, ID gaps and overwrite refusal, artwork presence, generated metadata, Markdown tables, unchanged existing teaching bodies, caught-failure rollback and concurrent-change rejection. Fixtures are fictional and are not source or artwork certifications.

@@ -146,7 +146,7 @@ let input='';process.stdin.on('data',s=>input+=s);process.stdin.on('end',()=>{
   for(const [id,options] of Object.entries(p.selects)) controls['#'+id]={value:options[0],options:options.map(value=>({value}))};
   for(const id of ['filters','area-shortcuts','count','reset-filters','show-more'])controls['#'+id]={hidden:true,textContent:''};
   controls['#search']={value:''};
-  const cards=p.cards.map(c=>({dataset:{discipline:c.attrs['data-discipline'],concepts:c.attrs['data-concepts'],minutes:c.attrs['data-minutes'],caseId:c.attrs['data-case-id'],caseCode:c.attrs['data-case-code']},textContent:c.text.join(' '),hidden:false,focus(){focused=this}}));
+  const cards=p.cards.map(c=>{assert(Array.isArray(c.text)&&c.text.every(x=>typeof x==='string'),'Malformed browse text fragments');return {dataset:{discipline:c.attrs['data-discipline'],concepts:c.attrs['data-concepts'],minutes:c.attrs['data-minutes'],caseId:c.attrs['data-case-id'],caseCode:c.attrs['data-case-code']},textContent:c.text.join(' '),hidden:false,focus(){focused=this}}});
   const areas=p.areaButtons.map(a=>({dataset:{area:a['data-area']},attrs:{},setAttribute(k,v){this.attrs[k]=v}}));
   const doc={querySelector:s=>{assert(s in controls,'Unexpected selector '+s);return controls[s]},querySelectorAll:s=>{if(s==='.card')return cards;if(s==='.area-tile')return areas;throw Error('Unexpected selector '+s)}};
   const history={replaceState(a,b,url){location.href=new URL(url,location.href).href}};
@@ -187,6 +187,31 @@ let input='';process.stdin.on('data',s=>input+=s);process.stdin.on('end',()=>{
 """
 
 
+def staged_fixture(payload, registry, target):
+    fixture = copy.deepcopy(payload)
+    fixture['cards'] = [c for c in fixture['cards'] if int(c['attrs']['data-case-id']) <= target]
+    while len(fixture['cards']) < target:
+        i = len(fixture['cards'])
+        code=slot_code(i+1)
+        assert code is not None, 'Synthetic stage requires a supported unique case slot'
+        area = next(a for a in registry['areas'] if a['code']==code.split('-')[0])
+        prototype=next(card for card in payload['cards'] if card['attrs']['data-discipline']==area['name'])
+        c = copy.deepcopy(prototype)
+        c['attrs']['data-case-id'] = str(i + 1)
+        c['attrs']['data-case-code']=code
+        c['attrs']['href']=f'browse-fixture-{i+1}.html'
+        c['text']=[f'{code} Browse fixture {i+1} {area["name"]}']
+        fixture['cards'].append(c)
+    assert len({c['attrs']['data-case-id'] for c in fixture['cards']}) == target
+    assert len({c['attrs']['data-case-code'] for c in fixture['cards']}) == target
+    return fixture
+
+
+def run_browse(payload):
+    return subprocess.run(['node', '-e', NODE], input=json.dumps(payload),
+                          text=True, capture_output=True, timeout=300)
+
+
 def check(root=ROOT):
     p = Browse()
     p.feed((root / 'index.html').read_text())
@@ -223,24 +248,15 @@ def check(root=ROOT):
                             text=True, capture_output=True, timeout=300)
     assert result.returncode == 0, result.stdout + result.stderr
     print(result.stdout.strip())
-    for target in (121, 240, 241, 360, 361, 480, 481, 490, 491, 493, 495, 496, 516):
-        fixture = copy.deepcopy(payload)
-        fixture['cards'] = [c for c in fixture['cards'] if int(c['attrs']['data-case-id']) <= target]
-        while len(fixture['cards']) < target:
-            i = len(fixture['cards'])
-            code=slot_code(i+1)
-            assert code is not None, 'Synthetic stage requires a supported unique case slot'
-            area = next(a for a in registry['areas'] if a['code']==code.split('-')[0])
-            prototype=next(card for card in payload['cards'] if card['attrs']['data-discipline']==area['name'])
-            c = copy.deepcopy(prototype)
-            c['attrs']['data-case-id'] = str(i + 1)
-            c['attrs']['data-case-code']=code
-            c['attrs']['href']=f'browse-fixture-{i+1}.html'
-            c['text']=[f'{code} Browse fixture {i+1} {area["name"]}']
-            fixture['cards'].append(c)
-        result = subprocess.run(['node', '-e', NODE], input=json.dumps(fixture), text=True, capture_output=True, timeout=300)
-        assert result.returncode == 0, result.stdout + result.stderr
-    print('PASS: synthetic 121/240/241/360/361/480/481/490/491/493/495/496/516-card browse flows.')
+    bad=copy.deepcopy(payload)
+    for malformed in ('not a fragment list', None, ['valid', 8]):
+        bad['cards'][0]['text']=malformed
+        result=run_browse(bad)
+        assert result.returncode!=0 and 'Malformed browse text fragments' in result.stderr
+    for target in (121, 240, 241, 360, 361, 480, 481, 490, 491, 493, 495, 496, 516, 517, 537):
+        result=run_browse(staged_fixture(payload, registry, target))
+        assert result.returncode==0, result.stdout+result.stderr
+    print('PASS: staged 121/240/241/360/361/480/481/490/491/493/495/496/516/517/537-card browse flows; malformed text fixtures rejected.')
     print(f'PASS: {len(p.cards)} cards match all 12 ledger areas, visible labels and selectors; mutations rejected.')
 
 

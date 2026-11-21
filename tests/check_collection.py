@@ -123,7 +123,7 @@ def check_collection(root=ROOT):
     assert len(numbers) == len(set(numbers)) == published, 'Coverage counts repeat or omit cases'
     assert set(numbers) == set(page_ids), 'Coverage numbers differ from actual case pages'
     assert set(numbers) == set(range(1, published + 1)), 'Coverage numbering has gaps'
-    remaining_total=(516 if published>495 else 495)-published
+    remaining_total=(537 if published>516 else 516 if published>495 else 495)-published
     assert f'**{remaining_total} approved editorial slots** | **{remaining_total}**' in ledger, 'Remaining total differs from approved capacity'
     for area in registry['areas']:
         row=re.search(r'^\| '+re.escape(area['name'])+r' \|[^\n]+',ledger,re.M)

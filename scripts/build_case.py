@@ -119,10 +119,8 @@ def main(argv=None):
     slug=x["slug"]; number=x["number"]; code=x["code"]
     require(re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*",slug),"Unsafe slug")
     release=module(r/"scripts/release_slots.py","builder_release_slots")
-    wave, wave_caps=release.load_wave(r)
-    limit=max(wave)
+    wave, caps, stage_limit, limit=release.load_release(r,number)
     require(isinstance(number,int) and 121<=number<=limit,f"Expansion builder supports IDs 121–{limit}")
-    caps=wave_caps if number>release.BASELINE else release.BASELINE_CAPS
     require(number==max(c["legacy_id"] for c in reg["cases"])+1,"ID must follow existing registry")
     require(not any(c["slug"]==slug or c["legacy_id"]==number or c["code"]==code for c in reg["cases"]),"Existing slug, ID or code: refusing overwrite")
     for p in [r/(slug+".html"),r/"authoring"/(slug+".md")]:require(not p.exists(),"Existing output: "+str(p))
@@ -207,11 +205,13 @@ def main(argv=None):
     if number>release.BASELINE:
         readme=r/"README.md"
         numbering=r/"docs/case-numbering.md"
-        snapshot=f"The collection contains {number} cases. The balanced wave started at 495 cases: 50 in Finance, 45 in Economics and 40 in each of the other ten areas."
+        snapshot=(f"The collection contains {number} cases. The second balanced wave started at 516 cases: 50 in Finance, 46 in Economics and 42 in each of the other ten areas."
+                  if number>release.SECOND_BASELINE else
+                  f"The collection contains {number} cases. The balanced wave started at 495 cases: 50 in Finance, 45 in Economics and 40 in each of the other ten areas.")
         outputs[readme], n=re.subn(r"The collection contains \d+ cases[.:][^\n]*?ten areas\.",snapshot,outputs[readme],count=1)
         require(n==1,"README collection snapshot marker missing")
         outputs[readme], n=re.subn(r"Identity fixtures protect [^\n]+",
-                                  f"Identity fixtures protect all 495 baseline permanent IDs, area codes and URLs. Earlier snapshots remain unchanged. The builder supports only the first 21 balanced-wave additions, through ID {limit}.",outputs[readme],count=1)
+                                  f"Identity fixtures protect all 516 baseline permanent IDs, area codes and URLs. Earlier snapshots remain unchanged. The builder supports the first two balanced waves, through ID {limit}.",outputs[readme],count=1)
         require(n==1,"README identity note marker missing")
         outputs[numbering], n=re.subn(r"Five further Finance cases (?:bring|brought) the collection to 495, with 50 in FIN, 45 in ECO and 40 in every other area\.",
                                      "Five further Finance cases brought the pre-wave collection to 495, with 50 in FIN, 45 in ECO and 40 in every other area.",outputs[numbering],count=1)
@@ -225,17 +225,17 @@ def main(argv=None):
             cells=m[0].split("|");require(len(cells)==7,"Unexpected coverage table row")
             cells[2]=" "+", ".join(map(str,members))+" ";cells[4]=" "+str(caps[a["code"]]-len(members))+" "
             if number>release.BASELINE:
-                planned=[c for c in wave.values() if c.split("-")[0]==a["code"]]
-                cells[3]=" "+(", ".join(planned) if planned else "None in this wave")+" "
+                planned=[c for n,c in wave.items() if c.split("-")[0]==a["code"] and (number<=release.SECOND_BASELINE or n>number)]
+                cells[3]=" "+(", ".join(planned) if planned else "None remaining in this wave")+" "
             return "|".join(cells)
         ledger,n=re.subn(pat,row,ledger,count=1,flags=re.M);require(n==1,"Missing coverage area "+a["name"])
-    total=len(reg["cases"]);remaining=(limit if total>release.BASELINE else release.BASELINE)-total
+    total=len(reg["cases"]);remaining=stage_limit-total
     ledger,n=re.subn(r"^\| \*\*Total\*\* \|.*$",f"| **Total** | **{total} published** | **{remaining} approved editorial slots** | **{remaining}** | |",ledger,count=1,flags=re.M);require(n==1,"Coverage total row missing")
     if number>release.BASELINE:
-        ledger=re.sub(r"(?m)^# Micro Cases in Business · Coverage and targeted expansion to \d+$",
-                      f"# Micro Cases in Business · Coverage and first balanced wave to {limit}",ledger)
-        ledger=re.sub(r"(?m)^# Micro Cases in Business · Coverage and first balanced wave to \d+$",
-                      f"# Micro Cases in Business · Coverage and first balanced wave to {limit}",ledger)
+        ordinal="second" if number>release.SECOND_BASELINE else "first"
+        ledger,n=re.subn(r"(?m)^# Micro Cases in Business · Coverage and (?:targeted expansion|(?:first|second) balanced wave) to \d+$",
+                         f"# Micro Cases in Business · Coverage and {ordinal} balanced wave to {stage_limit}",ledger,count=1)
+        require(n==1,"Coverage heading marker missing")
     outputs[r/"planning/collection-roadmap.md"]=ledger
     # Only navigation may change in existing case pages. No teaching-content re-render.
     for case in reg["cases"]:

@@ -4,9 +4,9 @@ Short classroom cases with an opening decision, a second-round prompt, a debrief
 
 The [original roadmap](planning/collection-roadmap.md) records the first 120 cases. The approved [expansion plan to 240](planning/expansion-to-240.md) adds cases 11–20 in each area, in ten balanced waves with research and review gates. The next approved [expansion plan to 360](planning/expansion-to-360.md) adds cases 21–30 in each area. The approved [expansion plan to 480](planning/expansion-to-480.md) adds cases 31–40 in each area. Planned cases are not counted as published.
 
-The collection contains 516 cases. The balanced wave started at 495 cases: 50 in Finance, 45 in Economics and 40 in each of the other ten areas. The [finance and economics extension](planning/finance-economics-extension-490.md) adds FIN-41–45 and ECO-41–45, alternating at permanent IDs 481–490, to the completed balanced 480-case collection. The five subsequent Finance cases, FIN-46–50, use permanent IDs 491–495. Planned cases are not counted as published.
+The collection contains 537 cases. The second balanced wave started at 516 cases: 50 in Finance, 46 in Economics and 42 in each of the other ten areas. The [finance and economics extension](planning/finance-economics-extension-490.md) adds FIN-41–45 and ECO-41–45, alternating at permanent IDs 481–490, to the completed balanced 480-case collection. The five subsequent Finance cases, FIN-46–50, use permanent IDs 491–495. Planned cases are not counted as published.
 
-Identity fixtures protect all 495 baseline permanent IDs, area codes and URLs. Earlier snapshots remain unchanged. The builder supports only the first 21 balanced-wave additions, through ID 516.
+Identity fixtures protect all 516 baseline permanent IDs, area codes and URLs. Earlier snapshots remain unchanged. The builder supports the first two balanced waves, through ID 537.
 
 ## Acknowledgement
 
@@ -2064,3 +2064,87 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## HSP-42
 
 516. [The coach has seats. Does it have room?](the-coach-has-seats.html)
+
+## ECO-47
+
+517. [A cheaper booking channel. Can it offer a lower price?](cheaper-booking-channel-price-parity.html)
+
+## ACC-43
+
+518. [The clinic paid for setup. What does it own?](configured-but-not-owned.html)
+
+## MKT-43
+
+519. [HK$550 on screen. HK$550 on the card?](reference-price-not-final-charge.html)
+
+## OPS-43
+
+520. [The cold room averaged fine. Which cartons warmed?](cold-room-which-cartons-warmed.html)
+
+## PPL-43
+
+521. [You heard the concern. Did anyone check it?](you-heard-it-did-you-check.html)
+
+## STR-43
+
+522. [Buy the studio. Buy a future without a rival?](buy-the-studio-or-keep-it-independent.html)
+
+## ENT-43
+
+523. [A franchise fee. A replicable outlet?](a-franchise-fee.html)
+
+## IS-43
+
+524. [When the feed goes blank, what should the board say?](when-the-bus-feed-goes-quiet.html)
+
+## GVR-43
+
+525. [Safety reports rose. Did harm rise too?](more-safety-reports-or-more-harm.html)
+
+## SUS-43
+
+526. [Solar now, or after the roof repair?](solar-before-the-roof-repair.html)
+
+## HSP-43
+
+527. [One room. Two check-ins?](one-room-two-check-ins.html)
+
+## ACC-44
+
+528. [The subsidiary earned a profit. Why did its net assets rise less in HKD?](the-subsidiary-earned-where-did-equity-go.html)
+
+## MKT-44
+
+529. [Five stars. Will it fit?](five-stars-will-it-fit.html)
+
+## OPS-44
+
+530. [Online orders. A queue at the till?](online-orders-at-a-busy-shop.html)
+
+## PPL-44
+
+531. [Acting lead. Until when?](acting-until-when.html)
+
+## STR-44
+
+532. [Paid tools. Or pay just to stay listed?](paid-tools-or-pay-to-list.html)
+
+## ENT-44
+
+533. [An exclusive deal. What if a channel stays idle?](release-the-unused-channel.html)
+
+## IS-44
+
+534. [The postcode field cannot make the decision](the-postcode-field-cannot-decide.html)
+
+## GVR-44
+
+535. [Same supplier. Who now controls it?](same-supplier-new-controller.html)
+
+## SUS-44
+
+536. [More glass in the bins. How much is new recovery?](glass-bins-but-how-much-new-recovery.html)
+
+## HSP-44
+
+537. [Hold the block. Or release it early?](release-the-room-block.html)

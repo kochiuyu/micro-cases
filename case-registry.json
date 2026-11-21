@@ -3674,6 +3674,153 @@
       "slug": "the-coach-has-seats",
       "area": "Hospitality, tourism, property and service management",
       "title": "The coach has seats. Does it have room?"
+    },
+    {
+      "legacy_id": 517,
+      "code": "ECO-47",
+      "slug": "cheaper-booking-channel-price-parity",
+      "area": "Economics, competition and pricing",
+      "title": "A cheaper booking channel. Can it offer a lower price?"
+    },
+    {
+      "legacy_id": 518,
+      "code": "ACC-43",
+      "slug": "configured-but-not-owned",
+      "area": "Accounting, audit and management control",
+      "title": "The clinic paid for setup. What does it own?"
+    },
+    {
+      "legacy_id": 519,
+      "code": "MKT-43",
+      "slug": "reference-price-not-final-charge",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "HK$550 on screen. HK$550 on the card?"
+    },
+    {
+      "legacy_id": 520,
+      "code": "OPS-43",
+      "slug": "cold-room-which-cartons-warmed",
+      "area": "Operations, supply chains and logistics",
+      "title": "The cold room averaged fine. Which cartons warmed?"
+    },
+    {
+      "legacy_id": 521,
+      "code": "PPL-43",
+      "slug": "you-heard-it-did-you-check",
+      "area": "People, leadership and organisational behaviour",
+      "title": "You heard the concern. Did anyone check it?"
+    },
+    {
+      "legacy_id": 522,
+      "code": "STR-43",
+      "slug": "buy-the-studio-or-keep-it-independent",
+      "area": "Strategy and international business",
+      "title": "Buy the studio. Buy a future without a rival?"
+    },
+    {
+      "legacy_id": 523,
+      "code": "ENT-43",
+      "slug": "a-franchise-fee",
+      "area": "Entrepreneurship, innovation and family business",
+      "title": "A franchise fee. A replicable outlet?"
+    },
+    {
+      "legacy_id": 524,
+      "code": "IS-43",
+      "slug": "when-the-bus-feed-goes-quiet",
+      "area": "Information systems, AI and business analytics",
+      "title": "When the feed goes blank, what should the board say?"
+    },
+    {
+      "legacy_id": 525,
+      "code": "GVR-43",
+      "slug": "more-safety-reports-or-more-harm",
+      "area": "Governance, law, ethics and risk",
+      "title": "Safety reports rose. Did harm rise too?"
+    },
+    {
+      "legacy_id": 526,
+      "code": "SUS-43",
+      "slug": "solar-before-the-roof-repair",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "Solar now, or after the roof repair?"
+    },
+    {
+      "legacy_id": 527,
+      "code": "HSP-43",
+      "slug": "one-room-two-check-ins",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "One room. Two check-ins?"
+    },
+    {
+      "legacy_id": 528,
+      "code": "ACC-44",
+      "slug": "the-subsidiary-earned-where-did-equity-go",
+      "area": "Accounting, audit and management control",
+      "title": "The subsidiary earned a profit. Why did its net assets rise less in HKD?"
+    },
+    {
+      "legacy_id": 529,
+      "code": "MKT-44",
+      "slug": "five-stars-will-it-fit",
+      "area": "Marketing, retail and consumer behaviour",
+      "title": "Five stars. Will it fit?"
+    },
+    {
+      "legacy_id": 530,
+      "code": "OPS-44",
+      "slug": "online-orders-at-a-busy-shop",
+      "area": "Operations, supply chains and logistics",
+      "title": "Online orders. A queue at the till?"
+    },
+    {
+      "legacy_id": 531,
+      "code": "PPL-44",
+      "slug": "acting-until-when",
+      "area": "People, leadership and organisational behaviour",
+      "title": "Acting lead. Until when?"
+    },
+    {
+      "legacy_id": 532,
+      "code": "STR-44",
+      "slug": "paid-tools-or-pay-to-list",
+      "area": "Strategy and international business",
+      "title": "Paid tools. Or pay just to stay listed?"
+    },
+    {
+      "legacy_id": 533,
+      "code": "ENT-44",
+      "slug": "release-the-unused-channel",
+      "area": "Entrepreneurship, innovation and family business",
+      "title": "An exclusive deal. What if a channel stays idle?"
+    },
+    {
+      "legacy_id": 534,
+      "code": "IS-44",
+      "slug": "the-postcode-field-cannot-decide",
+      "area": "Information systems, AI and business analytics",
+      "title": "The postcode field cannot make the decision"
+    },
+    {
+      "legacy_id": 535,
+      "code": "GVR-44",
+      "slug": "same-supplier-new-controller",
+      "area": "Governance, law, ethics and risk",
+      "title": "Same supplier. Who now controls it?"
+    },
+    {
+      "legacy_id": 536,
+      "code": "SUS-44",
+      "slug": "glass-bins-but-how-much-new-recovery",
+      "area": "Sustainability, social enterprise and public management",
+      "title": "More glass in the bins. How much is new recovery?"
+    },
+    {
+      "legacy_id": 537,
+      "code": "HSP-44",
+      "slug": "release-the-room-block",
+      "area": "Hospitality, tourism, property and service management",
+      "title": "Hold the block. Or release it early?"
     }
   ]
 }

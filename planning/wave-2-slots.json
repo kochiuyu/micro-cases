@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "wave": 2,
+  "status": "private-technical-sequence",
+  "baseline_commit": "9beed46db5e049854a3535e18db4ccc4dfa3e7dd",
+  "baseline_count": 516,
+  "target_count": 537,
+  "slots": [
+    {
+      "legacy_id": 517,
+      "code": "ECO-47"
+    },
+    {
+      "legacy_id": 518,
+      "code": "ACC-43"
+    },
+    {
+      "legacy_id": 519,
+      "code": "MKT-43"
+    },
+    {
+      "legacy_id": 520,
+      "code": "OPS-43"
+    },
+    {
+      "legacy_id": 521,
+      "code": "PPL-43"
+    },
+    {
+      "legacy_id": 522,
+      "code": "STR-43"
+    },
+    {
+      "legacy_id": 523,
+      "code": "ENT-43"
+    },
+    {
+      "legacy_id": 524,
+      "code": "IS-43"
+    },
+    {
+      "legacy_id": 525,
+      "code": "GVR-43"
+    },
+    {
+      "legacy_id": 526,
+      "code": "SUS-43"
+    },
+    {
+      "legacy_id": 527,
+      "code": "HSP-43"
+    },
+    {
+      "legacy_id": 528,
+      "code": "ACC-44"
+    },
+    {
+      "legacy_id": 529,
+      "code": "MKT-44"
+    },
+    {
+      "legacy_id": 530,
+      "code": "OPS-44"
+    },
+    {
+      "legacy_id": 531,
+      "code": "PPL-44"
+    },
+    {
+      "legacy_id": 532,
+      "code": "STR-44"
+    },
+    {
+      "legacy_id": 533,
+      "code": "ENT-44"
+    },
+    {
+      "legacy_id": 534,
+      "code": "IS-44"
+    },
+    {
+      "legacy_id": 535,
+      "code": "GVR-44"
+    },
+    {
+      "legacy_id": 536,
+      "code": "SUS-44"
+    },
+    {
+      "legacy_id": 537,
+      "code": "HSP-44"
+    }
+  ]
+}

@@ -12,7 +12,14 @@ FIRST_WAVE_CODES = (
     'ACC-42','MKT-42','OPS-42','PPL-42','STR-42','ENT-42','IS-42','GVR-42','SUS-42','HSP-42',
 )
 
+SECOND_WAVE_CODES = (
+    'ECO-47',
+    'ACC-43', 'MKT-43', 'OPS-43', 'PPL-43', 'STR-43', 'ENT-43', 'IS-43', 'GVR-43', 'SUS-43', 'HSP-43',
+    'ACC-44', 'MKT-44', 'OPS-44', 'PPL-44', 'STR-44', 'ENT-44', 'IS-44', 'GVR-44', 'SUS-44', 'HSP-44',
+)
+
 def slot_code(n):
+ if 517<=n<=537:return SECOND_WAVE_CODES[n-517]
  if 496<=n<=516:return FIRST_WAVE_CODES[n-496]
  if 491<=n<=495:return 'FIN-'+str(n-445)
  if 481<=n<=490:return ('FIN' if n%2 else 'ECO')+'-'+str(41+(n-481)//2)
@@ -20,7 +27,8 @@ def slot_code(n):
 
 def ceiling(code,total):
  if total<=495:return 50 if code=='FIN' else 45 if code=='ECO' else 40
- return 50 if code=='FIN' else 46 if code=='ECO' else 42
+ if total<=516:return 50 if code=='FIN' else 46 if code=='ECO' else 42
+ return 50 if code=='FIN' else 47 if code=='ECO' else 44
 
 def validate_registry(data):
  assert data['schema_version']==1
@@ -28,7 +36,7 @@ def validate_registry(data):
  assert len(areas)==12 and [a['code'] for a in areas]==list(CODES)
  names=[a['name'] for a in areas];assert len(set(names))==12
  assert all(a.get('label','').strip() for a in areas)
- assert 120 <= len(cases) <= 516, 'Expected staged expansion from 120 to 516 cases'
+ assert 120 <= len(cases) <= 537, 'Expected staged expansion from 120 to 537 cases'
  assert all(type(c['legacy_id']) is int for c in cases), 'IDs must be integers'
  assert {c['legacy_id'] for c in cases}==set(range(1,len(cases)+1)), 'Permanent IDs must be contiguous'
  baseline=json.loads((ROOT/'tests/fixtures/original-case-identities.json').read_text())
@@ -70,6 +78,11 @@ def validate_registry(data):
   expected=slot_code(c['legacy_id'])
   if expected is not None:
    assert c['code']==expected, 'Unapproved expansion slot: '+str(c['legacy_id'])
+ final516=json.loads((ROOT/'tests/fixtures/published-516-case-identities.json').read_text())
+ assert len(final516)==516 and final516[:495]==final495, 'Identity snapshots disagree'
+ for original in final516[495:]:
+  if original['legacy_id'] in current:
+   assert all(current[original['legacy_id']][key]==value for key,value in original.items()), 'Published identity changed: '+str(original['legacy_id'])
  for key in ('legacy_id','code','slug'):
   assert len({c[key] for c in cases})==len(cases),f'Duplicate {key}'
  for area in areas:
