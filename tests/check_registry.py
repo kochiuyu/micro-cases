@@ -11,7 +11,7 @@ def validate_registry(data):
  assert len(areas)==12 and [a['code'] for a in areas]==list(CODES)
  names=[a['name'] for a in areas];assert len(set(names))==12
  assert all(a.get('label','').strip() for a in areas)
- assert 120 <= len(cases) <= 493, 'Expected staged expansion from 120 to 493 cases'
+ assert 120 <= len(cases) <= 495, 'Expected staged expansion from 120 to 495 cases'
  assert all(type(c['legacy_id']) is int for c in cases), 'IDs must be integers'
  assert {c['legacy_id'] for c in cases}==set(range(1,len(cases)+1)), 'Permanent IDs must be contiguous'
  baseline=json.loads((ROOT/'tests/fixtures/original-case-identities.json').read_text())
@@ -39,6 +39,11 @@ def validate_registry(data):
  for original in final490[480:]:
   if original['legacy_id'] in current:
    assert all(current[original['legacy_id']][key]==value for key,value in original.items()), 'Published identity changed: '+str(original['legacy_id'])
+ final493=json.loads((ROOT/'tests/fixtures/published-493-case-identities.json').read_text())
+ assert len(final493)==493 and final493[:490]==final490, 'Identity snapshots disagree'
+ for original in final493[490:]:
+  if original['legacy_id'] in current:
+   assert all(current[original['legacy_id']][key]==value for key,value in original.items()), 'Published identity changed: '+str(original['legacy_id'])
  for c in cases:
   if c['legacy_id']>490:
    assert c['code']=='FIN-'+str(c['legacy_id']-445), 'Unapproved expansion slot: '+str(c['legacy_id'])
@@ -49,7 +54,7 @@ def validate_registry(data):
   assert len({c[key] for c in cases})==len(cases),f'Duplicate {key}'
  for area in areas:
   group=sorted([c for c in cases if c['area']==area['name']],key=lambda c:c['legacy_id'])
-  assert 10 <= len(group) <= (48 if area['code']=='FIN' else 45 if area['code']=='ECO' else 40),area['name']
+  assert 10 <= len(group) <= (50 if area['code']=='FIN' else 45 if area['code']=='ECO' else 40),area['name']
   assert [c['code'] for c in group]==[f"{area['code']}-{i:02}" for i in range(1,len(group)+1)],area['name']
  for c in cases:
   assert c['area'] in names and re.fullmatch(r'[a-z0-9]+(?:-[a-z0-9]+)*',c['slug'])

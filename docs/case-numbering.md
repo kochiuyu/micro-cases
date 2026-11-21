@@ -1,6 +1,6 @@
 # Case numbering and stable identity
 
-Cases are displayed by teaching area and two-digit sequence, for example `ACC-01`. The initial collection contained ten cases per area. Balanced expansions reached 40 in each area; the targeted finance and economics extension brought the collection to 490 cases. Three further Finance cases bring the collection to 493, with 48 in FIN, 45 in ECO and 40 in every other area. This is a browsing identity, not an indication of difficulty or a prescribed teaching order.
+Cases are displayed by teaching area and two-digit sequence, for example `ACC-01`. The initial collection contained ten cases per area. Balanced expansions reached 40 in each area; the targeted finance and economics extension brought the collection to 490 cases. Five further Finance cases bring the collection to 495, with 50 in FIN, 45 in ECO and 40 in every other area. This is a browsing identity, not an indication of difficulty or a prescribed teaching order.
 
 ## Canonical registry
 
@@ -535,3 +535,5 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 491 | FIN-46 | [which-share-would-you-sell.html](../which-share-would-you-sell.html) | Which share would you sell? |
 | 492 | FIN-47 | [who-gets-the-lending-subsidy.html](../who-gets-the-lending-subsidy.html) | Who gets the lending subsidy? |
 | 493 | FIN-48 | [who-funds-the-rescue-investment.html](../who-funds-the-rescue-investment.html) | Who funds the rescue investment? |
+| 494 | FIN-49 | [tougher-loan-collect-less.html](../tougher-loan-collect-less.html) | When does a tougher loan collect less? |
+| 495 | FIN-50 | [big-ipo-allocation-good-news.html](../big-ipo-allocation-good-news.html) | Is a big IPO allocation good news? |

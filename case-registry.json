@@ -3513,6 +3513,20 @@
       "slug": "who-funds-the-rescue-investment",
       "area": "Finance, banking and insurance",
       "title": "Who funds the rescue investment?"
+    },
+    {
+      "legacy_id": 494,
+      "code": "FIN-49",
+      "slug": "tougher-loan-collect-less",
+      "area": "Finance, banking and insurance",
+      "title": "When does a tougher loan collect less?"
+    },
+    {
+      "legacy_id": 495,
+      "code": "FIN-50",
+      "slug": "big-ipo-allocation-good-news",
+      "area": "Finance, banking and insurance",
+      "title": "Is a big IPO allocation good news?"
     }
   ]
 }

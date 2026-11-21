@@ -1,17 +1,17 @@
-# Micro Cases in Business · Coverage and targeted expansion to 493
+# Micro Cases in Business · Coverage and targeted expansion to 495
 
-The balanced 480-case collection was followed by the [ten Finance and Economics cases](finance-economics-extension-490.md). This focused extension adds FIN-46–48 at permanent IDs 491–493; Economics stays at 45 and every other area stays at 40. Earlier plans remain historical records.
+The balanced 480-case collection was followed by the [ten Finance and Economics cases](finance-economics-extension-490.md). The five subsequent Finance cases, FIN-46–50, use permanent IDs 491–495. Economics stays at 45 and every other area stays at 40. Earlier plans remain historical records.
 
 ## Coverage ledger
 
-493 cases are published: the original 120 plus 373 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
+495 cases are published: the original 120 plus 375 approved expansion cases. The 2024 award acknowledgement remains limited to Cases 1–8.
 
 Count each case once by its primary classroom decision. The assignments below are editorial choices. Secondary topics can support browsing across disciplines. Planned assignments can move if the reported story leads to a different decision.
 
 | Primary teaching area | Published case numbers | Planned case numbers | Remaining approved cases | Example decision to scout |
 |---|---|---|---:|---|
 | Accounting, audit and management control | 9, 24, 30, 40, 52, 61, 73, 85, 97, 109, 121, 133, 145, 157, 169, 181, 193, 205, 217, 229, 241, 253, 265, 277, 289, 301, 313, 325, 337, 349, 361, 373, 385, 397, 409, 421, 433, 445, 457, 469 | None in this expansion | 0 | A division misses its target after a shared cost is reassigned. Cut its budget or change the measure? |
-| Finance, banking and insurance | 2, 7, 18, 38, 50, 62, 74, 86, 98, 110, 122, 134, 146, 158, 170, 182, 194, 206, 218, 230, 242, 254, 266, 278, 290, 302, 314, 326, 338, 350, 362, 374, 386, 398, 410, 422, 434, 446, 458, 470, 481, 483, 485, 487, 489, 491, 492, 493 | 46–48 within area | 0 | A major customer asks for longer payment terms. What would you ask for in return? |
+| Finance, banking and insurance | 2, 7, 18, 38, 50, 62, 74, 86, 98, 110, 122, 134, 146, 158, 170, 182, 194, 206, 218, 230, 242, 254, 266, 278, 290, 302, 314, 326, 338, 350, 362, 374, 386, 398, 410, 422, 434, 446, 458, 470, 481, 483, 485, 487, 489, 491, 492, 493, 494, 495 | 49–50 within area | 0 | A major customer asks for longer payment terms. What would you ask for in return? |
 | Marketing, retail and consumer behaviour | 11, 19, 31, 41, 57, 63, 75, 87, 99, 111, 123, 135, 147, 159, 171, 183, 195, 207, 219, 231, 243, 255, 267, 279, 291, 303, 315, 327, 339, 351, 363, 375, 387, 399, 411, 423, 435, 447, 459, 471 | None in this expansion | 0 | A product goes viral for an unintended use. Change the campaign or leave it alone? |
 | Operations, supply chains and logistics | 17, 27, 34, 42, 55, 64, 76, 88, 100, 112, 124, 136, 148, 160, 172, 184, 196, 208, 220, 232, 244, 256, 268, 280, 292, 304, 316, 328, 340, 352, 364, 376, 388, 400, 412, 424, 436, 448, 460, 472 | None in this expansion | 0 | Ship the whole order late or pay to send half by air? |
 | People, leadership and organisational behaviour | 8, 15, 20, 39, 51, 65, 77, 89, 101, 113, 125, 137, 149, 161, 173, 185, 197, 209, 221, 233, 245, 257, 269, 281, 293, 305, 317, 329, 341, 353, 365, 377, 389, 401, 413, 425, 437, 449, 461, 473 | None in this expansion | 0 | A high-performing team refuses a promotion for its best member. Who should lead? |
@@ -22,7 +22,7 @@ Count each case once by its primary classroom decision. The assignments below ar
 | Sustainability, social enterprise and public management | 5, 6, 10, 14, 49, 67, 80, 94, 106, 118, 130, 142, 154, 166, 178, 190, 202, 214, 226, 238, 250, 262, 274, 286, 298, 310, 322, 334, 346, 358, 370, 382, 394, 406, 418, 430, 442, 454, 466, 478 | None in this expansion | 0 | A reuse scheme cuts packaging but adds return journeys. Expand it? |
 | Economics, competition and pricing | 4, 16, 29, 47, 59, 69, 83, 95, 107, 119, 131, 143, 155, 167, 179, 191, 203, 215, 227, 239, 251, 263, 275, 287, 299, 311, 323, 335, 347, 359, 371, 383, 395, 407, 419, 431, 443, 455, 467, 479, 482, 484, 486, 488, 490 | None in this extension | 0 | A platform drops its booking fee and raises seller commissions. Who changes behaviour? |
 | Hospitality, tourism, property and service management | 1, 25, 37, 46, 54, 70, 84, 96, 108, 120, 132, 144, 156, 168, 180, 192, 204, 216, 228, 240, 252, 264, 276, 288, 300, 312, 324, 336, 348, 360, 372, 384, 396, 408, 420, 432, 444, 456, 468, 480 | None in this expansion | 0 | A hotel is overbooked on concert night. What offer would persuade a guest to move? |
-| **Total** | **493 published** | **0 approved editorial slots** | **0** | |
+| **Total** | **495 published** | **0 approved editorial slots** | **0** | |
 
 ## How a lead earns a place
 

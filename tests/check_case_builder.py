@@ -50,7 +50,7 @@ class BuilderTests(unittest.TestCase):
         for p in ROOT.rglob('*'):
             if '.git' in p.parts or '__pycache__' in p.parts or not p.is_file() or p.suffix not in ('.html','.md','.json','.py'):continue
             target=self.repo/p.relative_to(ROOT);target.parent.mkdir(parents=True,exist_ok=True);shutil.copyfile(p,target)
-        reduce_to_original_baseline(self.repo,490)
+        reduce_to_original_baseline(self.repo,493)
         self.x=payload(self.repo)
         self.input=Path(self.temp.name)/'input.json'
 
@@ -80,7 +80,7 @@ class BuilderTests(unittest.TestCase):
     def stage_published(self, total):
         # Restore real protected identities before adding synthetic unpublished slots.
         reg=json.loads((ROOT/'case-registry.json').read_text())
-        reg['cases']=[c for c in reg['cases'] if c['legacy_id']<=min(total,490)]
+        reg['cases']=[c for c in reg['cases'] if c['legacy_id']<=min(total,493)]
         source=(ROOT/'index.html').read_text()
         keep={c['slug']+'.html' for c in reg['cases']}
         source=re.sub(r'<a class="card".*?</a>',lambda m:m[0] if re.search(r'href="([^"]+)"',m[0])[1] in keep else '',source,flags=re.S)
@@ -99,7 +99,7 @@ class BuilderTests(unittest.TestCase):
         (self.repo/'index.html').write_text(source[:first]+''.join(additions)+source[first:])
 
     def test_staged_boundaries_and_overflow(self):
-        for before in (490,491,492):
+        for before in (493,494):
             with self.subTest(before=before):
                 self.stage_published(before)
                 self.x=payload(self.repo)
@@ -112,10 +112,10 @@ class BuilderTests(unittest.TestCase):
                 checks.validate_registry(reg)
                 self.assertEqual(reg['cases'][-1]['legacy_id'],before+1)
                 ledger=(self.repo/'planning/collection-roadmap.md').read_text()
-                self.assertIn(f'**{493-before-1} approved editorial slots**',ledger)
+                self.assertIn(f'**{495-before-1} approved editorial slots**',ledger)
                 self.assertIn(f'{before+1} decisions · 12 teaching areas',(self.repo/'index.html').read_text())
-        self.x['number']=494;self.x['code']='FIN-49';self.x['slug']='overflow-test'
-        self.reject('121–493')
+        self.x['number']=496;self.x['code']='FIN-51';self.x['slug']='overflow-test'
+        self.reject('121–495')
 
     def test_area_overflow_and_frozen_identity_rejected(self):
         self.stage_published(480)

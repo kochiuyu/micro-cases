@@ -223,7 +223,7 @@ def check(root=ROOT):
                             text=True, capture_output=True, timeout=300)
     assert result.returncode == 0, result.stdout + result.stderr
     print(result.stdout.strip())
-    for target in (121, 240, 241, 360, 361, 480, 481, 490, 491, 493):
+    for target in (121, 240, 241, 360, 361, 480, 481, 490, 491, 493, 495):
         fixture = copy.deepcopy(payload)
         fixture['cards'] = [c for c in fixture['cards'] if int(c['attrs']['data-case-id']) <= target]
         while len(fixture['cards']) < target:
@@ -236,7 +236,7 @@ def check(root=ROOT):
             fixture['cards'].append(c)
         result = subprocess.run(['node', '-e', NODE], input=json.dumps(fixture), text=True, capture_output=True, timeout=300)
         assert result.returncode == 0, result.stdout + result.stderr
-    print('PASS: synthetic 121/240/241/360/361/480/481/490/491/493-card browse flows.')
+    print('PASS: synthetic 121/240/241/360/361/480/481/490/491/493/495-card browse flows.')
     print(f'PASS: {len(p.cards)} cards match all 12 ledger areas, visible labels and selectors; mutations rejected.')
 
 
