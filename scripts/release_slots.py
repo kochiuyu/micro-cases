@@ -16,6 +16,8 @@ THIRD_BASELINE = 537
 THIRD_BASELINE_COMMIT = "d503315e1850824538d8e9841434346cb9c127c4"
 FOURTH_BASELINE = 558
 FOURTH_BASELINE_COMMIT = "bedf42559ab92b394d67cc9ea07f627165a62bc6"
+FIFTH_BASELINE = 579
+FIFTH_BASELINE_COMMIT = "50e2dc5466038012eaafd524ce98f78291f97447"
 MIXED_ORDER = ("ACC","MKT","OPS","PPL","STR","ENT","IS","GVR","SUS","HSP")
 
 def load_wave(root, wave=1, initial_caps=None):
@@ -37,9 +39,14 @@ def load_wave(root, wave=1, initial_caps=None):
         if initial_caps is None:
             _, initial_caps = load_wave(root, 3)
         caps = initial_caps
+    elif wave == 5:
+        baseline, commit, eco = FIFTH_BASELINE, FIFTH_BASELINE_COMMIT, "ECO-50"
+        if initial_caps is None:
+            _, initial_caps = load_wave(root, 4)
+        caps = initial_caps
     else:
         raise ValueError("Unsupported wave")
-    label = {1:"first-wave",2:"second-wave",3:"third-wave",4:"fourth-wave"}[wave]
+    label = {1:"first-wave",2:"second-wave",3:"third-wave",4:"fourth-wave",5:"fifth-wave"}[wave]
     path = root / "planning" / f"wave-{wave}-slots.json"
     try:
         d = json.loads(path.read_text(encoding="utf-8"))
@@ -72,7 +79,7 @@ def load_wave(root, wave=1, initial_caps=None):
         counts[area] += 1
     if order[baseline + 1] != eco or any(counts[k] != (0 if k == "FIN" else 1 if k == "ECO" else 2) for k in ceilings):
         raise ValueError(f"{label} must start with {eco} and preserve its approved area balance")
-    if wave in (2, 3, 4) and tuple(code.split("-")[0] for code in tuple(order.values())[1:]) != MIXED_ORDER * 2:
+    if wave in (2, 3, 4, 5) and tuple(code.split("-")[0] for code in tuple(order.values())[1:]) != MIXED_ORDER * 2:
         raise ValueError(f"Unexpected {label} slot order")
     return order, ceilings
 
@@ -82,15 +89,18 @@ def load_release(root, number):
     second, second_caps = load_wave(root, 2, first_caps)
     third, third_caps = load_wave(root, 3, second_caps)
     fourth, fourth_caps = load_wave(root, 4, third_caps)
+    fifth, fifth_caps = load_wave(root, 5, fourth_caps)
     if number <= BASELINE:
-        return {}, BASELINE_CAPS, BASELINE, max(fourth)
+        return {}, BASELINE_CAPS, BASELINE, max(fifth)
     if number <= SECOND_BASELINE:
-        return first, first_caps, max(first), max(fourth)
+        return first, first_caps, max(first), max(fifth)
     if number <= THIRD_BASELINE:
-        return second, second_caps, max(second), max(fourth)
+        return second, second_caps, max(second), max(fifth)
     if number <= FOURTH_BASELINE:
-        return third, third_caps, max(third), max(fourth)
-    return fourth, fourth_caps, max(fourth), max(fourth)
+        return third, third_caps, max(third), max(fifth)
+    if number <= FIFTH_BASELINE:
+        return fourth, fourth_caps, max(fourth), max(fifth)
+    return fifth, fifth_caps, max(fifth), max(fifth)
 
 def historical_slot(number):
     """Keep the pre-wave approved mappings for existing builder fixtures."""

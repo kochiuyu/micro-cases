@@ -621,3 +621,24 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 577 | GVR-48 | [the-source-withdrew-the-number.html](../the-source-withdrew-the-number.html) | The source withdrew the number. What can we still publish? |
 | 578 | SUS-48 | [battery-capacity-is-not-a-routing-pass.html](../battery-capacity-is-not-a-routing-pass.html) | A battery still has capacity. Can it be reused? |
 | 579 | HSP-48 | [rent-moves-with-sales.html](../rent-moves-with-sales.html) | When the rent moves with sales |
+| 580 | ECO-50 | [the-currency-fell-the-invoice-didnt.html](../the-currency-fell-the-invoice-didnt.html) | The currency fell. Why didn’t the invoice? |
+| 581 | ACC-49 | [ready-to-sell-or-still-in-use.html](../ready-to-sell-or-still-in-use.html) | Ready to sell, or still in use? |
+| 582 | MKT-49 | [a-tasting-flight-for-whom.html](../a-tasting-flight-for-whom.html) | More tea sold. Did the tasting credit pay? |
+| 583 | OPS-49 | [the-spare-is-in-the-repair-queue.html](../the-spare-is-in-the-repair-queue.html) | The spare is in the repair queue |
+| 584 | PPL-49 | [two-people-one-shared-role.html](../two-people-one-shared-role.html) | One shared job. How much time is really covered? |
+| 585 | STR-49 | [make-the-store-brand-or-face-it.html](../make-the-store-brand-or-face-it.html) | Make the store brand, or face it? |
+| 586 | ENT-49 | [deposits-are-not-spendable.html](../deposits-are-not-spendable.html) | The deposits arrived. What can we spend? |
+| 587 | IS-49 | [one-string-two-instructions.html](../one-string-two-instructions.html) | One string, two different instructions |
+| 588 | GVR-49 | [release-the-pages-you-can.html](../release-the-pages-you-can.html) | One request. Which pages can you release? |
+| 589 | SUS-49 | [one-tank-two-jobs.html](../one-tank-two-jobs.html) | One tank, two jobs. How much space should stay empty? |
+| 590 | HSP-49 | [the-pass-brought-whom.html](../the-pass-brought-whom.html) | The pass brought visitors. What did it pay? |
+| 591 | ACC-50 | [when-the-lease-loses-a-room.html](../when-the-lease-loses-a-room.html) | When the lease loses a floor |
+| 592 | MKT-50 | [only-two-in-this-basket.html](../only-two-in-this-basket.html) | Only two left. Left where? |
+| 593 | OPS-50 | [full-carts-slow-connections.html](../full-carts-slow-connections.html) | Full carts. Slow connections? |
+| 594 | PPL-50 | [the-team-that-trains-the-next-team.html](../the-team-that-trains-the-next-team.html) | The team develops talent. Who gets credit when it moves? |
+| 595 | STR-50 | [the-part-that-opens-the-market.html](../the-part-that-opens-the-market.html) | The part that opens the market |
+| 596 | ENT-50 | [multiple-contracts-one-buyer.html](../multiple-contracts-one-buyer.html) | Five contracts. How many renewal decisions? |
+| 597 | IS-50 | [a-form-you-can-finish-by-keyboard.html](../a-form-you-can-finish-by-keyboard.html) | A form you can finish by keyboard |
+| 598 | GVR-50 | [the-promise-isnt-the-protection.html](../the-promise-isnt-the-protection.html) | The supplier promises to pay. Is the money there when needed? |
+| 599 | SUS-50 | [only-light-when-needed.html](../only-light-when-needed.html) | The shops are closed. Why are their signs still lit? |
+| 600 | HSP-50 | [one-ticket-two-entries.html](../one-ticket-two-entries.html) | One ticket. Can we promise a return? |

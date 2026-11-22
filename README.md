@@ -4,9 +4,9 @@ Short classroom cases with an opening decision, a second-round prompt, a debrief
 
 The [original roadmap](planning/collection-roadmap.md) records the first 120 cases. The approved [expansion plan to 240](planning/expansion-to-240.md) adds cases 11–20 in each area, in ten balanced waves with research and review gates. The next approved [expansion plan to 360](planning/expansion-to-360.md) adds cases 21–30 in each area. The approved [expansion plan to 480](planning/expansion-to-480.md) adds cases 31–40 in each area. Planned cases are not counted as published.
 
-The collection contains 579 cases. The fourth balanced wave started at 558 cases: 50 in Finance, 48 in Economics and 46 in each of the other ten areas. The [finance and economics extension](planning/finance-economics-extension-490.md) adds FIN-41–45 and ECO-41–45, alternating at permanent IDs 481–490, to the completed balanced 480-case collection. The five subsequent Finance cases, FIN-46–50, use permanent IDs 491–495. Planned cases are not counted as published.
+The collection contains 600 cases. The fifth balanced wave started at 579 cases: 50 in Finance, 49 in Economics and 48 in each of the other ten areas. The [finance and economics extension](planning/finance-economics-extension-490.md) adds FIN-41–45 and ECO-41–45, alternating at permanent IDs 481–490, to the completed balanced 480-case collection. The five subsequent Finance cases, FIN-46–50, use permanent IDs 491–495. Planned cases are not counted as published.
 
-Identity fixtures protect all 558 baseline permanent IDs, area codes and URLs. Earlier snapshots remain unchanged. The builder supports the first four balanced waves, through ID 579.
+Identity fixtures protect all 579 baseline permanent IDs, area codes and URLs. Earlier snapshots remain unchanged. The builder supports all five balanced waves, through ID 600.
 
 ## Acknowledgement
 
@@ -2316,3 +2316,87 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## HSP-48
 
 579. [When the rent moves with sales](rent-moves-with-sales.html)
+
+## ECO-50
+
+580. [The currency fell. Why didn’t the invoice?](the-currency-fell-the-invoice-didnt.html)
+
+## ACC-49
+
+581. [Ready to sell, or still in use?](ready-to-sell-or-still-in-use.html)
+
+## MKT-49
+
+582. [More tea sold. Did the tasting credit pay?](a-tasting-flight-for-whom.html)
+
+## OPS-49
+
+583. [The spare is in the repair queue](the-spare-is-in-the-repair-queue.html)
+
+## PPL-49
+
+584. [One shared job. How much time is really covered?](two-people-one-shared-role.html)
+
+## STR-49
+
+585. [Make the store brand, or face it?](make-the-store-brand-or-face-it.html)
+
+## ENT-49
+
+586. [The deposits arrived. What can we spend?](deposits-are-not-spendable.html)
+
+## IS-49
+
+587. [One string, two different instructions](one-string-two-instructions.html)
+
+## GVR-49
+
+588. [One request. Which pages can you release?](release-the-pages-you-can.html)
+
+## SUS-49
+
+589. [One tank, two jobs. How much space should stay empty?](one-tank-two-jobs.html)
+
+## HSP-49
+
+590. [The pass brought visitors. What did it pay?](the-pass-brought-whom.html)
+
+## ACC-50
+
+591. [When the lease loses a floor](when-the-lease-loses-a-room.html)
+
+## MKT-50
+
+592. [Only two left. Left where?](only-two-in-this-basket.html)
+
+## OPS-50
+
+593. [Full carts. Slow connections?](full-carts-slow-connections.html)
+
+## PPL-50
+
+594. [The team develops talent. Who gets credit when it moves?](the-team-that-trains-the-next-team.html)
+
+## STR-50
+
+595. [The part that opens the market](the-part-that-opens-the-market.html)
+
+## ENT-50
+
+596. [Five contracts. How many renewal decisions?](multiple-contracts-one-buyer.html)
+
+## IS-50
+
+597. [A form you can finish by keyboard](a-form-you-can-finish-by-keyboard.html)
+
+## GVR-50
+
+598. [The supplier promises to pay. Is the money there when needed?](the-promise-isnt-the-protection.html)
+
+## SUS-50
+
+599. [The shops are closed. Why are their signs still lit?](only-light-when-needed.html)
+
+## HSP-50
+
+600. [One ticket. Can we promise a return?](one-ticket-two-entries.html)

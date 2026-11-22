@@ -28,7 +28,13 @@ FOURTH_WAVE_CODES = ("ECO-49",) + tuple(
  for area in ("ACC","MKT","OPS","PPL","STR","ENT","IS","GVR","SUS","HSP")
 )
 
+FIFTH_WAVE_CODES = ("ECO-50",) + tuple(
+ f"{area}-{n}" for n in (49,50)
+ for area in ("ACC","MKT","OPS","PPL","STR","ENT","IS","GVR","SUS","HSP")
+)
+
 def slot_code(n):
+ if 580<=n<=600:return FIFTH_WAVE_CODES[n-580]
  if 559<=n<=579:return FOURTH_WAVE_CODES[n-559]
  if 538<=n<=558:return THIRD_WAVE_CODES[n-538]
  if 517<=n<=537:return SECOND_WAVE_CODES[n-517]
@@ -42,7 +48,8 @@ def ceiling(code,total):
  if total<=516:return 50 if code=='FIN' else 46 if code=='ECO' else 42
  if total<=537:return 50 if code=='FIN' else 47 if code=='ECO' else 44
  if total<=558:return 50 if code=='FIN' else 48 if code=='ECO' else 46
- return 50 if code=='FIN' else 49 if code=='ECO' else 48
+ if total<=579:return 50 if code=='FIN' else 49 if code=='ECO' else 48
+ return 50
 
 def validate_registry(data):
  assert data['schema_version']==1
@@ -50,7 +57,7 @@ def validate_registry(data):
  assert len(areas)==12 and [a['code'] for a in areas]==list(CODES)
  names=[a['name'] for a in areas];assert len(set(names))==12
  assert all(a.get('label','').strip() for a in areas)
- assert 120 <= len(cases) <= 579, 'Expected staged expansion from 120 to 579 cases'
+ assert 120 <= len(cases) <= 600, 'Expected staged expansion from 120 to 600 cases'
  assert all(type(c['legacy_id']) is int for c in cases), 'IDs must be integers'
  assert {c['legacy_id'] for c in cases}==set(range(1,len(cases)+1)), 'Permanent IDs must be contiguous'
  baseline=json.loads((ROOT/'tests/fixtures/original-case-identities.json').read_text())
@@ -105,6 +112,11 @@ def validate_registry(data):
  final558=json.loads((ROOT/'tests/fixtures/published-558-case-identities.json').read_text())
  assert len(final558)==558 and final558[:537]==final537, 'Identity snapshots disagree'
  for original in final558[537:]:
+  if original['legacy_id'] in current:
+   assert all(current[original['legacy_id']][key]==value for key,value in original.items()), 'Published identity changed: '+str(original['legacy_id'])
+ final579=json.loads((ROOT/'tests/fixtures/published-579-case-identities.json').read_text())
+ assert len(final579)==579 and final579[:558]==final558, 'Identity snapshots disagree'
+ for original in final579[558:]:
   if original['legacy_id'] in current:
    assert all(current[original['legacy_id']][key]==value for key,value in original.items()), 'Published identity changed: '+str(original['legacy_id'])
  for key in ('legacy_id','code','slug'):
