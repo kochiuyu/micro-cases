@@ -78,7 +78,7 @@ Productive hours are not sales dollars. Price changes or other business inputs c
 
 ## Instructor note
 
-The initial asset cost is agreed. Unlike Case 73’s acquisition-cost question, this decision concerns the pattern used to allocate that cost. Require a provisional method and calculation before revealing the technical assessment.
+The initial asset cost is agreed. Unlike ACC-07’s acquisition-cost question, this decision concerns the pattern used to allocate that cost. Require a provisional method and calculation before revealing the technical assessment.
 
 After the reveal, the hours method has positive support; do not present the two methods as freely interchangeable ways to choose profit. Ask students what evidence counters and assessments each contribute. The first report is still being prepared, so no opportunistic annual switching is involved.
 
