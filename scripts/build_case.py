@@ -205,7 +205,9 @@ def main(argv=None):
     if number>release.BASELINE:
         readme=r/"README.md"
         numbering=r/"docs/case-numbering.md"
-        snapshot=(f"The collection contains {number} cases. The third balanced wave started at 537 cases: 50 in Finance, 47 in Economics and 44 in each of the other ten areas."
+        snapshot=(f"The collection contains {number} cases. The fourth balanced wave started at 558 cases: 50 in Finance, 48 in Economics and 46 in each of the other ten areas."
+                  if number>release.FOURTH_BASELINE else
+                  f"The collection contains {number} cases. The third balanced wave started at 537 cases: 50 in Finance, 47 in Economics and 44 in each of the other ten areas."
                   if number>release.THIRD_BASELINE else
                   f"The collection contains {number} cases. The second balanced wave started at 516 cases: 50 in Finance, 46 in Economics and 42 in each of the other ten areas."
                   if number>release.SECOND_BASELINE else
@@ -213,7 +215,7 @@ def main(argv=None):
         outputs[readme], n=re.subn(r"The collection contains \d+ cases[.:][^\n]*?ten areas\.",snapshot,outputs[readme],count=1)
         require(n==1,"README collection snapshot marker missing")
         outputs[readme], n=re.subn(r"Identity fixtures protect [^\n]+",
-                                  f"Identity fixtures protect all 537 baseline permanent IDs, area codes and URLs. Earlier snapshots remain unchanged. The builder supports the first three balanced waves, through ID {limit}.",outputs[readme],count=1)
+                                  f"Identity fixtures protect all 558 baseline permanent IDs, area codes and URLs. Earlier snapshots remain unchanged. The builder supports the first four balanced waves, through ID {limit}.",outputs[readme],count=1)
         require(n==1,"README identity note marker missing")
         outputs[numbering], n=re.subn(r"Five further Finance cases (?:bring|brought) the collection to 495, with 50 in FIN, 45 in ECO and 40 in every other area\.",
                                      "Five further Finance cases brought the pre-wave collection to 495, with 50 in FIN, 45 in ECO and 40 in every other area.",outputs[numbering],count=1)
@@ -234,8 +236,8 @@ def main(argv=None):
     total=len(reg["cases"]);remaining=stage_limit-total
     ledger,n=re.subn(r"^\| \*\*Total\*\* \|.*$",f"| **Total** | **{total} published** | **{remaining} approved editorial slots** | **{remaining}** | |",ledger,count=1,flags=re.M);require(n==1,"Coverage total row missing")
     if number>release.BASELINE:
-        ordinal="third" if number>release.THIRD_BASELINE else "second" if number>release.SECOND_BASELINE else "first"
-        ledger,n=re.subn(r"(?m)^# Micro Cases in Business · Coverage and (?:targeted expansion|(?:first|second|third) balanced wave) to \d+$",
+        ordinal="fourth" if number>release.FOURTH_BASELINE else "third" if number>release.THIRD_BASELINE else "second" if number>release.SECOND_BASELINE else "first"
+        ledger,n=re.subn(r"(?m)^# Micro Cases in Business · Coverage and (?:targeted expansion|(?:first|second|third|fourth) balanced wave) to \d+$",
                          f"# Micro Cases in Business · Coverage and {ordinal} balanced wave to {stage_limit}",ledger,count=1)
         require(n==1,"Coverage heading marker missing")
     outputs[r/"planning/collection-roadmap.md"]=ledger

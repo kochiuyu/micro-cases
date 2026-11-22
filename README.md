@@ -4,9 +4,9 @@ Short classroom cases with an opening decision, a second-round prompt, a debrief
 
 The [original roadmap](planning/collection-roadmap.md) records the first 120 cases. The approved [expansion plan to 240](planning/expansion-to-240.md) adds cases 11–20 in each area, in ten balanced waves with research and review gates. The next approved [expansion plan to 360](planning/expansion-to-360.md) adds cases 21–30 in each area. The approved [expansion plan to 480](planning/expansion-to-480.md) adds cases 31–40 in each area. Planned cases are not counted as published.
 
-The collection contains 558 cases. The third balanced wave started at 537 cases: 50 in Finance, 47 in Economics and 44 in each of the other ten areas. The [finance and economics extension](planning/finance-economics-extension-490.md) adds FIN-41–45 and ECO-41–45, alternating at permanent IDs 481–490, to the completed balanced 480-case collection. The five subsequent Finance cases, FIN-46–50, use permanent IDs 491–495. Planned cases are not counted as published.
+The collection contains 579 cases. The fourth balanced wave started at 558 cases: 50 in Finance, 48 in Economics and 46 in each of the other ten areas. The [finance and economics extension](planning/finance-economics-extension-490.md) adds FIN-41–45 and ECO-41–45, alternating at permanent IDs 481–490, to the completed balanced 480-case collection. The five subsequent Finance cases, FIN-46–50, use permanent IDs 491–495. Planned cases are not counted as published.
 
-Identity fixtures protect all 537 baseline permanent IDs, area codes and URLs. Earlier snapshots remain unchanged. The builder supports the first three balanced waves, through ID 558.
+Identity fixtures protect all 558 baseline permanent IDs, area codes and URLs. Earlier snapshots remain unchanged. The builder supports the first four balanced waves, through ID 579.
 
 ## Acknowledgement
 
@@ -2232,3 +2232,87 @@ Use Teaching area, Business topic and Class time available together, or Reset fi
 ## HSP-46
 
 558. [One banquet. Which meals can we promise?](one-banquet-two-kitchen-promises.html)
+
+## ECO-49
+
+559. [Fewer letters, the same front doors](fewer-letters-same-front-doors.html)
+
+## ACC-47
+
+560. [Which business needs its own line?](which-business-needs-its-own-line.html)
+
+## MKT-47
+
+561. [A control area. Really out of reach?](a-holdout-across-the-street.html)
+
+## OPS-47
+
+562. [Can the relabelled parcel still make it?](can-the-relabelled-parcel-still-make-it.html)
+
+## PPL-47
+
+563. [Fifteen people told us why. Who did not answer?](why-people-who-left-answered.html)
+
+## STR-47
+
+564. [The patent ends. What is left?](the-patent-ends-what-is-left.html)
+
+## ENT-47
+
+565. [Who owns the tooling? Can it move?](who-owns-the-tooling.html)
+
+## IS-47
+
+566. [The server is cheaper. Is the bill?](the-server-is-cheaper-the-bill-is-not.html)
+
+## GVR-47
+
+567. [Small gifts. One business relationship?](small-gifts-one-business-relationship.html)
+
+## SUS-47
+
+568. [A commuter pass. Did it replace a drive?](the-pass-did-it-replace-the-drive.html)
+
+## HSP-47
+
+569. [Two languages. One guide?](two-languages-one-guide.html)
+
+## ACC-48
+
+570. [The branches agree. Do the records?](the-branches-agree-but-do-the-records.html)
+
+## MKT-48
+
+571. [Fast dispatch. Here by which day?](fast-enough-for-when.html)
+
+## OPS-48
+
+572. [One night: which work belongs together?](one-night-which-work-belongs-together.html)
+
+## PPL-48
+
+573. [The AI drafted it. Who has time to check it?](review-time-is-part-of-the-job.html)
+
+## STR-48
+
+574. [Whose visit pays for the shop?](whose-visit-pays-for-the-shop.html)
+
+## ENT-48
+
+575. [One payment. How much support follows?](one-payment-years-of-support.html)
+
+## IS-48
+
+576. [Two dashboards. How many independent routes?](two-dashboards-one-upstream.html)
+
+## GVR-48
+
+577. [The source withdrew the number. What can we still publish?](the-source-withdrew-the-number.html)
+
+## SUS-48
+
+578. [A battery still has capacity. Can it be reused?](battery-capacity-is-not-a-routing-pass.html)
+
+## HSP-48
+
+579. [When the rent moves with sales](rent-moves-with-sales.html)

@@ -14,6 +14,8 @@ SECOND_BASELINE = 516
 SECOND_BASELINE_COMMIT = "9beed46db5e049854a3535e18db4ccc4dfa3e7dd"
 THIRD_BASELINE = 537
 THIRD_BASELINE_COMMIT = "d503315e1850824538d8e9841434346cb9c127c4"
+FOURTH_BASELINE = 558
+FOURTH_BASELINE_COMMIT = "bedf42559ab92b394d67cc9ea07f627165a62bc6"
 MIXED_ORDER = ("ACC","MKT","OPS","PPL","STR","ENT","IS","GVR","SUS","HSP")
 
 def load_wave(root, wave=1, initial_caps=None):
@@ -30,9 +32,14 @@ def load_wave(root, wave=1, initial_caps=None):
         if initial_caps is None:
             _, initial_caps = load_wave(root, 2)
         caps = initial_caps
+    elif wave == 4:
+        baseline, commit, eco = FOURTH_BASELINE, FOURTH_BASELINE_COMMIT, "ECO-49"
+        if initial_caps is None:
+            _, initial_caps = load_wave(root, 3)
+        caps = initial_caps
     else:
         raise ValueError("Unsupported wave")
-    label = {1:"first-wave",2:"second-wave",3:"third-wave"}[wave]
+    label = {1:"first-wave",2:"second-wave",3:"third-wave",4:"fourth-wave"}[wave]
     path = root / "planning" / f"wave-{wave}-slots.json"
     try:
         d = json.loads(path.read_text(encoding="utf-8"))
@@ -65,7 +72,7 @@ def load_wave(root, wave=1, initial_caps=None):
         counts[area] += 1
     if order[baseline + 1] != eco or any(counts[k] != (0 if k == "FIN" else 1 if k == "ECO" else 2) for k in ceilings):
         raise ValueError(f"{label} must start with {eco} and preserve its approved area balance")
-    if wave in (2, 3) and tuple(code.split("-")[0] for code in tuple(order.values())[1:]) != MIXED_ORDER * 2:
+    if wave in (2, 3, 4) and tuple(code.split("-")[0] for code in tuple(order.values())[1:]) != MIXED_ORDER * 2:
         raise ValueError(f"Unexpected {label} slot order")
     return order, ceilings
 
@@ -74,13 +81,16 @@ def load_release(root, number):
     first, first_caps = load_wave(root)
     second, second_caps = load_wave(root, 2, first_caps)
     third, third_caps = load_wave(root, 3, second_caps)
+    fourth, fourth_caps = load_wave(root, 4, third_caps)
     if number <= BASELINE:
-        return {}, BASELINE_CAPS, BASELINE, max(third)
+        return {}, BASELINE_CAPS, BASELINE, max(fourth)
     if number <= SECOND_BASELINE:
-        return first, first_caps, max(first), max(third)
+        return first, first_caps, max(first), max(fourth)
     if number <= THIRD_BASELINE:
-        return second, second_caps, max(second), max(third)
-    return third, third_caps, max(third), max(third)
+        return second, second_caps, max(second), max(fourth)
+    if number <= FOURTH_BASELINE:
+        return third, third_caps, max(third), max(fourth)
+    return fourth, fourth_caps, max(fourth), max(fourth)
 
 def historical_slot(number):
     """Keep the pre-wave approved mappings for existing builder fixtures."""

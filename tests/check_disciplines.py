@@ -253,10 +253,10 @@ def check(root=ROOT):
         bad['cards'][0]['text']=malformed
         result=run_browse(bad)
         assert result.returncode!=0 and 'Malformed browse text fragments' in result.stderr
-    for target in (121, 240, 241, 360, 361, 480, 481, 490, 491, 493, 495, 496, 516, 517, 537, 538, 558):
+    for target in (121, 240, 241, 360, 361, 480, 481, 490, 491, 493, 495, 496, 516, 517, 537, 538, 558, 559, 579):
         result=run_browse(staged_fixture(payload, registry, target))
         assert result.returncode==0, result.stdout+result.stderr
-    print('PASS: staged 121/240/241/360/361/480/481/490/491/493/495/496/516/517/537/538/558-card browse flows; malformed text fixtures rejected.')
+    print('PASS: staged 121/240/241/360/361/480/481/490/491/493/495/496/516/517/537/538/558/559/579-card browse flows; malformed text fixtures rejected.')
     print(f'PASS: {len(p.cards)} cards match all 12 ledger areas, visible labels and selectors; mutations rejected.')
 
 

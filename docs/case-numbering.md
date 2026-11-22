@@ -600,3 +600,24 @@ Cases are displayed by teaching area and two-digit sequence, for example `ACC-01
 | 556 | GVR-46 | [the-reserve-is-not-free-cash.html](../the-reserve-is-not-free-cash.html) | The reserve is not free cash |
 | 557 | SUS-46 | [less-on-the-plate-less-in-the-bin.html](../less-on-the-plate-less-in-the-bin.html) | Less on the plate. Less in the bin? |
 | 558 | HSP-46 | [one-banquet-two-kitchen-promises.html](../one-banquet-two-kitchen-promises.html) | One banquet. Which meals can we promise? |
+| 559 | ECO-49 | [fewer-letters-same-front-doors.html](../fewer-letters-same-front-doors.html) | Fewer letters, the same front doors |
+| 560 | ACC-47 | [which-business-needs-its-own-line.html](../which-business-needs-its-own-line.html) | Which business needs its own line? |
+| 561 | MKT-47 | [a-holdout-across-the-street.html](../a-holdout-across-the-street.html) | A control area. Really out of reach? |
+| 562 | OPS-47 | [can-the-relabelled-parcel-still-make-it.html](../can-the-relabelled-parcel-still-make-it.html) | Can the relabelled parcel still make it? |
+| 563 | PPL-47 | [why-people-who-left-answered.html](../why-people-who-left-answered.html) | Fifteen people told us why. Who did not answer? |
+| 564 | STR-47 | [the-patent-ends-what-is-left.html](../the-patent-ends-what-is-left.html) | The patent ends. What is left? |
+| 565 | ENT-47 | [who-owns-the-tooling.html](../who-owns-the-tooling.html) | Who owns the tooling? Can it move? |
+| 566 | IS-47 | [the-server-is-cheaper-the-bill-is-not.html](../the-server-is-cheaper-the-bill-is-not.html) | The server is cheaper. Is the bill? |
+| 567 | GVR-47 | [small-gifts-one-business-relationship.html](../small-gifts-one-business-relationship.html) | Small gifts. One business relationship? |
+| 568 | SUS-47 | [the-pass-did-it-replace-the-drive.html](../the-pass-did-it-replace-the-drive.html) | A commuter pass. Did it replace a drive? |
+| 569 | HSP-47 | [two-languages-one-guide.html](../two-languages-one-guide.html) | Two languages. One guide? |
+| 570 | ACC-48 | [the-branches-agree-but-do-the-records.html](../the-branches-agree-but-do-the-records.html) | The branches agree. Do the records? |
+| 571 | MKT-48 | [fast-enough-for-when.html](../fast-enough-for-when.html) | Fast dispatch. Here by which day? |
+| 572 | OPS-48 | [one-night-which-work-belongs-together.html](../one-night-which-work-belongs-together.html) | One night: which work belongs together? |
+| 573 | PPL-48 | [review-time-is-part-of-the-job.html](../review-time-is-part-of-the-job.html) | The AI drafted it. Who has time to check it? |
+| 574 | STR-48 | [whose-visit-pays-for-the-shop.html](../whose-visit-pays-for-the-shop.html) | Whose visit pays for the shop? |
+| 575 | ENT-48 | [one-payment-years-of-support.html](../one-payment-years-of-support.html) | One payment. How much support follows? |
+| 576 | IS-48 | [two-dashboards-one-upstream.html](../two-dashboards-one-upstream.html) | Two dashboards. How many independent routes? |
+| 577 | GVR-48 | [the-source-withdrew-the-number.html](../the-source-withdrew-the-number.html) | The source withdrew the number. What can we still publish? |
+| 578 | SUS-48 | [battery-capacity-is-not-a-routing-pass.html](../battery-capacity-is-not-a-routing-pass.html) | A battery still has capacity. Can it be reused? |
+| 579 | HSP-48 | [rent-moves-with-sales.html](../rent-moves-with-sales.html) | When the rent moves with sales |

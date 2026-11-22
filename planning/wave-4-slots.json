@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "wave": 4,
+  "status": "private-technical-sequence",
+  "baseline_commit": "bedf42559ab92b394d67cc9ea07f627165a62bc6",
+  "baseline_count": 558,
+  "target_count": 579,
+  "slots": [
+    {
+      "legacy_id": 559,
+      "code": "ECO-49"
+    },
+    {
+      "legacy_id": 560,
+      "code": "ACC-47"
+    },
+    {
+      "legacy_id": 561,
+      "code": "MKT-47"
+    },
+    {
+      "legacy_id": 562,
+      "code": "OPS-47"
+    },
+    {
+      "legacy_id": 563,
+      "code": "PPL-47"
+    },
+    {
+      "legacy_id": 564,
+      "code": "STR-47"
+    },
+    {
+      "legacy_id": 565,
+      "code": "ENT-47"
+    },
+    {
+      "legacy_id": 566,
+      "code": "IS-47"
+    },
+    {
+      "legacy_id": 567,
+      "code": "GVR-47"
+    },
+    {
+      "legacy_id": 568,
+      "code": "SUS-47"
+    },
+    {
+      "legacy_id": 569,
+      "code": "HSP-47"
+    },
+    {
+      "legacy_id": 570,
+      "code": "ACC-48"
+    },
+    {
+      "legacy_id": 571,
+      "code": "MKT-48"
+    },
+    {
+      "legacy_id": 572,
+      "code": "OPS-48"
+    },
+    {
+      "legacy_id": 573,
+      "code": "PPL-48"
+    },
+    {
+      "legacy_id": 574,
+      "code": "STR-48"
+    },
+    {
+      "legacy_id": 575,
+      "code": "ENT-48"
+    },
+    {
+      "legacy_id": 576,
+      "code": "IS-48"
+    },
+    {
+      "legacy_id": 577,
+      "code": "GVR-48"
+    },
+    {
+      "legacy_id": 578,
+      "code": "SUS-48"
+    },
+    {
+      "legacy_id": 579,
+      "code": "HSP-48"
+    }
+  ]
+}
