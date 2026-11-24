@@ -50,3 +50,6 @@ Official names checked against the publishing body:
 - FIN-11’s title “payment” is the loan instalment, 还款 / 還款. “Less certain” stays 更不确定 / 更不確定. It is not rewritten as a question about greater stability.
 - FIN-15’s Base Rate is 基本利率. Discount Window is 贴现窗 / 貼現窗, in the HKMA source sense, not as a retail product. The 8% is introduced as a cost of capital and used as a screen; those are not collapsed into one word.
 - FIN-17 leaves FIT Hon Teng in Latin. The filing has a Chinese form on HKEX; this translation does not guess it. “Actual” in that covenant test means the test has occurred, 真实发生 / 真正發生, not the purchasing-power word 实际 / 實質.
+- FIN-20’s facility “duration” is how long the line lasts, 期限. It is not FIN-21’s bond duration, 久期 / 存續期.
+- FIN-25’s source-note “premium 2,000” is the extra letter-of-credit cost, 多出的成本, not an insurance premium. Open account is 赊账 / 記帳.
+- FIN-26’s “actual” cash is spending that occurs, 实际 / 實際. It is not the inflation contrast 实质 / 實質.
