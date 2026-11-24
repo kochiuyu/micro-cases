@@ -38,3 +38,5 @@ Legacy numbers kept as printed: Case 38 on FIN-04, Case 50 on FIN-05, and the in
 - FIN-03’s “profit” is incremental contribution before tax and finance. Negative cash is an unfunded requirement, not an actual overdraft.
 - FIN-08 mixes “modeled” and “modelled”.
 - FIN-10’s source note says “Phase 1 is complete and useful alone”. That means the phase is a self-contained service, not that the phase has already been finished.
+
+FIN-11–FIN-50 continues in [finance-11-50-glossary.md](finance-11-50-glossary.md). Terms fixed above stay in force. FIN-28 does not reuse 基礎風險 for commodity basis.
