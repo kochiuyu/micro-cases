@@ -142,8 +142,11 @@ def check(root=ROOT):
 
     only_cn = (root / 'zh-cn' / 'only-once.html').read_text(encoding='utf-8')
     only_hk = (root / 'zh-hk' / 'only-once.html').read_text(encoding='utf-8')
-    assert 'href="../lower-rate-less-certainty.html"' in only_cn
-    assert 'A lower rate. A less certain payment?' in only_cn
+    assert 'href="lower-rate-less-certainty.html"' in only_cn
+    assert 'href="lower-rate-less-certainty.html"' in only_hk
+    assert 'href="../lower-rate-less-certainty.html"' not in only_cn
+    assert '更低的利率，更不确定的还款？' in only_cn
+    assert '更低的利率，更不確定的還款？' in only_hk
     assert '第一期已经完成' not in only_cn and '第一期已經完成' not in only_hk
     assert '单独就有用' in only_cn and '單獨已經有用' in only_hk
     assert '60万港元' in only_cn and '60萬港元' in only_hk

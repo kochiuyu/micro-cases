@@ -1,11 +1,12 @@
-"""Build Simplified and Traditional pages for FIN-01–FIN-10.
+"""Build Simplified and Traditional pages for finance cases.
 
 Reads authoring/i18n/<slug>-zh-cn.json and <slug>-zh-hk.json. English teaching
 text stays authoritative. This script does not publish, commit or touch
 Accounting pages.
 
-Default is a dry run. Pass --write to update the ten English finance pages
-and write zh-cn/ and zh-hk/ pages.
+Default is a dry run of FIN-11–FIN-50. Pass --write to update those English
+pages and write zh-cn/ and zh-hk/ pages. Pass --slugs to build a subset,
+including an approved FIN-01–FIN-10 slug when a navigation link must be rebuilt.
 """
 import argparse
 import hashlib
@@ -15,18 +16,78 @@ from html.parser import HTMLParser
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-SLUGS = [
+APPROVED = [
     'match', 'minibus', 'cash-flow', 'invoice-exposure', 'same-gap',
     'smaller-payments', 'sooner-than-what', 'back-sooner',
     'protected-and-available', 'only-once',
 ]
+REMAINING = [
+    'lower-rate-less-certainty', 'rent-and-exit', 'cash-before-risk',
+    'same-money-same-rate', 'one-company-one-hurdle', 'cash-moves-together',
+    'cheaper-credit-tighter-promise', 'cash-on-the-day-it-is-needed',
+    'best-project-best-package', 'good-year-distributable-surplus',
+    'same-yield-different-duration', 'pay-for-time-to-decide',
+    'unpriced-not-ownership-free', 'lower-premium-repeated-deductible',
+    'shipment-complete-documents-complying', 'cash-flows-continue-ending-worth',
+    'credit-limit-available-draw', 'hedge-moves-delivered-cost',
+    'same-ownership-different-exit', 'interest-paid-principal-due',
+    'higher-percentage-more-value', 'more-return-more-equity-risk',
+    'business-price-share-price', 'guaranteed-loan-future-cash',
+    'cheaper-forward-flexible-protection', 'cheaper-machine-service-years',
+    'monthly-reserve-later-start', 'faster-payment-more-stock',
+    'early-repayment-after-which-fee', 'same-payout-different-shareholders',
+    'protection-when-the-portfolio-falls', 'a-buy-order-a-higher-quote',
+    'customer-paid-can-we-make-payroll', 'the-peg-holds-which-rate-resets',
+    'same-forecast-dearer-option', 'which-share-would-you-sell',
+    'who-gets-the-lending-subsidy', 'who-funds-the-rescue-investment',
+    'tougher-loan-collect-less', 'big-ipo-allocation-good-news',
+]
+SLUGS = APPROVED + REMAINING
 CODES = {
     'match': 'FIN-01', 'minibus': 'FIN-02', 'cash-flow': 'FIN-03',
     'invoice-exposure': 'FIN-04', 'same-gap': 'FIN-05',
     'smaller-payments': 'FIN-06', 'sooner-than-what': 'FIN-07',
     'back-sooner': 'FIN-08', 'protected-and-available': 'FIN-09',
     'only-once': 'FIN-10',
+    'lower-rate-less-certainty': 'FIN-11', 'rent-and-exit': 'FIN-12',
+    'cash-before-risk': 'FIN-13', 'same-money-same-rate': 'FIN-14',
+    'one-company-one-hurdle': 'FIN-15', 'cash-moves-together': 'FIN-16',
+    'cheaper-credit-tighter-promise': 'FIN-17',
+    'cash-on-the-day-it-is-needed': 'FIN-18',
+    'best-project-best-package': 'FIN-19',
+    'good-year-distributable-surplus': 'FIN-20',
+    'same-yield-different-duration': 'FIN-21',
+    'pay-for-time-to-decide': 'FIN-22',
+    'unpriced-not-ownership-free': 'FIN-23',
+    'lower-premium-repeated-deductible': 'FIN-24',
+    'shipment-complete-documents-complying': 'FIN-25',
+    'cash-flows-continue-ending-worth': 'FIN-26',
+    'credit-limit-available-draw': 'FIN-27',
+    'hedge-moves-delivered-cost': 'FIN-28',
+    'same-ownership-different-exit': 'FIN-29',
+    'interest-paid-principal-due': 'FIN-30',
+    'higher-percentage-more-value': 'FIN-31',
+    'more-return-more-equity-risk': 'FIN-32',
+    'business-price-share-price': 'FIN-33',
+    'guaranteed-loan-future-cash': 'FIN-34',
+    'cheaper-forward-flexible-protection': 'FIN-35',
+    'cheaper-machine-service-years': 'FIN-36',
+    'monthly-reserve-later-start': 'FIN-37',
+    'faster-payment-more-stock': 'FIN-38',
+    'early-repayment-after-which-fee': 'FIN-39',
+    'same-payout-different-shareholders': 'FIN-40',
+    'protection-when-the-portfolio-falls': 'FIN-41',
+    'a-buy-order-a-higher-quote': 'FIN-42',
+    'customer-paid-can-we-make-payroll': 'FIN-43',
+    'the-peg-holds-which-rate-resets': 'FIN-44',
+    'same-forecast-dearer-option': 'FIN-45',
+    'which-share-would-you-sell': 'FIN-46',
+    'who-gets-the-lending-subsidy': 'FIN-47',
+    'who-funds-the-rescue-investment': 'FIN-48',
+    'tougher-loan-collect-less': 'FIN-49',
+    'big-ipo-allocation-good-news': 'FIN-50',
 }
+LOCALIZED = set(SLUGS)
 SITE = 'https://kochiuyu.github.io/micro-cases'
 UI_STYLE = (
     '<style data-accounting-language-ui>.accounting-languages{display:flex;flex-wrap:wrap;'
@@ -94,6 +155,23 @@ class Collect(HTMLParser):
         self.buf += data
         if self.in_a:
             self.abuf += data
+
+    def handle_entityref(self, name):
+        # Keep the source spelling. Otherwise 13.5 &lt; x &lt; 18 loses its inequality.
+        token = f'&{name};'
+        if self.skip:
+            return
+        self.buf += token
+        if self.in_a:
+            self.abuf += token
+
+    def handle_charref(self, name):
+        token = f'&#{name};'
+        if self.skip:
+            return
+        self.buf += token
+        if self.in_a:
+            self.abuf += token
 
     def flush(self):
         if self.buf.strip():
@@ -260,13 +338,21 @@ def relocate(html, slug):
     html = html.replace(f'src="{slug}-scene.jpg"', f'src="../{slug}-scene.jpg"')
     # Present stores the same markup inside a JSON string, so the quotes are escaped.
     html = html.replace(f'src=\\"{slug}-scene.jpg\\"', f'src=\\"../{slug}-scene.jpg\\"')
-    html = html.replace('href="index.html', 'href="../index.html')
-    html = html.replace('href="snow-town.html"', 'href="../snow-town.html"')
-    html = html.replace(
-        'href="lower-rate-less-certainty.html"',
-        'href="../lower-rate-less-certainty.html"',
-    )
-    return html
+
+    def lift(match):
+        href = match.group(1)
+        # External and already-rooted links stay as written. Only a sibling
+        # page that has no language version moves up to the site root.
+        if '://' in href or href.startswith(('//', '/', '../', '#')):
+            return match.group(0)
+        path = href.split('?', 1)[0].split('#', 1)[0]
+        if path.endswith('.html'):
+            name = path[:-5]
+            if name not in LOCALIZED:
+                return f'href="../{href}"'
+        return match.group(0)
+
+    return re.sub(r'href="([^"]+)"', lift, html)
 
 
 def translate_print_heading(html, mapping):
@@ -299,8 +385,13 @@ def uncovered(english, mapping):
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--write', action='store_true')
+    parser.add_argument('--slugs', nargs='*', help='Build only these slugs. Default: FIN-11–FIN-50.')
     args = parser.parse_args()
-    for slug in SLUGS:
+    chosen = args.slugs or REMAINING
+    unknown = [slug for slug in chosen if slug not in CODES]
+    if unknown:
+        raise SystemExit(f'Unknown finance slug: {unknown}')
+    for slug in chosen:
         english_path = ROOT / f'{slug}.html'
         english = english_path.read_text(encoding='utf-8')
         # Build from the teaching page, ignoring a language switch already inserted.
