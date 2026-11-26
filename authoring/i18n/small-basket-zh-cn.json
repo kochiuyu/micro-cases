@@ -32,7 +32,7 @@
     "Compare the shop-wide contribution under each proposed range, including the common new-product trial. Do not select by unit volume alone, or assume every slow seller deserves permanent protection.": "比较两种商品组合对全店贡献的影响，两个方案都要计入同一个新货试卖。不要只按销量取舍，也不要认为每款滞销品都应永久保留。",
     "Separate substitution from basket loss": "分清替代购买与购物篮流失",
     "Substitution:": "替代购买：",
-    "some customers buy a remaining product instead. That can recover some sales, but depends on what customers accept and the replacement item’s contribution.": "有些顾客会转买店内仍有售的商品，这可能挽回部分销售，视乎顾客是否接受替代品，以及替代品有多少贡献。",
+    "some customers buy a remaining product instead. That can recover some sales, but depends on what customers accept and the replacement item’s contribution.": "有些顾客会转买店内仍有售的商品，这可能挽回部分销售，取决于顾客是否接受替代品，以及替代品有多少贡献。",
     "Basket effect:": "购物篮效应：",
     "an unavailable item changes purchases of other items, or the decision to shop here at all. The 16 linked receipts flag a question; they do not prove that removing refills loses 16 entire baskets.": "买不到一款商品，可能改变顾客对其他货品的购买，甚至令他决定不来本店。那 16 张一起购买的收据只提出一个待查问题，不能证明撤走笔芯便会流失 16 个完整购物篮。",
     "Do not multiply all associated purchases by an assumed loss rate of 100%. The case supplies neither causal loss rates nor the other items’ contribution, so it cannot identify a numerical winner.": "不能把所有关联购买都当成 100% 流失。题目既未提供因下架引起的流失比率，也没有同篮其他商品的贡献，因而无法算出哪个方案胜出。",
@@ -95,6 +95,6 @@
     "Your second decision": "你的第二次决定",
     "MKT-05 · A slow seller. An important basket? · Micro Cases": "MKT-05 · 卖得慢的商品，可能是整篮购物的关键吗？ · 商学微案例",
     "More days to return it, or less trouble?": "退货期限长一点，还是手续简单一点？",
-    "More contacts. More customers?": "联络名单更长，客户就会更多吗？"
+    "More contacts. More customers?": "联系名单更长，客户就会更多吗？"
   }
 }
