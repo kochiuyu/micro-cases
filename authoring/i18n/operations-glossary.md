@@ -107,5 +107,7 @@ Official and established names:
 
 - McGriddles (OPS-01), Bargain Corner (OPS-15) and DHL’s Central Asia Hub (OPS-19) are left in Latin script; no Hong Kong Chinese brand name was verified in this pilot.
 - IKEA is 宜家傢俬 in Hong Kong but 宜家家居 on the mainland.
-- OPS-39 and OPS-12 source notes contain run-together English in the source (e.g. “S checks6 plus duplicate entry2=touch8”, “IBMdocumentation403notused”). The Chinese keeps every figure but the English source should be repaired before publication.
+- OPS-39 and OPS-12 source notes were repaired in the English pages and authoring files: spacing and punctuation only. For example, “S checks6 plus duplicate entry2=touch8” is now “S checks 6 plus duplicate entry 2 = touch 8”, and “IBMdocumentation403notused” is now “IBM documentation 403 not used”. The Chinese notes already used separated figures, so their wording was not rewritten.
+- zh-cn classroom debrief headings use 讲评, the same marker as the Finance zh-cn pages. 复盘 remains only where the English means a stock recount or a recall review, not the classroom debrief.
 - OPS-49’s “expected shortfall” and FIN-01’s “expected shortfall” are different quantities; neither is the risk measure.
+- zh-hk debrief headings are not all `講評 ·`, which is the Finance zh-hk marker. Variants left as drafted: `課堂講評` (OPS-01), `課後討論` (OPS-02, OPS-24), `討論總結` (OPS-18, OPS-36), `課後分析` (OPS-35), `講解` (OPS-31, OPS-37, OPS-40, OPS-43, OPS-44, OPS-45) and `解說` (OPS-46). The other OPS zh-hk debrief headings already use `講評`.
