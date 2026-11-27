@@ -365,6 +365,19 @@ def translate_print_heading(html, mapping):
     return html.replace(old, new, 1)
 
 
+def polish_fin31_choice_spacing(page, slug, locale):
+    """FIN-31 zh-cn: Choose is one shared English token beside two letters.
+
+    The mapper cannot drop the template spaces, or give the second-round
+    sentence its own wording, without changing the English page.
+    """
+    if locale != 'zh-cn' or slug != 'higher-percentage-more-value':
+        return page
+    page = page.replace('选择 <strong>L</strong> ，', '选择<strong>L</strong>，')
+    page = page.replace('选择 <strong>S</strong> 。', '第二轮应选<strong>S</strong>。')
+    return page
+
+
 def polish_crossed_tokens(page, slug, locale):
     """Rewrite one FIN-11 total the mapper cannot change on its own.
 
@@ -390,6 +403,7 @@ def build_locale(english, slug, locale, mapping):
     page = relocate(page, slug)
     page = insert_language_ui(page, slug, locale)
     page = polish_crossed_tokens(page, slug, locale)
+    page = polish_fin31_choice_spacing(page, slug, locale)
     return page
 
 

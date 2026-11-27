@@ -39,13 +39,13 @@ Official names checked against the publishing body:
 
 - FIN-28’s “basis risk” is the commodity reference-versus-delivered gap. FIN-05 used the same English words for an insurance trigger. The Chinese names now differ on purpose.
 - FIN-44 says “HIBOR + 1 point”. That is translated as one percentage point, not one basis point.
-- FIN-35’s euro call is a fictional cash-settled contract, not an HKEX-listed equity option. It still uses 认购期权 / 認購期權 so it stays distinct from the forward, 远期合约 / 遠期合約.
+- FIN-35’s euro call is a fictional cash-settled contract, not an HKEX-listed equity option. It still uses 认购期权 / 認購期權 so it stays distinct from the forward, 远期合约 / 遠期合約. The simplified page calls the premium 期权费; Hong Kong keeps 期權金.
 - FIN-41 says the forecast was “too strong”, then says the portfolio can fall short even when the index rises. That is read as 过于乐观 / 過於樂觀, not as a stronger index move.
 - FIN-41’s column heading “Security” is the traded instrument, 证券 / 證券, not collateral.
 - FIN-21’s duration is the classroom approximation supplied on the page. 久期 and 存續期 name that measure; they do not add convexity.
 - Where a case says “about” or “rounded”, the Chinese keeps the hedge and the displayed figure. It does not replace the figure with a recalculation.
 - FIN-30’s “nominal interest” is the undiscounted cash total of interest, 名义利息 / 名義利息. It is not the inflation contrast. The balloon is 期末整付本金: interest during the term, the whole principal at the end. The English does not say OCC, so the Chinese does not add it.
-- FIN-33’s enterprise-value headline, 企业价值标题金额 / 企業價值標題金額, is not the cash the founder receives for the shares, 股份价款 / 股份價格. Earnout is 或有对价 / 或有對價. Escrow holdback is 托管暂扣 / 第三方保管暫扣.
+- FIN-33’s enterprise-value headline, 企业价值报价 / 企業價值標題金額, is not the cash the founder receives for the shares, 股份价款 / 股份價格. Simplified amounts on that page use 万 (1,000万港元 for HK$10 million). Hong Kong keeps 百萬 and 標題金額. Earnout is 或有对价 / 或有對價. Escrow holdback is 托管暂扣 / 第三方保管暫扣.
 - FIN-27’s borrowing base is 借款基数 / 借款基數, and the advance rate is 预支比率 / 預支比率. A credit limit is not the amount that can be drawn today.
 - FIN-11’s title “payment” is the loan instalment, 还款 / 還款. “Less certain” stays 更不确定 / 更不確定. It is not rewritten as a question about greater stability.
 - FIN-15’s Base Rate is 基本利率. Discount Window is 贴现窗 / 貼現窗, in the HKMA source sense, not as a retail product. The 8% is introduced as a cost of capital and used as a screen; those are not collapsed into one word.

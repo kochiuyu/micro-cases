@@ -54,8 +54,9 @@ def numbers(text):
     # 期初（第0年） names time zero. English says “time zero”, so this digit is a label.
     # A bare 第0年 still counts: it translates “year 0”.
     text = re.sub(r'期初（第0年）', '期初', text)
-    # 200万 / 160万 restates 2 million / 1.6 million. FIN-11–50 does not
-    # otherwise write an amount with 万/萬, so this fold is not another figure.
+    # 200万 / 160万 restates 2 million / 1.6 million. FIN-33 writes the same
+    # amounts as 万 (1,000万 for 10 million and for 10.0m). Trailing zeros are
+    # not a second figure, so 10.0 and 10 compare as one value.
     def fold_wan(match):
         million = Decimal(match.group(1).replace(',', '')) / Decimal(100)
         rendered = format(million, 'f')
@@ -63,7 +64,12 @@ def numbers(text):
             rendered = rendered.rstrip('0').rstrip('.')
         return rendered
     text = re.sub(r'(\d+(?:,\d{3})*(?:\.\d+)?)(?:万|萬)', fold_wan, text)
-    return NUMBER.findall(text)
+
+    def canon(token):
+        if '.' in token:
+            token = token.rstrip('0').rstrip('.')
+        return token
+    return [canon(token) for token in NUMBER.findall(text)]
 
 
 def debrief_at(rounds):
