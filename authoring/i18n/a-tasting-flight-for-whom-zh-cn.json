@@ -19,21 +19,21 @@
     "Full packs bought": "售出的正装包数",
     "Would you extend the credit on these first-week numbers? Calculate the full-pack contribution for each offer and the minimum C sales needed to match or beat F at the same credit.": "单看首周的结果，你会延续抵扣吗？先算出两组正装销售各带来多少边际贡献，再算出抵扣金额不变时，C 组至少要卖出多少包才能追平或超过 F 组。",
     "During the following week, eight more F visitors and three more C visitors buy their first full pack. No credit is valid then; each late pack earns HK$42. There are no remaining commitments. The shop still does not know which individual purchases were newly created or brought forward.": "到了第二周，F 组再有 8 人、C 组再有 3 人首次买正装。抵扣已过期，这时每包的边际贡献均为 HK$42，店方再无未履行的承诺。不过，店方仍无法分辨哪位顾客是因优惠才购买，哪位只是提早购买。",
-    "The tea flight remains available at HK$20 either way. The owner can run another approved test with a lower credit. The next pilot would predefine a longer measurement window and keep flight access, buying terms and customer privacy the same.": "无论采用哪个方案，试饮仍售 HK$20。店主可以另行获得批准测试较低的抵扣额。下一轮应事先订明较长的观察期，维持同样的试饮安排、购买条款和隐私保障。",
+    "The tea flight remains available at HK$20 either way. The owner can run another approved test with a lower credit. The next pilot would predefine a longer measurement window and keep flight access, buying terms and customer privacy the same.": "无论采用哪个方案，试饮仍售 HK$20。店主可以另行获得批准测试较低的抵扣额。下一轮应事先明确较长的观察期，维持同样的试饮安排、购买条款和隐私保障。",
     "Which offer would you carry forward now? Calculate two-week contribution including the tastings, and explain what can and cannot be inferred from the extra seven packs.": "现在你会保留哪个方案？请计算两周的总边际贡献，把试饮也算进去，再说明多卖 7 包能支持什么结论、不能支持什么结论。",
     "Debrief · Redemption is a cost on every credited pack": "讲评 · 每包使用抵扣的货品都要扣除优惠",
     "F earns 38 × HK$42 = HK$1,596 from packs in week one; C earns 50 × (HK$42 − HK$16) = HK$1,300. C would need 62 credited sales to at least match F: 61 × HK$26 is HK$1,586, while 62 × HK$26 is HK$1,612. Identical tasting contribution cancels in the comparison.": "首周正装的边际贡献：F 组为 38 × HK$42 = HK$1,596；C 组为 50 ×（HK$42 − HK$16）= HK$1,300。C 组最少要卖 62 包使用抵扣的正装才追得上 F 组：61 × HK$26 只有 HK$1,586，62 × HK$26 则有 HK$1,612。两组的试饮贡献相同，比较时可相互抵销。",
     "Debrief · Check the time window": "讲评 · 观察期有多长？",
     "Each arm earns 100 × (HK$20 − HK$14) = HK$600 from tastings. F earns HK$1,596 + HK$336 + HK$600 = HK$2,532. C earns HK$1,300 + HK$126 + HK$600 = HK$2,026, HK$506 less. Its first-week advantage of twelve packs becomes seven over two weeks: 53 versus 46.": "两组各从试饮取得 100 ×（HK$20 − HK$14）= HK$600 的边际贡献。两周合计，F 组为 HK$1,596 + HK$336 + HK$600 = HK$2,532；C 组为 HK$1,300 + HK$126 + HK$600 = HK$2,026，少 HK$506。C 组首周多卖 12 包，两周后优势收窄至 7 包，即 53 包对 46 包。",
     "Debrief · Keep the flight; test the credit": "讲评 · 保留试饮，另试抵扣",
-    "Prefer F on these figures. Some of the difference may be purchase timing, but aggregate counts cannot prove which individual would have bought without a credit or what happens after two weeks. For a smaller-credit test, count all visitors assigned, purchases in both periods and contribution after credit. A higher conversion fraction alone is not the objective.": "按本题数字，应选 F。差距可能部分来自购买时间改变，但总销量不能告诉我们谁在没有抵扣时也会买，亦不能预测两周之后的结果。若再试较低抵扣额，应计入所有获分配的访客、两段期间的购买记录及扣除优惠后的边际贡献。转化率较高，本身并不是目标。",
+    "Prefer F on these figures. Some of the difference may be purchase timing, but aggregate counts cannot prove which individual would have bought without a credit or what happens after two weeks. For a smaller-credit test, count all visitors assigned, purchases in both periods and contribution after credit. A higher conversion fraction alone is not the objective.": "按本题数字，应选 F。差距可能部分来自购买时间改变，但总销量不能告诉我们谁在没有抵扣时也会买，也不能预测两周之后的结果。若再试较低抵扣额，应计入所有获分配的访客、两段期间的购买记录及扣除优惠后的边际贡献。转化率较高，本身并不是目标。",
     "Reveal the second week after the initial arithmetic. Ask where to book the credit, whether a more generous offer might earn less, and why repeated same-person buying is excluded from this simple comparison.": "先让学生完成首轮计算，再揭示第二周的结果。请他们指出抵扣应在哪一步扣掉、优惠为何可能越大反而赚得越少，以及这个简化比较为何排除同一人的重复购买。",
     "All offers, costs, shop details and results are invented and not taken from HKTDC or any tea provider. No real visitor data, tea recommendations or health claims.": "所有优惠、成本、店铺资料及结果均属虚构，并非香港贸发局或任何茶商的数据。本案例不使用真实访客资料，也不推介茶品或作健康声称。",
-    ". Opened organiser’s first-person fair account, Chinese Tea Tasting Day section. The event is historical context, not the fictional redemption offer.": "。主办方的茶展记录，参见「中国茶品茗日」一节。只用作历史背景，不涉及案例虚构的抵扣安排。",
+    ". Opened organiser’s first-person fair account, Chinese Tea Tasting Day section. The event is historical context, not the fictional redemption offer.": "。主办方的茶展记录，参见“中国茶品茗日”一节。只用作历史背景，不涉及案例虚构的抵扣安排。",
     ". Opened service operator’s original description of tasting several varieties. Supports the format only, not prices or conversion.": "。服务商介绍同场试饮多种茶叶的安排，可作形式参考；不支持案例的价格或转化率。",
     ". Opened retailer’s original flagship-store description and verified it includes tasting alongside tea retail. No sales effect asserted.": "。零售商的旗舰店介绍指出，店内同时提供试饮与茶叶零售，没有声称试饮能增加销售。",
     ". Opened separate operator page explaining curated tasting and brewing content. Same institutional source as stockist page but distinct primary body. No customer testimonials or health claims used.": "。同一运营机构的另一页，介绍精选试饮和冲泡内容，与销售点页面各自提供不同资料。案例未引用顾客见证或健康声称。",
-    ". Opened original Marketing Science article in a public filing, read pages 348–349 on timing, expansion and substitution. It studies free samples, not this paid flight or offer.": "。《Marketing Science》原文见公开存档档案，第 348–349 页讨论购买提早、需求扩大和替代效应。研究对象是免费试用，并非本案例的收费试饮或抵扣方案。",
+    ". Opened original Marketing Science article in a public filing, read pages 348–349 on timing, expansion and substitution. It studies free samples, not this paid flight or offer.": "。《Marketing Science》原文见公开存档，第 348–349 页讨论购买提早、需求扩大和替代效应。研究对象是免费试用，并非本案例的收费试饮或抵扣方案。",
     "Two people compare three small tasting cups across a tea shop counter.": "茶店柜台两旁，两人比较三小杯茶。",
     "The same flight in both offers": "两组享用同一款试饮",
     "Count the offer, not the people who use it": "按分组方案比较，不能只看使用优惠的人",
@@ -65,6 +65,6 @@
     "Your revised decision": "重新作决定",
     "MKT-49 · More tea sold. Did the tasting credit pay? · Micro Cases": "MKT-49 · 茶叶卖多了，试饮费抵扣划算吗？ · 商学微案例",
     "Fast dispatch. Here by which day?": "很快发货，究竟哪天送到？",
-    "Only two left. Left where?": "「只剩两件」，是哪里只剩两件？"
+    "Only two left. Left where?": "只剩两件，是哪里只剩两件？"
   }
 }
