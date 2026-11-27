@@ -1,13 +1,14 @@
-"""Build Simplified and Traditional pages for operations cases.
+"""Build Simplified and Traditional pages for one teaching area.
 
-Reads authoring/i18n/<slug>-zh-cn.json and <slug>-zh-hk.json
-(format operations-case-translation-v1). English teaching text stays
-authoritative. This script does not publish, commit, or rewrite Finance,
-Accounting, or Marketing pages.
+Reads authoring/i18n/<slug>-zh-cn.json and <slug>-zh-hk.json. The format
+name is <stem>-case-translation-v1 (operations, people, strategy, and the
+other area stems). English teaching text stays authoritative. This script
+does not publish or commit.
 
-Default is a dry run of OPS-01–OPS-50. Pass --write to update those English
-pages with the language switch and write zh-cn/ and zh-hk/ pages. Pass
---slugs to build a subset.
+Default is a dry run of OPS-01–OPS-50. Pass --area PPL (or another area
+code) to build that area. Pass --write to update the English pages with the
+language switch and write zh-cn/ and zh-hk/ pages. Pass --slugs to build a
+subset.
 """
 import argparse
 import json
@@ -17,14 +18,17 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from build_fin_i18n import (  # noqa: E402
+    KEEP_EXACT,
+    NUMERIC,
     ROOT,
+    Collect,
     apply_visible,
     insert_language_ui,
     required_strings,
     sha256,
     strip_language_ui,
     translate_print_heading,
-    translate_rounds,
+    translate_rounds as translate_json_rounds,
 )
 
 SLUGS = [
@@ -94,13 +98,52 @@ CODES = {
     'full-carts-slow-connections': 'OPS-50',
 }
 LOCALIZED = set(SLUGS)
+# stem, translation-format name. OPS keeps the lists above so a rebuild
+# cannot drift from the operations pages already on this branch.
+AREA_META = {
+    'OPS': ('operations', 'operations-case-translation-v1'),
+    'PPL': ('people', 'people-case-translation-v1'),
+    'STR': ('strategy', 'strategy-case-translation-v1'),
+    'ENT': ('entrepreneurship', 'entrepreneurship-case-translation-v1'),
+    'IS': ('information-systems', 'information-systems-case-translation-v1'),
+    'GVR': ('governance', 'governance-case-translation-v1'),
+    'SUS': ('sustainability', 'sustainability-case-translation-v1'),
+    'ECO': ('economics', 'economics-case-translation-v1'),
+    'HSP': ('hospitality', 'hospitality-case-translation-v1'),
+}
+SELECTOR = re.compile(
+    r'(?:main(?:\s[>.]\s?[\w.-]+)?|table|p|\.[\w-]+|#[\w-]+)\Z'
+)
 
 
-def load_map(slug, locale):
+def area_bundle(code):
+    """Slugs, case codes, and format name for one area.
+
+    OPS returns the lists in this file. Every other area follows case-registry
+    order by case code.
+    """
+    code = code.upper()
+    if code not in AREA_META:
+        raise SystemExit(f'Unknown area code: {code}')
+    _stem, format_name = AREA_META[code]
+    if code == 'OPS':
+        return list(SLUGS), dict(CODES), format_name
+    data = json.loads((ROOT / 'case-registry.json').read_text(encoding='utf-8'))
+    rows = [case for case in data['cases'] if case['code'].split('-', 1)[0] == code]
+    rows.sort(key=lambda case: case['code'])
+    slugs = [case['slug'] for case in rows]
+    codes = {case['slug']: case['code'] for case in rows}
+    assert len(slugs) == 50, (code, len(slugs))
+    return slugs, codes, format_name
+
+
+def load_map(slug, locale, codes=None, format_name='operations-case-translation-v1'):
+    if codes is None:
+        codes = CODES
     path = ROOT / 'authoring' / 'i18n' / f'{slug}-{locale}.json'
     data = json.loads(path.read_text(encoding='utf-8'))
-    assert data['format'] == 'operations-case-translation-v1', path
-    assert data['case'] == CODES[slug], path
+    assert data['format'] == format_name, path
+    assert data['case'] == codes[slug], path
     assert data['locale'] == locale, path
     assert data['source'] == f'{slug}.html', path
     mapping = data['text']
@@ -108,8 +151,10 @@ def load_map(slug, locale):
     return data, mapping, path
 
 
-def relocate(html, slug):
-    """Same link rules as the Finance builder, for operations neighbours."""
+def relocate(html, slug, localized=None):
+    """Same link rules as the Finance builder, for this area's neighbours."""
+    if localized is None:
+        localized = LOCALIZED
     html = html.replace('href="case-navigation.css"', 'href="../case-navigation.css"')
     html = html.replace(f'src="{slug}-scene.jpg"', f'src="../{slug}-scene.jpg"')
     html = html.replace(f'src=\\"{slug}-scene.jpg\\"', f'src=\\"../{slug}-scene.jpg\\"')
@@ -121,57 +166,131 @@ def relocate(html, slug):
         path = href.split('?', 1)[0].split('#', 1)[0]
         if path.endswith('.html'):
             name = path[:-5]
-            if name not in LOCALIZED:
+            if name not in localized:
                 return f'href="../{href}"'
         return match.group(0)
 
     return re.sub(r'href="([^"]+)"', lift, html)
 
 
-def build_locale(english, slug, locale, mapping):
+def js_literals(blob):
+    for match in re.finditer(r"'((?:\\'|[^'])*)'", blob):
+        yield match.group(1).replace("\\'", "'").replace('\\/', '/')
+
+
+def translate_legacy_rounds(html, match, mapping):
+    """HSP-01 keeps copy() calls. Translate titles and HTML literals only."""
+    def repl(found):
+        inner = found.group(1).replace("\\'", "'").replace('\\/', '/')
+        if SELECTOR.match(inner):
+            return found.group(0)
+        new = apply_visible(inner, mapping) if '<' in inner else mapping.get(inner, inner)
+        if new == inner:
+            return found.group(0)
+        escaped = new.replace('\\', '\\\\').replace("'", "\\'")
+        return "'" + escaped + "'"
+
+    blob = re.sub(r"'((?:\\'|[^'])*)'", repl, match.group(1))
+    return html[:match.start(1)] + blob + html[match.end(1):]
+
+
+def translate_rounds_any(html, mapping):
+    from build_fin_i18n import ROUNDS
+    script_at = html.find('<script>')
+    match = ROUNDS.search(html, script_at)
+    try:
+        json.loads(match.group(1))
+    except json.JSONDecodeError:
+        return translate_legacy_rounds(html, match, mapping)
+    return translate_json_rounds(html, mapping)
+
+
+def required_legacy(html):
+    """Strings the HSP-01 map must cover. Selectors and kept names are not strings."""
+    from build_fin_i18n import ROUNDS
+    collector = Collect()
+    collector.feed(html)
+    collector.flush()
+    external = {text for href, text in collector.anchors if href.startswith('http')}
+    needed = []
+    seen = set()
+
+    def add(value):
+        if value in seen or value in external or value in KEEP_EXACT or NUMERIC.match(value):
+            return
+        seen.add(value)
+        needed.append(value)
+
+    for value in collector.texts + collector.attrs:
+        add(value)
+    blob = ROUNDS.search(html.split('<script>', 1)[1]).group(1)
+    for literal in js_literals(blob):
+        if '<' in literal:
+            slide = Collect()
+            slide.feed(literal)
+            slide.flush()
+            for value in slide.texts + slide.attrs:
+                add(value)
+        elif SELECTOR.match(literal):
+            continue
+        else:
+            add(literal)
+    return needed
+
+
+def build_locale(english, slug, locale, mapping, localized=None):
+    if localized is None:
+        localized = LOCALIZED
     if locale == 'en':
         return insert_language_ui(english, slug, 'en')
     page = apply_visible(english, mapping)
-    page = translate_rounds(page, mapping)
+    page = translate_rounds_any(page, mapping)
     page = translate_print_heading(page, mapping)
-    page = relocate(page, slug)
+    page = relocate(page, slug, localized)
     page = insert_language_ui(page, slug, locale)
     return page
 
 
 def uncovered(english, mapping):
-    needed, _external = required_strings(english)
+    try:
+        needed, _external = required_strings(english)
+    except json.JSONDecodeError:
+        needed = required_legacy(english)
     return [item for item in needed if item not in mapping]
 
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--write', action='store_true')
-    parser.add_argument('--slugs', nargs='*', help='Build only these slugs. Default: OPS-01–OPS-50.')
+    parser.add_argument('--area', default='OPS', help='Area code. Default: OPS.')
+    parser.add_argument('--slugs', nargs='*', help='Build only these slugs. Default: the whole area.')
     args = parser.parse_args()
-    chosen = args.slugs or SLUGS
-    unknown = [slug for slug in chosen if slug not in CODES]
+    code = args.area.upper()
+    slugs, codes, format_name = area_bundle(code)
+    localized = set(slugs)
+    chosen = args.slugs or slugs
+    unknown = [slug for slug in chosen if slug not in codes]
     if unknown:
-        raise SystemExit(f'Unknown operations slug: {unknown}')
+        raise SystemExit(f'Unknown {code} slug: {unknown}')
     for slug in chosen:
         english_path = ROOT / f'{slug}.html'
         english = english_path.read_text(encoding='utf-8')
         bare = strip_language_ui(english)
         for locale in ('zh-cn', 'zh-hk'):
-            data, mapping, path = load_map(slug, locale)
+            data, mapping, path = load_map(slug, locale, codes, format_name)
             assert data['source_sha256'] == sha256(bare), (
                 f'{path.name} source hash does not match {slug}.html without language UI'
             )
             missing = uncovered(bare, mapping)
             assert not missing, (slug, locale, missing[:8], len(missing))
-            page = build_locale(bare, slug, locale, mapping)
+            page = build_locale(bare, slug, locale, mapping, localized)
             lang = {'zh-cn': 'zh-Hans', 'zh-hk': 'zh-Hant'}[locale]
             assert 'const rounds=' in page and f'lang="{lang}"' in page
             if args.write:
                 target = ROOT / locale / f'{slug}.html'
                 target.parent.mkdir(exist_ok=True)
                 target.write_text(page, encoding='utf-8')
-        english_out = build_locale(bare, slug, 'en', {})
+        english_out = build_locale(bare, slug, 'en', {}, localized)
         if args.write:
             english_path.write_text(english_out, encoding='utf-8')
         print(f'OK {slug}')

@@ -21,10 +21,27 @@ HANS_BANNED = set('這還為們個與時發開關買賣價銀證險資債國營�
 HANT_BANNED = set('这还为们个与时发开关买卖价银证险资债国营权税费质据数学问应从并杠里后经过对会过优项质软讯总余认购摊么于恒')
 
 
+def legacy_rounds(blob):
+    """HSP-01 builds slides in JavaScript instead of a JSON array.
+
+    Titles stay in single quotes. Bodies may call copy() and then append HTML.
+    Other pages never reach this parser.
+    """
+    pairs = []
+    for match in re.finditer(r"\['((?:\\'|[^'])*)',(.*?)\](?=,|\s*\])", blob, re.S):
+        title = match.group(1).replace("\\'", "'")
+        pairs.append([title, match.group(2)])
+    assert pairs, 'legacy presentation slides missing'
+    return pairs
+
+
 def rounds_of(text):
     match = ROUNDS.search(text)
     assert match, 'presentation data marker missing'
-    data = json.loads(match.group(1))
+    try:
+        data = json.loads(match.group(1))
+    except json.JSONDecodeError:
+        data = legacy_rounds(match.group(1))
     assert data and all(isinstance(row, list) and len(row) == 2 for row in data)
     return data
 
@@ -54,15 +71,18 @@ def numbers(text):
     # 期初（第0年） names time zero. English says “time zero”, so this digit is a label.
     # A bare 第0年 still counts: it translates “year 0”.
     text = re.sub(r'期初（第0年）', '期初', text)
-    # 200万 / 160万 restates 2 million / 1.6 million. FIN-11–50 does not
-    # otherwise write an amount with 万/萬, so this fold is not another figure.
-    def fold_wan(match):
-        million = Decimal(match.group(1).replace(',', '')) / Decimal(100)
-        rendered = format(million, 'f')
+    # 200万 / 160万 restates 2 million / 1.6 million. The coefficient is N/100.
+    # 6,200亿 / 6,200億 restates HK$620 billion: 1 billion = 10亿, so the
+    # coefficient is N/10. FIN-11–50 does not otherwise write 万/萬 on a digit.
+    def fold_unit(match):
+        unit = match.group(2)
+        divisor = Decimal(100) if unit in '万萬' else Decimal(10)
+        coeff = Decimal(match.group(1).replace(',', '')) / divisor
+        rendered = format(coeff, 'f')
         if '.' in rendered:
             rendered = rendered.rstrip('0').rstrip('.')
         return rendered
-    text = re.sub(r'(\d+(?:,\d{3})*(?:\.\d+)?)(?:万|萬)', fold_wan, text)
+    text = re.sub(r'(\d+(?:,\d{3})*(?:\.\d+)?)(万|萬|亿|億)', fold_unit, text)
     return NUMBER.findall(text)
 
 
