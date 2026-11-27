@@ -78,7 +78,7 @@ The 120 proposals were compared across all twelve areas and against the existing
 - **FIN-14** — Rising cash flows. The same discount rate?
 - **FIN-15** — One company. One hurdle rate?
 - **FIN-16** — Two income streams. One bad month?
-- **FIN-17** — More credit. A tighter promise?
+- **FIN-17** — Cheaper credit. A tighter promise?
 - **FIN-18** — Earn more interest. Available on which day?
 - **FIN-19** — The best project. The best set of projects?
 - **FIN-20** — A good year. A distributable surplus?
@@ -413,7 +413,7 @@ Each research lead is unverified and must pass the gates above.
 
 **Research lead, not yet verified:** Research lead only: IFEC diversification education and a dated diversified firm’s segment-demand discussion; no promised hedge or use of actual securities.
 
-### FIN-17 · More credit. A tighter promise?
+### FIN-17 · Cheaper credit. A tighter promise?
 
 **Opening decision:** A distributor chooses between two affordable working-capital facilities: a lower-rate line with a financial covenant or a higher-rate line with more operational room.
 

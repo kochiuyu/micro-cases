@@ -1,4 +1,4 @@
-# More credit. A tighter promise?
+# Cheaper credit. A tighter promise?
 
 <!-- legacy-case-id: 194 -->
 
