@@ -54,8 +54,20 @@ def numbers(text):
     # 期初（第0年） names time zero. English says “time zero”, so this digit is a label.
     # A bare 第0年 still counts: it translates “year 0”.
     text = re.sub(r'期初（第0年）', '期初', text)
-    # 200万 / 160万 restates 2 million / 1.6 million. FIN-11–50 does not
-    # otherwise write an amount with 万/萬, so this fold is not another figure.
+    # 94.2亿 / 1,641亿 restate 9.42 billion / 164.1 billion (divide by 10).
+    # 1亿 / 1.04亿 restate 100 million / 104 million (multiply by 100).
+    # A coefficient of 10 or more is the billion form; a smaller one is millions.
+    def fold_yi(match):
+        amount = Decimal(match.group(1).replace(',', ''))
+        scaled = amount / Decimal(10) if amount >= 10 else amount * Decimal(100)
+        rendered = format(scaled, 'f')
+        if '.' in rendered:
+            rendered = rendered.rstrip('0').rstrip('.')
+        return rendered
+    text = re.sub(r'(\d+(?:,\d{3})*(?:\.\d+)?)(?:亿|億)', fold_yi, text)
+    # 200万 / 160万 restates 2 million / 1.6 million. Later cases also write
+    # 600万, 2,200万 and 9,400万 for 6, 22 and 94 million. Dividing by 100
+    # recovers the English million figure, so the fold is not another figure.
     def fold_wan(match):
         million = Decimal(match.group(1).replace(',', '')) / Decimal(100)
         rendered = format(million, 'f')
