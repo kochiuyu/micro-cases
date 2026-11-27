@@ -179,6 +179,6 @@ Kept in Latin script: AFCD, Airbnb (zh-hk), Alma Economics, Anett John, Ashraf, 
 - ECO-48: Private subsidised flats describes the purpose of the historical site. Do not insert a named public scheme or imply that the fictional landowner is waiving a government reserve.
 - ECO-49: The 2023 attribution uses the ministry’s historical name. If adding the ministry to the 2024 parliamentary attribution, verify the answer’s date and issuing body rather than carrying the 2023 name forward. Keep S$ as printed.
 - ECO-50: Check the quotation direction: HK dollars per yuan fall, while HK dollars per US dollar are held at the classroom rate. Do not infer a change in the fixed USD invoice, a guaranteed reset or automatic retail pass-through.
-- ECO-41: the Hang Seng Index is written 恆生指數 in zh-hk because the language test bans 恒 in zh-hk; the index's own brand uses 恒生. Faculty and the build owner should decide.
+- ECO-41: the Hang Seng Index is written 恒生指數 in zh-hk, the index's own brand. The character 恒 is allowlisted only inside 恒生. Faculty should confirm the form.
 - ECO-41: HK$620 billion is 6,200亿港元 / 6,200億港元. The figure test needs a 亿/億 fold (like the existing 万/萬 fold) to accept it.
 - Kept in Latin in zh-hk because the Chinese name contains 里, which the language test bans outside 公里: Indian Institute of Technology Delhi (IIT Delhi).
