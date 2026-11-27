@@ -5,7 +5,8 @@ Entrepreneurship, innovation and family business. English is the fact source. Si
 Conventions carried over from Finance, Operations, Marketing and Accounting:
 
 - Interface strings reuse the Finance wording: 全部案例 / 全部個案, 演示模式 / 簡報模式, 打印学生讲义 / 列印學生講義, 课堂决策 / 課堂決定, 你的决策 / 你的決定, 教师说明 / 教師說明, 第二轮 / 第二輪, 来源与案例假设 · 选读 / 來源與個案假設 · 選讀, 微型案例 / 微型個案, 上一个案例 / 上一個個案, 下一个案例 / 下一個個案. Area label: 创业 / 創業.
-- Debrief headings and the word debrief are 讲评 (zh-cn) and 講評 (zh-hk), as on the Finance pages. 复盘 / 復盤 is not used.
+- Classroom debrief headings and markers are 讲评 (zh-cn) and 講評 (zh-hk), exactly as on the Finance pages (讲评 · / 讲评： and 講評 · / 講評：). No variants: 复盘 / 復盤, 课后讨论 / 課後討論, 讨论总结 / 討論總結, 讲解 / 講解, 解说 / 解說 are not used for it (faculty decision, 28 Nov 2026).
+- 讲评 / 講評 is only for the classroom debrief. A debrief inside the case story or its sources (a team's operational debrief, debrief research) is 事后回顾 / 事後回顧 or 回顾 / 回顧.
 - HK$ amounts are written as the same figure followed by 港元 (HK$20 → 20港元). Other currencies keep their code or symbol as printed.
 - Dates follow the Finance form on main after #13: 2024年7月29日, 2024年7月, 8月5日. A month standing alone with no year or day stays in characters (七月) so no figure is added. English number words, weekdays and ordinals stay as Chinese numerals; printed digits stay as digits.
 - zh-hk is formal Hong Kong written Chinese (government releases, newspapers, university teaching notes), not a character conversion of zh-cn, not Taiwan usage and not colloquial Cantonese: 瓶頸 not 樽頸; 甚麼, 裏, 為, 線; 品質 for quality (zh-cn 质量); 資料 for information, except the fixed Hong Kong terms 資訊科技, 資訊系統, 資訊保安; 軟件, 網絡. 公里 is allowed. Other words containing 里 (e.g. milestone 里程碑, Delhi) are avoided in zh-hk because the language test bans that character outside 公里: milestone is 階段目標 and such names stay in Latin script.
