@@ -30,7 +30,7 @@ Official and established names (zh-cn / zh-hk):
 - Equal Opportunities Commission: 平等机会委员会 / 平等機會委員會.
 - Privacy Commissioner for Personal Data: 个人资料私隐专员 / 個人資料私隱專員.
 - Code of Practice on Human Resource Management: 人力资源管理实务守则 / 人力資源管理實務守則.
-- Hong Kong Family and Women Portal: 家庭及妇女资讯平台 / 家庭及婦女資訊平台 (unverified — keep the English beside it until checked).
+- Hong Kong Family and Women Portal: 家庭及妇女资讯平台 / 家庭及婦女資訊平台 (verified — Home and Youth Affairs Bureau, 「家庭及婦女資訊平台」 / Family and Women Portal, https://www.familyandwomen.gov.hk/tc/ and https://www.familyandwomen.gov.hk/en/contact.html). The simplified form is the official traditional name in simplified characters. The bureau site publishes traditional and English.
 - Hospitality Campaign: 好客之道运动 / 好客之道運動.
 - Heat Stress at Work Warning: 工作暑热警告 / 工作暑熱警告.
 - Mediation Week: 调解周 / 調解周.
@@ -133,7 +133,7 @@ Kept in Latin script: AI, Acas, Ada, Alex, Arun, Ben, Bo, Business Gateway, CCOH
 - PPL-07, PPL-12, PPL-40, PPL-46: Assessment, preview, outreach and screening are separate stages. Keep the role preview non-evaluative, outreach distinct from hiring and a required entry skill distinct from software taught after hiring.
 - PPL-08: Task ownership can also mean 主人翁意识 / 主人翁意識 in other material. Here it is primarily responsibility for following an order through, not a change in craft or safety authority.
 - PPL-09, PPL-11, PPL-13, PPL-15, PPL-25, PPL-26, PPL-27, PPL-40: Check the source-note mapping of Mediation Week, Acas, Business Gateway, CCOHS, HSE, EOC and Equality Action Center before expanding or localising them. The extraction list mixes source names with fragments; overseas guidance must not read as Hong Kong law.
-- PPL-13: Verify the Chinese masthead of Hong Kong Family and Women Portal. If the full source expressly names the statute, use 《家庭岗位歧视条例》 / 《家庭崗位歧視條例》; do not insert a statutory citation into a paraphrase that does not name it.
+- PPL-13: Verified 27 November 2026: the portal’s own masthead is 家庭及婦女資訊平台 (https://www.familyandwomen.gov.hk/tc/). If the full source expressly names the statute, use 《家庭岗位歧视条例》 / 《家庭崗位歧視條例》; do not insert a statutory citation into a paraphrase that does not name it.
 - PPL-12, PPL-14, PPL-41: Verify the announcement dates and figures against the source links before publication. In PPL-14, 3.4% is a year-on-year rise, not 3.4个百分点 / 3.4個百分點. Preserve the August warning changes and the later reply as separate dates in PPL-41.
 - PPL-15, PPL-22, PPL-44: Developmental assignment, secondment, interim appointment and acting appointment are not interchangeable. Use 署任 for the fictional acting role and 臨時 for the HKEX interim appointment unless quoting the source's own title.
 - PPL-16, PPL-18: Skill redundancy is backup capability, not a staffing reduction. In PPL-18 the two prospective supervisors remain within the 14 designers; distinguish direct reports from total headcount.
