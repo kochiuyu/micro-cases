@@ -365,6 +365,22 @@ def translate_print_heading(html, mapping):
     return html.replace(old, new, 1)
 
 
+def polish_crossed_tokens(page, slug, locale):
+    """Rewrite one FIN-11 total the mapper cannot change on its own.
+
+    HK$7,800 is a numeric text node, so the same token also fills the table
+    and the slides. Only the sentence that already says 利息成本为 needs the
+    amount written as 7,800港元, without a second 的利息.
+    """
+    if locale == 'en' or slug != 'lower-rate-less-certainty':
+        return page
+    return re.sub(
+        r'= <strong>HK\$7,800</strong>\s*(?:的利息)?。',
+        '= 7,800港元。',
+        page,
+    )
+
+
 def build_locale(english, slug, locale, mapping):
     if locale == 'en':
         return insert_language_ui(english, slug, 'en')
@@ -373,6 +389,7 @@ def build_locale(english, slug, locale, mapping):
     page = translate_print_heading(page, mapping)
     page = relocate(page, slug)
     page = insert_language_ui(page, slug, locale)
+    page = polish_crossed_tokens(page, slug, locale)
     return page
 
 

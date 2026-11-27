@@ -41,6 +41,15 @@ def numbers(text):
     text = re.sub(r'[Rr]ound 2\b', 'Round', text)
     text = (text.replace('第2轮', 'Round').replace('第2輪', 'Round')
             .replace('第二轮', 'Round').replace('第二輪', 'Round'))
+    # 2025年6月9日 uses a digit for the month English spells out. The day and year stay.
+    text = re.sub(r'(?<=年)\d{1,2}(?=月)', '', text)
+    text = re.sub(r'(?<![\d年])\d{1,2}(?=月\d{1,2}日)', '', text)
+    # HK$000, 千港元000 and a bare 000港元 name the thousands unit, not an amount.
+    text = re.sub(r'HK\$000(?!\d)', '', text)
+    text = re.sub(r'千港元000', '千港元', text)
+    text = re.sub(r'(?<![\d,])000(?=港元)', '', text)
+    # “80 per cent Guarantee Product” repeats 八成. Its digits are not a second figure.
+    text = re.sub(r'80 per cent', '', text)
     return NUMBER.findall(text)
 
 
