@@ -39,7 +39,7 @@ Official and established names (zh-cn / zh-hk):
 - Consumer Council: 消费者委员会 / 消費者委員會.
 - Health Bureau: 医务卫生局 / 醫務衞生局.
 - Intellectual Property Department: 知识产权署 / 知識產權署.
-- Hong Kong’s IP Trading Centre: 香港知识产权交易中心 / 香港知識產權交易中心 (unverified — keep the English beside it until checked).
+- Hong Kong’s IP Trading Centre: 香港区域知识产权贸易中心 / 香港區域知識產權貿易中心 (verified — Intellectual Property Department, “Hong Kong – Regional IP Trading Centre” / 「香港 — 區域知識產權貿易中心」, https://www.ip.gov.hk/tc/home/ and https://www.ip.gov.hk/en/home/).
 - Leisure and Cultural Services Department: 康乐及文化事务署 / 康樂及文化事務署.
 - Trade and Industry Department: 工业贸易署 / 工業貿易署.
 - Public Bus Services Ordinance: 《公共巴士服务条例》 / 《公共巴士服務條例》.
@@ -179,6 +179,6 @@ Kept in Latin script: Airbnb (zh-hk brand), Bayline, Bluetooth SIG, Bright Latch
 - STR-42: The EU repairability grade concerns devices; the fictional scorecard concerns repair outlets. Use 可维修性等级／可維修程度評級 for the device grade rather than naming the shop score as an EU rating.
 - STR-43: The Singapore authority's concerns were provisional and the parties withdrew the proposal. Do not translate this as a prohibition or an infringement finding. Retain Trans-cab in Latin script unless faculty confirms a preferred local Chinese name.
 - STR-46: Verify the exact titles of the real-world study centre and collaboration platform from the Health Bureau release before promoting generic descriptions to proper names. The fictional trolley trial concerns commercial demand, not clinical evidence or regulatory approval.
-- STR-47: Verify the entity behind 'Hong Kong’s IP Trading Centre' against the linked page. The case assumption removes the specified patent restriction after expiry; it is not a general freedom-to-operate finding or a disclosure of proprietary know-how.
+- STR-47: Verified 27 November 2026: the Intellectual Property Department’s page is 「香港 — 區域知識產權貿易中心」 (https://www.ip.gov.hk/tc/home/). The case assumption removes the specified patent restriction after expiry; it is not a general freedom-to-operate finding or a disclosure of proprietary know-how.
 - STR-49: The retailer launches its store brand whichever option Maple Loom chooses. Do not translate the refusal counterfactual as no private-label launch or as withdrawal of Maple Loom's own brand.
 - STR-50: The 40港元 threshold is qualifying input value per unit at the stated 100港元 transfer price. It is not a CEPA percentage, a rule-of-origin finding or a tax transfer-pricing instruction. Preserve the difference between 7,000 units in total and units additional to the ordinary order.
