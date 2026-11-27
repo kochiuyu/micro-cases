@@ -20,13 +20,13 @@ Official and established names (zh-cn / zh-hk):
 - Legislative Council: 立法会 / 立法會.
 - Hong Kong Tourism Board: 香港旅游发展局 / 香港旅遊發展局.
 - Hospitality Campaign: 「好客之道」运动 / 「好客之道」運動.
-- expanded exhibition incentive scheme: 扩展后的展览奖励计划 / 擴展後的展覽獎勵計劃 (unverified — keep the English beside it until checked).
+- expanded exhibition incentive scheme: 「定期展览奖励计划2.0」 / 「定期展覽獎勵計劃2.0」 (verified — Commerce and Economic Development Bureau, 「定期展覽獎勵計劃2.0」 / Incentive Scheme for Recurrent Exhibitions 2.0, launched 1 July 2025 with an additional HK$500 million, https://www.info.gov.hk/gia/general/202501/24/P2025012400396.htm and https://www.cedb.gov.hk/en/sectors/convention-and-exhibition.html). The 1 July date and the HK$500 million figure are unchanged.
 - Hotel Accommodation Tax: 酒店房租税 / 酒店房租稅.
 - Countryside Conservation Funding Scheme: 乡郊保育资助计划 / 鄉郊保育資助計劃.
 - Hong Kong Maritime Museum: 香港海事博物馆 / 香港海事博物館.
 - Hong Kong Museum of Art: 香港艺术馆 / 香港藝術館.
 - Hong Kong Palace Museum: 香港故宫文化博物馆 / 香港故宮文化博物館.
-- Art Journey for Youth: 青少年艺术之旅 / 青少年藝術之旅 (unverified — keep the English beside it until checked).
+- Art Journey for Youth: 「青年艺游故宫」 / 「青年藝遊故宮」 (verified — Hong Kong Palace Museum, 青年藝遊故宮 / 青年艺游故宫 / Art Journey for Youth at HKPM, https://www.hkpm.org.hk/tc/learn/student-and-teacher/school-group-visits-art-journey-for-youth-at-hkpm and https://www.hkpm.org.hk/sc/learn/student-and-teacher/school-group-visits-art-journey-for-youth-at-hkpm). The English name stays in parentheses.
 - Disney: 迪士尼 / 迪士尼.
 - Hong Kong Disneyland: 香港迪士尼乐园 / 香港迪士尼樂園.
 - Urban Renewal Authority: 市区重建局 / 市區重建局.
@@ -48,12 +48,12 @@ Official and established names (zh-cn / zh-hk):
 - England and Wales: 英格兰和威尔士 / 英格蘭及威爾斯 (established usage).
 - UK Department for Education: 英国教育部 / 英國教育部 (established usage).
 - Royal Institution of Chartered Surveyors: 皇家特许测量师学会 / 皇家特許測量師學會.
-- Scottish Futures Trust: 苏格兰未来信托 / 蘇格蘭未來信託 (unverified — keep the English beside it until checked).
-- Information Commissioner's Office: 英国信息专员办公室 / 英國資料專員公署 (unverified — keep the English beside it until checked).
+- Scottish Futures Trust: 苏格兰未来信托 / 蘇格蘭未來信託 (no official Chinese name — https://www.scottishfuturestrust.org.uk/ is English only). The pages keep this descriptive translation and the English name in parentheses.
+- Information Commissioner's Office: 英国信息专员办公室 / 英國資訊專員辦公室 (no official Chinese name — https://ico.org.uk/ is English only). 英國資料專員公署 was not used: it is too close to Hong Kong’s 個人資料私隱專員公署. The first mention in HSP-22 gives the descriptive name and the English name.
 - National Park Service: 美国国家公园管理局 / 美國國家公園管理局 (established usage).
-- Texas Historical Commission: 得克萨斯州历史委员会 / 德薩斯州歷史委員會 (unverified — keep the English beside it until checked).
+- Texas Historical Commission: 得克萨斯州历史委员会 / 德薩斯州歷史委員會 (no official Chinese name — https://www.thc.texas.gov/ is English only). The pages keep this descriptive translation and the English name in parentheses.
 - International Council on Monuments and Sites: 国际古迹遗址理事会 / 國際古蹟遺址理事會.
-- Health and Safety Executive: 英国健康与安全执行局 / 英國健康及安全執行局 (unverified — keep the English beside it until checked).
+- Health and Safety Executive: 英国健康与安全执行局 / 英國健康及安全執行局 (no official Chinese name — https://www.hse.gov.uk/ is English only). The pages keep this descriptive translation and the English name in parentheses.
 - Google: 谷歌 / Google (established usage).
 - The Hong Kong Polytechnic University: 香港理工大学 / 香港理工大學.
 - Australian Competition and Consumer Commission: 澳大利亚竞争与消费者委员会 / 澳洲競爭及消費者委員會 (established usage).
@@ -160,11 +160,11 @@ Kept in Latin script: ACCC, Capital Business Center, Clock Tower, Cornell Chroni
 - HSP-22, HSP-30, HSP-43: Check the counting unit each time: room-nights, bed-nights, arrivals, departure cleans and room turnover are different measures. An occupied night does not imply one departure clean.
 - HSP-25, HSP-49: Do not equate gross spending or admissions with the amount caused by the proposal. HSP-25 also asks where spending is retained; HSP-49 tests substitution from direct sales, not displacement caused by a full venue.
 - HSP-26: Verify the instrument and version if the full source names a UK package-travel regulation, and check the preferred Chinese rendering of ICO. Keep organiser responsibility and data-sharing guidance tied to their jurisdictions; do not infer a new rule for Hong Kong or mainland readers.
-- HSP-27, HSP-28, HSP-29: Verify the exact ICOMOS charter title, Texas Historical Commission and GEM attribution, HSE Chinese name, and the body behind 'Public Ombudsman'. Do not silently identify the latter with Hong Kong's 申訴專員公署 or turn an overseas remedy example into the fictional hotel's legal rule.
+- HSP-27, HSP-28, HSP-29: Verify the exact ICOMOS charter title and GEM attribution, and the body behind 'Public Ombudsman'. Texas Historical Commission and the Health and Safety Executive have no official Chinese name; the pages keep a descriptive translation and the English name. Do not silently identify the latter with Hong Kong's 申訴專員公署 or turn an overseas remedy example into the fictional hotel's legal rule.
 - HSP-30: Keep Fáilte Ireland distinct from Tourism Ireland. Confirm the geographical unit covered by the Kilkenny plan and whether the seasonal bed-night indicator uses stays, available capacity or a share of the annual total.
 - HSP-31: Check whether 'pickup' in each exhibit is gross new bookings or net change. Compare booking snapshots at the same lead time, and keep on-the-books reservations separate from forecast demand and eventual occupancy.
 - HSP-33, HSP-38, HSP-48: 'Available' may mean on sale, ready for use or accessible during work; 'turnover' in property means sales, unlike room turnover in HSP-43. In HSP-48 keep the percentage-rent breakpoint distinct from the sales level at which the two offers cost the same.
 - HSP-41, HSP-42, HSP-43: Keep the date or validity period attached to each timetable, shuttle booklet or day-use offer. None supplies current operating advice or the rules of the fictional service.
-- HSP-44, HSP-45, HSP-46: Verify the official Chinese conference title and Art Journey for Youth programme title before replacing the English. HSP-46 does not name a certifier in the excerpt; confirm the primary source before inserting one. Certification scope must remain meal-specific.
+- HSP-44, HSP-45, HSP-46: Art Journey for Youth is the Palace Museum’s 青年藝遊故宮. Verify the official Chinese conference title before replacing the English. HSP-46 does not name a certifier in the excerpt; confirm the primary source before inserting one. Certification scope must remain meal-specific.
 - HSP-47: Use 粤语／粵語 for Cantonese and 普通话／普通話 for Putonghua. Do not use 中文 as a substitute for either specific language. An audio guide does not fulfil a promise of live questions in that language.
 - HSP-01–HSP-50: Treat stray extracted fragments such as 'B’s HK' and 'Samepriceand90minutecommitment' as noise unless confirmed in the relevant case. Keep source-link titles in English, preserve figures and case codes, and use 讲评／講評, 案例／個案, 教师说明／教師說明 and 你的决策／你的決定. Format HK$ amounts as figure + 港元 and full dates as 2024年7月29日; do not infer a missing year.

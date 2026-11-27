@@ -68,6 +68,11 @@ FIGURE_EXEMPT = {
         'zh': ('600', '6'),
         'why': 'HSP-38 English "600.6"',
     },
+    'two-night-stays': {
+        'en': (),
+        'zh': ('2.0',),
+        'why': 'HSP-03 official name 「定期展覽獎勵計劃2.0」; English says expanded exhibition incentive scheme',
+    },
 }
 
 
