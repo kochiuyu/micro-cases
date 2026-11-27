@@ -22,16 +22,16 @@ Official and established names (zh-cn / zh-hk):
 - iAM Smart: 智方便 / 智方便.
 - Cheung Chau: 长洲 / 長洲.
 - Swire Properties: 太古地产 / 太古地產.
-- Green Performance Pledge: 绿色绩效约章 / 綠色績效約章 (unverified — keep the English beside it until checked).
+- Green Performance Pledge: 环境绩效约章 / 環境績效約章 (verified — Swire Properties, 《环境绩效约章》 / 《環境績效約章》, https://gpp.swireproperties.com/zh-cn/about-gpp/ and https://gpp.swireproperties.com/zh-hk/about-gpp/).
 - CLP Power: 中华电力 / 中華電力.
-- Water-smart Taskforce Programme: 用水效益专队计划 / 用水效益專隊計劃 (unverified — keep the English beside it until checked).
+- Water-smart Taskforce Programme: 「悭水特攻队」计划 / 「慳水特攻隊」計劃 (verified — Water Supplies Department, 「慳水特攻隊」計劃 / Water-smart Taskforce Programme, https://www.waterconservation.gov.hk/tc/water-smart-taskforce/index.html and https://www.waterconservation.gov.hk/en/water-smart-taskforce/index.html). Simplified 悭 is the official character 慳.
 - Hong Kong Observatory: 香港天文台 / 香港天文台.
 - Biodiversity Strategy and Action Plan: 生物多样性策略及行动计划 / 生物多樣性策略及行動計劃.
 - Digital Policy Office: 数字政策办公室 / 數字政策辦公室.
 - Social Innovation and Entrepreneurship Development Fund (SIE Fund): 社会创新及创业发展基金 / 社會創新及創業發展基金.
-- Smart Silver Digital Inclusion Programme for Elders: 长者数码共融计划 / 長者數碼共融計劃 (unverified — keep the English beside it until checked).
+- Smart Silver Digital Inclusion Programme for Elders: 「友智识」长者数码共融计划 / 「友智識」長者數碼共融計劃 (verified — Social Innovation and Entrepreneurship Development Fund, 「友智識」長者數碼共融計劃, https://www.sie.gov.hk/tc/what-we-do/smart_silver_digital_inclusion_programme_for_elders.html and https://www.sie.gov.hk/en/what-we-do/smart_silver_digital_inclusion_programme_for_elders.html). 「友智識」 is the official Chinese for Smart Silver.
 - Census and Statistics Department: 政府统计处 / 政府統計處.
-- Social Club Volunteer Team: 联谊会义工队 / 聯誼會義工隊 (unverified — keep the English beside it until checked).
+- Social Club Volunteer Team: 统计处康乐会义工队 / 統計處康樂會義工隊 (verified — Census and Statistics Department’s own Chinese post renders C&SD Social Club Volunteer Team as 統計處康樂會義工隊, https://www.linkedin.com/posts/censtatd_cnsd-cnsdsupportsyouthroughvolunteering-activity-7453382248168390656-dWD4). The English name is in the Civil Service Bureau newsletter, https://www.csb.gov.hk/hkgcsb/csn/csn122/122e/civil_service_volunteer_service_1.html.
 - Food Angel: 惜食堂 / 惜食堂.
 - Taipei City Government: 台北市政府 / 臺北市政府.
 - Green and Sustainable Finance Cross-Agency Steering Group: 绿色和可持续金融跨机构督导小组 / 綠色和可持續金融跨機構督導小組.
@@ -49,7 +49,7 @@ Official and established names (zh-cn / zh-hk):
 - World Bank: 世界银行 / 世界銀行.
 - Convention on Biological Diversity (CBD): 生物多样性公约 / 生物多樣性公約.
 - Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES): 生物多样性和生态系统服务政府间科学政策平台 / 生物多樣性和生態系統服務政府間科學政策平台.
-- Society for Ecological Restoration: 生态恢复学会 / 生態復修學會 (unverified — keep the English beside it until checked).
+- Society for Ecological Restoration: 生态恢复学会 / 生態復修學會 (no official Chinese name — https://www.ser.org/ publishes English only. Older SER translations disagree: 国际生态恢复学会 and 国际生态恢复协会 in the 2004 primer on ser.org, and 国际恢复生态学学会 in a later translator’s version. The pages keep the descriptive forms and the English name in parentheses).
 - Food and Agriculture Organization of the United Nations (FAO): 联合国粮食及农业组织 / 聯合國糧食及農業組織.
 - US Environmental Protection Agency (US EPA): 美国环境保护局 / 美國環境保護局 (established usage).
 - Urban Institute: 美国城市研究所 / 美國城市研究所 (established usage).
@@ -58,7 +58,7 @@ Official and established names (zh-cn / zh-hk):
 - The Green Book (UK Treasury appraisal guidance): 英国财政部《绿皮书》 / 英國財政部《綠皮書》 (established usage).
 - New Zealand Treasury: 新西兰财政部 / 新西蘭財政部 (established usage).
 - UK Department for Environment, Food and Rural Affairs (Defra): 英国环境、食品和农村事务部 / 英國環境、食物及鄉郊事務部 (established usage).
-- Thames Estuary 2100: 泰晤士河口2100计划 / 泰晤士河口2100計劃 (unverified — keep the English beside it until checked).
+- Thames Estuary 2100: 泰晤士河口计划（Thames Estuary 2100） / 泰晤士河口計劃（Thames Estuary 2100） (no official Chinese name — Environment Agency, https://www.gov.uk/government/collections/thames-estuary-2100-te2100, English only). The year stays once, inside the official English name, so it is not a second figure.
 - National Institute of Water and Atmospheric Research (NIWA): 新西兰国家水与大气研究所 / 新西蘭國家水與大氣研究所 (established usage).
 - Intergovernmental Panel on Climate Change (IPCC): 政府间气候变化专门委员会 / 政府間氣候變化專門委員會.
 - European Environment Agency: 欧洲环境署 / 歐洲環境署 (established usage).
