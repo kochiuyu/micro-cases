@@ -37,7 +37,7 @@ Official and established names (zh-cn / zh-hk):
 - Leisure and Cultural Services Department (LCSD): 康乐及文化事务署 / 康樂及文化事務署.
 - SmartPLAY: SmartPLAY康体通 / SmartPLAY康體通.
 - UK Office for National Statistics (ONS): 英国国家统计局 / 英國國家統計局 (established usage).
-- Living Costs and Food Survey: 生活开支及食物调查 / 生活開支及食物調查 (unverified — keep the English beside it until checked).
+- Living Costs and Food Survey: 生活开支及食物调查 / 生活開支及食物調查 (no official Chinese name — Office for National Statistics publishes the survey in English only, https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/methodologies/livingcostsandfoodsurvey). The pages keep this descriptive translation and the English name in parentheses.
 - American Statistical Association: 美国统计学会 / 美國統計學會 (established usage).
 - Statistics Canada: 加拿大统计局 / 加拿大統計局 (established usage).
 - UK Information Commissioner's Office (ICO): 英国信息专员办公室 / 英國資料專員公署 (established usage).
