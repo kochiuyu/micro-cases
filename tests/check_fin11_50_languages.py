@@ -7,6 +7,7 @@ import json
 import re
 import sys
 from collections import Counter
+from decimal import Decimal
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -50,6 +51,18 @@ def numbers(text):
     text = re.sub(r'(?<![\d,])000(?=港元)', '', text)
     # “80 per cent Guarantee Product” repeats 八成. Its digits are not a second figure.
     text = re.sub(r'80 per cent', '', text)
+    # 期初（第0年） names time zero. English says “time zero”, so this digit is a label.
+    # A bare 第0年 still counts: it translates “year 0”.
+    text = re.sub(r'期初（第0年）', '期初', text)
+    # 200万 / 160万 restates 2 million / 1.6 million. FIN-11–50 does not
+    # otherwise write an amount with 万/萬, so this fold is not another figure.
+    def fold_wan(match):
+        million = Decimal(match.group(1).replace(',', '')) / Decimal(100)
+        rendered = format(million, 'f')
+        if '.' in rendered:
+            rendered = rendered.rstrip('0').rstrip('.')
+        return rendered
+    text = re.sub(r'(\d+(?:,\d{3})*(?:\.\d+)?)(?:万|萬)', fold_wan, text)
     return NUMBER.findall(text)
 
 
