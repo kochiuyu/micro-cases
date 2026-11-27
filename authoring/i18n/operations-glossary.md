@@ -1,6 +1,6 @@
 # OPS-01–OPS-50 terminology
 
-English is the fact source. Simplified Chinese is written for mainland teaching; traditional Chinese is written for Hong Kong. The two Chinese versions are drafted separately from the English; the Hong Kong text is not a character conversion of the Simplified text. Figures, case order and legacy case numbers are unchanged. These maps were drafted in an API pilot (OpenAI Batch, gpt-6.2-sol) under this glossary and then checked automatically; they still need the same human review as Finance before any page is published.
+English is the fact source. Simplified Chinese is written for mainland teaching; traditional Chinese is written for Hong Kong. The two Chinese versions are drafted separately from the English; the Hong Kong text is not a character conversion of the Simplified text. Figures, case order and legacy case numbers are unchanged. These maps were drafted in an API pilot (OpenAI Batch, gpt-6.2-sol) under this glossary, checked automatically, and then reviewed before the localized pages were built. The review decisions are at the end of this note. The pages are for faculty review and are not published by building them.
 
 Conventions carried over from Finance, Marketing and Accounting:
 
@@ -33,7 +33,7 @@ Official and established names:
 | quantity discount | 数量折扣 | 數量折扣 | |
 | bullwhip effect | 牛鞭效应 | 牛鞭效應 | |
 | throughput | 产出率 | 產出率 | Port and terminal volume is 吞吐量. |
-| bottleneck | 瓶颈 | 樽頸 | Hong Kong written usage. |
+| bottleneck | 瓶颈 | 瓶頸 | Formal Hong Kong teaching prose, the same word as the Finance pages. 樽頸 is colloquial and is not used. |
 | capacity | 产能 / 处理能力 | 產能 / 處理能力 | 产能 for plant output; 处理能力 for service, sorting and docks. |
 | utilisation | 利用率 | 使用率 | |
 | takt time / cycle time | 节拍时间 / 周期时间 | 節拍時間 / 周期時間 | |
@@ -93,13 +93,18 @@ Official and established names:
 | contribution | 边际贡献 | 邊際貢獻 | Sales revenue minus the stated variable costs, as defined on each page. |
 | forecast | 预测 | 預測 | A forecast is not a commitment. |
 
-## English wording left unchanged, flagged for review
+## Review decisions
 
-- Lead time: mainland texts use 提前期 and Hong Kong practitioners use 前置時間 or 交貨期. The pages fix 前置時間 for zh-hk; reviewers should confirm it reads naturally for Hong Kong students.
-- Bottleneck: zh-hk uses 樽頸, the common Hong Kong written form. 瓶頸 would also be understood; it is not used so the two variants stay distinct on purpose.
-- Setup / changeover: 换型 (mainland lean usage) versus 轉線 (Hong Kong factory usage). If a case means only cleaning time, the Chinese follows the case’s own description.
-- Inventory: zh-hk uses 存貨 throughout but keeps 安全庫存 as a fixed term. Reviewers may prefer 安全存貨 for full consistency.
-- Recall: zh-cn 召回, zh-hk 回收 (Centre for Food Safety usage). In Hong Kong 回收 can also mean recycling; the context is always a product recall here.
+- Lead time: zh-hk keeps 前置時間 for the operations offset from placing an order to usable stock (OPS-11 and the other planning cases). 交貨期 is not used for that offset. OPS-06’s 交貨期限 translates a customer delivery deadline, which is a different idea.
+- Bottleneck: the pilot draft used 樽頸. Formal teaching prose on these pages now uses 瓶頸, matching the Finance zh-hk pages. 樽頸 remains colloquial Cantonese and is not used.
+- Setup / changeover: 换型 (mainland lean usage) versus 轉線 (Hong Kong factory usage). If a case means only cleaning time, the Chinese follows the case’s own description. Left as drafted.
+- Inventory: zh-hk uses 存貨 throughout but keeps 安全庫存 as a fixed term. 安全存貨 would be more uniform and was not required for sense, so it stays 安全庫存.
+- Recall: zh-cn uses 召回. zh-hk keeps 回收 / 模擬回收 on OPS-30, the Centre for Food Safety term, in a food mock-recall where recycling is not a plausible reading. OPS-15 already uses 回收 for reverse-logistics recovery, so its “recalled items” are 被召回的貨品 and are not read as recycling or as goods waiting to be recovered.
+- Clearance on OPS-41 is the dispatch supervisor’s sign-off, so zh-hk uses 放行. 通行 and 開通 were the pilot wording and have been replaced there. Physical access, aisle space and door clearance elsewhere stay 通行.
+- OPS-49’s “expected shortfall” stays 預期短缺量 / 预期短缺量: the expected count of unfilled spare requests (0.8, then 0.5), not the finance risk measure. The body states the count in 宗 or 件.
+
+## Left unchanged, still visible in the English source
+
 - McGriddles (OPS-01), Bargain Corner (OPS-15) and DHL’s Central Asia Hub (OPS-19) are left in Latin script; no Hong Kong Chinese brand name was verified in this pilot.
 - IKEA is 宜家傢俬 in Hong Kong but 宜家家居 on the mainland.
 - OPS-39 and OPS-12 source notes contain run-together English in the source (e.g. “S checks6 plus duplicate entry2=touch8”, “IBMdocumentation403notused”). The Chinese keeps every figure but the English source should be repaired before publication.
