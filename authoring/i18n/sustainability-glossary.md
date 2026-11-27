@@ -188,4 +188,4 @@ Kept in Latin script: AWARE, Bo, CBD, CIIF, CO2e, CO₂, CO₂e, Core Climate, D
 - SUS-45, SUS-48: Clearances have different senses: road clearance is 清理 or 恢复通行／恢復通行 as appropriate; pack clearance is a qualified condition approval. Neither means that case participants may inspect or work on the asset themselves.
 - SUS-47: Check whether each table cell counts people, one-way person trips, vehicle movements or return journeys. Do not double a count unless the source defines it that way.
 - SUS-49, SUS-50: The fictional tank allocation is not an operating rule for Happy Valley, and the fictional sign schedule is not a Charter threshold. Render Make Room and other option labels as decision labels, not programme names.
-- SUS-32: Florida is written 美國佛州（Florida） in zh-hk because 佛羅里達 contains 里, which the language test bans in zh-hk; zh-cn keeps 佛罗里达州. Faculty may prefer another form.
+- SUS-32: Florida is written 佛羅里達 in zh-hk, the standard Hong Kong form. The character 里 is allowlisted only inside that name. zh-cn keeps 佛罗里达州. Faculty should confirm the form.
