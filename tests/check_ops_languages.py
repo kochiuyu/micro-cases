@@ -104,6 +104,14 @@ def check(root=ROOT):
                     if en_title.startswith('Debrief'):
                         assert zh_title.startswith('讲评'), (slug, en_title, zh_title)
                 assert '复盘 ·' not in text and '复盘：' not in text, slug
+            if locale == 'zh-hk':
+                for (en_title, _), (zh_title, _) in zip(en_rounds, rounds):
+                    if en_title.startswith('Debrief ·'):
+                        assert zh_title.startswith('講評 ·'), (slug, en_title, zh_title)
+                    elif en_title.startswith('Debrief:'):
+                        assert zh_title.startswith('講評：'), (slug, en_title, zh_title)
+                    elif en_title.startswith('Debrief'):
+                        assert zh_title.startswith('講評'), (slug, en_title, zh_title)
             assert 'Sources and case assumptions' not in text.split('<script>', 1)[1]
             assert Counter(numbers(text)) == Counter(en_numbers), (slug, locale, 'figure multiset changed')
             early = '\n'.join(body for _, body in rounds[:reveal_at])
