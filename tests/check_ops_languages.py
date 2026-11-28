@@ -38,7 +38,7 @@ from check_fin11_50_languages import (  # noqa: E402
 )
 
 # Collection order after OPS. Area branches append one code each.
-CHECKED_AREAS = ['OPS', 'PPL', 'STR', 'ENT', 'IS', 'GVR', 'SUS', 'ECO']
+CHECKED_AREAS = ['OPS', 'PPL', 'STR', 'ENT', 'IS', 'GVR', 'SUS', 'ECO', 'HSP']
 # Official Hong Kong names that use a character the zh-hk scan otherwise bans.
 # 佛羅里達 is the standard form of Florida (SUS-32). 恒生 is Hang Seng’s
 # official name (ECO-41). Both stay flagged for faculty; this is not a
@@ -67,6 +67,11 @@ FIGURE_EXEMPT = {
         'en': ('600.6',),
         'zh': ('600', '6'),
         'why': 'HSP-38 English "600.6"',
+    },
+    'two-night-stays': {
+        'en': (),
+        'zh': ('2.0',),
+        'why': 'HSP-03 official name 「定期展覽獎勵計劃2.0」; English says expanded exhibition incentive scheme',
     },
 }
 
