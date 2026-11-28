@@ -48,25 +48,10 @@ HK_PROPER_NOUNS = ('佛羅里達', '恒生')
 # that English is edited, so only these tokens are ignored. Chinese keeps
 # the separated figures.
 FIGURE_EXEMPT = {
-    'local-reduction-displaced-pressure': {
-        'en': ('150.100', '50.5'),
-        'zh': ('150', '100', '50', '5'),
-        'why': 'SUS-38 English "released150.100hours" and "50.5/40"',
-    },
     'two-markups-one-final-customer': {
-        'en': ('90,100', '2'),
+        'en': ('90,100',),
         'zh': ('90', '100'),
-        'why': 'ECO-22 English "50,60,70,80,90,100" and "round2"',
-    },
-    'same-average-different-risk-choice': {
-        'en': ('75,100',),
-        'zh': ('75', '100'),
-        'why': 'ECO-40 English "75,100"',
-    },
-    'visible-care-usable-lobby': {
-        'en': ('600.6',),
-        'zh': ('600', '6'),
-        'why': 'HSP-38 English "600.6"',
+        'why': 'ECO-22 price table cells 90 and 100 are read as one thousands token',
     },
     'two-night-stays': {
         'en': (),
