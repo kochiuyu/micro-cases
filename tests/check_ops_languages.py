@@ -38,7 +38,7 @@ from check_fin11_50_languages import (  # noqa: E402
 )
 
 # Collection order after OPS. Area branches append one code each.
-CHECKED_AREAS = ['OPS', 'PPL', 'STR', 'ENT', 'IS', 'GVR', 'SUS']
+CHECKED_AREAS = ['OPS', 'PPL', 'STR', 'ENT', 'IS', 'GVR', 'SUS', 'ECO']
 # Official Hong Kong names that use a character the zh-hk scan otherwise bans.
 # 佛羅里達 is the standard form of Florida (SUS-32). 恒生 is Hang Seng’s
 # official name (ECO-41). Both stay flagged for faculty; this is not a
